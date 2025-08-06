@@ -1,0 +1,6123 @@
+/* screen - index-tablette */
+
+.index-tablette {
+  align-items: flex-start;
+  background-color: var(--bianca);
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  height: 3264.19px;
+  overflow: hidden;
+  width: 1080px;
+}
+
+.index-tablette .flex-row {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 16px;
+  margin-left: 27.0px;
+  margin-top: 28px;
+  min-width: 991px;
+}
+
+.index-tablette .overlap-group10 {
+  height: 14px;
+  position: relative;
+  width: 54px;
+}
+
+.index-tablette .accueil {
+  left: 0;
+  letter-spacing: 1.50px;
+  line-height: 10px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.index-tablette .rectangle-412 {
+  background-color: var(--corn);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 53px;
+}
+
+.index-tablette .explorer-le-gte {
+  cursor: pointer;
+  letter-spacing: 1.50px;
+  line-height: 10px;
+  margin-left: 58px;
+  min-height: 14px;
+  min-width: 117px;
+  white-space: nowrap;
+}
+
+.index-tablette .galerie {
+  cursor: pointer;
+  letter-spacing: 1.50px;
+  line-height: 10px;
+  margin-bottom: 0.5px;
+  margin-left: 59px;
+  min-height: 13px;
+  min-width: 53px;
+  white-space: nowrap;
+}
+
+.index-tablette .tarifs-et-rservations {
+  cursor: pointer;
+  letter-spacing: 1.50px;
+  line-height: 10px;
+  margin-left: 55px;
+  min-height: 14px;
+  min-width: 160px;
+  white-space: nowrap;
+}
+
+.index-tablette .activits-et-tourisme {
+  cursor: pointer;
+  letter-spacing: 1.50px;
+  line-height: 10px;
+  margin-left: 67px;
+  min-height: 14px;
+  min-width: 152px;
+  white-space: nowrap;
+}
+
+.index-tablette .place {
+  cursor: pointer;
+  letter-spacing: 1.50px;
+  line-height: 10px;
+  margin-bottom: 0.5px;
+  margin-left: 71px;
+  min-height: 13px;
+  min-width: 59px;
+  white-space: nowrap;
+}
+
+.index-tablette .composant-5-21 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-left: 70px;
+  min-height: 16px;
+  width: 16px;
+}
+
+.index-tablette .rectangle-3215 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 2px;
+  width: 16px;
+}
+
+.index-tablette .rectangle-3216 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 2px;
+  margin-top: 6px;
+  width: 16px;
+}
+
+.index-tablette .rectangle-3217 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 2px;
+  margin-top: 4px;
+  width: 16px;
+}
+
+.index-tablette .overlap-group9 {
+  height: 3260px;
+  margin-left: -430.0px;
+  position: relative;
+  width: 2197px;
+}
+
+.index-tablette .groupe-de-masques-15 {
+  height: 540px;
+  left: 431px;
+  top: 0;
+  width: 1080px;
+}
+
+.index-tablette .rectangle-2982 {
+  background-color: var(--bianca);
+  border-radius: 30px 30px 0px 0px;
+  height: 540px;
+  left: 431px;
+  opacity: 0.64;
+  position: absolute;
+  top: 0;
+  width: 1080px;
+}
+
+.index-tablette .rectangle-1470 {
+  background-color: var(--bianca);
+  border-radius: 30px 30px 0px 0px;
+  height: 2740px;
+  left: 431px;
+  position: absolute;
+  top: 520px;
+  width: 1080px;
+}
+
+.index-tablette .groupe-de-masques-20 {
+  height: 606px;
+  left: 431px;
+  top: 1139px;
+  width: 1080px;
+}
+
+.index-tablette .trac-2445 {
+  height: 637px;
+  left: 416px;
+  object-fit: cover;
+  position: absolute;
+  top: 1128px;
+  width: 1109px;
+}
+
+.index-tablette .ligne-48 {
+  height: 153px;
+  left: 966px;
+  object-fit: cover;
+  position: absolute;
+  top: 754px;
+  width: 2px;
+}
+
+.index-tablette .groupe-7399 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 744px;
+  min-height: 402px;
+  position: absolute;
+  top: 79px;
+  width: 454px;
+}
+
+.index-tablette .groupe-4859 {
+  display: flex;
+  height: 284px;
+  margin-right: 0.3px;
+  overflow: hidden;
+  width: 265px;
+}
+
+.index-tablette .groupe-4858 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-top: 0;
+  width: 264.88px;
+}
+
+.index-tablette .groupe-4857 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 19px;
+  overflow: hidden;
+  width: 264.88px;
+}
+
+.index-tablette .flex-row-1 {
+  margin-right: 7.44px;
+  min-width: 182px;
+}
+
+.index-tablette .groupe-4424 {
+  align-self: flex-start;
+  background-image: url(../img/groupe-10074@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-top: 11.23px;
+  opacity: 0.28;
+  width: 1px;
+}
+
+.index-tablette .overlap-group1 {
+  height: 175px;
+  margin-bottom: 0.08px;
+  margin-left: 7px;
+  position: relative;
+  width: 53px;
+}
+
+.index-tablette .groupe-4259 {
+  background-image: url(../img/groupe-4257-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 29px;
+  opacity: 0.28;
+  position: absolute;
+  top: 132px;
+  width: 2px;
+}
+
+.index-tablette .groupe-4262 {
+  background-image: url(../img/groupe-4260-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 30px;
+  opacity: 0.28;
+  position: absolute;
+  top: 128px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4265 {
+  background-image: url(../img/groupe-4263-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 31px;
+  opacity: 0.28;
+  position: absolute;
+  top: 133px;
+  width: 2px;
+}
+
+.index-tablette .groupe-4268 {
+  background-image: url(../img/groupe-4266-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 30px;
+  opacity: 0.28;
+  position: absolute;
+  top: 156px;
+  width: 2px;
+}
+
+.index-tablette .groupe-4271 {
+  background-image: url(../img/groupe-4269-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 33px;
+  opacity: 0.28;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4274 {
+  background-image: url(../img/groupe-4272-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 29px;
+  opacity: 0.28;
+  position: absolute;
+  top: 126px;
+  width: 2px;
+}
+
+.index-tablette .groupe-4277 {
+  background-image: url(../img/groupe-4275-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 31px;
+  opacity: 0.28;
+  position: absolute;
+  top: 138px;
+  width: 2px;
+}
+
+.index-tablette .groupe-4280 {
+  background-image: url(../img/groupe-4278-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 33px;
+  opacity: 0.28;
+  position: absolute;
+  top: 82px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4283 {
+  background-image: url(../img/groupe-4281-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 31px;
+  opacity: 0.28;
+  position: absolute;
+  top: 154px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4286 {
+  background-image: url(../img/groupe-4284-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 29px;
+  opacity: 0.28;
+  position: absolute;
+  top: 141px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4289 {
+  background-image: url(../img/groupe-4287-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 32px;
+  opacity: 0.28;
+  position: absolute;
+  top: 83px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4292 {
+  background-image: url(../img/groupe-4290-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 32px;
+  opacity: 0.28;
+  position: absolute;
+  top: 131px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4295 {
+  background-image: url(../img/groupe-4293-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 31px;
+  opacity: 0.28;
+  position: absolute;
+  top: 130px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4298 {
+  background-image: url(../img/groupe-4296-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 30px;
+  opacity: 0.28;
+  position: absolute;
+  top: 148px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4301 {
+  background-image: url(../img/groupe-4299-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 31px;
+  opacity: 0.28;
+  position: absolute;
+  top: 104px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4304 {
+  background-image: url(../img/groupe-4302-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 31px;
+  opacity: 0.28;
+  position: absolute;
+  top: 134px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4307 {
+  background-image: url(../img/groupe-4305-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 30px;
+  opacity: 0.28;
+  position: absolute;
+  top: 146px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4310 {
+  background-image: url(../img/groupe-4308-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 29px;
+  opacity: 0.28;
+  position: absolute;
+  top: 128px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4313 {
+  background-image: url(../img/groupe-4311-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 34px;
+  opacity: 0.28;
+  position: absolute;
+  top: 66px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4316 {
+  background-image: url(../img/groupe-4314-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 29px;
+  opacity: 0.28;
+  position: absolute;
+  top: 143px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4319 {
+  background-image: url(../img/groupe-4317-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 29px;
+  opacity: 0.28;
+  position: absolute;
+  top: 130px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4322 {
+  background-image: url(../img/groupe-4320-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 29px;
+  opacity: 0.28;
+  position: absolute;
+  top: 137px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4325 {
+  background-image: url(../img/groupe-4323-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 30px;
+  opacity: 0.28;
+  position: absolute;
+  top: 154px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4328 {
+  background-image: url(../img/groupe-4326-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 33px;
+  opacity: 0.28;
+  position: absolute;
+  top: 152px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4331 {
+  background-image: url(../img/groupe-4329-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 31px;
+  opacity: 0.28;
+  position: absolute;
+  top: 108px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4334 {
+  background-image: url(../img/groupe-4332-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 29px;
+  opacity: 0.28;
+  position: absolute;
+  top: 145px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4337 {
+  background-image: url(../img/groupe-4335-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 32px;
+  opacity: 0.28;
+  position: absolute;
+  top: 159px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4340 {
+  background-image: url(../img/groupe-4338-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 34px;
+  opacity: 0.28;
+  position: absolute;
+  top: 69px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4343 {
+  background-image: url(../img/groupe-4341-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 33px;
+  opacity: 0.28;
+  position: absolute;
+  top: 74px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4346 {
+  background-image: url(../img/groupe-4344-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 30px;
+  opacity: 0.28;
+  position: absolute;
+  top: 139px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4349 {
+  background-image: url(../img/trac--1456-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 36px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4352 {
+  background-image: url(../img/groupe-4350-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 31px;
+  opacity: 0.28;
+  position: absolute;
+  top: 151px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4355 {
+  background-image: url(../img/groupe-4353-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 30px;
+  opacity: 0.28;
+  position: absolute;
+  top: 119px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4358 {
+  background-image: url(../img/groupe-4356-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 48px;
+  opacity: 0.28;
+  position: absolute;
+  top: 64px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4361 {
+  background-image: url(../img/groupe-4359-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 32px;
+  opacity: 0.28;
+  position: absolute;
+  top: 148px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4364 {
+  background-image: url(../img/groupe-4362-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 31px;
+  opacity: 0.28;
+  position: absolute;
+  top: 152px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4367 {
+  background-image: url(../img/groupe-4365-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 33px;
+  opacity: 0.28;
+  position: absolute;
+  top: 137px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4370 {
+  background-image: url(../img/groupe-4368-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 31px;
+  opacity: 0.28;
+  position: absolute;
+  top: 98px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4373 {
+  background-image: url(../img/groupe-4371-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 34px;
+  opacity: 0.28;
+  position: absolute;
+  top: 59px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4376 {
+  background-image: url(../img/groupe-4374-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 31px;
+  opacity: 0.28;
+  position: absolute;
+  top: 132px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4379 {
+  background-image: url(../img/groupe-4377-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 34px;
+  opacity: 0.28;
+  position: absolute;
+  top: 85px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4382 {
+  background-image: url(../img/groupe-4380-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 32px;
+  opacity: 0.28;
+  position: absolute;
+  top: 153px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4385 {
+  background-image: url(../img/groupe-4383-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 29px;
+  opacity: 0.28;
+  position: absolute;
+  top: 149px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4388 {
+  background-image: url(../img/groupe-4386-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 40px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4391 {
+  background-image: url(../img/groupe-4389-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 29px;
+  opacity: 0.28;
+  position: absolute;
+  top: 153px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4394 {
+  background-image: url(../img/groupe-1507-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 34px;
+  opacity: 0.28;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4397 {
+  background-image: url(../img/groupe-4395-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 31px;
+  opacity: 0.28;
+  position: absolute;
+  top: 142px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4400 {
+  background-image: url(../img/groupe-4398-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 48px;
+  opacity: 0.28;
+  position: absolute;
+  top: 65px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4403 {
+  background-image: url(../img/groupe-4401-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 29px;
+  opacity: 0.28;
+  position: absolute;
+  top: 127px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4406 {
+  background-image: url(../img/groupe-4404-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 32px;
+  opacity: 0.28;
+  position: absolute;
+  top: 134px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4409 {
+  background-image: url(../img/groupe-4407-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 49px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4412 {
+  background-image: url(../img/groupe-4410-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 48px;
+  opacity: 0.28;
+  position: absolute;
+  top: 63px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4415 {
+  background-image: url(../img/groupe-4413-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 34px;
+  opacity: 0.28;
+  position: absolute;
+  top: 157px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4418 {
+  background-image: url(../img/groupe-4416-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 32px;
+  opacity: 0.28;
+  position: absolute;
+  top: 145px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4421 {
+  background-image: url(../img/groupe-4797-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 35px;
+  opacity: 0.28;
+  position: absolute;
+  top: 107px;
+  width: 1px;
+}
+
+.index-tablette .trac-1350 {
+  height: 149px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 24px;
+}
+
+.index-tablette .groupe-4427 {
+  background-image: url(../img/groupe-4425-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4430 {
+  background-image: url(../img/groupe-4428-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4433 {
+  background-image: url(../img/groupe-4431-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4436 {
+  background-image: url(../img/groupe-4434-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4439 {
+  background-image: url(../img/groupe-4437-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4442 {
+  background-image: url(../img/groupe-4440-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4445 {
+  background-image: url(../img/groupe-4443-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4448 {
+  background-image: url(../img/groupe-4446-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4451 {
+  background-image: url(../img/groupe-4449-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 20px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.index-tablette .trac-1361 {
+  height: 175px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.index-tablette .overlap-group2 {
+  align-items: flex-start;
+  align-self: center;
+  background-image: url(../img/trac--1502-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-left: 2px;
+  margin-top: 13.18px;
+  min-width: 20px;
+}
+
+.index-tablette .trac-1503 {
+  height: 44px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.index-tablette .trac-1500 {
+  align-self: flex-start;
+  height: 179px;
+  margin-left: 5px;
+  object-fit: cover;
+  width: 33px;
+}
+
+.index-tablette .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 4.65px;
+  margin-left: 8px;
+  min-height: 108px;
+  width: 12px;
+}
+
+.index-tablette .trac-1425 {
+  height: 10px;
+  margin-left: 2.38px;
+  object-fit: cover;
+  width: 9px;
+}
+
+.index-tablette .group-container {
+  height: 92px;
+  position: relative;
+  width: 12px;
+}
+
+.index-tablette .group-container-1 {
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.index-tablette .overlap-group3 {
+  height: 92px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.index-tablette .groupe-4454 {
+  background-image: url(../img/groupe-4452-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 67px;
+  width: 2px;
+}
+
+.index-tablette .groupe-4457 {
+  background-image: url(../img/groupe-4455-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 81px;
+  width: 2px;
+}
+
+.index-tablette .groupe-4460 {
+  background-image: url(../img/groupe-4458-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4463 {
+  background-image: url(../img/groupe-4461-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 69px;
+  width: 2px;
+}
+
+.index-tablette .groupe-4466 {
+  background-image: url(../img/groupe-4464-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4469 {
+  background-image: url(../img/groupe-4467-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 79px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4475 {
+  background-image: url(../img/groupe-4473-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4478 {
+  background-image: url(../img/groupe-4476-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 65px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4481 {
+  background-image: url(../img/groupe-4479-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 65px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4484 {
+  background-image: url(../img/groupe-4482-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 76px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4490 {
+  background-image: url(../img/groupe-4488-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 75px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4493 {
+  background-image: url(../img/groupe-4491-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4496 {
+  background-image: url(../img/groupe-4494-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 75px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4499 {
+  background-image: url(../img/groupe-4497-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 77px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4502 {
+  background-image: url(../img/groupe-4500-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4508 {
+  background-image: url(../img/groupe-4506-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 79px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4511 {
+  background-image: url(../img/groupe-4509-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 77px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4514 {
+  background-image: url(../img/groupe-4512-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 76px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4517 {
+  background-image: url(../img/groupe-4515-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 79px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4520 {
+  background-image: url(../img/groupe-4518-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 78px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4523 {
+  background-image: url(../img/groupe-4521-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 78px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4532 {
+  background-image: url(../img/groupe-4530-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 82px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4535 {
+  background-image: url(../img/groupe-4533-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4538 {
+  background-image: url(../img/groupe-1498-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4541 {
+  background-image: url(../img/groupe-4539-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4544 {
+  background-image: url(../img/groupe-4542-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 78px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4550 {
+  background-image: url(../img/groupe-4548-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 76px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4556 {
+  background-image: url(../img/groupe-4806-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 78px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4559 {
+  background-image: url(../img/groupe-7763-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 75px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4562 {
+  background-image: url(../img/groupe-4485-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 69px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4568 {
+  background-image: url(../img/groupe-7763-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4571 {
+  background-image: url(../img/groupe-10269@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 79px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4577 {
+  background-image: url(../img/trac--1388-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4580 {
+  background-image: url(../img/groupe-4578-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 79px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4583 {
+  background-image: url(../img/groupe-10059@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 76px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4586 {
+  background-image: url(../img/groupe-1795-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4589 {
+  background-image: url(../img/groupe-217-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 79px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4592 {
+  background-image: url(../img/groupe-4590-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4595 {
+  background-image: url(../img/groupe-4593-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 72px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4604 {
+  background-image: url(../img/groupe-34-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4616 {
+  background-image: url(../img/groupe-10104@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 81px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4619 {
+  background-image: url(../img/groupe-1303-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4622 {
+  background-image: url(../img/groupe-1381-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 74px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4625 {
+  background-image: url(../img/groupe-1807-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.index-tablette .trac-1424 {
+  height: 92px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.index-tablette .groupe-4505 {
+  background-image: url(../img/groupe-4503-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 73px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4526 {
+  background-image: url(../img/groupe-4524-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4529 {
+  background-image: url(../img/groupe-4527-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 74px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4601 {
+  background-image: url(../img/groupe-1552-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 81px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4487 {
+  background-image: url(../img/groupe-4485-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 49px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4565 {
+  background-image: url(../img/groupe-4797-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.index-tablette .group-container-2 {
+  height: 116px;
+  margin-left: 3px;
+  position: relative;
+  width: 38px;
+}
+
+.index-tablette .groupe-4472 {
+  background-image: url(../img/groupe-4470-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 63px;
+  width: 1px;
+}
+
+.index-tablette .group-container-3 {
+  height: 116px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.index-tablette .group-container-4 {
+  height: 116px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.index-tablette .overlap-group {
+  height: 116px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.index-tablette .groupe-4547 {
+  background-image: url(../img/groupe-4545-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4553 {
+  background-image: url(../img/groupe-4551-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4598 {
+  background-image: url(../img/groupe-10257@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4610 {
+  background-image: url(../img/groupe-4383-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4613 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4628 {
+  background-image: url(../img/groupe-4626-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 108px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4631 {
+  background-image: url(../img/groupe-4629-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 100px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4634 {
+  background-image: url(../img/groupe-4632-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 110px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4637 {
+  background-image: url(../img/groupe-4635-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 115px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4640 {
+  background-image: url(../img/groupe-4638-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 87px;
+  width: 3px;
+}
+
+.index-tablette .groupe-4643 {
+  background-image: url(../img/groupe-4641-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 84px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4646 {
+  background-image: url(../img/groupe-4644-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 88px;
+  width: 3px;
+}
+
+.index-tablette .groupe-4649 {
+  background-image: url(../img/groupe-4647-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 105px;
+  width: 2px;
+}
+
+.index-tablette .groupe-4652 {
+  background-image: url(../img/groupe-4650-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4655 {
+  background-image: url(../img/groupe-4653-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 83px;
+  width: 2px;
+}
+
+.index-tablette .groupe-4658 {
+  background-image: url(../img/groupe-4656-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 91px;
+  width: 2px;
+}
+
+.index-tablette .groupe-4661 {
+  background-image: url(../img/groupe-4659-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4664 {
+  background-image: url(../img/groupe-4662-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 95px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4667 {
+  background-image: url(../img/groupe-4665-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 103px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4670 {
+  background-image: url(../img/groupe-4668-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 94px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4673 {
+  background-image: url(../img/groupe-4671-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4676 {
+  background-image: url(../img/groupe-4674-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 86px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4679 {
+  background-image: url(../img/groupe-4677-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 85px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4682 {
+  background-image: url(../img/groupe-4680-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 98px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4685 {
+  background-image: url(../img/groupe-4683-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4688 {
+  background-image: url(../img/groupe-4686-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 99px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4691 {
+  background-image: url(../img/groupe-4689-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 89px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4694 {
+  background-image: url(../img/groupe-4692-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 97px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4697 {
+  background-image: url(../img/groupe-4695-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 84px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4700 {
+  background-image: url(../img/groupe-4698-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 102px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4703 {
+  background-image: url(../img/groupe-4701-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4706 {
+  background-image: url(../img/groupe-4704-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 95px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4709 {
+  background-image: url(../img/groupe-4707-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 105px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4712 {
+  background-image: url(../img/groupe-4710-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 86px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4715 {
+  background-image: url(../img/groupe-4713-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 91px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4718 {
+  background-image: url(../img/groupe-4716-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 101px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4721 {
+  background-image: url(../img/groupe-4719-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 100px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4724 {
+  background-image: url(../img/groupe-4722-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 103px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4727 {
+  background-image: url(../img/groupe-4725-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 102px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4730 {
+  background-image: url(../img/groupe-4728-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 103px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4733 {
+  background-image: url(../img/groupe-4731-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 97px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4736 {
+  background-image: url(../img/groupe-4734-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 70px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4739 {
+  background-image: url(../img/groupe-4737-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 97px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4742 {
+  background-image: url(../img/groupe-4740-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 107px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4745 {
+  background-image: url(../img/groupe-4743-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4748 {
+  background-image: url(../img/groupe-4746-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4751 {
+  background-image: url(../img/groupe-4749-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 92px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4754 {
+  background-image: url(../img/groupe-4752-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4757 {
+  background-image: url(../img/groupe-4755-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 101px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4760 {
+  background-image: url(../img/groupe-4758-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 78px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4763 {
+  background-image: url(../img/groupe-4761-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 22px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4766 {
+  background-image: url(../img/groupe-4764-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 99px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4769 {
+  background-image: url(../img/groupe-4767-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 95px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4772 {
+  background-image: url(../img/groupe-4770-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 93px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4775 {
+  background-image: url(../img/groupe-4773-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 22px;
+  opacity: 0.28;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4778 {
+  background-image: url(../img/groupe-4776-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 102px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4781 {
+  background-image: url(../img/groupe-4779-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 104px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4784 {
+  background-image: url(../img/groupe-4782-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 99px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4787 {
+  background-image: url(../img/groupe-4785-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 91px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4790 {
+  background-image: url(../img/groupe-4788-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 63px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4793 {
+  background-image: url(../img/groupe-4791-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 101px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4796 {
+  background-image: url(../img/groupe-4794-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4799 {
+  background-image: url(../img/groupe-4797-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 87px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4802 {
+  background-image: url(../img/groupe-4800-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 104px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4805 {
+  background-image: url(../img/groupe-4803-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 22px;
+  opacity: 0.28;
+  position: absolute;
+  top: 58px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4808 {
+  background-image: url(../img/groupe-1501-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4811 {
+  background-image: url(../img/groupe-4809-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 103px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4814 {
+  background-image: url(../img/trac--1388-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 99px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4817 {
+  background-image: url(../img/groupe-4815-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4820 {
+  background-image: url(../img/groupe-4818-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 102px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4823 {
+  background-image: url(../img/groupe-4821-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4826 {
+  background-image: url(../img/groupe-4824-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 94px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4829 {
+  background-image: url(../img/groupe-4827-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 22px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4832 {
+  background-image: url(../img/groupe-4830-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 84px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4835 {
+  background-image: url(../img/groupe-10287@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 106px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4838 {
+  background-image: url(../img/groupe-4836-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 88px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4841 {
+  background-image: url(../img/trac--11-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 19px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4844 {
+  background-image: url(../img/groupe-4842-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 22px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4847 {
+  background-image: url(../img/groupe-4845-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 106px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4850 {
+  background-image: url(../img/groupe-10035@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4853 {
+  background-image: url(../img/trac--11-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 96px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4856 {
+  background-image: url(../img/groupe-415-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 69px;
+  width: 1px;
+}
+
+.index-tablette .trac-1499 {
+  height: 116px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.index-tablette .groupe-4574 {
+  background-image: url(../img/trac--11-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 61px;
+  width: 1px;
+}
+
+.index-tablette .groupe-4607 {
+  background-image: url(../img/groupe-10086@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 65px;
+  width: 1px;
+}
+
+.index-tablette .trac-1501 {
+  height: 86px;
+  margin-right: 0;
+  object-fit: cover;
+  width: 265px;
+}
+
+.index-tablette .gte-de-groupe-modul {
+  letter-spacing: 2.40px;
+  line-height: 16px;
+  margin-top: 38px;
+  min-height: 18px;
+  min-width: 454px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.index-tablette .title {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 7.0px;
+  margin-top: 39px;
+  min-height: 26px;
+  min-width: 119px;
+  white-space: nowrap;
+}
+
+.index-tablette .idal-pour-vos-sjou {
+  left: 980px;
+  letter-spacing: 1.10px;
+  line-height: 11px;
+  position: absolute;
+  top: 762px;
+  white-space: nowrap;
+}
+
+.index-tablette .groupe-606 {
+  align-items: flex-end;
+  background-color: var(--corn);
+  border-radius: 26px;
+  cursor: pointer;
+  display: flex;
+  height: 29px;
+  justify-content: flex-end;
+  left: 967px;
+  min-width: 126px;
+  padding: 4.6px 12.4px;
+  position: absolute;
+  top: 1006px;
+}
+
+.index-tablette .explorer-le-gte-1 {
+  letter-spacing: 0;
+  line-height: 14px;
+  min-height: 17px;
+  min-width: 99px;
+  white-space: nowrap;
+}
+
+.index-tablette .dcouvrez-le-charme {
+  left: 966px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 636px;
+  white-space: nowrap;
+}
+
+.index-tablette .trac-2441 {
+  height: 110px;
+  left: 546px;
+  object-fit: cover;
+  position: absolute;
+  top: 535px;
+  width: 109px;
+}
+
+.index-tablette .groupe-de-masques-16 {
+  height: 464px;
+  left: 522px;
+  top: 605px;
+  width: 383px;
+}
+
+.index-tablette .rectangle-2983 {
+  background-color: var(--black);
+  border-radius: 20px;
+  box-shadow: 0px 5px 10px #000000d4;
+  height: 464px;
+  left: 522px;
+  opacity: 0.6;
+  position: absolute;
+  top: 605px;
+  width: 383px;
+}
+
+.index-tablette .explorez-le-gte {
+  left: 650px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 925px;
+  white-space: nowrap;
+}
+
+.index-tablette .ligne-82 {
+  height: 3px;
+  left: 601px;
+  object-fit: cover;
+  position: absolute;
+  top: 964px;
+  width: 219px;
+}
+
+.index-tablette .union-23 {
+  height: 132px;
+  left: 632px;
+  top: 754px;
+  width: 156px;
+}
+
+.index-tablette .dcouvrez-linterieu {
+  color: var(--white);
+  font-family: var(--font-family-josefin_sans);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 612px;
+  letter-spacing: 1.20px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 988px;
+  white-space: nowrap;
+}
+
+.index-tablette .groupe-7386 {
+  align-items: flex-end;
+  background-color: var(--corn);
+  border-radius: 26px;
+  cursor: pointer;
+  display: flex;
+  height: 29px;
+  justify-content: flex-end;
+  left: 963px;
+  min-width: 161px;
+  padding: 4.6px 13.1px;
+  position: absolute;
+  top: 1514px;
+}
+
+.index-tablette .tarifs-et-rservations-1 {
+  letter-spacing: 0;
+  line-height: 14px;
+  min-height: 17px;
+  min-width: 133px;
+  white-space: nowrap;
+}
+
+.index-tablette .bienvenue-dans-votre {
+  color: var(--white);
+  font-family: var(--font-family-josefin_sans);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  left: 963px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 1270px;
+  white-space: nowrap;
+}
+
+.index-tablette .retrouvez-ici-toutes {
+  color: var(--white);
+  font-family: var(--font-family-josefin_sans);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  left: 979px;
+  letter-spacing: 1.80px;
+  line-height: 12px;
+  position: absolute;
+  top: 1399px;
+  white-space: nowrap;
+}
+
+.index-tablette .ligne-84 {
+  height: 61px;
+  left: 966px;
+  object-fit: cover;
+  position: absolute;
+  top: 1401px;
+  width: 2px;
+}
+
+.index-tablette .groupe-de-masques-22 {
+  height: 464px;
+  left: 522px;
+  top: 1217px;
+  width: 383px;
+}
+
+.index-tablette .rectangle-3006 {
+  background-color: var(--bianca);
+  border-radius: 20px;
+  box-shadow: 0px 5px 10px #000000d4;
+  height: 464px;
+  left: 522px;
+  opacity: 0.6;
+  position: absolute;
+  top: 1217px;
+  width: 383px;
+}
+
+.index-tablette .tarifs-rservation {
+  left: 633px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 1512px;
+  white-space: nowrap;
+}
+
+.index-tablette .ligne-85 {
+  height: 3px;
+  left: 604px;
+  object-fit: cover;
+  position: absolute;
+  top: 1551px;
+  width: 212px;
+}
+
+.index-tablette .trac-2446 {
+  height: 104px;
+  left: 658px;
+  object-fit: cover;
+  position: absolute;
+  top: 1370px;
+  width: 104px;
+}
+
+.index-tablette .retrouvez-nos-tarifs {
+  color: var(--black);
+  font-family: var(--font-family-josefin_sans);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 619px;
+  letter-spacing: 1.20px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 1579px;
+  white-space: nowrap;
+}
+
+.index-tablette .groupe-de-masques-21 {
+  height: 607px;
+  left: 0;
+  top: 1124px;
+  width: 1079px;
+}
+
+.index-tablette .dmarrez-laventure {
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 2418px;
+  white-space: nowrap;
+}
+
+.index-tablette .des-questions-ou-bie {
+  left: 967px;
+  letter-spacing: 1.80px;
+  line-height: 12px;
+  position: absolute;
+  top: 2494px;
+  white-space: nowrap;
+}
+
+.index-tablette .groupe-1216 {
+  align-items: flex-end;
+  background-color: var(--corn);
+  border-radius: 26px;
+  cursor: pointer;
+  display: flex;
+  height: 29px;
+  justify-content: flex-end;
+  left: 963px;
+  min-width: 188px;
+  padding: 4.6px 28.1px;
+  position: absolute;
+  top: 2139px;
+}
+
+.index-tablette .activits-et-tourisme-1 {
+  letter-spacing: 0;
+  line-height: 14px;
+  min-height: 17px;
+  min-width: 130px;
+  white-space: nowrap;
+}
+
+.index-tablette .proximit {
+  color: var(--black);
+  font-family: var(--font-family-josefin_sans);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  left: 963px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 1917px;
+  white-space: nowrap;
+}
+
+.index-tablette .notre-gte-est-idal {
+  left: 976px;
+  letter-spacing: 1.80px;
+  line-height: 12px;
+  position: absolute;
+  top: 2013px;
+  white-space: nowrap;
+}
+
+.index-tablette .ligne-50 {
+  height: 70px;
+  left: 962px;
+  object-fit: cover;
+  position: absolute;
+  top: 2004px;
+  width: 2px;
+}
+
+.index-tablette .ligne-51 {
+  height: 46px;
+  left: 956px;
+  object-fit: cover;
+  position: absolute;
+  top: 2490px;
+  width: 2px;
+}
+
+.index-tablette .groupe-4860 {
+  align-items: flex-end;
+  background-color: var(--corn);
+  border-radius: 26px;
+  cursor: pointer;
+  display: flex;
+  height: 29px;
+  justify-content: flex-end;
+  left: 1109px;
+  min-width: 139px;
+  padding: 4.6px 44.4px;
+  position: absolute;
+  top: 1006px;
+}
+
+.index-tablette .galerie-1 {
+  letter-spacing: 0;
+  line-height: 14px;
+  min-height: 17px;
+  min-width: 48px;
+  white-space: nowrap;
+}
+
+.index-tablette .trac-2440 {
+  height: 110px;
+  left: 1375px;
+  object-fit: cover;
+  position: absolute;
+  top: 2399px;
+  width: 110px;
+}
+
+.index-tablette .groupe-7388 {
+  align-items: center;
+  background-image: url(../img/groupe-de-masques-13-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  left: 523px;
+  min-height: 464px;
+  padding: 65.8px 74.9px;
+  position: absolute;
+  top: 1827px;
+  width: 383px;
+}
+
+.index-tablette .groupe-4255 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 0.51px;
+  margin-top: 34px;
+  min-width: 124px;
+}
+
+.index-tablette .groupe-container {
+  height: 124px;
+  margin-top: 0;
+  position: relative;
+  width: 124px;
+}
+
+.index-tablette .groupe-4251 {
+  background-image: url(../img/trac--1288-3-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 107px;
+  left: 17px;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.index-tablette .groupe-4252 {
+  background-image: url(../img/trac--1289-3-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 94px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+  width: 94px;
+}
+
+.index-tablette .groupe-4253 {
+  background-image: url(../img/trac--1290-3-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 39px;
+  left: 39px;
+  position: absolute;
+  top: 46px;
+  width: 43px;
+}
+
+.index-tablette .groupe-4254 {
+  background-image: url(../img/trac--1291-3-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  left: 63px;
+  position: absolute;
+  top: 22px;
+  width: 41px;
+}
+
+.index-tablette .explorez-les-alentours {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 1.39px;
+  margin-top: 53px;
+  min-height: 19px;
+  min-width: 170px;
+  white-space: nowrap;
+}
+
+.index-tablette .ligne-56 {
+  height: 2px;
+  margin-right: 0.43px;
+  margin-top: 20px;
+  object-fit: cover;
+  width: 219px;
+}
+
+.index-tablette .balades-visites-ma {
+  align-self: flex-end;
+  letter-spacing: 1.40px;
+  line-height: 14px;
+  margin-top: 27px;
+  min-height: 53px;
+  min-width: 232px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.index-tablette .groupe-de-masques-23 {
+  height: 464px;
+  left: 522px;
+  top: 2370px;
+  width: 383px;
+}
+
+.index-tablette .rectangle-3008 {
+  background-color: var(--black);
+  border-radius: 20px;
+  box-shadow: 0px 5px 10px #000000d4;
+  height: 464px;
+  left: 522px;
+  opacity: 0.6;
+  position: absolute;
+  top: 2370px;
+  width: 383px;
+}
+
+.index-tablette .union-24 {
+  height: 123px;
+  left: 648px;
+  top: 2492px;
+  width: 130px;
+}
+
+.index-tablette .groupe-de-masques-21-1 {
+  height: 607px;
+  left: 1118px;
+  object-fit: cover;
+  position: absolute;
+  top: 1124px;
+  width: 1079px;
+}
+
+.index-tablette .email {
+  left: 1020px;
+  letter-spacing: 2.10px;
+  line-height: 14px;
+  position: absolute;
+  top: 2606px;
+  white-space: nowrap;
+}
+
+.index-tablette .gitelenidgmailcom {
+  left: 1020px;
+  letter-spacing: 2.10px;
+  line-height: 14px;
+  position: absolute;
+  top: 2625px;
+  white-space: nowrap;
+}
+
+.index-tablette .phone {
+  left: 1020px;
+  letter-spacing: 2.10px;
+  line-height: 14px;
+  position: absolute;
+  top: 2705px;
+  white-space: nowrap;
+}
+
+.index-tablette .address {
+  left: 1020px;
+  letter-spacing: 2.10px;
+  line-height: 14px;
+  position: absolute;
+  top: 2793px;
+  white-space: nowrap;
+}
+
+.index-tablette .tlphone {
+  left: 1020px;
+  letter-spacing: 2.10px;
+  line-height: 14px;
+  position: absolute;
+  top: 2685px;
+  white-space: nowrap;
+}
+
+.index-tablette .nous-trouver {
+  left: 1020px;
+  letter-spacing: 2.10px;
+  line-height: 14px;
+  position: absolute;
+  top: 2772px;
+  white-space: nowrap;
+}
+
+.index-tablette .trac-1276 {
+  height: 24px;
+  left: 969px;
+  object-fit: cover;
+  position: absolute;
+  top: 2694px;
+  width: 24px;
+}
+
+.index-tablette .trac-1275 {
+  height: 22px;
+  left: 969px;
+  object-fit: cover;
+  position: absolute;
+  top: 2612px;
+  width: 27px;
+}
+
+.index-tablette .trac-1277 {
+  height: 29px;
+  left: 973px;
+  object-fit: cover;
+  position: absolute;
+  top: 2775px;
+  width: 20px;
+}
+
+.index-tablette .une-question-ou-une {
+  left: 575px;
+  letter-spacing: 1.40px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 2743px;
+  white-space: nowrap;
+}
+
+.index-tablette .contactez-nous {
+  left: 655px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 2659px;
+  white-space: nowrap;
+}
+
+.index-tablette .ligne-86 {
+  height: 2px;
+  left: 603px;
+  object-fit: cover;
+  position: absolute;
+  top: 2706px;
+  width: 219px;
+}
+
+.index-tablette .ligne-35 {
+  height: 2px;
+  left: 509px;
+  object-fit: cover;
+  position: absolute;
+  top: 2944px;
+  width: 897px;
+}
+
+.index-tablette .accueil-1 {
+  left: 732px;
+  letter-spacing: 1.10px;
+  line-height: 11px;
+  position: absolute;
+  top: 3000px;
+  white-space: nowrap;
+}
+
+.index-tablette .explorer-le-gte-2 {
+  cursor: pointer;
+  left: 732px;
+  letter-spacing: 1.10px;
+  line-height: 11px;
+  position: absolute;
+  top: 3026px;
+  white-space: nowrap;
+}
+
+.index-tablette .galerie-2 {
+  cursor: pointer;
+  left: 732px;
+  letter-spacing: 1.10px;
+  line-height: 11px;
+  position: absolute;
+  top: 3052px;
+  white-space: nowrap;
+}
+
+.index-tablette .tarifs-et-rservations-2 {
+  cursor: pointer;
+  left: 732px;
+  letter-spacing: 1.10px;
+  line-height: 11px;
+  position: absolute;
+  top: 3078px;
+  white-space: nowrap;
+}
+
+.index-tablette .groupe-1821 {
+  display: flex;
+  height: 147px;
+  left: 495px;
+  overflow: hidden;
+  position: absolute;
+  top: 2999px;
+  width: 137px;
+}
+
+.index-tablette .groupe-1820 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-top: 0;
+  width: 137.14px;
+}
+
+.index-tablette .groupe-1819 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 9px;
+  overflow: hidden;
+  width: 137.14px;
+}
+
+.index-tablette .flex-row-2 {
+  margin-right: 3.85px;
+  min-width: 94px;
+}
+
+.index-tablette .groupe-1386 {
+  align-self: flex-start;
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-top: 5.82px;
+  opacity: 0.28;
+  width: 1px;
+}
+
+.index-tablette .overlap-group2-1 {
+  height: 91px;
+  margin-bottom: 0.52px;
+  margin-left: 3px;
+  position: relative;
+  width: 27px;
+}
+
+.index-tablette .groupe-1221 {
+  background-image: url(../img/groupe-1219-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 69px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1224 {
+  background-image: url(../img/groupe-1222-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 66px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1227 {
+  background-image: url(../img/groupe-1225-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 69px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1230 {
+  background-image: url(../img/groupe-1228-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 81px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1233 {
+  background-image: url(../img/groupe-1231-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 17px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1236 {
+  background-image: url(../img/groupe-1234-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 65px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1239 {
+  background-image: url(../img/groupe-1237-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 71px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1242 {
+  background-image: url(../img/groupe-1240-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 17px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1245 {
+  background-image: url(../img/groupe-1243-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 80px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1248 {
+  background-image: url(../img/groupe-1246-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 73px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1251 {
+  background-image: url(../img/groupe-1249-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 17px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1254 {
+  background-image: url(../img/groupe-1252-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 17px;
+  opacity: 0.28;
+  position: absolute;
+  top: 68px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1257 {
+  background-image: url(../img/groupe-1255-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1260 {
+  background-image: url(../img/groupe-1258-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 76px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1263 {
+  background-image: url(../img/groupe-1261-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1266 {
+  background-image: url(../img/groupe-1264-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 70px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1269 {
+  background-image: url(../img/groupe-1267-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 76px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1272 {
+  background-image: url(../img/groupe-1270-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 66px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1275 {
+  background-image: url(../img/groupe-1273-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 17px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1278 {
+  background-image: url(../img/groupe-1276-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 74px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1281 {
+  background-image: url(../img/groupe-1279-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1284 {
+  background-image: url(../img/groupe-1282-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 71px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1287 {
+  background-image: url(../img/groupe-1285-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 80px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1290 {
+  background-image: url(../img/groupe-1288-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 17px;
+  opacity: 0.28;
+  position: absolute;
+  top: 79px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1293 {
+  background-image: url(../img/groupe-1291-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1296 {
+  background-image: url(../img/groupe-1294-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 75px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1299 {
+  background-image: url(../img/groupe-10050@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 82px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1302 {
+  background-image: url(../img/groupe-4919@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 18px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1305 {
+  background-image: url(../img/groupe-10065@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 17px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1308 {
+  background-image: url(../img/groupe-1306-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 72px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1311 {
+  background-image: url(../img/groupe-1306-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 19px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1314 {
+  background-image: url(../img/groupe-1312-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 78px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1317 {
+  background-image: url(../img/groupe-10077@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 62px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1320 {
+  background-image: url(../img/groupe-10308@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 25px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1323 {
+  background-image: url(../img/groupe-178-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 77px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1326 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 79px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1329 {
+  background-image: url(../img/groupe-4548-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 17px;
+  opacity: 0.28;
+  position: absolute;
+  top: 71px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1332 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1335 {
+  background-image: url(../img/groupe-178-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 18px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1338 {
+  background-image: url(../img/groupe-10332@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 68px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1341 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 17px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1344 {
+  background-image: url(../img/groupe-250-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 79px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1347 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 77px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1350 {
+  background-image: url(../img/groupe-10005@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1353 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 79px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1356 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 18px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1359 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 74px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1362 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 25px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1365 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 66px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1368 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 69px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1371 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 25px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1374 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 25px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1377 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 17px;
+  opacity: 0.28;
+  position: absolute;
+  top: 81px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1380 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 75px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1383 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 18px;
+  opacity: 0.28;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.index-tablette .trac-277 {
+  height: 77px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 12px;
+}
+
+.index-tablette .groupe-1389 {
+  background-image: url(../img/groupe-1387-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1392 {
+  background-image: url(../img/groupe-1390-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1395 {
+  background-image: url(../img/groupe-1393-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1398 {
+  background-image: url(../img/groupe-10251@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1401 {
+  background-image: url(../img/groupe-10296@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1404 {
+  background-image: url(../img/groupe-1396-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1407 {
+  background-image: url(../img/groupe-10092@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1410 {
+  background-image: url(../img/groupe-10299@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1413 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.index-tablette .trac-288 {
+  height: 91px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.index-tablette .overlap-group3-1 {
+  align-items: flex-start;
+  align-self: center;
+  background-image: url(../img/trac--429-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-left: 1px;
+  margin-top: 6.34px;
+  min-width: 10px;
+}
+
+.index-tablette .trac-430 {
+  height: 23px;
+  object-fit: cover;
+  width: 10px;
+}
+
+.index-tablette .trac-427 {
+  align-self: flex-start;
+  height: 93px;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 17px;
+}
+
+.index-tablette .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-bottom: 2.89px;
+  margin-left: 4px;
+  min-height: 56px;
+  width: 7px;
+}
+
+.index-tablette .trac-352 {
+  height: 5px;
+  margin-left: 1.23px;
+  object-fit: cover;
+  width: 5px;
+}
+
+.index-tablette .overlap-group1-1 {
+  height: 48px;
+  position: relative;
+  width: 7px;
+}
+
+.index-tablette .groupe-1416 {
+  background-image: url(../img/groupe-1414-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1419 {
+  background-image: url(../img/groupe-1417-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1422 {
+  background-image: url(../img/groupe-1420-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1425 {
+  background-image: url(../img/groupe-1423-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1428 {
+  background-image: url(../img/groupe-1426-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1431 {
+  background-image: url(../img/groupe-1429-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1437 {
+  background-image: url(../img/groupe-1435-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1440 {
+  background-image: url(../img/groupe-1438-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1443 {
+  background-image: url(../img/groupe-1441-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1446 {
+  background-image: url(../img/groupe-1444-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1449 {
+  background-image: url(../img/groupe-1447-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1452 {
+  background-image: url(../img/groupe-1450-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1455 {
+  background-image: url(../img/groupe-10248@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1458 {
+  background-image: url(../img/groupe-10266@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1461 {
+  background-image: url(../img/groupe-4635-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1464 {
+  background-image: url(../img/groupe-4806-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1467 {
+  background-image: url(../img/groupe-4797-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1470 {
+  background-image: url(../img/groupe-424-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1473 {
+  background-image: url(../img/groupe-1513-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1476 {
+  background-image: url(../img/groupe-1381-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1479 {
+  background-image: url(../img/trac--1409-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1482 {
+  background-image: url(../img/groupe-10044@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1485 {
+  background-image: url(../img/groupe-1297-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1488 {
+  background-image: url(../img/groupe-1807-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1491 {
+  background-image: url(../img/groupe-4383-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1494 {
+  background-image: url(../img/groupe-10104@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1497 {
+  background-image: url(../img/groupe-4599-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1500 {
+  background-image: url(../img/groupe-10104@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1503 {
+  background-image: url(../img/groupe-178-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1506 {
+  background-image: url(../img/groupe-10308@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1512 {
+  background-image: url(../img/groupe-10011@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1518 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1521 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1524 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1527 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1530 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1533 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1539 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1542 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1545 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1548 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1551 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1554 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1557 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1563 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1566 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1578 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1581 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1584 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1587 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.index-tablette .trac-351 {
+  height: 48px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.index-tablette .overlap-group-container {
+  height: 60px;
+  margin-left: 1px;
+  position: relative;
+  width: 20px;
+}
+
+.index-tablette .groupe-container-1 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1434 {
+  background-image: url(../img/trac--1385-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.index-tablette .groupe-1569 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.index-tablette .overlap-group-1 {
+  height: 60px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.index-tablette .groupe-1509 {
+  background-image: url(../img/groupe-10107@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1515 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1536 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1560 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1572 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1575 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1590 {
+  background-image: url(../img/groupe-1588-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1593 {
+  background-image: url(../img/groupe-1591-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1596 {
+  background-image: url(../img/groupe-1594-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1599 {
+  background-image: url(../img/groupe-1396-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 59px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1602 {
+  background-image: url(../img/groupe-1600-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1605 {
+  background-image: url(../img/groupe-1603-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1608 {
+  background-image: url(../img/groupe-1606-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1611 {
+  background-image: url(../img/groupe-1609-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1614 {
+  background-image: url(../img/groupe-1612-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1617 {
+  background-image: url(../img/groupe-1615-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1620 {
+  background-image: url(../img/groupe-1618-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1623 {
+  background-image: url(../img/groupe-1621-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1626 {
+  background-image: url(../img/groupe-1624-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 49px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1629 {
+  background-image: url(../img/groupe-1627-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1632 {
+  background-image: url(../img/groupe-1630-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 49px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1635 {
+  background-image: url(../img/groupe-1633-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1638 {
+  background-image: url(../img/groupe-1636-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1641 {
+  background-image: url(../img/groupe-1639-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1644 {
+  background-image: url(../img/groupe-1642-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1647 {
+  background-image: url(../img/groupe-4524-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1650 {
+  background-image: url(../img/groupe-4524-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1653 {
+  background-image: url(../img/groupe-4512-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1656 {
+  background-image: url(../img/groupe-4512-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1659 {
+  background-image: url(../img/trac--408-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1662 {
+  background-image: url(../img/groupe-1660-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1665 {
+  background-image: url(../img/groupe-1507-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1668 {
+  background-image: url(../img/groupe-1666-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 49px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1671 {
+  background-image: url(../img/groupe-1285-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1674 {
+  background-image: url(../img/groupe-1672-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1677 {
+  background-image: url(../img/groupe-1354-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1680 {
+  background-image: url(../img/groupe-1678-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1683 {
+  background-image: url(../img/trac--1385-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1686 {
+  background-image: url(../img/groupe-1684-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1689 {
+  background-image: url(../img/groupe-1687-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1692 {
+  background-image: url(../img/groupe-1513-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1695 {
+  background-image: url(../img/groupe-1693-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1698 {
+  background-image: url(../img/groupe-1696-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1701 {
+  background-image: url(../img/groupe-1699-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1704 {
+  background-image: url(../img/groupe-10302@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1707 {
+  background-image: url(../img/groupe-4536-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1710 {
+  background-image: url(../img/groupe-4599-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1713 {
+  background-image: url(../img/groupe-1396-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1716 {
+  background-image: url(../img/groupe-217-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1719 {
+  background-image: url(../img/groupe-4548-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1722 {
+  background-image: url(../img/groupe-10326@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1725 {
+  background-image: url(../img/groupe-10308@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1728 {
+  background-image: url(../img/groupe-10005@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1731 {
+  background-image: url(../img/groupe-10320@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 49px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1734 {
+  background-image: url(../img/groupe-10056@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1737 {
+  background-image: url(../img/groupe-10053@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1740 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1743 {
+  background-image: url(../img/groupe-10077@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1746 {
+  background-image: url(../img/groupe-10332@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1749 {
+  background-image: url(../img/groupe-1384-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1752 {
+  background-image: url(../img/groupe-10011@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1755 {
+  background-image: url(../img/groupe-10332@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1758 {
+  background-image: url(../img/groupe-1297-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1761 {
+  background-image: url(../img/groupe-10092@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1764 {
+  background-image: url(../img/groupe-10077@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1767 {
+  background-image: url(../img/groupe-10077@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1770 {
+  background-image: url(../img/groupe-10326@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1773 {
+  background-image: url(../img/groupe-178-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1776 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1779 {
+  background-image: url(../img/groupe-10104@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1782 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1785 {
+  background-image: url(../img/groupe-178-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1788 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 49px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1791 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1794 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1797 {
+  background-image: url(../img/groupe-10104@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1800 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1803 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1806 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1809 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1812 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1815 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+
+.index-tablette .groupe-1818 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.index-tablette .trac-426 {
+  height: 60px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.index-tablette .trac-428 {
+  height: 45px;
+  margin-right: 0;
+  object-fit: cover;
+  width: 137px;
+}
+
+.index-tablette .activits-et-tourisme-2 {
+  cursor: pointer;
+  left: 732px;
+  letter-spacing: 1.10px;
+  line-height: 11px;
+  position: absolute;
+  top: 3103px;
+  white-space: nowrap;
+}
+
+.index-tablette .gitelenidgmailcom-1 {
+  left: 988px;
+  letter-spacing: 1.65px;
+  line-height: 11px;
+  position: absolute;
+  top: 3010px;
+  white-space: nowrap;
+}
+
+.index-tablette .trac-434 {
+  height: 24px;
+  left: 930px;
+  object-fit: cover;
+  position: absolute;
+  top: 3061px;
+  width: 24px;
+}
+
+.index-tablette .trac-435 {
+  height: 22px;
+  left: 930px;
+  object-fit: cover;
+  position: absolute;
+  top: 3005px;
+  width: 27px;
+}
+
+.index-tablette .ligne-34 {
+  height: 144px;
+  left: 975px;
+  object-fit: cover;
+  position: absolute;
+  top: 2999px;
+  width: 2px;
+}
+
+.index-tablette .ligne-58 {
+  height: 144px;
+  left: 708px;
+  object-fit: cover;
+  position: absolute;
+  top: 2999px;
+  width: 2px;
+}
+
+.index-tablette .phone-1 {
+  left: 988px;
+  letter-spacing: 1.65px;
+  line-height: 11px;
+  position: absolute;
+  top: 3068px;
+  white-space: nowrap;
+}
+
+.index-tablette .place-1 {
+  cursor: pointer;
+  left: 732px;
+  letter-spacing: 1.10px;
+  line-height: 11px;
+  position: absolute;
+  top: 3130px;
+  white-space: nowrap;
+}
+
+.index-tablette .address-1 {
+  left: 988px;
+  letter-spacing: 1.65px;
+  line-height: 11px;
+  position: absolute;
+  top: 3112px;
+  white-space: nowrap;
+}
+
+.index-tablette .trac-436 {
+  height: 29px;
+  left: 934px;
+  object-fit: cover;
+  position: absolute;
+  top: 3111px;
+  width: 20px;
+}
+
+.index-tablette .overlap-group8 {
+  height: 16px;
+  left: 1206px;
+  position: absolute;
+  top: 3122px;
+  width: 190px;
+}
+
+.index-tablette .c-le-nid-tous-droits-rservs {
+  left: 3px;
+  letter-spacing: 1.50px;
+  line-height: 10px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.index-tablette .ellipse-3 {
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 7.4px;
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.index-tablette .flex-row-3 {
+  align-items: flex-end;
+  display: flex;
+}
