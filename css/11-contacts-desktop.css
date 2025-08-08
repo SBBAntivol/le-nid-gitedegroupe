@@ -1,24 +1,39 @@
-/* screen - 09-activites-web */
+/* screen - 11-contacts-desktop */
 
-.x09-activites-web {
+.x11-contacts-desktop {
+  align-items: flex-start;
   background-color: var(--bianca);
-  height: 7742px;
-  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 95px;
+  height: 1544px;
+  padding: 35.1px 31.8px;
   width: 1920px;
 }
 
-.x09-activites-web .groupe-603 {
+.x11-contacts-desktop .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 1094px;
+  width: 1839px;
+}
+
+.x11-contacts-desktop .flex-row {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1839px;
+}
+
+.x11-contacts-desktop .groupe-603 {
   cursor: pointer;
   display: flex;
   height: 108px;
-  left: 32px;
   overflow: hidden;
-  position: absolute;
-  top: 35px;
   width: 101px;
 }
 
-.x09-activites-web .groupe-602 {
+.x11-contacts-desktop .groupe-602 {
   display: flex;
   flex: 1;
   margin-bottom: 0;
@@ -26,7 +41,7 @@
   width: 100.72px;
 }
 
-.x09-activites-web .groupe-601 {
+.x11-contacts-desktop .groupe-601 {
   align-items: center;
   display: flex;
   flex: 1;
@@ -36,13 +51,15 @@
   width: 100.72px;
 }
 
-.x09-activites-web .flex-row {
+.x11-contacts-desktop .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
   height: 69px;
   margin-right: 2.83px;
   min-width: 69px;
 }
 
-.x09-activites-web .groupe-168 {
+.x11-contacts-desktop .groupe-168 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -52,7 +69,7 @@
   width: 1px;
 }
 
-.x09-activites-web .overlap-group2 {
+.x11-contacts-desktop .overlap-group {
   align-self: center;
   height: 67px;
   margin-left: 2px;
@@ -61,7 +78,7 @@
   width: 20px;
 }
 
-.x09-activites-web .groupe-3-1 {
+.x11-contacts-desktop .groupe-3-1 {
   background-image: url(../img/groupe-1-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -73,7 +90,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-6 {
+.x11-contacts-desktop .groupe-6 {
   background-image: url(../img/groupe-4-3@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -85,8 +102,8 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-9 {
-  background-image: url(../img/groupe-7-1@1x.png);
+.x11-contacts-desktop .groupe-9 {
+  background-image: url(../img/groupe-7@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -97,7 +114,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-12 {
+.x11-contacts-desktop .groupe-12 {
   background-image: url(../img/groupe-10-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -109,7 +126,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-15 {
+.x11-contacts-desktop .groupe-15 {
   background-image: url(../img/groupe-13-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -121,7 +138,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-18 {
+.x11-contacts-desktop .groupe-18 {
   background-image: url(../img/groupe-16-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -133,7 +150,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-21 {
+.x11-contacts-desktop .groupe-21 {
   background-image: url(../img/groupe-19-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -145,7 +162,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-24 {
+.x11-contacts-desktop .groupe-24 {
   background-image: url(../img/groupe-22-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -157,7 +174,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-27 {
+.x11-contacts-desktop .groupe-27 {
   background-image: url(../img/groupe-25-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -169,7 +186,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-30 {
+.x11-contacts-desktop .groupe-30 {
   background-image: url(../img/groupe-28-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -181,7 +198,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-33 {
+.x11-contacts-desktop .groupe-33 {
   background-image: url(../img/groupe-31-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -193,7 +210,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-36 {
+.x11-contacts-desktop .groupe-36 {
   background-image: url(../img/groupe-34-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -205,7 +222,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-39 {
+.x11-contacts-desktop .groupe-39 {
   background-image: url(../img/groupe-37-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -217,7 +234,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-42 {
+.x11-contacts-desktop .groupe-42 {
   background-image: url(../img/groupe-40-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -229,7 +246,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-45 {
+.x11-contacts-desktop .groupe-45 {
   background-image: url(../img/groupe-43-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -241,7 +258,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-48 {
+.x11-contacts-desktop .groupe-48 {
   background-image: url(../img/groupe-1381-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -253,7 +270,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-51 {
+.x11-contacts-desktop .groupe-51 {
   background-image: url(../img/groupe-1543-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -265,7 +282,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-54 {
+.x11-contacts-desktop .groupe-54 {
   background-image: url(../img/groupe-4913@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -277,7 +294,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-57 {
+.x11-contacts-desktop .groupe-57 {
   background-image: url(../img/groupe-4916@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -289,8 +306,8 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-60 {
-  background-image: url(../img/groupe-58-1@1x.png);
+.x11-contacts-desktop .groupe-60 {
+  background-image: url(../img/groupe-4919@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -301,7 +318,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-63 {
+.x11-contacts-desktop .groupe-63 {
   background-image: url(../img/groupe-4922@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -313,7 +330,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-66 {
+.x11-contacts-desktop .groupe-66 {
   background-image: url(../img/groupe-1384-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -325,7 +342,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-72 {
+.x11-contacts-desktop .groupe-72 {
   background-image: url(../img/groupe-4931@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -337,7 +354,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-75 {
+.x11-contacts-desktop .groupe-75 {
   background-image: url(../img/groupe-4599-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -349,7 +366,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-78 {
+.x11-contacts-desktop .groupe-78 {
   background-image: url(../img/groupe-10200@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -361,7 +378,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-84 {
+.x11-contacts-desktop .groupe-84 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -373,7 +390,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-87 {
+.x11-contacts-desktop .groupe-87 {
   background-image: url(../img/groupe-10200@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -385,7 +402,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-93 {
+.x11-contacts-desktop .groupe-93 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -397,7 +414,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-99 {
+.x11-contacts-desktop .groupe-99 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -409,7 +426,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-111 {
+.x11-contacts-desktop .groupe-111 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -421,7 +438,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-123 {
+.x11-contacts-desktop .groupe-123 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -433,7 +450,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-147 {
+.x11-contacts-desktop .groupe-147 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -445,7 +462,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-153 {
+.x11-contacts-desktop .groupe-153 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -457,7 +474,7 @@
   width: 1px;
 }
 
-.x09-activites-web .trac-56 {
+.x11-contacts-desktop .trac-56 {
   height: 57px;
   left: 11px;
   object-fit: cover;
@@ -466,7 +483,7 @@
   width: 9px;
 }
 
-.x09-activites-web .groupe-171 {
+.x11-contacts-desktop .groupe-171 {
   background-image: url(../img/groupe-169-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -478,7 +495,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-174 {
+.x11-contacts-desktop .groupe-174 {
   background-image: url(../img/groupe-172-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -490,7 +507,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-189 {
+.x11-contacts-desktop .groupe-189 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -502,7 +519,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-195 {
+.x11-contacts-desktop .groupe-195 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -514,7 +531,7 @@
   width: 1px;
 }
 
-.x09-activites-web .trac-67 {
+.x11-contacts-desktop .trac-67 {
   height: 67px;
   left: 0;
   object-fit: cover;
@@ -523,7 +540,7 @@
   width: 12px;
 }
 
-.x09-activites-web .overlap-group3 {
+.x11-contacts-desktop .overlap-group3 {
   align-items: flex-start;
   align-self: center;
   background-image: url(../img/trac--1712@1x.png);
@@ -535,22 +552,21 @@
   min-width: 8px;
 }
 
-.x09-activites-web .trac-210 {
+.x11-contacts-desktop .trac-210 {
   height: 17px;
   object-fit: cover;
   width: 8px;
 }
 
-.x09-activites-web .trac-206 {
+.x11-contacts-desktop .trac-206 {
   height: 68px;
   margin-left: 2px;
   object-fit: cover;
   width: 13px;
 }
 
-.x09-activites-web .flex-col {
+.x11-contacts-desktop .flex-col-1 {
   align-self: flex-end;
-  flex-direction: column;
   gap: 2px;
   margin-bottom: 2.39px;
   margin-left: 3px;
@@ -558,20 +574,20 @@
   width: 5px;
 }
 
-.x09-activites-web .trac-131 {
+.x11-contacts-desktop .trac-131 {
   height: 4px;
-  margin-left: 0.9px;
+  margin-left: 0.91px;
   object-fit: cover;
   width: 3px;
 }
 
-.x09-activites-web .overlap-group {
+.x11-contacts-desktop .overlap-group2 {
   height: 35px;
   position: relative;
   width: 5px;
 }
 
-.x09-activites-web .groupe-198 {
+.x11-contacts-desktop .groupe-198 {
   background-image: url(../img/groupe-196-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -583,7 +599,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-201 {
+.x11-contacts-desktop .groupe-201 {
   background-image: url(../img/groupe-199-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -595,7 +611,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-204 {
+.x11-contacts-desktop .groupe-204 {
   background-image: url(../img/groupe-202-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -607,7 +623,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-207 {
+.x11-contacts-desktop .groupe-207 {
   background-image: url(../img/groupe-205-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -619,7 +635,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-210 {
+.x11-contacts-desktop .groupe-210 {
   background-image: url(../img/groupe-208-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -631,7 +647,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-219 {
+.x11-contacts-desktop .groupe-219 {
   background-image: url(../img/groupe-217-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -643,7 +659,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-231 {
+.x11-contacts-desktop .groupe-231 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -655,7 +671,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-234 {
+.x11-contacts-desktop .groupe-234 {
   background-image: url(../img/groupe-10104@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -667,7 +683,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-237 {
+.x11-contacts-desktop .groupe-237 {
   background-image: url(../img/groupe-178-3@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -679,7 +695,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-246 {
+.x11-contacts-desktop .groupe-246 {
   background-image: url(../img/groupe-10077@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -691,7 +707,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-258 {
+.x11-contacts-desktop .groupe-258 {
   background-image: url(../img/groupe-10107@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -703,7 +719,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-270 {
+.x11-contacts-desktop .groupe-270 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -715,7 +731,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-279 {
+.x11-contacts-desktop .groupe-279 {
   background-image: url(../img/groupe-10344@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -727,7 +743,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-282 {
+.x11-contacts-desktop .groupe-282 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -739,7 +755,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-285 {
+.x11-contacts-desktop .groupe-285 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -751,7 +767,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-3 {
+.x11-contacts-desktop .groupe-3 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -763,7 +779,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-306 {
+.x11-contacts-desktop .groupe-306 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -775,7 +791,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-309 {
+.x11-contacts-desktop .groupe-309 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -787,7 +803,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-321 {
+.x11-contacts-desktop .groupe-321 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -799,7 +815,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-348 {
+.x11-contacts-desktop .groupe-348 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -811,7 +827,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-369 {
+.x11-contacts-desktop .groupe-369 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -823,7 +839,7 @@
   width: 1px;
 }
 
-.x09-activites-web .trac-130 {
+.x11-contacts-desktop .trac-130 {
   height: 35px;
   left: 1px;
   object-fit: cover;
@@ -832,7 +848,7 @@
   width: 3px;
 }
 
-.x09-activites-web .overlap-group1 {
+.x11-contacts-desktop .overlap-group1 {
   align-self: flex-end;
   height: 45px;
   margin-left: 1px;
@@ -840,7 +856,7 @@
   width: 14px;
 }
 
-.x09-activites-web .groupe-216 {
+.x11-contacts-desktop .groupe-216 {
   background-image: url(../img/groupe-10002@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -852,7 +868,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-318 {
+.x11-contacts-desktop .groupe-318 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -864,7 +880,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-351 {
+.x11-contacts-desktop .groupe-351 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -876,7 +892,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-372 {
+.x11-contacts-desktop .groupe-372 {
   background-image: url(../img/groupe-370-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -888,7 +904,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-375 {
+.x11-contacts-desktop .groupe-375 {
   background-image: url(../img/groupe-373-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -900,7 +916,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-378 {
+.x11-contacts-desktop .groupe-378 {
   background-image: url(../img/groupe-376-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -912,7 +928,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-381 {
+.x11-contacts-desktop .groupe-381 {
   background-image: url(../img/groupe-10338@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -924,7 +940,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-384 {
+.x11-contacts-desktop .groupe-384 {
   background-image: url(../img/groupe-382-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -936,7 +952,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-387 {
+.x11-contacts-desktop .groupe-387 {
   background-image: url(../img/groupe-385-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -948,7 +964,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-390 {
+.x11-contacts-desktop .groupe-390 {
   background-image: url(../img/groupe-388-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -960,7 +976,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-393 {
+.x11-contacts-desktop .groupe-393 {
   background-image: url(../img/groupe-391-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -972,7 +988,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-396 {
+.x11-contacts-desktop .groupe-396 {
   background-image: url(../img/groupe-394-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -984,7 +1000,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-399 {
+.x11-contacts-desktop .groupe-399 {
   background-image: url(../img/groupe-397-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -996,7 +1012,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-402 {
+.x11-contacts-desktop .groupe-402 {
   background-image: url(../img/groupe-400-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1008,7 +1024,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-405 {
+.x11-contacts-desktop .groupe-405 {
   background-image: url(../img/groupe-403-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1020,7 +1036,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-408 {
+.x11-contacts-desktop .groupe-408 {
   background-image: url(../img/groupe-406-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1032,7 +1048,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-411 {
+.x11-contacts-desktop .groupe-411 {
   background-image: url(../img/groupe-409-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1044,7 +1060,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-414 {
+.x11-contacts-desktop .groupe-414 {
   background-image: url(../img/groupe-1522-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1056,7 +1072,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-417 {
+.x11-contacts-desktop .groupe-417 {
   background-image: url(../img/groupe-415-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1068,7 +1084,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-426 {
+.x11-contacts-desktop .groupe-426 {
   background-image: url(../img/groupe-424-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1080,7 +1096,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-429 {
+.x11-contacts-desktop .groupe-429 {
   background-image: url(../img/groupe-10302@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1092,7 +1108,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-441 {
+.x11-contacts-desktop .groupe-441 {
   background-image: url(../img/groupe-1381-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1104,7 +1120,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-444 {
+.x11-contacts-desktop .groupe-444 {
   background-image: url(../img/groupe-10047@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1116,7 +1132,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-447 {
+.x11-contacts-desktop .groupe-447 {
   background-image: url(../img/groupe-1525-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1128,7 +1144,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-456 {
+.x11-contacts-desktop .groupe-456 {
   background-image: url(../img/groupe-454-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1140,7 +1156,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-465 {
+.x11-contacts-desktop .groupe-465 {
   background-image: url(../img/groupe-10092@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1152,7 +1168,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-468 {
+.x11-contacts-desktop .groupe-468 {
   background-image: url(../img/groupe-1561-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1164,7 +1180,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-477 {
+.x11-contacts-desktop .groupe-477 {
   background-image: url(../img/groupe-1381-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1176,7 +1192,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-480 {
+.x11-contacts-desktop .groupe-480 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1188,7 +1204,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-486 {
+.x11-contacts-desktop .groupe-486 {
   background-image: url(../img/groupe-10077@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1200,7 +1216,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-489 {
+.x11-contacts-desktop .groupe-489 {
   background-image: url(../img/groupe-10005@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1212,7 +1228,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-498 {
+.x11-contacts-desktop .groupe-498 {
   background-image: url(../img/groupe-10200@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1224,7 +1240,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-504 {
+.x11-contacts-desktop .groupe-504 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1236,7 +1252,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-513 {
+.x11-contacts-desktop .groupe-513 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1248,7 +1264,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-516 {
+.x11-contacts-desktop .groupe-516 {
   background-image: url(../img/groupe-10200@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1260,7 +1276,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-519 {
+.x11-contacts-desktop .groupe-519 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1272,7 +1288,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-528 {
+.x11-contacts-desktop .groupe-528 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1284,7 +1300,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-531 {
+.x11-contacts-desktop .groupe-531 {
   background-image: url(../img/groupe-10089@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1296,7 +1312,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-534 {
+.x11-contacts-desktop .groupe-534 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1308,8 +1324,8 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-543 {
-  background-image: url(../img/groupe-10116@1x.png);
+.x11-contacts-desktop .groupe-543 {
+  background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -1320,7 +1336,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-549 {
+.x11-contacts-desktop .groupe-549 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1332,7 +1348,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-561 {
+.x11-contacts-desktop .groupe-561 {
   background-image: url(../img/groupe-100-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1344,7 +1360,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-573 {
+.x11-contacts-desktop .groupe-573 {
   background-image: url(../img/groupe-10113@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1356,7 +1372,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-585 {
+.x11-contacts-desktop .groupe-585 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1368,7 +1384,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-594 {
+.x11-contacts-desktop .groupe-594 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1380,7 +1396,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-600 {
+.x11-contacts-desktop .groupe-600 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1392,7 +1408,7 @@
   width: 1px;
 }
 
-.x09-activites-web .trac-205 {
+.x11-contacts-desktop .trac-205 {
   height: 44px;
   left: 1px;
   object-fit: cover;
@@ -1401,603 +1417,382 @@
   width: 13px;
 }
 
-.x09-activites-web .trac-207 {
+.x11-contacts-desktop .trac-207 {
   height: 33px;
   margin-right: 0;
   object-fit: cover;
   width: 101px;
 }
 
-.x09-activites-web .x2-randonnes {
-  left: 1058px;
-  letter-spacing: 0;
-  line-height: 36px;
-  position: absolute;
-  top: 1844px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .x8-logis-de-la-chabotterie-40-min {
-  left: 1059px;
-  letter-spacing: 0;
-  line-height: 36px;
-  position: absolute;
-  top: 5256px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .x7-lautre-usine-25-min {
-  left: 1059px;
-  letter-spacing: 0;
-  line-height: 36px;
-  position: absolute;
-  top: 4682px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .x1-le-puy-du-fou-30-min {
-  left: 1058px;
-  letter-spacing: 0;
-  line-height: 36px;
-  position: absolute;
-  top: 1262px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .x3-clisson-hellfest-25-min {
-  left: 1058px;
-  letter-spacing: 0;
-  line-height: 36px;
-  position: absolute;
-  top: 2398px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .plusieurs-parcours-e {
-  left: 1100px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 1986px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .venez-jeter-un-il {
-  left: 1101px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 5410px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .il-y-en-a-pour-tous {
-  left: 1101px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 4854px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .vous-allez-en-prendr {
-  left: 1100px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 1438px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .une-pause-dans-cette {
-  left: 1100px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 2542px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .groupe-3637 {
-  cursor: pointer;
+.x11-contacts-desktop .groupe-10425 {
+  align-items: center;
   display: flex;
-  height: 52px;
-  left: 1058px;
-  position: absolute;
-  top: 2181px;
-  width: 159px;
+  gap: 60px;
+  height: 27px;
+  margin-left: 277px;
+  margin-top: 3.86px;
+  min-width: 1360px;
 }
 
-.x09-activites-web .groupe-3638 {
-  align-items: flex-end;
+.x11-contacts-desktop .accueil {
+  cursor: pointer;
+  letter-spacing: 2.70px;
+  line-height: 18px;
+  margin-top: 1.0px;
+  min-height: 20px;
+  min-width: 95px;
+  white-space: nowrap;
+}
+
+.x11-contacts-desktop .explorer-le-gte {
+  cursor: pointer;
+  letter-spacing: 2.70px;
+  line-height: 18px;
+  margin-top: 1.0px;
+  min-height: 24px;
+  min-width: 209px;
+  white-space: nowrap;
+}
+
+.x11-contacts-desktop .galerie {
+  cursor: pointer;
+  letter-spacing: 2.70px;
+  line-height: 18px;
+  margin-top: 1.0px;
+  min-height: 20px;
+  min-width: 94px;
+  white-space: nowrap;
+}
+
+.x11-contacts-desktop .tarifs-et-rservations {
+  cursor: pointer;
+  letter-spacing: 2.70px;
+  line-height: 18px;
+  margin-top: 1.0px;
+  min-height: 23px;
+  min-width: 286px;
+  white-space: nowrap;
+}
+
+.x11-contacts-desktop .activits-et-tourisme {
+  cursor: pointer;
+  letter-spacing: 2.70px;
+  line-height: 18px;
+  margin-top: 1.0px;
+  min-height: 23px;
+  min-width: 271px;
+  white-space: nowrap;
+}
+
+.x11-contacts-desktop .flex-col-2 {
+  align-self: flex-end;
+  gap: 1px;
+  min-height: 23px;
+  width: 105px;
+}
+
+.x11-contacts-desktop .place {
+  letter-spacing: 2.70px;
+  line-height: 18px;
+  min-height: 20px;
+  white-space: nowrap;
+}
+
+.x11-contacts-desktop .rectangle-413 {
   background-color: var(--corn);
-  border-radius: 26px;
-  display: flex;
-  flex: 1;
-  min-width: 159px;
-  padding: 9px 24px;
+  height: 2px;
+  width: 103px;
 }
 
-.x09-activites-web .dcouvrir {
-  letter-spacing: 0;
-  line-height: 25px;
-  min-height: 27px;
-  min-width: 110px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .groupe-3641 {
-  cursor: pointer;
-  display: flex;
-  height: 52px;
-  left: 1059px;
-  position: absolute;
-  top: 5588px;
-  width: 159px;
-}
-
-.x09-activites-web .groupe-3642 {
-  cursor: pointer;
-  display: flex;
-  height: 52px;
-  left: 1059px;
-  position: absolute;
-  top: 5052px;
-  width: 159px;
-}
-
-.x09-activites-web .groupe-3643 {
-  cursor: pointer;
-  display: flex;
-  height: 52px;
-  left: 1058px;
-  position: absolute;
-  top: 1639px;
-  width: 159px;
-}
-
-.x09-activites-web .groupe-3638-1 {
-  align-items: flex-end;
-  background-image: url(../img/trac--2172@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  display: flex;
-  flex: 1;
-  min-width: 159px;
-  padding: 9px 24px;
-}
-
-.x09-activites-web .groupe-3644 {
-  cursor: pointer;
-  display: flex;
-  height: 52px;
-  left: 1058px;
-  position: absolute;
-  top: 2762px;
-  width: 159px;
-}
-
-.x09-activites-web .groupe-de-masques-3 {
-  height: 535px;
-  left: 101px;
-  top: 1773px;
-  width: 883px;
-}
-
-.x09-activites-web .groupe-de-masques-6 {
-  height: 536px;
-  left: 102px;
-  top: 5191px;
-  width: 883px;
-}
-
-.x09-activites-web .groupe-de-masques-7 {
-  height: 535px;
-  left: 102px;
-  top: 4621px;
-  width: 883px;
-}
-
-.x09-activites-web .groupe-de-masques-8 {
-  height: 536px;
-  left: 101px;
-  top: 1204px;
-  width: 883px;
-}
-
-.x09-activites-web .groupe-de-masques-12 {
-  height: 912px;
-  left: 984px;
-  top: 170px;
-  width: 936px;
-}
-
-.x09-activites-web .ligne-36 {
-  height: 85px;
-  left: 1063px;
-  top: 1982px;
-  width: 3px;
-}
-
-.x09-activites-web .ligne-39 {
-  height: 90px;
-  left: 1064px;
-  top: 5400px;
-  width: 3px;
-}
-
-.x09-activites-web .ligne-40 {
-  height: 86px;
-  left: 1064px;
-  top: 4846px;
-  width: 3px;
-}
-
-.x09-activites-web .ligne-41 {
-  height: 86px;
-  left: 1063px;
-  top: 1434px;
-  width: 3px;
-}
-
-.x09-activites-web .ligne-87 {
-  height: 223px;
-  left: 100px;
-  top: 619px;
-  width: 3px;
-}
-
-.x09-activites-web .ligne-42 {
-  height: 154px;
-  left: 1063px;
-  top: 2524px;
-  width: 3px;
-}
-
-.x09-activites-web .trac-2442 {
-  height: 162px;
-  left: 675px;
-  object-fit: cover;
-  position: absolute;
-  top: 335px;
-  width: 198px;
-}
-
-.x09-activites-web .x10-lac-de-ribou-25-min {
-  left: 1059px;
-  letter-spacing: 0;
-  line-height: 36px;
-  position: absolute;
-  top: 6398px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .profitez-des-nombreu {
-  left: 1101px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 6564px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .groupe-3639 {
-  cursor: pointer;
-  display: flex;
-  height: 52px;
-  left: 1059px;
-  position: absolute;
-  top: 6740px;
-  width: 159px;
-}
-
-.x09-activites-web .groupe-de-masques-4 {
-  height: 535px;
-  left: 102px;
-  top: 6330px;
-  width: 883px;
-}
-
-.x09-activites-web .ligne-37 {
-  height: 85px;
-  left: 1064px;
-  top: 6559px;
-  width: 3px;
-}
-
-.x09-activites-web .x9-maison-de-la-rivire-30-min {
-  left: 1059px;
-  letter-spacing: 0;
-  line-height: 36px;
-  position: absolute;
-  top: 5826px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .apro-embarqu-jeu {
-  left: 1101px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 5996px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .groupe-3640 {
-  cursor: pointer;
-  display: flex;
-  height: 52px;
-  left: 1059px;
-  position: absolute;
-  top: 6189px;
-  width: 159px;
-}
-
-.x09-activites-web .groupe-de-masques-5 {
-  height: 535px;
-  left: 102px;
-  top: 5760px;
-  width: 883px;
-}
-
-.x09-activites-web .ligne-38 {
-  height: 118px;
-  left: 1064px;
-  top: 5988px;
-  width: 3px;
-}
-
-.x09-activites-web .groupe-de-masques-17 {
-  height: 535px;
-  left: 101px;
-  top: 2342px;
-  width: 883px;
-}
-
-.x09-activites-web .x4-nantes-50-min {
-  left: 1058px;
-  letter-spacing: 0;
-  line-height: 36px;
-  position: absolute;
-  top: 2964px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .embarquez-pour-le-vo {
-  left: 1100px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 3120px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .groupe-3645 {
-  cursor: pointer;
-  display: flex;
-  height: 52px;
-  left: 1058px;
-  position: absolute;
-  top: 3351px;
-  width: 159px;
-}
-
-.x09-activites-web .ligne-43 {
-  height: 154px;
-  left: 1063px;
-  top: 3102px;
-  width: 3px;
-}
-
-.x09-activites-web .groupe-de-masques-18 {
-  height: 536px;
-  left: 101px;
-  top: 2911px;
-  width: 883px;
-}
-
-.x09-activites-web .x6-chteau-de-tiffauges-10-min {
-  left: 1059px;
-  letter-spacing: 0;
-  line-height: 36px;
-  position: absolute;
-  top: 4112px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .situ-aux-confins-de {
-  left: 1097px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 4264px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .ligne-81 {
-  height: 121px;
-  left: 1060px;
-  top: 4252px;
-  width: 3px;
-}
-
-.x09-activites-web .groupe-de-masques-19 {
-  height: 535px;
-  left: 102px;
-  top: 4051px;
-  width: 883px;
-}
-
-.x09-activites-web .x5-la-cte-vendenne-1h10 {
-  left: 1058px;
-  letter-spacing: 0;
-  line-height: 36px;
-  position: absolute;
-  top: 3532px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .l-ile-de-noirmoutier {
-  left: 1100px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 3688px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .groupe-3646 {
-  cursor: pointer;
-  display: flex;
-  height: 52px;
-  left: 1058px;
-  position: absolute;
-  top: 3922px;
-  width: 159px;
-}
-
-.x09-activites-web .groupe-de-masques-11 {
-  height: 535px;
-  left: 101px;
-  top: 3481px;
-  width: 883px;
-}
-
-.x09-activites-web .ligne-44 {
-  height: 154px;
-  left: 1063px;
-  top: 3672px;
-  width: 3px;
-}
-
-.x09-activites-web .et-bien-dautres-choses-dcouvrir {
-  left: 721px;
-  letter-spacing: 3.60px;
-  line-height: 24px;
-  position: absolute;
-  top: 7072px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .groupe-7400 {
-  align-items: flex-end;
-  background-color: var(--corn);
-  border-radius: 26px;
-  cursor: pointer;
-  display: flex;
-  height: 52px;
-  justify-content: flex-end;
-  left: 721px;
-  min-width: 252px;
-  padding: 11px 30px;
-  position: absolute;
-  top: 7127px;
-}
-
-.x09-activites-web .vende-tourisme {
-  letter-spacing: 0;
-  line-height: 25px;
-  min-height: 27px;
-  min-width: 189px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .groupe-7401 {
+.x11-contacts-desktop .composant-5-20 {
   align-items: flex-start;
   cursor: pointer;
   display: flex;
-  height: 52px;
-  left: 999px;
-  min-width: 252px;
-  position: absolute;
-  top: 7127px;
+  flex-direction: column;
+  gap: 7px;
+  margin-left: 78px;
+  margin-top: 3.86px;
+  min-height: 20px;
+  width: 23px;
 }
 
-.x09-activites-web .overlap-group4 {
-  border-radius: 26px;
-  height: 52px;
+.x11-contacts-desktop .rectangle-321 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 2px;
+  width: 23px;
+}
+
+.x11-contacts-desktop .flex-row-2 {
+  align-items: center;
+  display: flex;
+  gap: 120px;
+  margin-right: 68.48px;
+  margin-top: 139px;
+  min-width: 1472px;
+}
+
+.x11-contacts-desktop .overlap-group9 {
+  height: 683px;
   position: relative;
-  width: 252px;
+  width: 565px;
 }
 
-.x09-activites-web .rectangle-2993 {
-  background-color: var(--corn);
-  border-radius: 26px;
-  cursor: pointer;
-  height: 52px;
-  left: 0;
+.x11-contacts-desktop .groupe-de-masques-24 {
+  height: 683px;
+  left: 1px;
+  object-fit: cover;
   position: absolute;
   top: 0;
-  width: 252px;
+  width: 565px;
 }
 
-.x09-activites-web .osez-mauges {
-  left: 49px;
+.x11-contacts-desktop .rectangle-3010 {
+  background-color: var(--black);
+  border-radius: 20px;
+  box-shadow: 0px 5px 10px #000000d4;
+  height: 683px;
+  left: 0;
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  width: 565px;
+}
+
+.x11-contacts-desktop .union-24 {
+  height: 219px;
+  left: 167px;
+  object-fit: cover;
+  position: absolute;
+  top: 112px;
+  width: 231px;
+}
+
+.x11-contacts-desktop .une-question-ou-une {
+  left: 103px;
+  letter-spacing: 1.80px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 551px;
+  white-space: nowrap;
+}
+
+.x11-contacts-desktop .contactez-nous {
+  color: var(--white);
+  font-family: var(--font-family-josefin_sans);
+  font-size: 30px;
+  font-weight: 400;
+  left: 178px;
   letter-spacing: 0;
-  line-height: 25px;
+  line-height: 30px;
   position: absolute;
-  top: 14px;
+  top: 414px;
   white-space: nowrap;
 }
 
-.x09-activites-web .accueil {
-  cursor: pointer;
-  left: 533px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
+.x11-contacts-desktop .ligne-86 {
+  height: 3px;
+  left: 87px;
+  object-fit: cover;
   position: absolute;
-  top: 7386px;
+  top: 492px;
+  width: 390px;
+}
+
+.x11-contacts-desktop .flex-col-3 {
+  gap: 65px;
+  margin-bottom: 8.5px;
+  min-height: 652px;
+  width: 786px;
+}
+
+.x11-contacts-desktop .flex-col-4 {
+  gap: 28px;
+  margin-left: 0;
+  min-height: 168px;
+  width: 786px;
+}
+
+.x11-contacts-desktop .dmarrez-laventure {
+  letter-spacing: 7.80px;
+  line-height: 52px;
+  margin-left: 3px;
+  min-height: 56px;
   white-space: nowrap;
 }
 
-.x09-activites-web .explorer-le-gte {
-  cursor: pointer;
-  left: 533px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 7432px;
+.x11-contacts-desktop .des-questions-ou-bie {
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  min-height: 85px;
   white-space: nowrap;
 }
 
-.x09-activites-web .galerie {
-  cursor: pointer;
-  left: 533px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 7478px;
+.x11-contacts-desktop .flex-row-3 {
+  align-items: flex-end;
+  display: flex;
+  height: 419px;
+  min-width: 717px;
+}
+
+.x11-contacts-desktop .trac-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 14.65px;
+  min-height: 340px;
+  width: 48px;
+}
+
+.x11-contacts-desktop .trac-43 {
+  height: 38px;
+  object-fit: cover;
+  width: 48px;
+}
+
+.x11-contacts-desktop .trac-431 {
+  height: 42px;
+  margin-right: 5.83px;
+  margin-top: 106px;
+  object-fit: cover;
+  width: 42px;
+}
+
+.x11-contacts-desktop .trac-433 {
+  height: 52px;
+  margin-top: 102px;
+  object-fit: cover;
+  width: 36px;
+}
+
+.x11-contacts-desktop .ligne-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2.0px;
+  margin-left: 33px;
+  min-height: 373px;
+  width: 1px;
+}
+
+.x11-contacts-desktop .ligne-29 {
+  height: 78px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.x11-contacts-desktop .ligne-32 {
+  height: 77px;
+  margin-top: 65px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.x11-contacts-desktop .ligne-33 {
+  height: 77px;
+  margin-top: 76px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.x11-contacts-desktop .flex-col-5 {
+  gap: 16px;
+  margin-left: 8px;
+  min-height: 419px;
+  width: 627px;
+}
+
+.x11-contacts-desktop .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 197px;
+  height: 376px;
+  min-width: 627px;
+}
+
+.x11-contacts-desktop .flex-col-6 {
+  align-self: flex-end;
+  min-height: 330px;
+  width: 294px;
+}
+
+.x11-contacts-desktop .email {
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  min-height: 27px;
   white-space: nowrap;
 }
 
-.x09-activites-web .tarifs-et-rservations {
-  cursor: pointer;
-  left: 533px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 7524px;
+.x11-contacts-desktop .gitelenidgmailcom {
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  margin-top: 21px;
+  min-height: 27px;
   white-space: nowrap;
 }
 
-.x09-activites-web .ligne-35 {
+.x11-contacts-desktop .tlphone {
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  margin-top: 67px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.x11-contacts-desktop .phone {
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  margin-top: 22px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.x11-contacts-desktop .nous-trouver {
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  margin-top: 88px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.x11-contacts-desktop .trac-2443 {
+  height: 182px;
+  object-fit: cover;
+  width: 136px;
+}
+
+.x11-contacts-desktop .address {
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.x11-contacts-desktop .ligne-35 {
   height: 2px;
-  left: 139px;
-  top: 7287px;
+  margin-left: 44.64px;
+  margin-top: 162px;
+  object-fit: cover;
   width: 1596px;
 }
 
-.x09-activites-web .groupe-1821 {
+.x11-contacts-desktop .flex-row-5 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-left: 40.5px;
+  min-width: 1660px;
+}
+
+.x11-contacts-desktop .groupe-1821 {
   display: flex;
   height: 261px;
-  left: 113px;
   overflow: hidden;
-  position: absolute;
-  top: 7384px;
   width: 244px;
 }
 
-.x09-activites-web .groupe-1820 {
+.x11-contacts-desktop .groupe-1820 {
   display: flex;
   flex: 1;
   margin-bottom: 0;
@@ -2005,24 +1800,25 @@
   width: 244.02px;
 }
 
-.x09-activites-web .groupe-1819 {
+.x11-contacts-desktop .groupe-1819 {
   align-items: center;
   display: flex;
   flex: 1;
   flex-direction: column;
   gap: 17px;
   overflow: hidden;
+  padding: 0.0px 0;
   width: 244.02px;
 }
 
-.x09-activites-web .flex-row-1 {
+.x11-contacts-desktop .flex-row-6 {
   align-items: flex-end;
   display: flex;
   margin-right: 6.85px;
   min-width: 168px;
 }
 
-.x09-activites-web .groupe-1386 {
+.x11-contacts-desktop .groupe-1386 {
   align-self: flex-start;
   background-image: url(../img/groupe-1384-1@1x.png);
   background-position: 50% 50%;
@@ -2033,7 +1829,7 @@
   width: 1px;
 }
 
-.x09-activites-web .overlap-group1-1 {
+.x11-contacts-desktop .overlap-group2-1 {
   height: 161px;
   margin-bottom: 0.15px;
   margin-left: 7px;
@@ -2041,8 +1837,8 @@
   width: 49px;
 }
 
-.x09-activites-web .groupe-1221 {
-  background-image: url(../img/groupe-1219-3@1x.png);
+.x11-contacts-desktop .groupe-1221 {
+  background-image: url(../img/groupe-1219@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 5px;
@@ -2053,7 +1849,7 @@
   width: 2px;
 }
 
-.x09-activites-web .groupe-1224 {
+.x11-contacts-desktop .groupe-1224 {
   background-image: url(../img/groupe-1222-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2065,7 +1861,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1227 {
+.x11-contacts-desktop .groupe-1227 {
   background-image: url(../img/groupe-1225-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2077,7 +1873,7 @@
   width: 2px;
 }
 
-.x09-activites-web .groupe-1230 {
+.x11-contacts-desktop .groupe-1230 {
   background-image: url(../img/groupe-1228-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2089,7 +1885,7 @@
   width: 2px;
 }
 
-.x09-activites-web .groupe-1233 {
+.x11-contacts-desktop .groupe-1233 {
   background-image: url(../img/groupe-1231-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2101,7 +1897,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1236 {
+.x11-contacts-desktop .groupe-1236 {
   background-image: url(../img/groupe-1234-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2113,7 +1909,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1239 {
+.x11-contacts-desktop .groupe-1239 {
   background-image: url(../img/groupe-1237-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2125,7 +1921,7 @@
   width: 2px;
 }
 
-.x09-activites-web .groupe-1242 {
+.x11-contacts-desktop .groupe-1242 {
   background-image: url(../img/groupe-1240-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2137,7 +1933,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1245 {
+.x11-contacts-desktop .groupe-1245 {
   background-image: url(../img/groupe-1243-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2149,7 +1945,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1248 {
+.x11-contacts-desktop .groupe-1248 {
   background-image: url(../img/groupe-1246-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2161,7 +1957,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1251 {
+.x11-contacts-desktop .groupe-1251 {
   background-image: url(../img/groupe-1249-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2173,7 +1969,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1254 {
+.x11-contacts-desktop .groupe-1254 {
   background-image: url(../img/groupe-1252-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2185,8 +1981,8 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1257 {
-  background-image: url(../img/groupe-1255-1@1x.png);
+.x11-contacts-desktop .groupe-1257 {
+  background-image: url(../img/groupe-1255-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 2px;
@@ -2197,7 +1993,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1260 {
+.x11-contacts-desktop .groupe-1260 {
   background-image: url(../img/groupe-1258-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2209,7 +2005,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1263 {
+.x11-contacts-desktop .groupe-1263 {
   background-image: url(../img/groupe-1261-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2221,7 +2017,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1266 {
+.x11-contacts-desktop .groupe-1266 {
   background-image: url(../img/groupe-1264-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2233,7 +2029,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1269 {
+.x11-contacts-desktop .groupe-1269 {
   background-image: url(../img/groupe-1267-3@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2245,7 +2041,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1272 {
+.x11-contacts-desktop .groupe-1272 {
   background-image: url(../img/groupe-1270-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2257,7 +2053,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1275 {
+.x11-contacts-desktop .groupe-1275 {
   background-image: url(../img/groupe-1273-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2269,7 +2065,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1278 {
+.x11-contacts-desktop .groupe-1278 {
   background-image: url(../img/groupe-1276-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2281,7 +2077,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1281 {
+.x11-contacts-desktop .groupe-1281 {
   background-image: url(../img/groupe-1279-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2293,7 +2089,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1284 {
+.x11-contacts-desktop .groupe-1284 {
   background-image: url(../img/groupe-1282-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2305,7 +2101,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1287 {
+.x11-contacts-desktop .groupe-1287 {
   background-image: url(../img/groupe-1285-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2317,7 +2113,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1290 {
+.x11-contacts-desktop .groupe-1290 {
   background-image: url(../img/groupe-1288-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2329,7 +2125,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1293 {
+.x11-contacts-desktop .groupe-1293 {
   background-image: url(../img/groupe-1291-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2341,7 +2137,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1296 {
+.x11-contacts-desktop .groupe-1296 {
   background-image: url(../img/groupe-1294-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2353,7 +2149,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1299 {
+.x11-contacts-desktop .groupe-1299 {
   background-image: url(../img/groupe-1297-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2365,7 +2161,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1302 {
+.x11-contacts-desktop .groupe-1302 {
   background-image: url(../img/groupe-1300-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2377,7 +2173,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1305 {
+.x11-contacts-desktop .groupe-1305 {
   background-image: url(../img/groupe-1303-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2389,7 +2185,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1308 {
+.x11-contacts-desktop .groupe-1308 {
   background-image: url(../img/groupe-1306-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2401,7 +2197,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1311 {
+.x11-contacts-desktop .groupe-1311 {
   background-image: url(../img/groupe-1309-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2413,7 +2209,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1314 {
+.x11-contacts-desktop .groupe-1314 {
   background-image: url(../img/groupe-1312-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2425,7 +2221,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1317 {
+.x11-contacts-desktop .groupe-1317 {
   background-image: url(../img/groupe-1315-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2437,7 +2233,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1320 {
+.x11-contacts-desktop .groupe-1320 {
   background-image: url(../img/groupe-1318-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2449,7 +2245,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1323 {
+.x11-contacts-desktop .groupe-1323 {
   background-image: url(../img/groupe-1321-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2461,7 +2257,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1326 {
+.x11-contacts-desktop .groupe-1326 {
   background-image: url(../img/groupe-1324-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2473,7 +2269,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1329 {
+.x11-contacts-desktop .groupe-1329 {
   background-image: url(../img/groupe-1327-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2485,7 +2281,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1332 {
+.x11-contacts-desktop .groupe-1332 {
   background-image: url(../img/groupe-1330-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2497,7 +2293,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1335 {
+.x11-contacts-desktop .groupe-1335 {
   background-image: url(../img/groupe-1333-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2509,7 +2305,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1338 {
+.x11-contacts-desktop .groupe-1338 {
   background-image: url(../img/groupe-1336-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2521,7 +2317,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1341 {
+.x11-contacts-desktop .groupe-1341 {
   background-image: url(../img/groupe-1339-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2533,7 +2329,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1344 {
+.x11-contacts-desktop .groupe-1344 {
   background-image: url(../img/groupe-1342-3@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2545,7 +2341,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1347 {
+.x11-contacts-desktop .groupe-1347 {
   background-image: url(../img/groupe-1345-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2557,7 +2353,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1350 {
+.x11-contacts-desktop .groupe-1350 {
   background-image: url(../img/groupe-1348-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2569,7 +2365,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1353 {
+.x11-contacts-desktop .groupe-1353 {
   background-image: url(../img/groupe-1351-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2581,7 +2377,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1356 {
+.x11-contacts-desktop .groupe-1356 {
   background-image: url(../img/groupe-1354-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2593,7 +2389,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1359 {
+.x11-contacts-desktop .groupe-1359 {
   background-image: url(../img/groupe-1357-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2605,7 +2401,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1362 {
+.x11-contacts-desktop .groupe-1362 {
   background-image: url(../img/groupe-1360-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2617,7 +2413,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1365 {
+.x11-contacts-desktop .groupe-1365 {
   background-image: url(../img/groupe-1363-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2629,8 +2425,8 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1368 {
-  background-image: url(../img/groupe-1366-1@1x.png);
+.x11-contacts-desktop .groupe-1368 {
+  background-image: url(../img/groupe-1366-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -2641,7 +2437,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1371 {
+.x11-contacts-desktop .groupe-1371 {
   background-image: url(../img/groupe-1369-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2653,7 +2449,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1374 {
+.x11-contacts-desktop .groupe-1374 {
   background-image: url(../img/groupe-1372-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2665,7 +2461,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1377 {
+.x11-contacts-desktop .groupe-1377 {
   background-image: url(../img/groupe-1375-3@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2677,7 +2473,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1380 {
+.x11-contacts-desktop .groupe-1380 {
   background-image: url(../img/groupe-1369-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2689,7 +2485,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1383 {
+.x11-contacts-desktop .groupe-1383 {
   background-image: url(../img/groupe-1381-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2701,7 +2497,7 @@
   width: 1px;
 }
 
-.x09-activites-web .trac-277 {
+.x11-contacts-desktop .trac-277 {
   height: 138px;
   left: 26px;
   object-fit: cover;
@@ -2710,8 +2506,8 @@
   width: 22px;
 }
 
-.x09-activites-web .groupe-1389 {
-  background-image: url(../img/groupe-1387-1@1x.png);
+.x11-contacts-desktop .groupe-1389 {
+  background-image: url(../img/groupe-1387-4@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 5px;
@@ -2722,8 +2518,8 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1392 {
-  background-image: url(../img/groupe-1390-1@1x.png);
+.x11-contacts-desktop .groupe-1392 {
+  background-image: url(../img/groupe-1390-4@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -2734,7 +2530,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1395 {
+.x11-contacts-desktop .groupe-1395 {
   background-image: url(../img/groupe-1393-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2746,8 +2542,8 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1398 {
-  background-image: url(../img/groupe-1396-1@1x.png);
+.x11-contacts-desktop .groupe-1398 {
+  background-image: url(../img/groupe-1396-4@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -2758,7 +2554,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1401 {
+.x11-contacts-desktop .groupe-1401 {
   background-image: url(../img/groupe-1399-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2770,7 +2566,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1404 {
+.x11-contacts-desktop .groupe-1404 {
   background-image: url(../img/groupe-1402-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2782,7 +2578,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1407 {
+.x11-contacts-desktop .groupe-1407 {
   background-image: url(../img/groupe-1405-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2794,7 +2590,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1410 {
+.x11-contacts-desktop .groupe-1410 {
   background-image: url(../img/groupe-1408-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2806,7 +2602,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1413 {
+.x11-contacts-desktop .groupe-1413 {
   background-image: url(../img/groupe-1267-6@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2818,7 +2614,7 @@
   width: 1px;
 }
 
-.x09-activites-web .trac-288 {
+.x11-contacts-desktop .trac-288 {
   height: 161px;
   left: 0;
   object-fit: cover;
@@ -2827,7 +2623,7 @@
   width: 30px;
 }
 
-.x09-activites-web .overlap-group3-1 {
+.x11-contacts-desktop .overlap-group3-1 {
   align-items: flex-start;
   align-self: center;
   background-image: url(../img/trac--429-1@1x.png);
@@ -2839,13 +2635,13 @@
   min-width: 19px;
 }
 
-.x09-activites-web .trac-430 {
+.x11-contacts-desktop .trac-430 {
   height: 40px;
   object-fit: cover;
   width: 19px;
 }
 
-.x09-activites-web .trac-427 {
+.x11-contacts-desktop .trac-427 {
   align-self: flex-start;
   height: 165px;
   margin-left: 4px;
@@ -2853,10 +2649,7 @@
   width: 31px;
 }
 
-.x09-activites-web .flex-col-1 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
+.x11-contacts-desktop .flex-col-7 {
   gap: 6px;
   margin-bottom: 4.36px;
   margin-left: 7px;
@@ -2864,20 +2657,20 @@
   width: 11px;
 }
 
-.x09-activites-web .trac-352 {
+.x11-contacts-desktop .trac-352 {
   height: 9px;
   margin-left: 2.19px;
   object-fit: cover;
   width: 8px;
 }
 
-.x09-activites-web .group-container {
+.x11-contacts-desktop .group-container {
   height: 85px;
   position: relative;
   width: 11px;
 }
 
-.x09-activites-web .overlap-group-1 {
+.x11-contacts-desktop .overlap-group1-1 {
   height: 85px;
   left: 1px;
   position: absolute;
@@ -2885,7 +2678,7 @@
   width: 10px;
 }
 
-.x09-activites-web .groupe-1416 {
+.x11-contacts-desktop .groupe-1416 {
   background-image: url(../img/groupe-1414-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2897,7 +2690,7 @@
   width: 2px;
 }
 
-.x09-activites-web .groupe-1419 {
+.x11-contacts-desktop .groupe-1419 {
   background-image: url(../img/groupe-1417-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2909,7 +2702,7 @@
   width: 2px;
 }
 
-.x09-activites-web .groupe-1422 {
+.x11-contacts-desktop .groupe-1422 {
   background-image: url(../img/groupe-1420-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2921,7 +2714,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1425 {
+.x11-contacts-desktop .groupe-1425 {
   background-image: url(../img/groupe-1423-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2933,7 +2726,7 @@
   width: 2px;
 }
 
-.x09-activites-web .groupe-1428 {
+.x11-contacts-desktop .groupe-1428 {
   background-image: url(../img/groupe-1426-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2945,7 +2738,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1431 {
+.x11-contacts-desktop .groupe-1431 {
   background-image: url(../img/groupe-1429-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2957,7 +2750,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1437 {
+.x11-contacts-desktop .groupe-1437 {
   background-image: url(../img/groupe-1435-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2969,7 +2762,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1440 {
+.x11-contacts-desktop .groupe-1440 {
   background-image: url(../img/groupe-1438-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2981,7 +2774,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1443 {
+.x11-contacts-desktop .groupe-1443 {
   background-image: url(../img/groupe-1441-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2993,7 +2786,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1446 {
+.x11-contacts-desktop .groupe-1446 {
   background-image: url(../img/groupe-1444-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3005,7 +2798,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1452 {
+.x11-contacts-desktop .groupe-1452 {
   background-image: url(../img/groupe-1450-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3017,7 +2810,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1455 {
+.x11-contacts-desktop .groupe-1455 {
   background-image: url(../img/groupe-1453-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3029,7 +2822,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1458 {
+.x11-contacts-desktop .groupe-1458 {
   background-image: url(../img/groupe-1456-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3041,8 +2834,8 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1461 {
-  background-image: url(../img/groupe-1459-2@1x.png);
+.x11-contacts-desktop .groupe-1461 {
+  background-image: url(../img/groupe-1459-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -3053,7 +2846,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1464 {
+.x11-contacts-desktop .groupe-1464 {
   background-image: url(../img/groupe-1462-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3065,7 +2858,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1470 {
+.x11-contacts-desktop .groupe-1470 {
   background-image: url(../img/groupe-1468-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3077,7 +2870,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1473 {
+.x11-contacts-desktop .groupe-1473 {
   background-image: url(../img/groupe-1471-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3089,7 +2882,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1476 {
+.x11-contacts-desktop .groupe-1476 {
   background-image: url(../img/groupe-1474-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3101,7 +2894,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1479 {
+.x11-contacts-desktop .groupe-1479 {
   background-image: url(../img/groupe-1477-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3113,7 +2906,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1482 {
+.x11-contacts-desktop .groupe-1482 {
   background-image: url(../img/groupe-1480-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3125,7 +2918,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1485 {
+.x11-contacts-desktop .groupe-1485 {
   background-image: url(../img/groupe-1483-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3137,7 +2930,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1491 {
+.x11-contacts-desktop .groupe-1491 {
   background-image: url(../img/groupe-1489-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3149,7 +2942,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1494 {
+.x11-contacts-desktop .groupe-1494 {
   background-image: url(../img/groupe-1492-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3161,7 +2954,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1497 {
+.x11-contacts-desktop .groupe-1497 {
   background-image: url(../img/groupe-1495-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3173,7 +2966,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1500 {
+.x11-contacts-desktop .groupe-1500 {
   background-image: url(../img/groupe-1498-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3185,7 +2978,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1503 {
+.x11-contacts-desktop .groupe-1503 {
   background-image: url(../img/groupe-1501-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3197,7 +2990,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1506 {
+.x11-contacts-desktop .groupe-1506 {
   background-image: url(../img/groupe-1504-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3209,7 +3002,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1512 {
+.x11-contacts-desktop .groupe-1512 {
   background-image: url(../img/groupe-1510-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3221,7 +3014,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1518 {
+.x11-contacts-desktop .groupe-1518 {
   background-image: url(../img/groupe-10302@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3233,7 +3026,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1521 {
+.x11-contacts-desktop .groupe-1521 {
   background-image: url(../img/groupe-1519-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3245,7 +3038,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1524 {
+.x11-contacts-desktop .groupe-1524 {
   background-image: url(../img/groupe-1522-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3257,7 +3050,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1530 {
+.x11-contacts-desktop .groupe-1530 {
   background-image: url(../img/groupe-1528-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3269,7 +3062,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1533 {
+.x11-contacts-desktop .groupe-1533 {
   background-image: url(../img/groupe-1531-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3281,7 +3074,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1539 {
+.x11-contacts-desktop .groupe-1539 {
   background-image: url(../img/groupe-10035@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3293,7 +3086,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1542 {
+.x11-contacts-desktop .groupe-1542 {
   background-image: url(../img/groupe-1540-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3305,7 +3098,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1545 {
+.x11-contacts-desktop .groupe-1545 {
   background-image: url(../img/groupe-1543-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3317,7 +3110,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1548 {
+.x11-contacts-desktop .groupe-1548 {
   background-image: url(../img/groupe-10248@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3329,7 +3122,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1551 {
+.x11-contacts-desktop .groupe-1551 {
   background-image: url(../img/groupe-10068@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3341,7 +3134,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1554 {
+.x11-contacts-desktop .groupe-1554 {
   background-image: url(../img/groupe-1552-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3353,7 +3146,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1557 {
+.x11-contacts-desktop .groupe-1557 {
   background-image: url(../img/groupe-1555-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3365,7 +3158,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1566 {
+.x11-contacts-desktop .groupe-1566 {
   background-image: url(../img/groupe-1564-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3377,7 +3170,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1578 {
+.x11-contacts-desktop .groupe-1578 {
   background-image: url(../img/groupe-10008@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3389,7 +3182,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1581 {
+.x11-contacts-desktop .groupe-1581 {
   background-image: url(../img/groupe-10332@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3401,7 +3194,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1584 {
+.x11-contacts-desktop .groupe-1584 {
   background-image: url(../img/groupe-10077@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3413,7 +3206,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1587 {
+.x11-contacts-desktop .groupe-1587 {
   background-image: url(../img/groupe-1384-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3425,7 +3218,7 @@
   width: 1px;
 }
 
-.x09-activites-web .trac-351 {
+.x11-contacts-desktop .trac-351 {
   height: 85px;
   left: 1px;
   object-fit: cover;
@@ -3434,7 +3227,7 @@
   width: 7px;
 }
 
-.x09-activites-web .groupe-1449 {
+.x11-contacts-desktop .groupe-1449 {
   background-image: url(../img/groupe-1447-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3446,8 +3239,8 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1467 {
-  background-image: url(../img/groupe-1465-2@1x.png);
+.x11-contacts-desktop .groupe-1467 {
+  background-image: url(../img/groupe-1465-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -3458,7 +3251,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1488 {
+.x11-contacts-desktop .groupe-1488 {
   background-image: url(../img/groupe-1486-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3470,7 +3263,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1527 {
+.x11-contacts-desktop .groupe-1527 {
   background-image: url(../img/groupe-1525-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3482,7 +3275,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1563 {
+.x11-contacts-desktop .groupe-1563 {
   background-image: url(../img/groupe-1561-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3494,14 +3287,14 @@
   width: 1px;
 }
 
-.x09-activites-web .group-container-1 {
+.x11-contacts-desktop .group-container-1 {
   height: 107px;
   margin-left: 3px;
   position: relative;
   width: 35px;
 }
 
-.x09-activites-web .groupe-1434 {
+.x11-contacts-desktop .groupe-1434 {
   background-image: url(../img/groupe-1432-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3513,7 +3306,7 @@
   width: 1px;
 }
 
-.x09-activites-web .group-container-2 {
+.x11-contacts-desktop .group-container-2 {
   height: 107px;
   left: 0;
   position: absolute;
@@ -3521,7 +3314,7 @@
   width: 35px;
 }
 
-.x09-activites-web .group-container-3 {
+.x11-contacts-desktop .group-container-3 {
   height: 107px;
   left: 1px;
   position: absolute;
@@ -3529,7 +3322,7 @@
   width: 34px;
 }
 
-.x09-activites-web .overlap-group2-1 {
+.x11-contacts-desktop .overlap-group-1 {
   height: 107px;
   left: 1px;
   position: absolute;
@@ -3537,7 +3330,7 @@
   width: 33px;
 }
 
-.x09-activites-web .groupe-1515 {
+.x11-contacts-desktop .groupe-1515 {
   background-image: url(../img/groupe-1513-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3549,7 +3342,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1572 {
+.x11-contacts-desktop .groupe-1572 {
   background-image: url(../img/groupe-10302@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3561,7 +3354,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1575 {
+.x11-contacts-desktop .groupe-1575 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3573,7 +3366,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1590 {
+.x11-contacts-desktop .groupe-1590 {
   background-image: url(../img/groupe-1588-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3585,7 +3378,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1593 {
+.x11-contacts-desktop .groupe-1593 {
   background-image: url(../img/groupe-1591-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3597,7 +3390,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1596 {
+.x11-contacts-desktop .groupe-1596 {
   background-image: url(../img/groupe-1594-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3609,7 +3402,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1599 {
+.x11-contacts-desktop .groupe-1599 {
   background-image: url(../img/groupe-1597-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3621,7 +3414,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1602 {
+.x11-contacts-desktop .groupe-1602 {
   background-image: url(../img/groupe-1600-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3633,8 +3426,8 @@
   width: 2px;
 }
 
-.x09-activites-web .groupe-1605 {
-  background-image: url(../img/groupe-1603-1@1x.png);
+.x11-contacts-desktop .groupe-1605 {
+  background-image: url(../img/groupe-1603-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 2px;
@@ -3645,7 +3438,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1608 {
+.x11-contacts-desktop .groupe-1608 {
   background-image: url(../img/groupe-1606-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3657,7 +3450,7 @@
   width: 2px;
 }
 
-.x09-activites-web .groupe-1611 {
+.x11-contacts-desktop .groupe-1611 {
   background-image: url(../img/groupe-1609-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3669,7 +3462,7 @@
   width: 2px;
 }
 
-.x09-activites-web .groupe-1614 {
+.x11-contacts-desktop .groupe-1614 {
   background-image: url(../img/groupe-1612-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3681,7 +3474,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1617 {
+.x11-contacts-desktop .groupe-1617 {
   background-image: url(../img/groupe-1615-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3693,7 +3486,7 @@
   width: 2px;
 }
 
-.x09-activites-web .groupe-1620 {
+.x11-contacts-desktop .groupe-1620 {
   background-image: url(../img/groupe-1618-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3705,7 +3498,7 @@
   width: 2px;
 }
 
-.x09-activites-web .groupe-1623 {
+.x11-contacts-desktop .groupe-1623 {
   background-image: url(../img/groupe-1621-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3717,7 +3510,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1626 {
+.x11-contacts-desktop .groupe-1626 {
   background-image: url(../img/groupe-1624-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3729,7 +3522,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1629 {
+.x11-contacts-desktop .groupe-1629 {
   background-image: url(../img/groupe-1627-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3741,7 +3534,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1632 {
+.x11-contacts-desktop .groupe-1632 {
   background-image: url(../img/groupe-1630-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3753,8 +3546,8 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1635 {
-  background-image: url(../img/groupe-1633-1@1x.png);
+.x11-contacts-desktop .groupe-1635 {
+  background-image: url(../img/groupe-1633@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -3765,7 +3558,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1638 {
+.x11-contacts-desktop .groupe-1638 {
   background-image: url(../img/groupe-1636-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3777,8 +3570,8 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1641 {
-  background-image: url(../img/groupe-1639-1@1x.png);
+.x11-contacts-desktop .groupe-1641 {
+  background-image: url(../img/groupe-1639-3@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -3789,7 +3582,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1644 {
+.x11-contacts-desktop .groupe-1644 {
   background-image: url(../img/groupe-1642-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3801,7 +3594,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1647 {
+.x11-contacts-desktop .groupe-1647 {
   background-image: url(../img/groupe-1645-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3813,7 +3606,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1650 {
+.x11-contacts-desktop .groupe-1650 {
   background-image: url(../img/groupe-1648-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3825,7 +3618,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1653 {
+.x11-contacts-desktop .groupe-1653 {
   background-image: url(../img/groupe-1651-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3837,7 +3630,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1656 {
+.x11-contacts-desktop .groupe-1656 {
   background-image: url(../img/groupe-1654-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3849,7 +3642,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1659 {
+.x11-contacts-desktop .groupe-1659 {
   background-image: url(../img/groupe-1657-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3861,7 +3654,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1662 {
+.x11-contacts-desktop .groupe-1662 {
   background-image: url(../img/groupe-1660-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3873,7 +3666,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1665 {
+.x11-contacts-desktop .groupe-1665 {
   background-image: url(../img/groupe-1663-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3885,8 +3678,8 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1668 {
-  background-image: url(../img/groupe-1666-1@1x.png);
+.x11-contacts-desktop .groupe-1668 {
+  background-image: url(../img/groupe-1666-4@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -3897,7 +3690,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1671 {
+.x11-contacts-desktop .groupe-1671 {
   background-image: url(../img/groupe-1669-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3909,7 +3702,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1674 {
+.x11-contacts-desktop .groupe-1674 {
   background-image: url(../img/groupe-1672-3@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3921,7 +3714,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1677 {
+.x11-contacts-desktop .groupe-1677 {
   background-image: url(../img/groupe-1675-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3933,7 +3726,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1680 {
+.x11-contacts-desktop .groupe-1680 {
   background-image: url(../img/groupe-1678-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3945,7 +3738,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1683 {
+.x11-contacts-desktop .groupe-1683 {
   background-image: url(../img/groupe-1681-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3957,7 +3750,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1686 {
+.x11-contacts-desktop .groupe-1686 {
   background-image: url(../img/groupe-1684-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3969,7 +3762,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1689 {
+.x11-contacts-desktop .groupe-1689 {
   background-image: url(../img/groupe-1687-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3981,7 +3774,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1692 {
+.x11-contacts-desktop .groupe-1692 {
   background-image: url(../img/groupe-1690-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3993,7 +3786,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1695 {
+.x11-contacts-desktop .groupe-1695 {
   background-image: url(../img/groupe-1693-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4005,8 +3798,8 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1698 {
-  background-image: url(../img/groupe-1696-1@1x.png);
+.x11-contacts-desktop .groupe-1698 {
+  background-image: url(../img/groupe-1696@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -4017,7 +3810,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1701 {
+.x11-contacts-desktop .groupe-1701 {
   background-image: url(../img/groupe-1699-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4029,7 +3822,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1704 {
+.x11-contacts-desktop .groupe-1704 {
   background-image: url(../img/groupe-1702-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4041,7 +3834,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1707 {
+.x11-contacts-desktop .groupe-1707 {
   background-image: url(../img/groupe-1705-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4053,7 +3846,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1710 {
+.x11-contacts-desktop .groupe-1710 {
   background-image: url(../img/groupe-1708-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4065,7 +3858,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1713 {
+.x11-contacts-desktop .groupe-1713 {
   background-image: url(../img/groupe-1711-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4077,8 +3870,8 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1716 {
-  background-image: url(../img/groupe-1714-1@1x.png);
+.x11-contacts-desktop .groupe-1716 {
+  background-image: url(../img/groupe-1714-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -4089,7 +3882,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1719 {
+.x11-contacts-desktop .groupe-1719 {
   background-image: url(../img/groupe-1717-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4101,7 +3894,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1722 {
+.x11-contacts-desktop .groupe-1722 {
   background-image: url(../img/groupe-1720-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4113,7 +3906,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1725 {
+.x11-contacts-desktop .groupe-1725 {
   background-image: url(../img/groupe-1723-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4125,7 +3918,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1728 {
+.x11-contacts-desktop .groupe-1728 {
   background-image: url(../img/groupe-1495-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4137,7 +3930,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1731 {
+.x11-contacts-desktop .groupe-1731 {
   background-image: url(../img/groupe-1729-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4149,7 +3942,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1734 {
+.x11-contacts-desktop .groupe-1734 {
   background-image: url(../img/groupe-1732-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4161,7 +3954,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1737 {
+.x11-contacts-desktop .groupe-1737 {
   background-image: url(../img/groupe-1735-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4173,7 +3966,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1740 {
+.x11-contacts-desktop .groupe-1740 {
   background-image: url(../img/groupe-1513-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4185,7 +3978,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1743 {
+.x11-contacts-desktop .groupe-1743 {
   background-image: url(../img/groupe-1741-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4197,7 +3990,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1746 {
+.x11-contacts-desktop .groupe-1746 {
   background-image: url(../img/groupe-1744-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4209,7 +4002,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1749 {
+.x11-contacts-desktop .groupe-1749 {
   background-image: url(../img/groupe-1747-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4221,7 +4014,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1752 {
+.x11-contacts-desktop .groupe-1752 {
   background-image: url(../img/groupe-1750-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4233,7 +4026,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1755 {
+.x11-contacts-desktop .groupe-1755 {
   background-image: url(../img/groupe-1753-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4245,7 +4038,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1758 {
+.x11-contacts-desktop .groupe-1758 {
   background-image: url(../img/groupe-1756-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4257,7 +4050,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1761 {
+.x11-contacts-desktop .groupe-1761 {
   background-image: url(../img/groupe-1759-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4269,7 +4062,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1764 {
+.x11-contacts-desktop .groupe-1764 {
   background-image: url(../img/groupe-1762-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4281,7 +4074,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1767 {
+.x11-contacts-desktop .groupe-1767 {
   background-image: url(../img/groupe-1765-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4293,7 +4086,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1770 {
+.x11-contacts-desktop .groupe-1770 {
   background-image: url(../img/groupe-1759-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4305,7 +4098,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1773 {
+.x11-contacts-desktop .groupe-1773 {
   background-image: url(../img/groupe-1771-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4317,7 +4110,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1776 {
+.x11-contacts-desktop .groupe-1776 {
   background-image: url(../img/groupe-1774-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4329,7 +4122,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1779 {
+.x11-contacts-desktop .groupe-1779 {
   background-image: url(../img/groupe-1762-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4341,7 +4134,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1782 {
+.x11-contacts-desktop .groupe-1782 {
   background-image: url(../img/groupe-1780-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4353,7 +4146,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1785 {
+.x11-contacts-desktop .groupe-1785 {
   background-image: url(../img/groupe-1783-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4365,7 +4158,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1788 {
+.x11-contacts-desktop .groupe-1788 {
   background-image: url(../img/groupe-1786-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4377,7 +4170,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1791 {
+.x11-contacts-desktop .groupe-1791 {
   background-image: url(../img/groupe-1789-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4389,7 +4182,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1794 {
+.x11-contacts-desktop .groupe-1794 {
   background-image: url(../img/groupe-10056@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4401,7 +4194,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1797 {
+.x11-contacts-desktop .groupe-1797 {
   background-image: url(../img/groupe-1795-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4413,7 +4206,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1800 {
+.x11-contacts-desktop .groupe-1800 {
   background-image: url(../img/groupe-1798-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4425,7 +4218,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1803 {
+.x11-contacts-desktop .groupe-1803 {
   background-image: url(../img/groupe-10248@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4437,7 +4230,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1806 {
+.x11-contacts-desktop .groupe-1806 {
   background-image: url(../img/groupe-1804-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4449,7 +4242,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1809 {
+.x11-contacts-desktop .groupe-1809 {
   background-image: url(../img/groupe-1807-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4461,7 +4254,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1812 {
+.x11-contacts-desktop .groupe-1812 {
   background-image: url(../img/groupe-10074@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4473,7 +4266,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1815 {
+.x11-contacts-desktop .groupe-1815 {
   background-image: url(../img/groupe-1813-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4485,7 +4278,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1818 {
+.x11-contacts-desktop .groupe-1818 {
   background-image: url(../img/groupe-1816-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4497,7 +4290,7 @@
   width: 1px;
 }
 
-.x09-activites-web .trac-426 {
+.x11-contacts-desktop .trac-426 {
   height: 106px;
   left: 1px;
   object-fit: cover;
@@ -4506,7 +4299,7 @@
   width: 33px;
 }
 
-.x09-activites-web .groupe-1536 {
+.x11-contacts-desktop .groupe-1536 {
   background-image: url(../img/groupe-10260@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4518,7 +4311,7 @@
   width: 1px;
 }
 
-.x09-activites-web .groupe-1569 {
+.x11-contacts-desktop .groupe-1569 {
   background-image: url(../img/groupe-1297-6@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4530,118 +4323,137 @@
   width: 1px;
 }
 
-.x09-activites-web .trac-428 {
+.x11-contacts-desktop .trac-428 {
   height: 79px;
   margin-right: 0;
   object-fit: cover;
   width: 244px;
 }
 
-.x09-activites-web .activits-et-tourisme {
-  left: 533px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 7572px;
-  white-space: nowrap;
+.x11-contacts-desktop .ligne-58 {
+  height: 256px;
+  margin-left: 136px;
+  object-fit: cover;
+  width: 2px;
 }
 
-.x09-activites-web .place {
+.x11-contacts-desktop .flex-col-8 {
+  align-self: center;
+  margin-bottom: 1.5px;
+  margin-left: 38px;
+  min-height: 257px;
+  width: 263px;
+}
+
+.x11-contacts-desktop .accueil-1 {
   cursor: pointer;
-  left: 533px;
   letter-spacing: 2.20px;
   line-height: 22px;
-  position: absolute;
-  top: 7618px;
+  min-height: 25px;
   white-space: nowrap;
 }
 
-.x09-activites-web .gitelenidgmailcom {
-  left: 991px;
-  letter-spacing: 3.60px;
-  line-height: 24px;
-  position: absolute;
-  top: 7404px;
+.x11-contacts-desktop .link {
+  cursor: pointer;
+  letter-spacing: 2.20px;
+  line-height: 22px;
+  margin-top: 21px;
+  min-height: 25px;
   white-space: nowrap;
 }
 
-.x09-activites-web .trac-434 {
-  height: 42px;
-  left: 888px;
-  object-fit: cover;
-  position: absolute;
-  top: 7495px;
-  width: 42px;
+.x11-contacts-desktop .link-1 {
+  cursor: pointer;
+  letter-spacing: 2.20px;
+  line-height: 22px;
+  margin-top: 22px;
+  min-height: 25px;
+  white-space: nowrap;
 }
 
-.x09-activites-web .trac-435 {
-  height: 38px;
-  left: 888px;
-  object-fit: cover;
-  position: absolute;
-  top: 7394px;
+.x11-contacts-desktop .place-1 {
+  letter-spacing: 2.20px;
+  line-height: 22px;
+  margin-top: 21px;
+  min-height: 25px;
+  white-space: nowrap;
+}
+
+.x11-contacts-desktop .trac-container-1 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 92px;
+  margin-top: 0.56px;
+  min-height: 241px;
   width: 48px;
 }
 
-.x09-activites-web .ligne-34 {
-  height: 256px;
-  left: 968px;
-  top: 7384px;
-  width: 2px;
-}
-
-.x09-activites-web .ligne-58 {
-  height: 256px;
-  left: 493px;
-  top: 7384px;
-  width: 2px;
-}
-
-.x09-activites-web .phone {
-  left: 991px;
-  letter-spacing: 3.60px;
-  line-height: 24px;
-  position: absolute;
-  top: 7507px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .address {
-  left: 991px;
-  letter-spacing: 3.60px;
-  line-height: 24px;
-  position: absolute;
-  top: 7586px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .trac-436 {
-  height: 52px;
-  left: 894px;
+.x11-contacts-desktop .trac-434 {
+  height: 42px;
+  margin-right: 5.83px;
+  margin-top: 62px;
   object-fit: cover;
-  position: absolute;
-  top: 7584px;
+  width: 42px;
+}
+
+.x11-contacts-desktop .trac-436 {
+  height: 52px;
+  margin-right: 0;
+  margin-top: 47px;
+  object-fit: cover;
   width: 36px;
 }
 
-.x09-activites-web .groupe-4256 {
-  align-items: flex-end;
-  display: flex;
-  height: 26px;
-  left: 1378px;
-  min-width: 395px;
-  position: absolute;
-  top: 7603px;
+.x11-contacts-desktop .ligne-34 {
+  height: 256px;
+  margin-left: 33px;
+  object-fit: cover;
+  width: 2px;
 }
 
-.x09-activites-web .overlap-group8 {
+.x11-contacts-desktop .flex-col-9 {
+  align-self: flex-end;
+  margin-bottom: 3.5px;
+  margin-left: 20px;
+  min-height: 238px;
+  width: 295px;
+}
+
+.x11-contacts-desktop .gitelenidgmailcom-1 {
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.x11-contacts-desktop .phone-1 {
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  margin-top: 74px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.x11-contacts-desktop .address-1 {
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  margin-top: 56px;
+  min-height: 56px;
+  white-space: nowrap;
+}
+
+.x11-contacts-desktop .overlap-group8 {
+  align-self: flex-end;
   height: 27px;
-  margin-bottom: -0.45px;
+  margin-bottom: 16.0px;
+  margin-left: 92px;
   position: relative;
   width: 395px;
 }
 
-.x09-activites-web .c-le-nid-tous-droits-rservs {
+.x11-contacts-desktop .c-le-nid-tous-droits-rservs {
   left: 5px;
   letter-spacing: 3.15px;
   line-height: 21px;
@@ -4650,7 +4462,7 @@
   white-space: nowrap;
 }
 
-.x09-activites-web .ellipse-3 {
+.x11-contacts-desktop .ellipse-3 {
   border: 1px solid;
   border-color: var(--black);
   border-radius: 13.18px;
@@ -4661,142 +4473,8 @@
   width: 26px;
 }
 
-.x09-activites-web .groupe-7389 {
-  cursor: pointer;
-  display: flex;
-  height: 52px;
-  left: 1059px;
-  position: absolute;
-  top: 4490px;
-  width: 159px;
-}
-
-.x09-activites-web .title {
-  left: 101px;
-  letter-spacing: 0;
-  line-height: 46px;
-  position: absolute;
-  top: 487px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .notre-gte-est-idal {
-  height: 267px;
-  left: 121px;
-  letter-spacing: 2.40px;
-  line-height: 24px;
-  position: absolute;
-  top: 619px;
-  width: 848px;
-}
-
-.x09-activites-web .composant-5-19 {
+.x11-contacts-desktop .flex-col-10 {
   align-items: flex-start;
-  cursor: pointer;
   display: flex;
   flex-direction: column;
-  left: 1847px;
-  min-height: 20px;
-  position: absolute;
-  top: 36px;
-  width: 23px;
-}
-
-.x09-activites-web .rectangle-3216 {
-  background-color: var(--black);
-  border-radius: 2px;
-  height: 2px;
-  margin-top: 8px;
-  width: 23px;
-}
-
-.x09-activites-web .groupe-10425 {
-  align-items: center;
-  display: flex;
-  gap: 60px;
-  height: 27px;
-  left: 410px;
-  min-width: 1360px;
-  position: absolute;
-  top: 39px;
-}
-
-.x09-activites-web .accueil-1 {
-  cursor: pointer;
-  letter-spacing: 2.70px;
-  line-height: 18px;
-  margin-top: 1.0px;
-  min-height: 20px;
-  min-width: 95px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .explorer-le-gte-1 {
-  cursor: pointer;
-  letter-spacing: 2.70px;
-  line-height: 18px;
-  margin-top: 1.0px;
-  min-height: 24px;
-  min-width: 209px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .galerie-1 {
-  cursor: pointer;
-  letter-spacing: 2.70px;
-  line-height: 18px;
-  margin-top: 1.0px;
-  min-height: 20px;
-  min-width: 94px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .tarifs-et-rservations-1 {
-  cursor: pointer;
-  letter-spacing: 2.70px;
-  line-height: 18px;
-  margin-top: 1.0px;
-  min-height: 23px;
-  min-width: 286px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .overlap-group9 {
-  align-self: flex-end;
-  height: 24px;
-  position: relative;
-  width: 271px;
-}
-
-.x09-activites-web .activits-et-tourisme-1 {
-  left: 0;
-  letter-spacing: 2.70px;
-  line-height: 18px;
-  position: absolute;
-  top: 0;
-  white-space: nowrap;
-}
-
-.x09-activites-web .rectangle-413 {
-  background-color: var(--corn);
-  height: 2px;
-  left: 0;
-  position: absolute;
-  top: 22px;
-  width: 269px;
-}
-
-.x09-activites-web .place-1 {
-  cursor: pointer;
-  letter-spacing: 2.70px;
-  line-height: 18px;
-  margin-top: 1.0px;
-  min-height: 20px;
-  min-width: 105px;
-  white-space: nowrap;
-}
-
-.x09-activites-web .ligne {
-  object-fit: cover;
-  position: absolute;
 }

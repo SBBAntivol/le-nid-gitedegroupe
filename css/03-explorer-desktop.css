@@ -1,6 +1,6 @@
-/* screen - 03-explorer-web */
+/* screen - 03-explorer-desktop */
 
-.x03-explorer-web {
+.x03-explorer-desktop {
   align-items: flex-end;
   background-color: var(--bianca);
   display: flex;
@@ -11,7 +11,7 @@
   width: 1920px;
 }
 
-.x03-explorer-web .flex-col {
+.x03-explorer-desktop .flex-col {
   flex-direction: column;
   margin-right: -522.71px;
   margin-top: -56px;
@@ -19,20 +19,20 @@
   width: 2476px;
 }
 
-.x03-explorer-web .flex-col-1 {
+.x03-explorer-desktop .flex-col-1 {
   align-items: center;
   min-height: 5519px;
   width: 2476px;
 }
 
-.x03-explorer-web .group-container {
+.x03-explorer-desktop .group-container {
   align-self: flex-end;
   height: 2099px;
   position: relative;
   width: 2411px;
 }
 
-.x03-explorer-web .overlap-group10 {
+.x03-explorer-desktop .overlap-group10 {
   height: 2080px;
   left: 31px;
   position: absolute;
@@ -40,7 +40,7 @@
   width: 2380px;
 }
 
-.x03-explorer-web .dcouvrez-le-charme {
+.x03-explorer-desktop .dcouvrez-le-charme {
   left: 77px;
   letter-spacing: 0;
   line-height: 46px;
@@ -49,7 +49,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .overlap-group21 {
+.x03-explorer-desktop .overlap-group21 {
   height: 1250px;
   left: 77px;
   position: absolute;
@@ -57,7 +57,7 @@
   width: 2303px;
 }
 
-.x03-explorer-web .prsentation {
+.x03-explorer-desktop .prsentation {
   left: 690px;
   letter-spacing: 0;
   line-height: 46px;
@@ -66,7 +66,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .avec-sept-chambres-e {
+.x03-explorer-desktop .avec-sept-chambres-e {
   left: 0;
   letter-spacing: 3.60px;
   line-height: 24px;
@@ -75,7 +75,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .trac-1731 {
+.x03-explorer-desktop .trac-1731 {
   height: 1230px;
   left: 672px;
   object-fit: cover;
@@ -84,7 +84,7 @@
   width: 1631px;
 }
 
-.x03-explorer-web .groupe-10425 {
+.x03-explorer-desktop .groupe-10425 {
   align-items: center;
   display: flex;
   gap: 60px;
@@ -95,7 +95,7 @@
   top: 95px;
 }
 
-.x03-explorer-web .accueil {
+.x03-explorer-desktop .accueil {
   cursor: pointer;
   letter-spacing: 2.70px;
   line-height: 18px;
@@ -105,14 +105,14 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .overlap-group11 {
+.x03-explorer-desktop .overlap-group11 {
   align-self: flex-end;
   height: 25px;
   position: relative;
   width: 209px;
 }
 
-.x03-explorer-web .explorer-le-gte {
+.x03-explorer-desktop .explorer-le-gte {
   left: 0;
   letter-spacing: 2.70px;
   line-height: 18px;
@@ -121,7 +121,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .rectangle-413 {
+.x03-explorer-desktop .rectangle-413 {
   background-color: var(--corn);
   height: 2px;
   left: 0;
@@ -130,7 +130,7 @@
   width: 207px;
 }
 
-.x03-explorer-web .galerie {
+.x03-explorer-desktop .galerie {
   cursor: pointer;
   letter-spacing: 2.70px;
   line-height: 18px;
@@ -140,7 +140,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .tarifs-et-rservations {
+.x03-explorer-desktop .tarifs-et-rservations {
   cursor: pointer;
   letter-spacing: 2.70px;
   line-height: 18px;
@@ -150,7 +150,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .activits-et-tourisme {
+.x03-explorer-desktop .activits-et-tourisme {
   cursor: pointer;
   letter-spacing: 2.70px;
   line-height: 18px;
@@ -160,7 +160,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .place {
+.x03-explorer-desktop .place {
   cursor: pointer;
   letter-spacing: 2.70px;
   line-height: 18px;
@@ -170,7 +170,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .composant-5-16 {
+.x03-explorer-desktop .composant-5-16 {
   align-items: flex-start;
   cursor: pointer;
   display: flex;
@@ -183,14 +183,14 @@
   width: 30px;
 }
 
-.x03-explorer-web .rectangle-321 {
+.x03-explorer-desktop .rectangle-321 {
   background-color: var(--black);
   border-radius: 2px;
   height: 3px;
   width: 30px;
 }
 
-.x03-explorer-web .groupe-4861 {
+.x03-explorer-desktop .groupe-4861 {
   align-items: flex-end;
   background-color: var(--corn);
   border-radius: 26px;
@@ -205,7 +205,7 @@
   top: 765px;
 }
 
-.x03-explorer-web .rservez-votre-sjour {
+.x03-explorer-desktop .rservez-votre-sjour {
   letter-spacing: 0;
   line-height: 25px;
   min-height: 27px;
@@ -213,7 +213,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .overlap-group20 {
+.x03-explorer-desktop .overlap-group20 {
   height: 897px;
   left: 0;
   position: absolute;
@@ -221,7 +221,7 @@
   width: 1005px;
 }
 
-.x03-explorer-web .trac-2435 {
+.x03-explorer-desktop .trac-2435 {
   height: 159px;
   left: 108px;
   object-fit: cover;
@@ -230,7 +230,7 @@
   width: 119px;
 }
 
-.x03-explorer-web .rectangle-644 {
+.x03-explorer-desktop .rectangle-644 {
   background-color: var(--gravel);
   border: 1px solid;
   border-color: var(--dove-gray);
@@ -243,7 +243,7 @@
   width: 1005px;
 }
 
-.x03-explorer-web .un-lieu-simple-vrai-et-accueillant {
+.x03-explorer-desktop .un-lieu-simple-vrai-et-accueillant {
   left: 73px;
   letter-spacing: 0;
   line-height: 46px;
@@ -252,7 +252,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .venez-dcompresser-d {
+.x03-explorer-desktop .venez-dcompresser-d {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
   font-size: var(--font-size-xxxl);
@@ -266,7 +266,7 @@
   width: 901px;
 }
 
-.x03-explorer-web .groupe-603 {
+.x03-explorer-desktop .groupe-603 {
   cursor: pointer;
   display: flex;
   height: 108px;
@@ -277,7 +277,7 @@
   width: 101px;
 }
 
-.x03-explorer-web .groupe-602 {
+.x03-explorer-desktop .groupe-602 {
   display: flex;
   flex: 1;
   margin-bottom: 0;
@@ -285,7 +285,7 @@
   width: 100.72px;
 }
 
-.x03-explorer-web .groupe-601 {
+.x03-explorer-desktop .groupe-601 {
   align-items: center;
   display: flex;
   flex: 1;
@@ -295,13 +295,13 @@
   width: 100.72px;
 }
 
-.x03-explorer-web .flex-row {
+.x03-explorer-desktop .flex-row {
   height: 69px;
   margin-right: 2.83px;
   min-width: 69px;
 }
 
-.x03-explorer-web .groupe-168 {
+.x03-explorer-desktop .groupe-168 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -311,7 +311,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .overlap-group {
+.x03-explorer-desktop .overlap-group {
   align-self: center;
   height: 67px;
   margin-left: 2px;
@@ -320,7 +320,7 @@
   width: 20px;
 }
 
-.x03-explorer-web .groupe-3-1 {
+.x03-explorer-desktop .groupe-3-1 {
   background-image: url(../img/groupe-1-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -332,7 +332,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-6 {
+.x03-explorer-desktop .groupe-6 {
   background-image: url(../img/groupe-4-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -344,7 +344,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-9 {
+.x03-explorer-desktop .groupe-9 {
   background-image: url(../img/groupe-4868@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -356,7 +356,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-12 {
+.x03-explorer-desktop .groupe-12 {
   background-image: url(../img/groupe-10-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -368,7 +368,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-15 {
+.x03-explorer-desktop .groupe-15 {
   background-image: url(../img/groupe-13-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -380,7 +380,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-18 {
+.x03-explorer-desktop .groupe-18 {
   background-image: url(../img/groupe-16-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -392,7 +392,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-21 {
+.x03-explorer-desktop .groupe-21 {
   background-image: url(../img/groupe-19-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -404,7 +404,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-24 {
+.x03-explorer-desktop .groupe-24 {
   background-image: url(../img/groupe-22-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -416,7 +416,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-27 {
+.x03-explorer-desktop .groupe-27 {
   background-image: url(../img/groupe-25-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -428,7 +428,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-30 {
+.x03-explorer-desktop .groupe-30 {
   background-image: url(../img/groupe-28-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -440,7 +440,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-33 {
+.x03-explorer-desktop .groupe-33 {
   background-image: url(../img/groupe-31-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -452,7 +452,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-36 {
+.x03-explorer-desktop .groupe-36 {
   background-image: url(../img/groupe-34-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -464,7 +464,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-39 {
+.x03-explorer-desktop .groupe-39 {
   background-image: url(../img/groupe-37-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -476,7 +476,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-42 {
+.x03-explorer-desktop .groupe-42 {
   background-image: url(../img/groupe-40-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -488,7 +488,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-45 {
+.x03-explorer-desktop .groupe-45 {
   background-image: url(../img/groupe-43-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -500,7 +500,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-48 {
+.x03-explorer-desktop .groupe-48 {
   background-image: url(../img/groupe-1381-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -512,7 +512,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-51 {
+.x03-explorer-desktop .groupe-51 {
   background-image: url(../img/groupe-1543-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -524,7 +524,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-54 {
+.x03-explorer-desktop .groupe-54 {
   background-image: url(../img/groupe-4913@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -536,7 +536,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-57 {
+.x03-explorer-desktop .groupe-57 {
   background-image: url(../img/groupe-4916@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -548,7 +548,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-60 {
+.x03-explorer-desktop .groupe-60 {
   background-image: url(../img/groupe-4919@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -560,7 +560,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-63 {
+.x03-explorer-desktop .groupe-63 {
   background-image: url(../img/groupe-4922@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -572,7 +572,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-66 {
+.x03-explorer-desktop .groupe-66 {
   background-image: url(../img/groupe-1384-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -584,7 +584,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-72 {
+.x03-explorer-desktop .groupe-72 {
   background-image: url(../img/groupe-4931@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -596,7 +596,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-75 {
+.x03-explorer-desktop .groupe-75 {
   background-image: url(../img/groupe-4599-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -608,7 +608,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-78 {
+.x03-explorer-desktop .groupe-78 {
   background-image: url(../img/groupe-10200@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -620,7 +620,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-84 {
+.x03-explorer-desktop .groupe-84 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -632,7 +632,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-87 {
+.x03-explorer-desktop .groupe-87 {
   background-image: url(../img/groupe-10200@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -644,7 +644,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-93 {
+.x03-explorer-desktop .groupe-93 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -656,7 +656,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-99 {
+.x03-explorer-desktop .groupe-99 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -668,7 +668,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-111 {
+.x03-explorer-desktop .groupe-111 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -680,7 +680,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-123 {
+.x03-explorer-desktop .groupe-123 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -692,7 +692,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-147 {
+.x03-explorer-desktop .groupe-147 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -704,7 +704,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-153 {
+.x03-explorer-desktop .groupe-153 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -716,7 +716,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .trac-56 {
+.x03-explorer-desktop .trac-56 {
   height: 57px;
   left: 11px;
   object-fit: cover;
@@ -725,7 +725,7 @@
   width: 9px;
 }
 
-.x03-explorer-web .groupe-171 {
+.x03-explorer-desktop .groupe-171 {
   background-image: url(../img/groupe-169-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -737,7 +737,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-174 {
+.x03-explorer-desktop .groupe-174 {
   background-image: url(../img/groupe-172-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -749,7 +749,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-189 {
+.x03-explorer-desktop .groupe-189 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -761,7 +761,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-195 {
+.x03-explorer-desktop .groupe-195 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -773,7 +773,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .trac-67 {
+.x03-explorer-desktop .trac-67 {
   height: 67px;
   left: 0;
   object-fit: cover;
@@ -782,7 +782,7 @@
   width: 12px;
 }
 
-.x03-explorer-web .overlap-group3 {
+.x03-explorer-desktop .overlap-group3 {
   align-items: flex-start;
   align-self: center;
   background-image: url(../img/trac--1712@1x.png);
@@ -794,20 +794,20 @@
   min-width: 8px;
 }
 
-.x03-explorer-web .trac-210 {
+.x03-explorer-desktop .trac-210 {
   height: 17px;
   object-fit: cover;
   width: 8px;
 }
 
-.x03-explorer-web .trac-206 {
+.x03-explorer-desktop .trac-206 {
   height: 68px;
   margin-left: 2px;
   object-fit: cover;
   width: 13px;
 }
 
-.x03-explorer-web .flex-col-2 {
+.x03-explorer-desktop .flex-col-2 {
   align-items: flex-start;
   align-self: flex-end;
   gap: 2px;
@@ -817,20 +817,20 @@
   width: 5px;
 }
 
-.x03-explorer-web .trac-131 {
+.x03-explorer-desktop .trac-131 {
   height: 4px;
   margin-left: 0.9px;
   object-fit: cover;
   width: 3px;
 }
 
-.x03-explorer-web .overlap-group2 {
+.x03-explorer-desktop .overlap-group2 {
   height: 35px;
   position: relative;
   width: 5px;
 }
 
-.x03-explorer-web .groupe-198 {
+.x03-explorer-desktop .groupe-198 {
   background-image: url(../img/groupe-196-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -842,7 +842,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-201 {
+.x03-explorer-desktop .groupe-201 {
   background-image: url(../img/groupe-199-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -854,7 +854,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-204 {
+.x03-explorer-desktop .groupe-204 {
   background-image: url(../img/groupe-202-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -866,7 +866,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-207 {
+.x03-explorer-desktop .groupe-207 {
   background-image: url(../img/groupe-205-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -878,7 +878,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-210 {
+.x03-explorer-desktop .groupe-210 {
   background-image: url(../img/groupe-208-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -890,7 +890,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-219 {
+.x03-explorer-desktop .groupe-219 {
   background-image: url(../img/groupe-217-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -902,7 +902,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-231 {
+.x03-explorer-desktop .groupe-231 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -914,7 +914,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-234 {
+.x03-explorer-desktop .groupe-234 {
   background-image: url(../img/groupe-10104@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -926,7 +926,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-237 {
+.x03-explorer-desktop .groupe-237 {
   background-image: url(../img/groupe-178-3@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -938,7 +938,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-246 {
+.x03-explorer-desktop .groupe-246 {
   background-image: url(../img/groupe-10077@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -950,7 +950,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-258 {
+.x03-explorer-desktop .groupe-258 {
   background-image: url(../img/groupe-10107@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -962,7 +962,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-270 {
+.x03-explorer-desktop .groupe-270 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -974,7 +974,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-279 {
+.x03-explorer-desktop .groupe-279 {
   background-image: url(../img/groupe-10344@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -986,7 +986,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-282 {
+.x03-explorer-desktop .groupe-282 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -998,7 +998,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-285 {
+.x03-explorer-desktop .groupe-285 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1010,7 +1010,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-3 {
+.x03-explorer-desktop .groupe-3 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1022,7 +1022,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-306 {
+.x03-explorer-desktop .groupe-306 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1034,7 +1034,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-309 {
+.x03-explorer-desktop .groupe-309 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1046,7 +1046,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-321 {
+.x03-explorer-desktop .groupe-321 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1058,7 +1058,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-348 {
+.x03-explorer-desktop .groupe-348 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1070,7 +1070,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-369 {
+.x03-explorer-desktop .groupe-369 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1082,7 +1082,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .trac-130 {
+.x03-explorer-desktop .trac-130 {
   height: 35px;
   left: 1px;
   object-fit: cover;
@@ -1091,7 +1091,7 @@
   width: 3px;
 }
 
-.x03-explorer-web .overlap-group1-2 {
+.x03-explorer-desktop .overlap-group1-2 {
   align-self: flex-end;
   height: 45px;
   margin-left: 1px;
@@ -1099,7 +1099,7 @@
   width: 14px;
 }
 
-.x03-explorer-web .groupe-216 {
+.x03-explorer-desktop .groupe-216 {
   background-image: url(../img/groupe-10002@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1111,7 +1111,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-318 {
+.x03-explorer-desktop .groupe-318 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1123,7 +1123,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-351 {
+.x03-explorer-desktop .groupe-351 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1135,7 +1135,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-372 {
+.x03-explorer-desktop .groupe-372 {
   background-image: url(../img/groupe-370-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1147,7 +1147,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-375 {
+.x03-explorer-desktop .groupe-375 {
   background-image: url(../img/groupe-373-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1159,7 +1159,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-378 {
+.x03-explorer-desktop .groupe-378 {
   background-image: url(../img/groupe-376-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1171,7 +1171,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-381 {
+.x03-explorer-desktop .groupe-381 {
   background-image: url(../img/groupe-10338@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1183,7 +1183,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-384 {
+.x03-explorer-desktop .groupe-384 {
   background-image: url(../img/groupe-382-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1195,7 +1195,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-387 {
+.x03-explorer-desktop .groupe-387 {
   background-image: url(../img/groupe-385-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1207,7 +1207,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-390 {
+.x03-explorer-desktop .groupe-390 {
   background-image: url(../img/groupe-388-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1219,7 +1219,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-393 {
+.x03-explorer-desktop .groupe-393 {
   background-image: url(../img/groupe-391-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1231,7 +1231,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-396 {
+.x03-explorer-desktop .groupe-396 {
   background-image: url(../img/groupe-394-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1243,7 +1243,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-399 {
+.x03-explorer-desktop .groupe-399 {
   background-image: url(../img/groupe-397-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1255,7 +1255,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-402 {
+.x03-explorer-desktop .groupe-402 {
   background-image: url(../img/groupe-400-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1267,7 +1267,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-405 {
+.x03-explorer-desktop .groupe-405 {
   background-image: url(../img/groupe-403-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1279,7 +1279,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-408 {
+.x03-explorer-desktop .groupe-408 {
   background-image: url(../img/groupe-406-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1291,7 +1291,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-411 {
+.x03-explorer-desktop .groupe-411 {
   background-image: url(../img/groupe-409-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1303,7 +1303,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-414 {
+.x03-explorer-desktop .groupe-414 {
   background-image: url(../img/groupe-1522-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1315,7 +1315,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-417 {
+.x03-explorer-desktop .groupe-417 {
   background-image: url(../img/groupe-415-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1327,7 +1327,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-426 {
+.x03-explorer-desktop .groupe-426 {
   background-image: url(../img/groupe-424-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1339,7 +1339,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-429 {
+.x03-explorer-desktop .groupe-429 {
   background-image: url(../img/groupe-10302@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1351,7 +1351,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-441 {
+.x03-explorer-desktop .groupe-441 {
   background-image: url(../img/groupe-1381-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1363,7 +1363,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-444 {
+.x03-explorer-desktop .groupe-444 {
   background-image: url(../img/groupe-10047@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1375,7 +1375,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-447 {
+.x03-explorer-desktop .groupe-447 {
   background-image: url(../img/groupe-1525-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1387,7 +1387,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-456 {
+.x03-explorer-desktop .groupe-456 {
   background-image: url(../img/groupe-454-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1399,7 +1399,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-465 {
+.x03-explorer-desktop .groupe-465 {
   background-image: url(../img/groupe-10092@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1411,7 +1411,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-468 {
+.x03-explorer-desktop .groupe-468 {
   background-image: url(../img/groupe-1561-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1423,7 +1423,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-477 {
+.x03-explorer-desktop .groupe-477 {
   background-image: url(../img/groupe-1381-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1435,7 +1435,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-480 {
+.x03-explorer-desktop .groupe-480 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1447,7 +1447,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-486 {
+.x03-explorer-desktop .groupe-486 {
   background-image: url(../img/groupe-10077@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1459,7 +1459,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-489 {
+.x03-explorer-desktop .groupe-489 {
   background-image: url(../img/groupe-10005@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1471,7 +1471,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-498 {
+.x03-explorer-desktop .groupe-498 {
   background-image: url(../img/groupe-10200@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1483,7 +1483,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-504 {
+.x03-explorer-desktop .groupe-504 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1495,7 +1495,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-513 {
+.x03-explorer-desktop .groupe-513 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1507,7 +1507,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-516 {
+.x03-explorer-desktop .groupe-516 {
   background-image: url(../img/groupe-10200@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1519,7 +1519,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-519 {
+.x03-explorer-desktop .groupe-519 {
   background-image: url(../img/groupe-10113@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1531,7 +1531,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-528 {
+.x03-explorer-desktop .groupe-528 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1543,7 +1543,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-531 {
+.x03-explorer-desktop .groupe-531 {
   background-image: url(../img/groupe-10089@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1555,7 +1555,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-534 {
+.x03-explorer-desktop .groupe-534 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1567,7 +1567,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-543 {
+.x03-explorer-desktop .groupe-543 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1579,7 +1579,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-549 {
+.x03-explorer-desktop .groupe-549 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1591,7 +1591,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-561 {
+.x03-explorer-desktop .groupe-561 {
   background-image: url(../img/groupe-100-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1603,7 +1603,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-573 {
+.x03-explorer-desktop .groupe-573 {
   background-image: url(../img/groupe-10113@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1615,7 +1615,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-585 {
+.x03-explorer-desktop .groupe-585 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1627,7 +1627,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-594 {
+.x03-explorer-desktop .groupe-594 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1639,7 +1639,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-600 {
+.x03-explorer-desktop .groupe-600 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1651,7 +1651,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .trac-205 {
+.x03-explorer-desktop .trac-205 {
   height: 44px;
   left: 1px;
   object-fit: cover;
@@ -1660,14 +1660,14 @@
   width: 13px;
 }
 
-.x03-explorer-web .trac-207 {
+.x03-explorer-desktop .trac-207 {
   height: 33px;
   margin-right: 0;
   object-fit: cover;
   width: 101px;
 }
 
-.x03-explorer-web .overlap-group16 {
+.x03-explorer-desktop .overlap-group16 {
   height: 798px;
   left: 1077px;
   position: absolute;
@@ -1675,7 +1675,7 @@
   width: 751px;
 }
 
-.x03-explorer-web .groupe-de-masques-2 {
+.x03-explorer-desktop .groupe-de-masques-2 {
   height: 779px;
   left: 9px;
   object-fit: cover;
@@ -1684,7 +1684,7 @@
   width: 733px;
 }
 
-.x03-explorer-web .trac-437 {
+.x03-explorer-desktop .trac-437 {
   cursor: pointer;
   height: 798px;
   left: 0;
@@ -1694,7 +1694,7 @@
   width: 751px;
 }
 
-.x03-explorer-web .explorer-la-galerie {
+.x03-explorer-desktop .explorer-la-galerie {
   left: 123px;
   letter-spacing: 0;
   line-height: 46px;
@@ -1703,7 +1703,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .groupe-5483 {
+.x03-explorer-desktop .groupe-5483 {
   align-items: flex-start;
   display: flex;
   height: 45px;
@@ -1714,14 +1714,14 @@
   transform: rotate(-90deg);
 }
 
-.x03-explorer-web .overlap-group5 {
+.x03-explorer-desktop .overlap-group5 {
   border-radius: 22.5px;
   height: 45px;
   position: relative;
   width: 45px;
 }
 
-.x03-explorer-web .ellipse-1 {
+.x03-explorer-desktop .ellipse-1 {
   background-color: var(--white);
   border-color: var(--dove-gray);
   border-radius: 22.5px;
@@ -1730,7 +1730,7 @@
   width: 45px;
 }
 
-.x03-explorer-web .union-1 {
+.x03-explorer-desktop .union-1 {
   height: 26px;
   left: 9px;
   object-fit: cover;
@@ -1740,14 +1740,14 @@
   width: 26px;
 }
 
-.x03-explorer-web .ellipse-2 {
+.x03-explorer-desktop .ellipse-2 {
   border-color: var(--white);
   border-radius: 22.5px;
   height: 45px;
   width: 45px;
 }
 
-.x03-explorer-web .title {
+.x03-explorer-desktop .title {
   letter-spacing: 0;
   line-height: 46px;
   margin-right: 503.05px;
@@ -1757,7 +1757,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .flex-row-1 {
+.x03-explorer-desktop .flex-row-1 {
   align-items: flex-start;
   display: flex;
   gap: 188px;
@@ -1767,7 +1767,7 @@
   min-width: 1316px;
 }
 
-.x03-explorer-web .le-gte-peut-accueil {
+.x03-explorer-desktop .le-gte-peut-accueil {
   letter-spacing: 2.70px;
   line-height: 18px;
   min-height: 131px;
@@ -1775,14 +1775,14 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .trac-2436 {
+.x03-explorer-desktop .trac-2436 {
   align-self: flex-end;
   height: 133px;
   object-fit: cover;
   width: 188px;
 }
 
-.x03-explorer-web .surname {
+.x03-explorer-desktop .surname {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
   font-size: 32px;
@@ -1796,7 +1796,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .overlap-group-container {
+.x03-explorer-desktop .overlap-group-container {
   align-items: flex-start;
   align-self: flex-start;
   display: flex;
@@ -1806,13 +1806,13 @@
   min-width: 1540px;
 }
 
-.x03-explorer-web .overlap-group1 {
+.x03-explorer-desktop .overlap-group1 {
   height: 699px;
   position: relative;
   width: 710px;
 }
 
-.x03-explorer-web .rectangle-2 {
+.x03-explorer-desktop .rectangle-2 {
   background-color: var(--gravel);
   border-radius: 17px 0px 0px 17px;
   height: 209px;
@@ -1822,7 +1822,7 @@
   width: 50px;
 }
 
-.x03-explorer-web .rectangle-276 {
+.x03-explorer-desktop .rectangle-276 {
   background-color: var(--bianca);
   border-radius: 17px;
   box-shadow: 0px 3px 6px #00000029;
@@ -1833,7 +1833,7 @@
   width: 660px;
 }
 
-.x03-explorer-web .chambres {
+.x03-explorer-desktop .chambres {
   left: -48px;
   letter-spacing: 0;
   line-height: 32px;
@@ -1843,19 +1843,19 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .chambre-attenante {
+.x03-explorer-desktop .chambre-attenante {
   left: 127px;
   line-height: 30px;
   top: 528px;
 }
 
-.x03-explorer-web .chambre-4 {
+.x03-explorer-desktop .chambre-4 {
   left: 104px;
   line-height: 16px;
   top: 510px;
 }
 
-.x03-explorer-web .noun-bunk-bed-1513651 {
+.x03-explorer-desktop .noun-bunk-bed-1513651 {
   display: flex;
   height: 90px;
   left: 479px;
@@ -1864,13 +1864,13 @@
   width: 79px;
 }
 
-.x03-explorer-web .group {
+.x03-explorer-desktop .group {
   display: flex;
   flex: 1;
   width: 79.16px;
 }
 
-.x03-explorer-web .compound-path {
+.x03-explorer-desktop .compound-path {
   flex: 1;
   margin-bottom: -1.0px;
   margin-left: -1.0px;
@@ -1880,7 +1880,7 @@
   width: 81.16px;
 }
 
-.x03-explorer-web .noun-bunk-bed-1513651-1 {
+.x03-explorer-desktop .noun-bunk-bed-1513651-1 {
   display: flex;
   height: 90px;
   left: 366px;
@@ -1889,7 +1889,7 @@
   width: 79px;
 }
 
-.x03-explorer-web .ligne-73 {
+.x03-explorer-desktop .ligne-73 {
   height: 1px;
   left: 237px;
   object-fit: cover;
@@ -1898,7 +1898,7 @@
   width: 423px;
 }
 
-.x03-explorer-web .noun-bed-7430267 {
+.x03-explorer-desktop .noun-bed-7430267 {
   background-image: url(../img/trac--2390-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1909,17 +1909,17 @@
   width: 73px;
 }
 
-.x03-explorer-web .noun-bed-7430267-1 {
+.x03-explorer-desktop .noun-bed-7430267-1 {
   left: 334px;
   top: 345px;
 }
 
-.x03-explorer-web .noun-bed-7430267-2 {
+.x03-explorer-desktop .noun-bed-7430267-2 {
   left: 521px;
   top: 345px;
 }
 
-.x03-explorer-web .x1-lit-double {
+.x03-explorer-desktop .x1-lit-double {
   left: 114px;
   letter-spacing: 1.60px;
   line-height: 16px;
@@ -1928,7 +1928,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .chambre-2-3-5 {
+.x03-explorer-desktop .chambre-2-3-5 {
   left: 104px;
   letter-spacing: 1.60px;
   line-height: 16px;
@@ -1937,15 +1937,15 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .x1-lit-double-1 {
+.x03-explorer-desktop .x1-lit-double-1 {
   left: 309px;
 }
 
-.x03-explorer-web .x1-lit-double-2 {
+.x03-explorer-desktop .x1-lit-double-2 {
   left: 496px;
 }
 
-.x03-explorer-web .ligne-74 {
+.x03-explorer-desktop .ligne-74 {
   height: 151px;
   left: 275px;
   object-fit: cover;
@@ -1954,7 +1954,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .ligne-75 {
+.x03-explorer-desktop .ligne-75 {
   height: 151px;
   left: 456px;
   object-fit: cover;
@@ -1963,7 +1963,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .ligne-76 {
+.x03-explorer-desktop .ligne-76 {
   height: 1px;
   left: 310px;
   object-fit: cover;
@@ -1972,12 +1972,12 @@
   width: 350px;
 }
 
-.x03-explorer-web .noun-bed-7430267-3 {
+.x03-explorer-desktop .noun-bed-7430267-3 {
   left: 314px;
   top: 93px;
 }
 
-.x03-explorer-web .groupe-7314 {
+.x03-explorer-desktop .groupe-7314 {
   align-items: flex-start;
   border: 4px solid;
   border-color: var(--black);
@@ -1991,13 +1991,13 @@
   top: 93px;
 }
 
-.x03-explorer-web .noun-shower-7931629-1 {
+.x03-explorer-desktop .noun-shower-7931629-1 {
   display: flex;
   height: 64px;
   width: 47px;
 }
 
-.x03-explorer-web .trac-2392-1 {
+.x03-explorer-desktop .trac-2392-1 {
   flex: 1;
   margin-bottom: -0.5px;
   margin-left: -0.5px;
@@ -2007,7 +2007,7 @@
   width: 48.12px;
 }
 
-.x03-explorer-web .accs-pmr-1-lit {
+.x03-explorer-desktop .accs-pmr-1-lit {
   left: 112px;
   letter-spacing: 1.60px;
   line-height: 30px;
@@ -2016,13 +2016,13 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .chambre-1 {
+.x03-explorer-desktop .chambre-1 {
   left: 100px;
   line-height: 16px;
   top: 33px;
 }
 
-.x03-explorer-web .groupe-7315 {
+.x03-explorer-desktop .groupe-7315 {
   align-items: flex-start;
   border: 4px solid;
   border-color: var(--black);
@@ -2036,7 +2036,7 @@
   top: 93px;
 }
 
-.x03-explorer-web .noun-disabled-7860353 {
+.x03-explorer-desktop .noun-disabled-7860353 {
   display: flex;
   flex-direction: column;
   gap: 2.7px;
@@ -2044,7 +2044,7 @@
   width: 44px;
 }
 
-.x03-explorer-web .trac-2393 {
+.x03-explorer-desktop .trac-2393 {
   height: 13.87px;
   margin-left: 1.9px;
   margin-top: 0;
@@ -2052,7 +2052,7 @@
   width: 13.87px;
 }
 
-.x03-explorer-web .ligne-77 {
+.x03-explorer-desktop .ligne-77 {
   height: 1px;
   left: 230px;
   object-fit: cover;
@@ -2061,7 +2061,7 @@
   width: 430px;
 }
 
-.x03-explorer-web .communs {
+.x03-explorer-desktop .communs {
   left: -45px;
   letter-spacing: 0;
   line-height: 32px;
@@ -2071,7 +2071,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .canap-tlvisio {
+.x03-explorer-desktop .canap-tlvisio {
   left: 112px;
   letter-spacing: 1.60px;
   line-height: 30px;
@@ -2080,7 +2080,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .salle-de-jeux {
+.x03-explorer-desktop .salle-de-jeux {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
   font-size: var(--font-size-l);
@@ -2093,13 +2093,13 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .ligne-77-1 {
+.x03-explorer-desktop .ligne-77-1 {
   left: 258px;
   top: 289px;
   width: 402px;
 }
 
-.x03-explorer-web .noun-table-football-5133429 {
+.x03-explorer-desktop .noun-table-football-5133429 {
   display: flex;
   height: 59px;
   left: 299px;
@@ -2109,7 +2109,7 @@
   width: 89px;
 }
 
-.x03-explorer-web .groupe-7329 {
+.x03-explorer-desktop .groupe-7329 {
   display: flex;
   flex: 1;
   margin-bottom: 0;
@@ -2117,7 +2117,7 @@
   width: 89.08px;
 }
 
-.x03-explorer-web .trac-2398 {
+.x03-explorer-desktop .trac-2398 {
   flex: 1;
   margin-bottom: -14.8px;
   margin-left: 14.8px;
@@ -2128,7 +2128,7 @@
   width: 59.43px;
 }
 
-.x03-explorer-web .noun-tv-7596210 {
+.x03-explorer-desktop .noun-tv-7596210 {
   background-image: url(../img/trac--2399@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2139,7 +2139,7 @@
   width: 86px;
 }
 
-.x03-explorer-web .trac-2403 {
+.x03-explorer-desktop .trac-2403 {
   height: 88px;
   left: 538px;
   object-fit: cover;
@@ -2148,7 +2148,7 @@
   width: 89px;
 }
 
-.x03-explorer-web .groupe-7314-1 {
+.x03-explorer-desktop .groupe-7314-1 {
   align-items: flex-start;
   border: 4px solid;
   border-color: var(--black);
@@ -2162,13 +2162,13 @@
   top: 558px;
 }
 
-.x03-explorer-web .noun-shower-7931629 {
+.x03-explorer-desktop .noun-shower-7931629 {
   display: flex;
   height: 61px;
   width: 45px;
 }
 
-.x03-explorer-web .trac-2392 {
+.x03-explorer-desktop .trac-2392 {
   flex: 1;
   margin-bottom: -0.5px;
   margin-left: -0.5px;
@@ -2178,7 +2178,7 @@
   width: 45.71px;
 }
 
-.x03-explorer-web .groupe-7331 {
+.x03-explorer-desktop .groupe-7331 {
   align-items: flex-start;
   border: 4px solid;
   border-color: var(--black);
@@ -2192,7 +2192,7 @@
   top: 558px;
 }
 
-.x03-explorer-web .noun-laundry-7549867 {
+.x03-explorer-desktop .noun-laundry-7549867 {
   background-image: url(../img/trac--2402@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2200,7 +2200,7 @@
   width: 49px;
 }
 
-.x03-explorer-web .groupe-7330 {
+.x03-explorer-desktop .groupe-7330 {
   align-items: flex-start;
   border: 4px solid;
   border-color: var(--black);
@@ -2214,7 +2214,7 @@
   top: 558px;
 }
 
-.x03-explorer-web .x1 {
+.x03-explorer-desktop .x1 {
   background-image: url(../img/trac--2401-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2222,7 +2222,7 @@
   width: 43px;
 }
 
-.x03-explorer-web .x2-wc-1-salle-de-bain-1-buanderie {
+.x03-explorer-desktop .x2-wc-1-salle-de-bain-1-buanderie {
   left: 112px;
   letter-spacing: 1.60px;
   line-height: 30px;
@@ -2231,7 +2231,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .sanitaires {
+.x03-explorer-desktop .sanitaires {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
   font-size: var(--font-size-l);
@@ -2244,13 +2244,13 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .ligne-77-2 {
+.x03-explorer-desktop .ligne-77-2 {
   left: 232px;
   top: 533px;
   width: 427px;
 }
 
-.x03-explorer-web .x1-sjour-23-pl {
+.x03-explorer-desktop .x1-sjour-23-pl {
   left: 112px;
   letter-spacing: 1.60px;
   line-height: 30px;
@@ -2259,7 +2259,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .pices-de-vie {
+.x03-explorer-desktop .pices-de-vie {
   left: 100px;
   letter-spacing: 1.60px;
   line-height: 16px;
@@ -2268,13 +2268,13 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .ligne-77-3 {
+.x03-explorer-desktop .ligne-77-3 {
   left: 252px;
   top: 59px;
   width: 408px;
 }
 
-.x03-explorer-web .groupe-7327 {
+.x03-explorer-desktop .groupe-7327 {
   background-image: url(../img/trac--2395@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2285,7 +2285,7 @@
   width: 71px;
 }
 
-.x03-explorer-web .groupe-7326 {
+.x03-explorer-desktop .groupe-7326 {
   background-image: url(../img/trac--2396@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2296,7 +2296,7 @@
   width: 66px;
 }
 
-.x03-explorer-web .groupe-7328 {
+.x03-explorer-desktop .groupe-7328 {
   background-image: url(../img/trac--2397@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2307,7 +2307,7 @@
   width: 63px;
 }
 
-.x03-explorer-web .ltage {
+.x03-explorer-desktop .ltage {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
   font-size: 32px;
@@ -2321,7 +2321,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .overlap-group-container-1 {
+.x03-explorer-desktop .overlap-group-container-1 {
   align-self: flex-start;
   gap: 120px;
   margin-left: 223.42px;
@@ -2329,13 +2329,13 @@
   min-width: 1540px;
 }
 
-.x03-explorer-web .overlap-group14 {
+.x03-explorer-desktop .overlap-group14 {
   height: 432px;
   position: relative;
   width: 710px;
 }
 
-.x03-explorer-web .rectangle-298 {
+.x03-explorer-desktop .rectangle-298 {
   background-color: var(--gravel);
   border-radius: 17px 0px 0px 17px;
   height: 209px;
@@ -2345,7 +2345,7 @@
   width: 50px;
 }
 
-.x03-explorer-web .rectangle-2768 {
+.x03-explorer-desktop .rectangle-2768 {
   background-color: var(--bianca);
   border-radius: 17px;
   box-shadow: 0px 3px 6px #00000029;
@@ -2356,7 +2356,7 @@
   width: 660px;
 }
 
-.x03-explorer-web .chambres-1 {
+.x03-explorer-desktop .chambres-1 {
   left: -48px;
   letter-spacing: 0;
   line-height: 32px;
@@ -2366,7 +2366,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .groupe-7332 {
+.x03-explorer-desktop .groupe-7332 {
   display: flex;
   height: 90px;
   left: 532px;
@@ -2375,7 +2375,7 @@
   width: 79px;
 }
 
-.x03-explorer-web .noun-bunk-bed-1513651-2 {
+.x03-explorer-desktop .noun-bunk-bed-1513651-2 {
   display: flex;
   flex: 1;
   margin-left: 0;
@@ -2383,19 +2383,19 @@
   width: 79.16px;
 }
 
-.x03-explorer-web .group-1 {
+.x03-explorer-desktop .group-1 {
   display: flex;
   flex: 1;
   margin-bottom: 0;
   width: 79.16px;
 }
 
-.x03-explorer-web .noun-bed-7430267-4 {
+.x03-explorer-desktop .noun-bed-7430267-4 {
   left: 360px;
   top: 301px;
 }
 
-.x03-explorer-web .x1-lit-double-1-1 {
+.x03-explorer-desktop .x1-lit-double-1-1 {
   left: 114px;
   letter-spacing: 1.60px;
   line-height: 16px;
@@ -2404,13 +2404,13 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .chambre-7 {
+.x03-explorer-desktop .chambre-7 {
   left: 102px;
   line-height: 16px;
   top: 245px;
 }
 
-.x03-explorer-web .ligne-76-1 {
+.x03-explorer-desktop .ligne-76-1 {
   height: 1px;
   left: 230px;
   object-fit: cover;
@@ -2419,12 +2419,12 @@
   width: 430px;
 }
 
-.x03-explorer-web .noun-bed-7430267-5 {
+.x03-explorer-desktop .noun-bed-7430267-5 {
   left: 314px;
   top: 92px;
 }
 
-.x03-explorer-web .x2-lits-doubles-2-lits-simples {
+.x03-explorer-desktop .x2-lits-doubles-2-lits-simples {
   left: 104px;
   letter-spacing: 1.60px;
   line-height: 30px;
@@ -2433,18 +2433,18 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .chambre-6 {
+.x03-explorer-desktop .chambre-6 {
   left: 101px;
   line-height: 16px;
   top: 34px;
 }
 
-.x03-explorer-web .noun-bed-7430267-6 {
+.x03-explorer-desktop .noun-bed-7430267-6 {
   left: 403px;
   top: 92px;
 }
 
-.x03-explorer-web .noun-bed-7430277 {
+.x03-explorer-desktop .noun-bed-7430277 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -2457,7 +2457,7 @@
   width: 107px;
 }
 
-.x03-explorer-web .overlap-group6 {
+.x03-explorer-desktop .overlap-group6 {
   align-items: flex-end;
   align-self: flex-end;
   background-image: url(../img/trac--2389-1@1x.png);
@@ -2469,20 +2469,20 @@
   min-width: 65px;
 }
 
-.x03-explorer-web .trac-2404 {
+.x03-explorer-desktop .trac-2404 {
   height: 90px;
   margin-bottom: 0;
   object-fit: cover;
   width: 65px;
 }
 
-.x03-explorer-web .trac-2405 {
+.x03-explorer-desktop .trac-2405 {
   height: 90px;
   object-fit: cover;
   width: 65px;
 }
 
-.x03-explorer-web .noun-bed-7430277-1 {
+.x03-explorer-desktop .noun-bed-7430277-1 {
   background-image: url(../img/trac--2389-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2493,13 +2493,13 @@
   width: 65px;
 }
 
-.x03-explorer-web .overlap-group18 {
+.x03-explorer-desktop .overlap-group18 {
   height: 254px;
   position: relative;
   width: 710px;
 }
 
-.x03-explorer-web .rectangle-2770 {
+.x03-explorer-desktop .rectangle-2770 {
   background-color: var(--bianca);
   border-radius: 17px;
   box-shadow: 0px 3px 6px #00000029;
@@ -2510,7 +2510,7 @@
   width: 660px;
 }
 
-.x03-explorer-web .x2-salles-de-bain {
+.x03-explorer-desktop .x2-salles-de-bain {
   left: 95px;
   letter-spacing: 1.60px;
   line-height: 30px;
@@ -2519,7 +2519,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .salles-de-bain {
+.x03-explorer-desktop .salles-de-bain {
   left: 100px;
   letter-spacing: 1.60px;
   line-height: 16px;
@@ -2528,7 +2528,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .ligne-79 {
+.x03-explorer-desktop .ligne-79 {
   height: 1px;
   left: 266px;
   object-fit: cover;
@@ -2537,7 +2537,7 @@
   width: 394px;
 }
 
-.x03-explorer-web .groupe-7333 {
+.x03-explorer-desktop .groupe-7333 {
   align-items: flex-start;
   border: 4px solid;
   border-color: var(--black);
@@ -2551,7 +2551,7 @@
   top: 104px;
 }
 
-.x03-explorer-web .groupe-7334 {
+.x03-explorer-desktop .groupe-7334 {
   align-items: flex-start;
   border: 4px solid;
   border-color: var(--black);
@@ -2566,7 +2566,7 @@
   top: 104px;
 }
 
-.x03-explorer-web .flex-row-2 {
+.x03-explorer-desktop .flex-row-2 {
   align-items: flex-start;
   align-self: flex-start;
   background-image: url(../img/trac--1732-1x-png@1x.png);
@@ -2580,7 +2580,7 @@
   padding: 103.7px 206.5px;
 }
 
-.x03-explorer-web .flex-row-3 {
+.x03-explorer-desktop .flex-row-3 {
   align-items: flex-start;
   display: flex;
   gap: 94px;
@@ -2589,34 +2589,34 @@
   min-width: 711px;
 }
 
-.x03-explorer-web .flex-col-3 {
+.x03-explorer-desktop .flex-col-3 {
   align-items: center;
   min-height: 339px;
   width: 311px;
 }
 
-.x03-explorer-web .noun-group-3455271 {
+.x03-explorer-desktop .noun-group-3455271 {
   display: flex;
   height: 137px;
   margin-left: 6.24px;
   width: 199px;
 }
 
-.x03-explorer-web .groupe-5474 {
+.x03-explorer-desktop .groupe-5474 {
   align-items: flex-start;
   display: flex;
   flex: 1;
   min-width: 198.83px;
 }
 
-.x03-explorer-web .group-container-1 {
+.x03-explorer-desktop .group-container-1 {
   height: 137px;
   margin-top: 0;
   position: relative;
   width: 199px;
 }
 
-.x03-explorer-web .groupe-5466 {
+.x03-explorer-desktop .groupe-5466 {
   background-image: url(../img/trac--1713@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2627,7 +2627,7 @@
   width: 64px;
 }
 
-.x03-explorer-web .groupe-container-1 {
+.x03-explorer-desktop .groupe-container-1 {
   height: 95px;
   left: 0;
   position: absolute;
@@ -2635,7 +2635,7 @@
   width: 199px;
 }
 
-.x03-explorer-web .groupe-5467 {
+.x03-explorer-desktop .groupe-5467 {
   background-image: url(../img/trac--1714-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2646,7 +2646,7 @@
   width: 46px;
 }
 
-.x03-explorer-web .groupe-5468 {
+.x03-explorer-desktop .groupe-5468 {
   background-image: url(../img/trac--1715@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2657,7 +2657,7 @@
   width: 46px;
 }
 
-.x03-explorer-web .groupe-5471 {
+.x03-explorer-desktop .groupe-5471 {
   display: flex;
   height: 57px;
   justify-content: space-between;
@@ -2667,7 +2667,7 @@
   width: 199px;
 }
 
-.x03-explorer-web .groupe-5470 {
+.x03-explorer-desktop .groupe-5470 {
   background-image: url(../img/trac--1717@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2676,7 +2676,7 @@
   width: 67.45px;
 }
 
-.x03-explorer-web .groupe-5469 {
+.x03-explorer-desktop .groupe-5469 {
   background-image: url(../img/trac--1716@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2684,7 +2684,7 @@
   width: 67.67px;
 }
 
-.x03-explorer-web .groupe-5473 {
+.x03-explorer-desktop .groupe-5473 {
   background-image: url(../img/trac--1718@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2695,7 +2695,7 @@
   width: 101px;
 }
 
-.x03-explorer-web .de-lespace-pour-tous {
+.x03-explorer-desktop .de-lespace-pour-tous {
   letter-spacing: 3.15px;
   line-height: 21px;
   margin-left: 13.14px;
@@ -2705,7 +2705,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .ligne-61 {
+.x03-explorer-desktop .ligne-61 {
   height: 2px;
   margin-left: 5.04px;
   margin-top: 15px;
@@ -2713,7 +2713,7 @@
   width: 306px;
 }
 
-.x03-explorer-web .peut-accueillir-jusq {
+.x03-explorer-desktop .peut-accueillir-jusq {
   letter-spacing: 2.40px;
   line-height: 16px;
   margin-right: 8.7px;
@@ -2724,14 +2724,14 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .flex-col-4 {
+.x03-explorer-desktop .flex-col-4 {
   align-items: flex-start;
   margin-top: 0;
   min-height: 318px;
   width: 307px;
 }
 
-.x03-explorer-web .noun-dice-roll-2317787 {
+.x03-explorer-desktop .noun-dice-roll-2317787 {
   align-self: center;
   display: flex;
   height: 137px;
@@ -2739,7 +2739,7 @@
   width: 167px;
 }
 
-.x03-explorer-web .groupe-5475 {
+.x03-explorer-desktop .groupe-5475 {
   align-items: flex-start;
   display: flex;
   flex: 1;
@@ -2747,14 +2747,14 @@
   min-width: 167.11px;
 }
 
-.x03-explorer-web .trac-container {
+.x03-explorer-desktop .trac-container {
   height: 139px;
   margin-top: -1.02px;
   position: relative;
   width: 169px;
 }
 
-.x03-explorer-web .trac-1719 {
+.x03-explorer-desktop .trac-1719 {
   height: 93px;
   left: 0;
   object-fit: cover;
@@ -2763,7 +2763,7 @@
   width: 95px;
 }
 
-.x03-explorer-web .trac-1720 {
+.x03-explorer-desktop .trac-1720 {
   height: 15px;
   left: 21px;
   object-fit: cover;
@@ -2772,7 +2772,7 @@
   width: 15px;
 }
 
-.x03-explorer-web .trac-1721 {
+.x03-explorer-desktop .trac-1721 {
   height: 15px;
   left: 40px;
   object-fit: cover;
@@ -2781,7 +2781,7 @@
   width: 15px;
 }
 
-.x03-explorer-web .trac-1722 {
+.x03-explorer-desktop .trac-1722 {
   height: 15px;
   left: 21px;
   object-fit: cover;
@@ -2790,7 +2790,7 @@
   width: 15px;
 }
 
-.x03-explorer-web .trac-1723 {
+.x03-explorer-desktop .trac-1723 {
   height: 15px;
   left: 60px;
   object-fit: cover;
@@ -2799,7 +2799,7 @@
   width: 15px;
 }
 
-.x03-explorer-web .trac-1724 {
+.x03-explorer-desktop .trac-1724 {
   height: 122px;
   left: 46px;
   object-fit: cover;
@@ -2808,7 +2808,7 @@
   width: 123px;
 }
 
-.x03-explorer-web .trac-1725 {
+.x03-explorer-desktop .trac-1725 {
   height: 15px;
   left: 126px;
   object-fit: cover;
@@ -2817,7 +2817,7 @@
   width: 15px;
 }
 
-.x03-explorer-web .trac-1726 {
+.x03-explorer-desktop .trac-1726 {
   height: 15px;
   left: 100px;
   object-fit: cover;
@@ -2826,7 +2826,7 @@
   width: 15px;
 }
 
-.x03-explorer-web .trac-1727 {
+.x03-explorer-desktop .trac-1727 {
   height: 15px;
   left: 74px;
   object-fit: cover;
@@ -2835,7 +2835,7 @@
   width: 15px;
 }
 
-.x03-explorer-web .jeux-et-divertissements {
+.x03-explorer-desktop .jeux-et-divertissements {
   letter-spacing: 3.15px;
   line-height: 21px;
   margin-left: 4.23px;
@@ -2844,14 +2844,14 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .ligne {
+.x03-explorer-desktop .ligne {
   height: 2px;
   margin-top: 15px;
   object-fit: cover;
   width: 306px;
 }
 
-.x03-explorer-web .profitez-dune-salle {
+.x03-explorer-desktop .profitez-dune-salle {
   letter-spacing: 2.40px;
   line-height: 16px;
   margin-left: 6.17px;
@@ -2862,7 +2862,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .flex-col-5 {
+.x03-explorer-desktop .flex-col-5 {
   align-items: center;
   margin-left: 91px;
   margin-top: 2.82px;
@@ -2870,14 +2870,14 @@
   width: 353px;
 }
 
-.x03-explorer-web .groupe-container-2 {
+.x03-explorer-desktop .groupe-container-2 {
   height: 137px;
   margin-right: 10.93px;
   position: relative;
   width: 137px;
 }
 
-.x03-explorer-web .groupe-4251 {
+.x03-explorer-desktop .groupe-4251 {
   background-image: url(../img/trac--1288-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2888,7 +2888,7 @@
   width: 119px;
 }
 
-.x03-explorer-web .groupe-4252 {
+.x03-explorer-desktop .groupe-4252 {
   background-image: url(../img/trac--1289@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2899,7 +2899,7 @@
   width: 104px;
 }
 
-.x03-explorer-web .groupe-4253 {
+.x03-explorer-desktop .groupe-4253 {
   background-image: url(../img/trac--1290@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2910,7 +2910,7 @@
   width: 47px;
 }
 
-.x03-explorer-web .groupe-4254 {
+.x03-explorer-desktop .groupe-4254 {
   background-image: url(../img/trac--1291-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2921,7 +2921,7 @@
   width: 46px;
 }
 
-.x03-explorer-web .vivez-au-cur-de-la-nature {
+.x03-explorer-desktop .vivez-au-cur-de-la-nature {
   letter-spacing: 3.15px;
   line-height: 21px;
   margin-top: 38px;
@@ -2930,7 +2930,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .ligne-59 {
+.x03-explorer-desktop .ligne-59 {
   height: 2px;
   margin-right: 10.71px;
   margin-top: 15px;
@@ -2938,7 +2938,7 @@
   width: 306px;
 }
 
-.x03-explorer-web .entour-de-paysages {
+.x03-explorer-desktop .entour-de-paysages {
   align-self: flex-start;
   letter-spacing: 2.40px;
   line-height: 16px;
@@ -2950,21 +2950,21 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .flex-col-6 {
+.x03-explorer-desktop .flex-col-6 {
   align-items: center;
   margin-left: 84px;
   min-height: 342px;
   width: 306px;
 }
 
-.x03-explorer-web .noun-mobile-5168718 {
+.x03-explorer-desktop .noun-mobile-5168718 {
   display: flex;
   height: 142px;
   margin-left: 0.19px;
   width: 132px;
 }
 
-.x03-explorer-web .groupe-5477 {
+.x03-explorer-desktop .groupe-5477 {
   align-items: flex-end;
   display: flex;
   flex: 1;
@@ -2972,14 +2972,14 @@
   min-width: 132.07px;
 }
 
-.x03-explorer-web .trac-container-1 {
+.x03-explorer-desktop .trac-container-1 {
   height: 142px;
   margin-bottom: 0;
   position: relative;
   width: 132px;
 }
 
-.x03-explorer-web .trac-1728 {
+.x03-explorer-desktop .trac-1728 {
   height: 127px;
   left: 0;
   object-fit: cover;
@@ -2988,7 +2988,7 @@
   width: 117px;
 }
 
-.x03-explorer-web .trac-1729 {
+.x03-explorer-desktop .trac-1729 {
   height: 66px;
   left: 86px;
   object-fit: cover;
@@ -2997,7 +2997,7 @@
   width: 46px;
 }
 
-.x03-explorer-web .trac-1730 {
+.x03-explorer-desktop .trac-1730 {
   height: 10px;
   left: 102px;
   object-fit: cover;
@@ -3006,7 +3006,7 @@
   width: 15px;
 }
 
-.x03-explorer-web .conforts-modernes {
+.x03-explorer-desktop .conforts-modernes {
   letter-spacing: 3.15px;
   line-height: 21px;
   margin-left: 4.91px;
@@ -3016,7 +3016,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .profitez-du-wi-fi-ha {
+.x03-explorer-desktop .profitez-du-wi-fi-ha {
   letter-spacing: 2.40px;
   line-height: 16px;
   margin-right: 14.17px;
@@ -3027,7 +3027,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .profitez-de-nos-quipements {
+.x03-explorer-desktop .profitez-de-nos-quipements {
   letter-spacing: 2.30px;
   line-height: 46px;
   margin-right: 505.71px;
@@ -3037,20 +3037,20 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .overlap-group-container-2 {
+.x03-explorer-desktop .overlap-group-container-2 {
   gap: 265px;
   margin-right: 512.29px;
   margin-top: 69px;
   min-width: 1417px;
 }
 
-.x03-explorer-web .overlap-group1-1 {
+.x03-explorer-desktop .overlap-group1-1 {
   height: 560px;
   position: relative;
   width: 576px;
 }
 
-.x03-explorer-web .rectangle-277 {
+.x03-explorer-desktop .rectangle-277 {
   background-color: var(--gravel);
   border-radius: 17px;
   height: 290px;
@@ -3060,7 +3060,7 @@
   width: 312px;
 }
 
-.x03-explorer-web .rectangle-277-1 {
+.x03-explorer-desktop .rectangle-277-1 {
   background-color: var(--bianca);
   border-radius: 17px;
   box-shadow: 0px 3px 6px #00000029;
@@ -3071,7 +3071,7 @@
   width: 576px;
 }
 
-.x03-explorer-web .trieur {
+.x03-explorer-desktop .trieur {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
   font-size: 32px;
@@ -3084,7 +3084,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .x3-services-racle {
+.x03-explorer-desktop .x3-services-racle {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
   font-size: 23px;
@@ -3097,7 +3097,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .noun-indoor-3859970 {
+.x03-explorer-desktop .noun-indoor-3859970 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -3110,21 +3110,21 @@
   width: 172px;
 }
 
-.x03-explorer-web .flex-row-4 {
+.x03-explorer-desktop .flex-row-4 {
   align-items: flex-start;
   display: flex;
   gap: 38px;
   min-width: 162px;
 }
 
-.x03-explorer-web .trac-2426 {
+.x03-explorer-desktop .trac-2426 {
   height: 32px;
   margin-top: 2.69px;
   object-fit: cover;
   width: 75px;
 }
 
-.x03-explorer-web .overlap-group7 {
+.x03-explorer-desktop .overlap-group7 {
   align-items: flex-start;
   background-image: url(../img/trac--2427@1x.png);
   background-position: 50% 50%;
@@ -3136,13 +3136,13 @@
   padding: 10.8px 13.5px;
 }
 
-.x03-explorer-web .trac-2432 {
+.x03-explorer-desktop .trac-2432 {
   height: 22px;
   object-fit: cover;
   width: 13px;
 }
 
-.x03-explorer-web .flex-row-5 {
+.x03-explorer-desktop .flex-row-5 {
   align-items: flex-start;
   display: flex;
   gap: 8px;
@@ -3151,21 +3151,21 @@
   min-width: 172px;
 }
 
-.x03-explorer-web .flex-col-7 {
+.x03-explorer-desktop .flex-col-7 {
   align-items: flex-start;
   gap: 3px;
   min-height: 82px;
   width: 40px;
 }
 
-.x03-explorer-web .trac-container-2 {
+.x03-explorer-desktop .trac-container-2 {
   height: 47px;
   margin-left: 0;
   position: relative;
   width: 40px;
 }
 
-.x03-explorer-web .trac-2429 {
+.x03-explorer-desktop .trac-2429 {
   height: 22px;
   left: 0;
   object-fit: cover;
@@ -3174,7 +3174,7 @@
   width: 19px;
 }
 
-.x03-explorer-web .trac-2430 {
+.x03-explorer-desktop .trac-2430 {
   height: 22px;
   left: 22px;
   object-fit: cover;
@@ -3183,7 +3183,7 @@
   width: 19px;
 }
 
-.x03-explorer-web .trac-2431 {
+.x03-explorer-desktop .trac-2431 {
   height: 30px;
   left: 12px;
   object-fit: cover;
@@ -3192,20 +3192,20 @@
   width: 16px;
 }
 
-.x03-explorer-web .trac-2428 {
+.x03-explorer-desktop .trac-2428 {
   height: 32px;
   object-fit: cover;
   width: 40px;
 }
 
-.x03-explorer-web .trac-container-3 {
+.x03-explorer-desktop .trac-container-3 {
   align-self: flex-end;
   height: 80px;
   position: relative;
   width: 124px;
 }
 
-.x03-explorer-web .trac-2433 {
+.x03-explorer-desktop .trac-2433 {
   height: 5px;
   left: 65px;
   object-fit: cover;
@@ -3214,7 +3214,7 @@
   width: 16px;
 }
 
-.x03-explorer-web .trac-2434 {
+.x03-explorer-desktop .trac-2434 {
   height: 80px;
   left: 0;
   object-fit: cover;
@@ -3223,7 +3223,7 @@
   width: 124px;
 }
 
-.x03-explorer-web .x1-table-de-ping-po {
+.x03-explorer-desktop .x1-table-de-ping-po {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
   font-size: 23px;
@@ -3236,7 +3236,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .noun-outdoor-5746385 {
+.x03-explorer-desktop .noun-outdoor-5746385 {
   display: flex;
   height: 137px;
   left: 327px;
@@ -3245,7 +3245,7 @@
   width: 179px;
 }
 
-.x03-explorer-web .groupe-7366 {
+.x03-explorer-desktop .groupe-7366 {
   display: flex;
   flex: 1;
   margin-left: 0;
@@ -3253,28 +3253,28 @@
   width: 179.24px;
 }
 
-.x03-explorer-web .groupe-7365 {
+.x03-explorer-desktop .groupe-7365 {
   display: flex;
   flex: 1;
   margin-bottom: 0;
   width: 179.24px;
 }
 
-.x03-explorer-web .groupe-7364 {
+.x03-explorer-desktop .groupe-7364 {
   align-items: flex-end;
   display: flex;
   flex: 1;
   min-width: 179.24px;
 }
 
-.x03-explorer-web .group-container-2 {
+.x03-explorer-desktop .group-container-2 {
   height: 137px;
   margin-bottom: 0;
   position: relative;
   width: 179px;
 }
 
-.x03-explorer-web .groupe-7335 {
+.x03-explorer-desktop .groupe-7335 {
   background-image: url(../img/trac--2406@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3285,7 +3285,7 @@
   width: 39px;
 }
 
-.x03-explorer-web .groupe-7336 {
+.x03-explorer-desktop .groupe-7336 {
   background-image: url(../img/trac--2407@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3296,7 +3296,7 @@
   width: 173px;
 }
 
-.x03-explorer-web .groupe-container-3 {
+.x03-explorer-desktop .groupe-container-3 {
   height: 103px;
   left: 0;
   position: absolute;
@@ -3304,7 +3304,7 @@
   width: 70px;
 }
 
-.x03-explorer-web .groupe-7337 {
+.x03-explorer-desktop .groupe-7337 {
   background-image: url(../img/trac--2408@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3315,7 +3315,7 @@
   width: 6px;
 }
 
-.x03-explorer-web .groupe-7338 {
+.x03-explorer-desktop .groupe-7338 {
   background-image: url(../img/trac--2409@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3326,7 +3326,7 @@
   width: 6px;
 }
 
-.x03-explorer-web .groupe-7340 {
+.x03-explorer-desktop .groupe-7340 {
   background-image: url(../img/trac--2410@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3337,7 +3337,7 @@
   width: 70px;
 }
 
-.x03-explorer-web .groupe-7348 {
+.x03-explorer-desktop .groupe-7348 {
   display: flex;
   height: 40px;
   justify-content: space-between;
@@ -3347,21 +3347,21 @@
   width: 98px;
 }
 
-.x03-explorer-web .groupe-7344 {
+.x03-explorer-desktop .groupe-7344 {
   align-items: flex-start;
   display: flex;
   justify-content: center;
   min-width: 39.23px;
 }
 
-.x03-explorer-web .groupe-container {
+.x03-explorer-desktop .groupe-container {
   height: 40px;
   margin-top: 0;
   position: relative;
   width: 39px;
 }
 
-.x03-explorer-web .groupe-7342 {
+.x03-explorer-desktop .groupe-7342 {
   background-image: url(../img/trac--2411-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3372,7 +3372,7 @@
   width: 39px;
 }
 
-.x03-explorer-web .groupe-7343 {
+.x03-explorer-desktop .groupe-7343 {
   background-image: url(../img/trac--2412-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3383,7 +3383,7 @@
   width: 6px;
 }
 
-.x03-explorer-web .groupe-7347 {
+.x03-explorer-desktop .groupe-7347 {
   align-items: flex-start;
   display: flex;
   margin-right: 0;
@@ -3391,7 +3391,7 @@
   padding: 0 0.0px;
 }
 
-.x03-explorer-web .groupe-7345 {
+.x03-explorer-desktop .groupe-7345 {
   background-image: url(../img/trac--2413@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3402,7 +3402,7 @@
   width: 39px;
 }
 
-.x03-explorer-web .groupe-7346 {
+.x03-explorer-desktop .groupe-7346 {
   background-image: url(../img/trac--2414@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3413,7 +3413,7 @@
   width: 6px;
 }
 
-.x03-explorer-web .groupe-container-4 {
+.x03-explorer-desktop .groupe-container-4 {
   height: 63px;
   left: 93px;
   position: absolute;
@@ -3421,7 +3421,7 @@
   width: 66px;
 }
 
-.x03-explorer-web .groupe-7349 {
+.x03-explorer-desktop .groupe-7349 {
   background-image: url(../img/trac--2415-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3432,7 +3432,7 @@
   width: 66px;
 }
 
-.x03-explorer-web .groupe-7350 {
+.x03-explorer-desktop .groupe-7350 {
   background-image: url(../img/trac--2416-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3443,7 +3443,7 @@
   width: 6px;
 }
 
-.x03-explorer-web .group-container-3 {
+.x03-explorer-desktop .group-container-3 {
   height: 64px;
   left: 81px;
   position: absolute;
@@ -3451,7 +3451,7 @@
   width: 90px;
 }
 
-.x03-explorer-web .groupe-7352 {
+.x03-explorer-desktop .groupe-7352 {
   background-image: url(../img/trac--2417-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3462,7 +3462,7 @@
   width: 6px;
 }
 
-.x03-explorer-web .group-container-4 {
+.x03-explorer-desktop .group-container-4 {
   height: 44px;
   left: 0;
   position: absolute;
@@ -3470,7 +3470,7 @@
   width: 90px;
 }
 
-.x03-explorer-web .groupe-container-5 {
+.x03-explorer-desktop .groupe-container-5 {
   height: 18px;
   left: 0;
   position: absolute;
@@ -3478,7 +3478,7 @@
   width: 90px;
 }
 
-.x03-explorer-web .groupe-7353 {
+.x03-explorer-desktop .groupe-7353 {
   background-image: url(../img/trac--2418@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3489,7 +3489,7 @@
   width: 22px;
 }
 
-.x03-explorer-web .groupe-7354 {
+.x03-explorer-desktop .groupe-7354 {
   background-image: url(../img/trac--2418@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3500,7 +3500,7 @@
   width: 22px;
 }
 
-.x03-explorer-web .groupe-7355 {
+.x03-explorer-desktop .groupe-7355 {
   background-image: url(../img/trac--2418@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3511,7 +3511,7 @@
   width: 22px;
 }
 
-.x03-explorer-web .groupe-7356 {
+.x03-explorer-desktop .groupe-7356 {
   background-image: url(../img/trac--2421@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3522,7 +3522,7 @@
   width: 22px;
 }
 
-.x03-explorer-web .groupe-7357 {
+.x03-explorer-desktop .groupe-7357 {
   background-image: url(../img/trac--2418@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3533,7 +3533,7 @@
   width: 22px;
 }
 
-.x03-explorer-web .groupe-7359 {
+.x03-explorer-desktop .groupe-7359 {
   background-image: url(../img/trac--2423-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3544,7 +3544,7 @@
   width: 48px;
 }
 
-.x03-explorer-web .groupe-7360 {
+.x03-explorer-desktop .groupe-7360 {
   background-image: url(../img/trac--2424@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3555,7 +3555,7 @@
   width: 64px;
 }
 
-.x03-explorer-web .groupe-7361 {
+.x03-explorer-desktop .groupe-7361 {
   background-image: url(../img/trac--2425-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3566,7 +3566,7 @@
   width: 22px;
 }
 
-.x03-explorer-web .flex-row-6 {
+.x03-explorer-desktop .flex-row-6 {
   align-items: center;
   display: flex;
   margin-left: 129.5px;
@@ -3574,13 +3574,13 @@
   min-width: 1169px;
 }
 
-.x03-explorer-web .trac-2437 {
+.x03-explorer-desktop .trac-2437 {
   height: 208px;
   object-fit: cover;
   width: 176px;
 }
 
-.x03-explorer-web .groupe-7368 {
+.x03-explorer-desktop .groupe-7368 {
   align-items: flex-end;
   background-color: var(--corn);
   border-radius: 26px;
@@ -3594,7 +3594,7 @@
   padding: 9px 80px;
 }
 
-.x03-explorer-web .galerie-1 {
+.x03-explorer-desktop .galerie-1 {
   letter-spacing: 0;
   line-height: 25px;
   min-height: 27px;
@@ -3602,7 +3602,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .groupe-7367 {
+.x03-explorer-desktop .groupe-7367 {
   align-items: flex-end;
   background-color: var(--corn);
   border-radius: 26px;
@@ -3616,7 +3616,7 @@
   padding: 9px 23px;
 }
 
-.x03-explorer-web .ligne-35 {
+.x03-explorer-desktop .ligne-35 {
   height: 2px;
   margin-left: 172.36px;
   margin-top: 98px;
@@ -3624,7 +3624,7 @@
   width: 1596px;
 }
 
-.x03-explorer-web .flex-row-7 {
+.x03-explorer-desktop .flex-row-7 {
   align-items: flex-start;
   align-self: center;
   display: flex;
@@ -3632,14 +3632,14 @@
   min-width: 1660px;
 }
 
-.x03-explorer-web .groupe-1821 {
+.x03-explorer-desktop .groupe-1821 {
   display: flex;
   height: 261px;
   overflow: hidden;
   width: 244px;
 }
 
-.x03-explorer-web .groupe-1820 {
+.x03-explorer-desktop .groupe-1820 {
   display: flex;
   flex: 1;
   margin-bottom: 0;
@@ -3647,7 +3647,7 @@
   width: 244.02px;
 }
 
-.x03-explorer-web .groupe-1819 {
+.x03-explorer-desktop .groupe-1819 {
   align-items: center;
   display: flex;
   flex: 1;
@@ -3658,14 +3658,14 @@
   width: 244.02px;
 }
 
-.x03-explorer-web .flex-row-8 {
+.x03-explorer-desktop .flex-row-8 {
   align-items: flex-end;
   display: flex;
   margin-right: 6.85px;
   min-width: 168px;
 }
 
-.x03-explorer-web .groupe-1386 {
+.x03-explorer-desktop .groupe-1386 {
   align-self: flex-start;
   background-image: url(../img/groupe-1384-1@1x.png);
   background-position: 50% 50%;
@@ -3676,7 +3676,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .overlap-group2-1 {
+.x03-explorer-desktop .overlap-group2-1 {
   height: 161px;
   margin-bottom: 0.15px;
   margin-left: 7px;
@@ -3684,7 +3684,7 @@
   width: 49px;
 }
 
-.x03-explorer-web .groupe-1221 {
+.x03-explorer-desktop .groupe-1221 {
   background-image: url(../img/groupe-1219@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3696,7 +3696,7 @@
   width: 2px;
 }
 
-.x03-explorer-web .groupe-1224 {
+.x03-explorer-desktop .groupe-1224 {
   background-image: url(../img/groupe-1222-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3708,7 +3708,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1227 {
+.x03-explorer-desktop .groupe-1227 {
   background-image: url(../img/groupe-1225-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3720,7 +3720,7 @@
   width: 2px;
 }
 
-.x03-explorer-web .groupe-1230 {
+.x03-explorer-desktop .groupe-1230 {
   background-image: url(../img/groupe-1228-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3732,7 +3732,7 @@
   width: 2px;
 }
 
-.x03-explorer-web .groupe-1233 {
+.x03-explorer-desktop .groupe-1233 {
   background-image: url(../img/groupe-1231-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3744,7 +3744,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1236 {
+.x03-explorer-desktop .groupe-1236 {
   background-image: url(../img/groupe-1234-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3756,7 +3756,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1239 {
+.x03-explorer-desktop .groupe-1239 {
   background-image: url(../img/groupe-1237-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3768,7 +3768,7 @@
   width: 2px;
 }
 
-.x03-explorer-web .groupe-1242 {
+.x03-explorer-desktop .groupe-1242 {
   background-image: url(../img/groupe-1240-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3780,7 +3780,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1245 {
+.x03-explorer-desktop .groupe-1245 {
   background-image: url(../img/groupe-1243-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3792,7 +3792,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1248 {
+.x03-explorer-desktop .groupe-1248 {
   background-image: url(../img/groupe-1246-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3804,7 +3804,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1251 {
+.x03-explorer-desktop .groupe-1251 {
   background-image: url(../img/groupe-1249-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3816,7 +3816,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1254 {
+.x03-explorer-desktop .groupe-1254 {
   background-image: url(../img/groupe-1252-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3828,7 +3828,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1257 {
+.x03-explorer-desktop .groupe-1257 {
   background-image: url(../img/groupe-1255-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3840,7 +3840,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1260 {
+.x03-explorer-desktop .groupe-1260 {
   background-image: url(../img/groupe-1258-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3852,7 +3852,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1263 {
+.x03-explorer-desktop .groupe-1263 {
   background-image: url(../img/groupe-1261-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3864,7 +3864,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1266 {
+.x03-explorer-desktop .groupe-1266 {
   background-image: url(../img/groupe-1264-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3876,7 +3876,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1269 {
+.x03-explorer-desktop .groupe-1269 {
   background-image: url(../img/groupe-1267-3@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3888,7 +3888,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1272 {
+.x03-explorer-desktop .groupe-1272 {
   background-image: url(../img/groupe-1270-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3900,7 +3900,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1275 {
+.x03-explorer-desktop .groupe-1275 {
   background-image: url(../img/groupe-1273-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3912,7 +3912,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1278 {
+.x03-explorer-desktop .groupe-1278 {
   background-image: url(../img/groupe-1276-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3924,7 +3924,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1281 {
+.x03-explorer-desktop .groupe-1281 {
   background-image: url(../img/groupe-1279-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3936,7 +3936,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1284 {
+.x03-explorer-desktop .groupe-1284 {
   background-image: url(../img/groupe-1282-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3948,7 +3948,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1287 {
+.x03-explorer-desktop .groupe-1287 {
   background-image: url(../img/groupe-1285-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3960,7 +3960,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1290 {
+.x03-explorer-desktop .groupe-1290 {
   background-image: url(../img/groupe-1288-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3972,7 +3972,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1293 {
+.x03-explorer-desktop .groupe-1293 {
   background-image: url(../img/groupe-1291-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3984,7 +3984,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1296 {
+.x03-explorer-desktop .groupe-1296 {
   background-image: url(../img/groupe-1294-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3996,7 +3996,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1299 {
+.x03-explorer-desktop .groupe-1299 {
   background-image: url(../img/groupe-1297-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4008,7 +4008,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1302 {
+.x03-explorer-desktop .groupe-1302 {
   background-image: url(../img/groupe-1300-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4020,7 +4020,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1305 {
+.x03-explorer-desktop .groupe-1305 {
   background-image: url(../img/groupe-1303-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4032,7 +4032,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1308 {
+.x03-explorer-desktop .groupe-1308 {
   background-image: url(../img/groupe-1306-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4044,7 +4044,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1311 {
+.x03-explorer-desktop .groupe-1311 {
   background-image: url(../img/groupe-1309-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4056,7 +4056,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1314 {
+.x03-explorer-desktop .groupe-1314 {
   background-image: url(../img/groupe-1312-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4068,7 +4068,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1317 {
+.x03-explorer-desktop .groupe-1317 {
   background-image: url(../img/groupe-1315-4@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4080,7 +4080,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1320 {
+.x03-explorer-desktop .groupe-1320 {
   background-image: url(../img/groupe-1318-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4092,7 +4092,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1323 {
+.x03-explorer-desktop .groupe-1323 {
   background-image: url(../img/groupe-1321-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4104,7 +4104,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1326 {
+.x03-explorer-desktop .groupe-1326 {
   background-image: url(../img/groupe-1324-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4116,7 +4116,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1329 {
+.x03-explorer-desktop .groupe-1329 {
   background-image: url(../img/groupe-1327-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4128,7 +4128,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1332 {
+.x03-explorer-desktop .groupe-1332 {
   background-image: url(../img/groupe-1330-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4140,7 +4140,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1335 {
+.x03-explorer-desktop .groupe-1335 {
   background-image: url(../img/groupe-1333-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4152,7 +4152,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1338 {
+.x03-explorer-desktop .groupe-1338 {
   background-image: url(../img/groupe-1336-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4164,7 +4164,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1341 {
+.x03-explorer-desktop .groupe-1341 {
   background-image: url(../img/groupe-1339-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4176,7 +4176,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1344 {
+.x03-explorer-desktop .groupe-1344 {
   background-image: url(../img/groupe-1342-3@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4188,7 +4188,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1347 {
+.x03-explorer-desktop .groupe-1347 {
   background-image: url(../img/groupe-1345-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4200,7 +4200,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1350 {
+.x03-explorer-desktop .groupe-1350 {
   background-image: url(../img/groupe-1348-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4212,7 +4212,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1353 {
+.x03-explorer-desktop .groupe-1353 {
   background-image: url(../img/groupe-1351-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4224,7 +4224,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1356 {
+.x03-explorer-desktop .groupe-1356 {
   background-image: url(../img/groupe-1354-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4236,7 +4236,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1359 {
+.x03-explorer-desktop .groupe-1359 {
   background-image: url(../img/groupe-1357-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4248,7 +4248,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1362 {
+.x03-explorer-desktop .groupe-1362 {
   background-image: url(../img/groupe-1360-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4260,7 +4260,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1365 {
+.x03-explorer-desktop .groupe-1365 {
   background-image: url(../img/groupe-1363-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4272,7 +4272,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1368 {
+.x03-explorer-desktop .groupe-1368 {
   background-image: url(../img/groupe-1366-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4284,7 +4284,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1371 {
+.x03-explorer-desktop .groupe-1371 {
   background-image: url(../img/groupe-1369-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4296,7 +4296,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1374 {
+.x03-explorer-desktop .groupe-1374 {
   background-image: url(../img/groupe-1372-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4308,7 +4308,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1377 {
+.x03-explorer-desktop .groupe-1377 {
   background-image: url(../img/groupe-1375-3@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4320,7 +4320,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1380 {
+.x03-explorer-desktop .groupe-1380 {
   background-image: url(../img/groupe-1369-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4332,7 +4332,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1383 {
+.x03-explorer-desktop .groupe-1383 {
   background-image: url(../img/groupe-1381-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4344,7 +4344,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .trac-277 {
+.x03-explorer-desktop .trac-277 {
   height: 138px;
   left: 26px;
   object-fit: cover;
@@ -4353,7 +4353,7 @@
   width: 22px;
 }
 
-.x03-explorer-web .groupe-1389 {
+.x03-explorer-desktop .groupe-1389 {
   background-image: url(../img/groupe-1387-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4365,7 +4365,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1392 {
+.x03-explorer-desktop .groupe-1392 {
   background-image: url(../img/groupe-1390-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4377,7 +4377,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1395 {
+.x03-explorer-desktop .groupe-1395 {
   background-image: url(../img/groupe-1393-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4389,7 +4389,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1398 {
+.x03-explorer-desktop .groupe-1398 {
   background-image: url(../img/groupe-1396-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4401,7 +4401,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1401 {
+.x03-explorer-desktop .groupe-1401 {
   background-image: url(../img/groupe-1399-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4413,7 +4413,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1404 {
+.x03-explorer-desktop .groupe-1404 {
   background-image: url(../img/groupe-1402-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4425,7 +4425,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1407 {
+.x03-explorer-desktop .groupe-1407 {
   background-image: url(../img/groupe-1405-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4437,7 +4437,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1410 {
+.x03-explorer-desktop .groupe-1410 {
   background-image: url(../img/groupe-1408-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4449,7 +4449,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1413 {
+.x03-explorer-desktop .groupe-1413 {
   background-image: url(../img/groupe-1267-6@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4461,7 +4461,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .trac-288 {
+.x03-explorer-desktop .trac-288 {
   height: 161px;
   left: 0;
   object-fit: cover;
@@ -4470,7 +4470,7 @@
   width: 30px;
 }
 
-.x03-explorer-web .overlap-group3-1 {
+.x03-explorer-desktop .overlap-group3-1 {
   align-items: flex-start;
   align-self: center;
   background-image: url(../img/trac--429-1@1x.png);
@@ -4482,13 +4482,13 @@
   min-width: 19px;
 }
 
-.x03-explorer-web .trac-430 {
+.x03-explorer-desktop .trac-430 {
   height: 40px;
   object-fit: cover;
   width: 19px;
 }
 
-.x03-explorer-web .trac-427 {
+.x03-explorer-desktop .trac-427 {
   align-self: flex-start;
   height: 165px;
   margin-left: 4px;
@@ -4496,7 +4496,7 @@
   width: 31px;
 }
 
-.x03-explorer-web .flex-col-8 {
+.x03-explorer-desktop .flex-col-8 {
   align-items: flex-start;
   gap: 6px;
   margin-bottom: 4.36px;
@@ -4505,20 +4505,20 @@
   width: 11px;
 }
 
-.x03-explorer-web .trac-352 {
+.x03-explorer-desktop .trac-352 {
   height: 9px;
   margin-left: 2.19px;
   object-fit: cover;
   width: 8px;
 }
 
-.x03-explorer-web .group-container-5 {
+.x03-explorer-desktop .group-container-5 {
   height: 85px;
   position: relative;
   width: 11px;
 }
 
-.x03-explorer-web .overlap-group-1 {
+.x03-explorer-desktop .overlap-group-1 {
   height: 85px;
   left: 1px;
   position: absolute;
@@ -4526,7 +4526,7 @@
   width: 10px;
 }
 
-.x03-explorer-web .groupe-1416 {
+.x03-explorer-desktop .groupe-1416 {
   background-image: url(../img/groupe-1414-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4538,7 +4538,7 @@
   width: 2px;
 }
 
-.x03-explorer-web .groupe-1419 {
+.x03-explorer-desktop .groupe-1419 {
   background-image: url(../img/groupe-1417-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4550,7 +4550,7 @@
   width: 2px;
 }
 
-.x03-explorer-web .groupe-1422 {
+.x03-explorer-desktop .groupe-1422 {
   background-image: url(../img/groupe-1420-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4562,7 +4562,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1425 {
+.x03-explorer-desktop .groupe-1425 {
   background-image: url(../img/groupe-1423-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4574,7 +4574,7 @@
   width: 2px;
 }
 
-.x03-explorer-web .groupe-1428 {
+.x03-explorer-desktop .groupe-1428 {
   background-image: url(../img/groupe-1426-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4586,7 +4586,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1431 {
+.x03-explorer-desktop .groupe-1431 {
   background-image: url(../img/groupe-1429-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4598,7 +4598,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1437 {
+.x03-explorer-desktop .groupe-1437 {
   background-image: url(../img/groupe-1435-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4610,7 +4610,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1440 {
+.x03-explorer-desktop .groupe-1440 {
   background-image: url(../img/groupe-1438-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4622,7 +4622,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1443 {
+.x03-explorer-desktop .groupe-1443 {
   background-image: url(../img/groupe-1441-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4634,7 +4634,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1446 {
+.x03-explorer-desktop .groupe-1446 {
   background-image: url(../img/groupe-1444-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4646,7 +4646,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1452 {
+.x03-explorer-desktop .groupe-1452 {
   background-image: url(../img/groupe-1450-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4658,7 +4658,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1455 {
+.x03-explorer-desktop .groupe-1455 {
   background-image: url(../img/groupe-1453-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4670,7 +4670,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1458 {
+.x03-explorer-desktop .groupe-1458 {
   background-image: url(../img/groupe-1456-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4682,7 +4682,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1461 {
+.x03-explorer-desktop .groupe-1461 {
   background-image: url(../img/groupe-1459-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4694,7 +4694,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1464 {
+.x03-explorer-desktop .groupe-1464 {
   background-image: url(../img/groupe-1462-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4706,7 +4706,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1470 {
+.x03-explorer-desktop .groupe-1470 {
   background-image: url(../img/groupe-1468-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4718,7 +4718,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1473 {
+.x03-explorer-desktop .groupe-1473 {
   background-image: url(../img/groupe-1471-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4730,7 +4730,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1476 {
+.x03-explorer-desktop .groupe-1476 {
   background-image: url(../img/groupe-1474-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4742,7 +4742,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1479 {
+.x03-explorer-desktop .groupe-1479 {
   background-image: url(../img/groupe-1477-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4754,7 +4754,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1482 {
+.x03-explorer-desktop .groupe-1482 {
   background-image: url(../img/groupe-1480-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4766,7 +4766,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1485 {
+.x03-explorer-desktop .groupe-1485 {
   background-image: url(../img/groupe-1483-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4778,7 +4778,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1491 {
+.x03-explorer-desktop .groupe-1491 {
   background-image: url(../img/groupe-1489-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4790,7 +4790,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1494 {
+.x03-explorer-desktop .groupe-1494 {
   background-image: url(../img/groupe-1492-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4802,7 +4802,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1497 {
+.x03-explorer-desktop .groupe-1497 {
   background-image: url(../img/groupe-1495-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4814,7 +4814,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1500 {
+.x03-explorer-desktop .groupe-1500 {
   background-image: url(../img/groupe-1498-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4826,7 +4826,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1503 {
+.x03-explorer-desktop .groupe-1503 {
   background-image: url(../img/groupe-1501-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4838,7 +4838,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1506 {
+.x03-explorer-desktop .groupe-1506 {
   background-image: url(../img/groupe-1504-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4850,7 +4850,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1512 {
+.x03-explorer-desktop .groupe-1512 {
   background-image: url(../img/groupe-1510-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4862,7 +4862,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1518 {
+.x03-explorer-desktop .groupe-1518 {
   background-image: url(../img/groupe-10302@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4874,7 +4874,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1521 {
+.x03-explorer-desktop .groupe-1521 {
   background-image: url(../img/groupe-1519-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4886,7 +4886,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1524 {
+.x03-explorer-desktop .groupe-1524 {
   background-image: url(../img/groupe-1522-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4898,7 +4898,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1530 {
+.x03-explorer-desktop .groupe-1530 {
   background-image: url(../img/groupe-1528-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4910,7 +4910,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1533 {
+.x03-explorer-desktop .groupe-1533 {
   background-image: url(../img/groupe-1531-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4922,7 +4922,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1539 {
+.x03-explorer-desktop .groupe-1539 {
   background-image: url(../img/groupe-10035@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4934,7 +4934,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1542 {
+.x03-explorer-desktop .groupe-1542 {
   background-image: url(../img/groupe-1540-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4946,7 +4946,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1545 {
+.x03-explorer-desktop .groupe-1545 {
   background-image: url(../img/groupe-1543-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4958,7 +4958,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1548 {
+.x03-explorer-desktop .groupe-1548 {
   background-image: url(../img/groupe-10248@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4970,7 +4970,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1551 {
+.x03-explorer-desktop .groupe-1551 {
   background-image: url(../img/groupe-10068@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4982,7 +4982,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1554 {
+.x03-explorer-desktop .groupe-1554 {
   background-image: url(../img/groupe-1552-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4994,7 +4994,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1557 {
+.x03-explorer-desktop .groupe-1557 {
   background-image: url(../img/groupe-1555-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5006,7 +5006,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1566 {
+.x03-explorer-desktop .groupe-1566 {
   background-image: url(../img/groupe-1564-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5018,7 +5018,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1578 {
+.x03-explorer-desktop .groupe-1578 {
   background-image: url(../img/groupe-10008@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5030,7 +5030,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1581 {
+.x03-explorer-desktop .groupe-1581 {
   background-image: url(../img/groupe-10332@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5042,7 +5042,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1584 {
+.x03-explorer-desktop .groupe-1584 {
   background-image: url(../img/groupe-10077@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5054,7 +5054,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1587 {
+.x03-explorer-desktop .groupe-1587 {
   background-image: url(../img/groupe-1384-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5066,7 +5066,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .trac-351 {
+.x03-explorer-desktop .trac-351 {
   height: 85px;
   left: 1px;
   object-fit: cover;
@@ -5075,7 +5075,7 @@
   width: 7px;
 }
 
-.x03-explorer-web .groupe-1449 {
+.x03-explorer-desktop .groupe-1449 {
   background-image: url(../img/groupe-1447-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5087,7 +5087,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1467 {
+.x03-explorer-desktop .groupe-1467 {
   background-image: url(../img/groupe-1465-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5099,7 +5099,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1488 {
+.x03-explorer-desktop .groupe-1488 {
   background-image: url(../img/groupe-1486-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5111,7 +5111,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1527 {
+.x03-explorer-desktop .groupe-1527 {
   background-image: url(../img/groupe-1525-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5123,7 +5123,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1563 {
+.x03-explorer-desktop .groupe-1563 {
   background-image: url(../img/groupe-1561-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5135,14 +5135,14 @@
   width: 1px;
 }
 
-.x03-explorer-web .group-container-6 {
+.x03-explorer-desktop .group-container-6 {
   height: 107px;
   margin-left: 3px;
   position: relative;
   width: 35px;
 }
 
-.x03-explorer-web .groupe-1434 {
+.x03-explorer-desktop .groupe-1434 {
   background-image: url(../img/groupe-1432-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5154,7 +5154,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .group-container-7 {
+.x03-explorer-desktop .group-container-7 {
   height: 107px;
   left: 0;
   position: absolute;
@@ -5162,7 +5162,7 @@
   width: 35px;
 }
 
-.x03-explorer-web .group-container-8 {
+.x03-explorer-desktop .group-container-8 {
   height: 107px;
   left: 1px;
   position: absolute;
@@ -5170,7 +5170,7 @@
   width: 34px;
 }
 
-.x03-explorer-web .overlap-group1-3 {
+.x03-explorer-desktop .overlap-group1-3 {
   height: 107px;
   left: 1px;
   position: absolute;
@@ -5178,7 +5178,7 @@
   width: 33px;
 }
 
-.x03-explorer-web .groupe-1515 {
+.x03-explorer-desktop .groupe-1515 {
   background-image: url(../img/groupe-1513-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5190,7 +5190,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1572 {
+.x03-explorer-desktop .groupe-1572 {
   background-image: url(../img/groupe-10302@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5202,7 +5202,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1575 {
+.x03-explorer-desktop .groupe-1575 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5214,7 +5214,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1590 {
+.x03-explorer-desktop .groupe-1590 {
   background-image: url(../img/groupe-1588-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5226,7 +5226,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1593 {
+.x03-explorer-desktop .groupe-1593 {
   background-image: url(../img/groupe-1591-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5238,7 +5238,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1596 {
+.x03-explorer-desktop .groupe-1596 {
   background-image: url(../img/groupe-1594-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5250,7 +5250,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1599 {
+.x03-explorer-desktop .groupe-1599 {
   background-image: url(../img/groupe-1597-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5262,7 +5262,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1602 {
+.x03-explorer-desktop .groupe-1602 {
   background-image: url(../img/groupe-1600-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5274,7 +5274,7 @@
   width: 2px;
 }
 
-.x03-explorer-web .groupe-1605 {
+.x03-explorer-desktop .groupe-1605 {
   background-image: url(../img/groupe-1603-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5286,7 +5286,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1608 {
+.x03-explorer-desktop .groupe-1608 {
   background-image: url(../img/groupe-1606-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5298,7 +5298,7 @@
   width: 2px;
 }
 
-.x03-explorer-web .groupe-1611 {
+.x03-explorer-desktop .groupe-1611 {
   background-image: url(../img/groupe-1609-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5310,7 +5310,7 @@
   width: 2px;
 }
 
-.x03-explorer-web .groupe-1614 {
+.x03-explorer-desktop .groupe-1614 {
   background-image: url(../img/groupe-1612-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5322,7 +5322,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1617 {
+.x03-explorer-desktop .groupe-1617 {
   background-image: url(../img/groupe-1615-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5334,7 +5334,7 @@
   width: 2px;
 }
 
-.x03-explorer-web .groupe-1620 {
+.x03-explorer-desktop .groupe-1620 {
   background-image: url(../img/groupe-1618-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5346,7 +5346,7 @@
   width: 2px;
 }
 
-.x03-explorer-web .groupe-1623 {
+.x03-explorer-desktop .groupe-1623 {
   background-image: url(../img/groupe-1621-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5358,7 +5358,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1626 {
+.x03-explorer-desktop .groupe-1626 {
   background-image: url(../img/groupe-1624-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5370,7 +5370,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1629 {
+.x03-explorer-desktop .groupe-1629 {
   background-image: url(../img/groupe-1627-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5382,7 +5382,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1632 {
+.x03-explorer-desktop .groupe-1632 {
   background-image: url(../img/groupe-1630-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5394,7 +5394,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1635 {
+.x03-explorer-desktop .groupe-1635 {
   background-image: url(../img/groupe-1633-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5406,7 +5406,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1638 {
+.x03-explorer-desktop .groupe-1638 {
   background-image: url(../img/groupe-1636-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5418,7 +5418,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1641 {
+.x03-explorer-desktop .groupe-1641 {
   background-image: url(../img/groupe-1639-3@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5430,7 +5430,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1644 {
+.x03-explorer-desktop .groupe-1644 {
   background-image: url(../img/groupe-1642-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5442,7 +5442,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1647 {
+.x03-explorer-desktop .groupe-1647 {
   background-image: url(../img/groupe-1645-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5454,7 +5454,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1650 {
+.x03-explorer-desktop .groupe-1650 {
   background-image: url(../img/groupe-1648-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5466,7 +5466,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1653 {
+.x03-explorer-desktop .groupe-1653 {
   background-image: url(../img/groupe-1651-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5478,7 +5478,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1656 {
+.x03-explorer-desktop .groupe-1656 {
   background-image: url(../img/groupe-1654-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5490,7 +5490,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1659 {
+.x03-explorer-desktop .groupe-1659 {
   background-image: url(../img/groupe-1657-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5502,7 +5502,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1662 {
+.x03-explorer-desktop .groupe-1662 {
   background-image: url(../img/groupe-1660-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5514,7 +5514,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1665 {
+.x03-explorer-desktop .groupe-1665 {
   background-image: url(../img/groupe-1663-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5526,7 +5526,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1668 {
+.x03-explorer-desktop .groupe-1668 {
   background-image: url(../img/groupe-1666-4@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5538,7 +5538,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1671 {
+.x03-explorer-desktop .groupe-1671 {
   background-image: url(../img/groupe-1669-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5550,7 +5550,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1674 {
+.x03-explorer-desktop .groupe-1674 {
   background-image: url(../img/groupe-1672-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5562,7 +5562,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1677 {
+.x03-explorer-desktop .groupe-1677 {
   background-image: url(../img/groupe-1675-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5574,7 +5574,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1680 {
+.x03-explorer-desktop .groupe-1680 {
   background-image: url(../img/groupe-1678-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5586,7 +5586,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1683 {
+.x03-explorer-desktop .groupe-1683 {
   background-image: url(../img/groupe-1681-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5598,7 +5598,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1686 {
+.x03-explorer-desktop .groupe-1686 {
   background-image: url(../img/groupe-1684-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5610,7 +5610,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1689 {
+.x03-explorer-desktop .groupe-1689 {
   background-image: url(../img/groupe-1687-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5622,7 +5622,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1692 {
+.x03-explorer-desktop .groupe-1692 {
   background-image: url(../img/groupe-1690-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5634,7 +5634,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1695 {
+.x03-explorer-desktop .groupe-1695 {
   background-image: url(../img/groupe-1693-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5646,7 +5646,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1698 {
+.x03-explorer-desktop .groupe-1698 {
   background-image: url(../img/groupe-1696@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5658,7 +5658,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1701 {
+.x03-explorer-desktop .groupe-1701 {
   background-image: url(../img/groupe-1699-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5670,7 +5670,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1704 {
+.x03-explorer-desktop .groupe-1704 {
   background-image: url(../img/groupe-1702-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5682,7 +5682,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1707 {
+.x03-explorer-desktop .groupe-1707 {
   background-image: url(../img/groupe-1705-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5694,7 +5694,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1710 {
+.x03-explorer-desktop .groupe-1710 {
   background-image: url(../img/groupe-1708-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5706,7 +5706,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1713 {
+.x03-explorer-desktop .groupe-1713 {
   background-image: url(../img/groupe-1711-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5718,7 +5718,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1716 {
+.x03-explorer-desktop .groupe-1716 {
   background-image: url(../img/groupe-1714-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5730,7 +5730,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1719 {
+.x03-explorer-desktop .groupe-1719 {
   background-image: url(../img/groupe-1717-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5742,7 +5742,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1722 {
+.x03-explorer-desktop .groupe-1722 {
   background-image: url(../img/groupe-1720-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5754,7 +5754,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1725 {
+.x03-explorer-desktop .groupe-1725 {
   background-image: url(../img/groupe-1723-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5766,7 +5766,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1728 {
+.x03-explorer-desktop .groupe-1728 {
   background-image: url(../img/groupe-1495-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5778,7 +5778,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1731 {
+.x03-explorer-desktop .groupe-1731 {
   background-image: url(../img/groupe-1729-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5790,7 +5790,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1734 {
+.x03-explorer-desktop .groupe-1734 {
   background-image: url(../img/groupe-1732-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5802,7 +5802,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1737 {
+.x03-explorer-desktop .groupe-1737 {
   background-image: url(../img/groupe-1735-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5814,7 +5814,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1740 {
+.x03-explorer-desktop .groupe-1740 {
   background-image: url(../img/groupe-1513-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5826,7 +5826,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1743 {
+.x03-explorer-desktop .groupe-1743 {
   background-image: url(../img/groupe-1741-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5838,7 +5838,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1746 {
+.x03-explorer-desktop .groupe-1746 {
   background-image: url(../img/groupe-1744-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5850,7 +5850,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1749 {
+.x03-explorer-desktop .groupe-1749 {
   background-image: url(../img/groupe-1747-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5862,7 +5862,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1752 {
+.x03-explorer-desktop .groupe-1752 {
   background-image: url(../img/groupe-1750-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5874,7 +5874,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1755 {
+.x03-explorer-desktop .groupe-1755 {
   background-image: url(../img/groupe-1753-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5886,7 +5886,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1758 {
+.x03-explorer-desktop .groupe-1758 {
   background-image: url(../img/groupe-1756-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5898,7 +5898,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1761 {
+.x03-explorer-desktop .groupe-1761 {
   background-image: url(../img/groupe-1759-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5910,7 +5910,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1764 {
+.x03-explorer-desktop .groupe-1764 {
   background-image: url(../img/groupe-1762-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5922,7 +5922,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1767 {
+.x03-explorer-desktop .groupe-1767 {
   background-image: url(../img/groupe-1765-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5934,7 +5934,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1770 {
+.x03-explorer-desktop .groupe-1770 {
   background-image: url(../img/groupe-1759-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5946,7 +5946,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1773 {
+.x03-explorer-desktop .groupe-1773 {
   background-image: url(../img/groupe-1771-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5958,7 +5958,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1776 {
+.x03-explorer-desktop .groupe-1776 {
   background-image: url(../img/groupe-1774-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5970,7 +5970,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1779 {
+.x03-explorer-desktop .groupe-1779 {
   background-image: url(../img/groupe-1762-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5982,7 +5982,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1782 {
+.x03-explorer-desktop .groupe-1782 {
   background-image: url(../img/groupe-1780-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5994,7 +5994,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1785 {
+.x03-explorer-desktop .groupe-1785 {
   background-image: url(../img/groupe-1783-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -6006,7 +6006,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1788 {
+.x03-explorer-desktop .groupe-1788 {
   background-image: url(../img/groupe-1786-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -6018,7 +6018,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1791 {
+.x03-explorer-desktop .groupe-1791 {
   background-image: url(../img/groupe-1789-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -6030,7 +6030,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1794 {
+.x03-explorer-desktop .groupe-1794 {
   background-image: url(../img/groupe-10056@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -6042,7 +6042,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1797 {
+.x03-explorer-desktop .groupe-1797 {
   background-image: url(../img/groupe-1795-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -6054,7 +6054,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1800 {
+.x03-explorer-desktop .groupe-1800 {
   background-image: url(../img/groupe-1798-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -6066,7 +6066,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1803 {
+.x03-explorer-desktop .groupe-1803 {
   background-image: url(../img/groupe-10248@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -6078,7 +6078,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1806 {
+.x03-explorer-desktop .groupe-1806 {
   background-image: url(../img/groupe-1804-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -6090,7 +6090,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1809 {
+.x03-explorer-desktop .groupe-1809 {
   background-image: url(../img/groupe-1807-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -6102,7 +6102,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1812 {
+.x03-explorer-desktop .groupe-1812 {
   background-image: url(../img/groupe-10074@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -6114,7 +6114,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1815 {
+.x03-explorer-desktop .groupe-1815 {
   background-image: url(../img/groupe-1813-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -6126,7 +6126,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1818 {
+.x03-explorer-desktop .groupe-1818 {
   background-image: url(../img/groupe-1816-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -6138,7 +6138,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .trac-426 {
+.x03-explorer-desktop .trac-426 {
   height: 106px;
   left: 1px;
   object-fit: cover;
@@ -6147,7 +6147,7 @@
   width: 33px;
 }
 
-.x03-explorer-web .groupe-1536 {
+.x03-explorer-desktop .groupe-1536 {
   background-image: url(../img/groupe-10260@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -6159,7 +6159,7 @@
   width: 1px;
 }
 
-.x03-explorer-web .groupe-1569 {
+.x03-explorer-desktop .groupe-1569 {
   background-image: url(../img/groupe-1297-6@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -6171,21 +6171,21 @@
   width: 1px;
 }
 
-.x03-explorer-web .trac-428 {
+.x03-explorer-desktop .trac-428 {
   height: 79px;
   margin-right: 0;
   object-fit: cover;
   width: 244px;
 }
 
-.x03-explorer-web .ligne-58 {
+.x03-explorer-desktop .ligne-58 {
   height: 256px;
   margin-left: 136px;
   object-fit: cover;
   width: 2px;
 }
 
-.x03-explorer-web .flex-col-9 {
+.x03-explorer-desktop .flex-col-9 {
   align-items: flex-start;
   align-self: center;
   margin-bottom: 1.5px;
@@ -6194,7 +6194,7 @@
   width: 263px;
 }
 
-.x03-explorer-web .accueil-1 {
+.x03-explorer-desktop .accueil-1 {
   cursor: pointer;
   letter-spacing: 2.20px;
   line-height: 22px;
@@ -6202,7 +6202,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .explorer-le-gte-1 {
+.x03-explorer-desktop .explorer-le-gte-1 {
   letter-spacing: 2.20px;
   line-height: 22px;
   margin-top: 21px;
@@ -6210,7 +6210,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .link {
+.x03-explorer-desktop .link {
   cursor: pointer;
   letter-spacing: 2.20px;
   line-height: 22px;
@@ -6219,7 +6219,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .link-1 {
+.x03-explorer-desktop .link-1 {
   cursor: pointer;
   letter-spacing: 2.20px;
   line-height: 22px;
@@ -6228,7 +6228,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .trac-container-4 {
+.x03-explorer-desktop .trac-container-4 {
   align-items: center;
   align-self: center;
   display: flex;
@@ -6239,13 +6239,13 @@
   width: 48px;
 }
 
-.x03-explorer-web .trac-435 {
+.x03-explorer-desktop .trac-435 {
   height: 38px;
   object-fit: cover;
   width: 48px;
 }
 
-.x03-explorer-web .trac-434 {
+.x03-explorer-desktop .trac-434 {
   height: 42px;
   margin-right: 5.83px;
   margin-top: 62px;
@@ -6253,7 +6253,7 @@
   width: 42px;
 }
 
-.x03-explorer-web .trac-436 {
+.x03-explorer-desktop .trac-436 {
   height: 52px;
   margin-right: 0;
   margin-top: 47px;
@@ -6261,14 +6261,14 @@
   width: 36px;
 }
 
-.x03-explorer-web .ligne-34 {
+.x03-explorer-desktop .ligne-34 {
   height: 256px;
   margin-left: 33px;
   object-fit: cover;
   width: 2px;
 }
 
-.x03-explorer-web .flex-col-10 {
+.x03-explorer-desktop .flex-col-10 {
   align-items: flex-start;
   align-self: flex-end;
   margin-bottom: 3.5px;
@@ -6277,14 +6277,14 @@
   width: 295px;
 }
 
-.x03-explorer-web .gitelenidgmailcom {
+.x03-explorer-desktop .gitelenidgmailcom {
   letter-spacing: 3.60px;
   line-height: 24px;
   min-height: 27px;
   white-space: nowrap;
 }
 
-.x03-explorer-web .phone {
+.x03-explorer-desktop .phone {
   letter-spacing: 3.60px;
   line-height: 24px;
   margin-top: 76px;
@@ -6292,7 +6292,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .address {
+.x03-explorer-desktop .address {
   letter-spacing: 3.60px;
   line-height: 24px;
   margin-top: 53px;
@@ -6300,7 +6300,7 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .overlap-group10-1 {
+.x03-explorer-desktop .overlap-group10-1 {
   align-self: flex-end;
   height: 27px;
   margin-bottom: 16.0px;
@@ -6309,7 +6309,7 @@
   width: 395px;
 }
 
-.x03-explorer-web .c-le-nid-tous-droits-rservs {
+.x03-explorer-desktop .c-le-nid-tous-droits-rservs {
   left: 5px;
   letter-spacing: 3.15px;
   line-height: 21px;
@@ -6318,38 +6318,38 @@
   white-space: nowrap;
 }
 
-.x03-explorer-web .ellipse-3 {
+.x03-explorer-desktop .ellipse-3 {
   border-color: var(--black);
   border-radius: 13.18px;
   height: 26px;
   width: 26px;
 }
 
-.x03-explorer-web .chambre {
+.x03-explorer-desktop .chambre {
   letter-spacing: 1.60px;
   position: absolute;
   white-space: nowrap;
 }
 
-.x03-explorer-web .ellipse {
+.x03-explorer-desktop .ellipse {
   border: 1px solid;
   left: 0;
   position: absolute;
   top: 0;
 }
 
-.x03-explorer-web .flex-col-11 {
+.x03-explorer-desktop .flex-col-11 {
   display: flex;
   flex-direction: column;
 }
 
-.x03-explorer-web .ligne-77-4 {
+.x03-explorer-desktop .ligne-77-4 {
   height: 1px;
   object-fit: cover;
   position: absolute;
 }
 
-.x03-explorer-web .noun-bed-7430267-7 {
+.x03-explorer-desktop .noun-bed-7430267-7 {
   background-image: url(../img/trac--2390-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -6358,12 +6358,12 @@
   width: 73px;
 }
 
-.x03-explorer-web .overlap-group-container-3 {
+.x03-explorer-desktop .overlap-group-container-3 {
   align-items: flex-start;
   display: flex;
 }
 
-.x03-explorer-web .x1-lit-double-3 {
+.x03-explorer-desktop .x1-lit-double-3 {
   letter-spacing: 1.60px;
   line-height: 16px;
   position: absolute;

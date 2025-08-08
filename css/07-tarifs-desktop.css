@@ -1,394 +1,31 @@
-/* screen - 05-galerie-web */
+/* screen - 07-tarifs-desktop */
 
-.x05-galerie-web {
+.x07-tarifs-desktop {
+  align-items: center;
   background-color: var(--bianca);
-  height: 8398px;
-  opacity: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  height: 3579px;
   overflow: hidden;
-  position: relative;
   width: 1920px;
 }
 
-.x05-galerie-web.animate-enter {
-  animation: animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
-  opacity: 0;
+.x07-tarifs-desktop .flex-row {
+  margin-right: 17.19px;
+  margin-top: 35px;
+  min-width: 1839px;
 }
 
-@keyframes animate-enter-frames {
-  from{opacity: 0;
-}
-to{opacity: 1;
-}
-}
-
-.x05-galerie-web .surname {
-  left: 280px;
-  letter-spacing: 0;
-  line-height: 46px;
-  position: absolute;
-  top: 1821px;
-  white-space: nowrap;
-}
-
-.x05-galerie-web .ltage {
-  left: 280px;
-  letter-spacing: 0;
-  line-height: 46px;
-  position: absolute;
-  top: 6362px;
-  white-space: nowrap;
-}
-
-.x05-galerie-web .rectangle-1459 {
-  background-color: var(--black);
-  height: 3px;
-  left: 712px;
-  position: absolute;
-  top: 1840px;
-  width: 929px;
-}
-
-.x05-galerie-web .rectangle-1460 {
-  background-color: var(--black);
-  height: 3px;
-  left: 457px;
-  position: absolute;
-  top: 6380px;
-  width: 1184px;
-}
-
-.x05-galerie-web .x-container {
-  height: 611px;
-  left: 729px;
-  position: absolute;
-  top: 1999px;
-  width: 922px;
-}
-
-.x05-galerie-web .img-20250611-wa0020 {
-  height: 611px;
-  left: 0;
-  top: 0;
-  width: 463px;
-}
-
-.x05-galerie-web .whats-app-image-2025 {
-  border-radius: 10px;
-  height: 611px;
-  left: 459px;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 463px;
-}
-
-.x05-galerie-web .overlap-group13 {
-  height: 1822px;
-  left: 271px;
-  position: absolute;
-  top: 4427px;
-  width: 1380px;
-}
-
-.x05-galerie-web .x-container-1 {
-  height: 1822px;
-  width: 1380px;
-}
-
-.x05-galerie-web .img-20250611-wa0024 {
-  height: 611px;
-  left: 458px;
-  top: 0;
-  width: 462px;
-}
-
-.x05-galerie-web .img-20250611-wa0003 {
-  height: 611px;
-  left: 917px;
-  top: 0;
-  width: 463px;
-}
-
-.x05-galerie-web .img-20250611-wa0025 {
-  height: 611px;
-  left: 458px;
-  top: 605px;
-  width: 463px;
-}
-
-.x05-galerie-web .whats-app-image-2025-1 {
-  height: 610px;
-  left: 0;
-  position: absolute;
-  top: 606px;
-  width: 462px;
-}
-
-.x05-galerie-web .img-20250611-wa0018 {
-  height: 611px;
-  left: 0;
-  top: 0;
-  width: 462px;
-}
-
-.x05-galerie-web .whats-app-image-2025-2 {
-  height: 611px;
-  left: 0;
-  position: absolute;
-  top: 1211px;
-  width: 463px;
-}
-
-.x05-galerie-web .whats-app-image-2025-3 {
-  height: 592px;
-  left: 926px;
-  position: absolute;
-  top: 611px;
-  width: 444px;
-}
-
-.x05-galerie-web .overlap-group14 {
-  height: 1217px;
-  left: 271px;
-  position: absolute;
-  top: 6513px;
-  width: 1379px;
-}
-
-.x05-galerie-web .x-container-2 {
-  height: 1217px;
-  width: 1379px;
-}
-
-.x05-galerie-web .img-20250611-wa0014 {
-  height: 610px;
-  left: 0;
-  top: 0;
-  width: 462px;
-}
-
-.x05-galerie-web .img-20250611-wa0011 {
-  height: 610px;
-  left: 458px;
-  top: 0;
-  width: 463px;
-}
-
-.x05-galerie-web .img-20250611-wa0012 {
-  height: 610px;
-  left: 0;
-  top: 607px;
-  width: 462px;
-}
-
-.x05-galerie-web .img-20250611-wa0010 {
-  height: 610px;
-  left: 458px;
-  top: 607px;
-  width: 463px;
-}
-
-.x05-galerie-web .img-20250611-wa0006 {
-  height: 610px;
-  left: 917px;
-  top: 607px;
-  width: 462px;
-}
-
-.x05-galerie-web .whats-app-image-2025-4 {
-  height: 593px;
-  left: 8px;
-  position: absolute;
-  top: 612px;
-  width: 445px;
-}
-
-.x05-galerie-web .whats-app-image-2025-5 {
-  height: 592px;
-  left: 926px;
-  position: absolute;
-  top: 6px;
-  width: 444px;
-}
-
-.x05-galerie-web .whats-app-image-2025-6 {
-  height: 592px;
-  left: 280px;
-  position: absolute;
-  top: 481px;
-  width: 444px;
-}
-
-.x05-galerie-web .whats-app-image-2025-7 {
-  height: 592px;
-  left: 738px;
-  position: absolute;
-  top: 481px;
-  width: 445px;
-}
-
-.x05-galerie-web .whats-app-image-2025-8 {
-  height: 592px;
-  left: 1197px;
-  position: absolute;
-  top: 481px;
-  width: 444px;
-}
-
-.x05-galerie-web .whats-app-image-2025-9 {
-  height: 592px;
-  left: 738px;
-  position: absolute;
-  top: 1088px;
-  width: 445px;
-}
-
-.x05-galerie-web .whats-app-image-2025-10 {
-  height: 592px;
-  left: 1197px;
-  position: absolute;
-  top: 1088px;
-  width: 444px;
-}
-
-.x05-galerie-web .whats-app-image-2025-11 {
-  height: 592px;
-  left: 280px;
-  position: absolute;
-  top: 1088px;
-  width: 444px;
-}
-
-.x05-galerie-web .whats-app-image-2025-12 {
-  height: 593px;
-  left: 280px;
-  position: absolute;
-  top: 2005px;
-  width: 444px;
-}
-
-.x05-galerie-web .whats-app-image-2025-13 {
-  height: 593px;
-  left: 280px;
-  position: absolute;
-  top: 2612px;
-  width: 444px;
-}
-
-.x05-galerie-web .whats-app-image-2025-14 {
-  height: 593px;
-  left: 738px;
-  position: absolute;
-  top: 2612px;
-  width: 445px;
-}
-
-.x05-galerie-web .whats-app-image-2025-15 {
-  height: 593px;
-  left: 1197px;
-  position: absolute;
-  top: 2612px;
-  width: 444px;
-}
-
-.x05-galerie-web .whats-app-image-2025-16 {
-  height: 593px;
-  left: 1197px;
-  position: absolute;
-  top: 3219px;
-  width: 444px;
-}
-
-.x05-galerie-web .whats-app-image-2025-17 {
-  height: 593px;
-  left: 280px;
-  position: absolute;
-  top: 3219px;
-  width: 444px;
-}
-
-.x05-galerie-web .overlap-group9 {
-  align-items: flex-start;
-  background-image: url(../img/whatsapp-image-2025-07-11---15-35-51-7003af20-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  border-radius: 10px;
-  display: flex;
-  height: 593px;
-  left: 738px;
-  min-width: 445px;
-  position: absolute;
-  top: 3219px;
-}
-
-.x05-galerie-web .whats-app-image-2025-18 {
-  height: 593px;
-  width: 445px;
-}
-
-.x05-galerie-web .whats-app-image-2025-19 {
-  height: 593px;
-  left: 280px;
-  position: absolute;
-  top: 3826px;
-  width: 444px;
-}
-
-.x05-galerie-web .surname-1 {
-  left: 280px;
-  letter-spacing: 0;
-  line-height: 46px;
-  position: absolute;
-  top: 337px;
-  white-space: nowrap;
-}
-
-.x05-galerie-web .rectangle-1458 {
-  background-color: var(--black);
-  height: 3px;
-  left: 495px;
-  position: absolute;
-  top: 360px;
-  width: 1146px;
-}
-
-.x05-galerie-web .whats-app-image-2025-20 {
-  height: 592px;
-  left: 738px;
-  position: absolute;
-  top: 3827px;
-  width: 444px;
-}
-
-.x05-galerie-web .whats-app-image-2025-21 {
-  height: 592px;
-  left: 1197px;
-  position: absolute;
-  top: 3827px;
-  width: 444px;
-}
-
-.x05-galerie-web .rectangle-1906 {
-  background-color: var(--bianca);
-  height: 166px;
-  left: -1223px;
-  position: fixed;
-  top: 0;
-  width: 4366px;
-}
-
-.x05-galerie-web .groupe-5464 {
+.x07-tarifs-desktop .groupe-603 {
   cursor: pointer;
   display: flex;
   height: 108px;
-  left: 32px;
   overflow: hidden;
-  position: absolute;
-  top: 35px;
   width: 101px;
 }
 
-.x05-galerie-web .groupe-5463 {
+.x07-tarifs-desktop .groupe-602 {
   display: flex;
   flex: 1;
   margin-bottom: 0;
@@ -396,23 +33,26 @@ to{opacity: 1;
   width: 100.72px;
 }
 
-.x05-galerie-web .groupe-5462 {
+.x07-tarifs-desktop .groupe-601 {
   align-items: center;
   display: flex;
   flex: 1;
   flex-direction: column;
   gap: 7px;
   overflow: hidden;
+  padding: 0 0.0px;
   width: 100.72px;
 }
 
-.x05-galerie-web .flex-row {
+.x07-tarifs-desktop .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
   height: 69px;
   margin-right: 2.83px;
   min-width: 69px;
 }
 
-.x05-galerie-web .groupe-5029 {
+.x07-tarifs-desktop .groupe-168 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -422,7 +62,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .overlap-group1 {
+.x07-tarifs-desktop .overlap-group1 {
   align-self: center;
   height: 67px;
   margin-left: 2px;
@@ -431,7 +71,7 @@ to{opacity: 1;
   width: 20px;
 }
 
-.x05-galerie-web .groupe-4864 {
+.x07-tarifs-desktop .groupe-3-1 {
   background-image: url(../img/groupe-1-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -443,7 +83,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4867 {
+.x07-tarifs-desktop .groupe-6 {
   background-image: url(../img/groupe-4-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -455,7 +95,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4870 {
+.x07-tarifs-desktop .groupe-9 {
   background-image: url(../img/groupe-4868@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -467,7 +107,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4873 {
+.x07-tarifs-desktop .groupe-12 {
   background-image: url(../img/groupe-10-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -479,7 +119,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4876 {
+.x07-tarifs-desktop .groupe-15 {
   background-image: url(../img/groupe-13-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -491,7 +131,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4879 {
+.x07-tarifs-desktop .groupe-18 {
   background-image: url(../img/groupe-16-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -503,7 +143,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4882 {
+.x07-tarifs-desktop .groupe-21 {
   background-image: url(../img/groupe-19-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -515,7 +155,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4885 {
+.x07-tarifs-desktop .groupe-24 {
   background-image: url(../img/groupe-22-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -527,7 +167,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4888 {
+.x07-tarifs-desktop .groupe-27 {
   background-image: url(../img/groupe-25-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -539,7 +179,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4891 {
+.x07-tarifs-desktop .groupe-30 {
   background-image: url(../img/groupe-28-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -551,7 +191,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4894 {
+.x07-tarifs-desktop .groupe-33 {
   background-image: url(../img/groupe-31-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -563,7 +203,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4897 {
+.x07-tarifs-desktop .groupe-36 {
   background-image: url(../img/groupe-34-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -575,7 +215,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4900 {
+.x07-tarifs-desktop .groupe-39 {
   background-image: url(../img/groupe-37-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -587,7 +227,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4903 {
+.x07-tarifs-desktop .groupe-42 {
   background-image: url(../img/groupe-40-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -599,7 +239,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4906 {
+.x07-tarifs-desktop .groupe-45 {
   background-image: url(../img/groupe-43-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -611,7 +251,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4909 {
+.x07-tarifs-desktop .groupe-48 {
   background-image: url(../img/groupe-1381-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -623,7 +263,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4912 {
+.x07-tarifs-desktop .groupe-51 {
   background-image: url(../img/groupe-1543-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -635,7 +275,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4915 {
+.x07-tarifs-desktop .groupe-54 {
   background-image: url(../img/groupe-4913@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -647,7 +287,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4918 {
+.x07-tarifs-desktop .groupe-57 {
   background-image: url(../img/groupe-4916@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -659,7 +299,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4921 {
+.x07-tarifs-desktop .groupe-60 {
   background-image: url(../img/groupe-58-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -671,7 +311,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4924 {
+.x07-tarifs-desktop .groupe-63 {
   background-image: url(../img/groupe-4922@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -683,7 +323,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4927 {
+.x07-tarifs-desktop .groupe-66 {
   background-image: url(../img/groupe-1384-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -695,19 +335,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4930 {
-  background-image: url(../img/groupe-4548-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 59px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-4933 {
+.x07-tarifs-desktop .groupe-72 {
   background-image: url(../img/groupe-4931@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -719,7 +347,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4936 {
+.x07-tarifs-desktop .groupe-75 {
   background-image: url(../img/groupe-4599-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -731,7 +359,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4939 {
+.x07-tarifs-desktop .groupe-78 {
   background-image: url(../img/groupe-10200@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -743,19 +371,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4942 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 61px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-4945 {
+.x07-tarifs-desktop .groupe-84 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -767,7 +383,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4948 {
+.x07-tarifs-desktop .groupe-87 {
   background-image: url(../img/groupe-10200@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -779,19 +395,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4951 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 53px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-4954 {
+.x07-tarifs-desktop .groupe-93 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -803,19 +407,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4957 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 57px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-4960 {
+.x07-tarifs-desktop .groupe-99 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -827,44 +419,8 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4963 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 18px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-4966 {
-  background-image: url(../img/groupe-10134@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 56px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-4969 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 58px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-4972 {
-  background-image: url(../img/groupe-10014@1x.png);
+.x07-tarifs-desktop .groupe-111 {
+  background-image: url(../img/groupe-10008@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -875,43 +431,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4975 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 37px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-4978 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 13px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-4981 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 50px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-4984 {
+.x07-tarifs-desktop .groupe-123 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -923,91 +443,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-4987 {
-  background-image: url(../img/groupe-10113@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 58px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-4990 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 56px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-4993 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 15px;
-  opacity: 0.28;
-  position: absolute;
-  top: 12px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-4996 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 58px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-4999 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 13px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5002 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 54px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5005 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 18px;
-  opacity: 0.28;
-  position: absolute;
-  top: 25px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5008 {
+.x07-tarifs-desktop .groupe-147 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1019,19 +455,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5011 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 51px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5014 {
+.x07-tarifs-desktop .groupe-153 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1043,55 +467,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5017 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 18px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5020 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 13px;
-  opacity: 0.28;
-  position: absolute;
-  top: 60px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5023 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 55px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5026 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 13px;
-  opacity: 0.28;
-  position: absolute;
-  top: 41px;
-  width: 1px;
-}
-
-.x05-galerie-web .trac-1559 {
+.x07-tarifs-desktop .trac-56 {
   height: 57px;
   left: 11px;
   object-fit: cover;
@@ -1100,7 +476,7 @@ to{opacity: 1;
   width: 9px;
 }
 
-.x05-galerie-web .groupe-5032 {
+.x07-tarifs-desktop .groupe-171 {
   background-image: url(../img/groupe-169-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1112,7 +488,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5035 {
+.x07-tarifs-desktop .groupe-174 {
   background-image: url(../img/groupe-172-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1124,55 +500,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5038 {
-  background-image: url(../img/groupe-10002@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5041 {
-  background-image: url(../img/groupe-178-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5044 {
-  background-image: url(../img/groupe-10332@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 9px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5047 {
-  background-image: url(../img/groupe-10101@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 15px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5050 {
+.x07-tarifs-desktop .groupe-189 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1184,19 +512,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5053 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5056 {
+.x07-tarifs-desktop .groupe-195 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1208,7 +524,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .trac-1570 {
+.x07-tarifs-desktop .trac-67 {
   height: 67px;
   left: 0;
   object-fit: cover;
@@ -1217,10 +533,10 @@ to{opacity: 1;
   width: 12px;
 }
 
-.x05-galerie-web .overlap-group3 {
+.x07-tarifs-desktop .overlap-group3 {
   align-items: flex-start;
   align-self: center;
-  background-image: url(../img/trac--1711@1x.png);
+  background-image: url(../img/trac--1712@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   display: flex;
@@ -1229,20 +545,20 @@ to{opacity: 1;
   min-width: 8px;
 }
 
-.x05-galerie-web .trac-1712 {
+.x07-tarifs-desktop .trac-210 {
   height: 17px;
   object-fit: cover;
   width: 8px;
 }
 
-.x05-galerie-web .trac-1709 {
+.x07-tarifs-desktop .trac-206 {
   height: 68px;
   margin-left: 2px;
   object-fit: cover;
   width: 13px;
 }
 
-.x05-galerie-web .flex-col {
+.x07-tarifs-desktop .flex-col {
   align-self: flex-end;
   flex-direction: column;
   gap: 2px;
@@ -1252,20 +568,20 @@ to{opacity: 1;
   width: 5px;
 }
 
-.x05-galerie-web .trac-1634 {
+.x07-tarifs-desktop .trac-131 {
   height: 4px;
   margin-left: 0.9px;
   object-fit: cover;
   width: 3px;
 }
 
-.x05-galerie-web .overlap-group2 {
+.x07-tarifs-desktop .overlap-group2 {
   height: 35px;
   position: relative;
   width: 5px;
 }
 
-.x05-galerie-web .groupe-5059 {
+.x07-tarifs-desktop .groupe-198 {
   background-image: url(../img/groupe-196-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1277,7 +593,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5062 {
+.x07-tarifs-desktop .groupe-201 {
   background-image: url(../img/groupe-199-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1289,7 +605,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5065 {
+.x07-tarifs-desktop .groupe-204 {
   background-image: url(../img/groupe-202-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1301,7 +617,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5068 {
+.x07-tarifs-desktop .groupe-207 {
   background-image: url(../img/groupe-205-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1313,7 +629,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5071 {
+.x07-tarifs-desktop .groupe-210 {
   background-image: url(../img/groupe-208-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1325,19 +641,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5074 {
-  background-image: url(../img/groupe-211-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5080 {
+.x07-tarifs-desktop .groupe-219 {
   background-image: url(../img/groupe-217-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1349,43 +653,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5083 {
-  background-image: url(../img/groupe-220-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 25px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5086 {
-  background-image: url(../img/groupe-223-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 25px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5089 {
-  background-image: url(../img/groupe-226-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5092 {
+.x07-tarifs-desktop .groupe-231 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1397,7 +665,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5095 {
+.x07-tarifs-desktop .groupe-234 {
   background-image: url(../img/groupe-10104@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1409,7 +677,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5098 {
+.x07-tarifs-desktop .groupe-237 {
   background-image: url(../img/groupe-178-3@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1421,31 +689,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5101 {
-  background-image: url(../img/groupe-10332@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5104 {
-  background-image: url(../img/groupe-1807-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5107 {
+.x07-tarifs-desktop .groupe-246 {
   background-image: url(../img/groupe-10077@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1457,43 +701,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5110 {
-  background-image: url(../img/groupe-10299@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5113 {
-  background-image: url(../img/groupe-250-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5116 {
-  background-image: url(../img/groupe-1303-6@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5119 {
+.x07-tarifs-desktop .groupe-258 {
   background-image: url(../img/groupe-10107@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1505,43 +713,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5122 {
-  background-image: url(../img/groupe-178-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5125 {
-  background-image: url(../img/groupe-10065@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5128 {
-  background-image: url(../img/groupe-10101@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5131 {
+.x07-tarifs-desktop .groupe-270 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1553,31 +725,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5134 {
-  background-image: url(../img/groupe-10089@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5137 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 31px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5140 {
+.x07-tarifs-desktop .groupe-279 {
   background-image: url(../img/groupe-10344@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1589,7 +737,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5143 {
+.x07-tarifs-desktop .groupe-282 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1601,7 +749,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5146 {
+.x07-tarifs-desktop .groupe-285 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1613,31 +761,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5149 {
-  background-image: url(../img/groupe-10338@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5155 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-51 {
+.x07-tarifs-desktop .groupe-3 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1649,19 +773,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5164 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5167 {
+.x07-tarifs-desktop .groupe-306 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1673,7 +785,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5170 {
+.x07-tarifs-desktop .groupe-309 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1685,31 +797,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5173 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 9px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5176 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5182 {
+.x07-tarifs-desktop .groupe-321 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1721,79 +809,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5185 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5188 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5191 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 2px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5197 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 8px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5200 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 27px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5206 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 31px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5209 {
+.x07-tarifs-desktop .groupe-348 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1805,43 +821,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5221 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 31px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5224 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5227 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5230 {
+.x07-tarifs-desktop .groupe-369 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1853,7 +833,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .trac-1633 {
+.x07-tarifs-desktop .trac-130 {
   height: 35px;
   left: 1px;
   object-fit: cover;
@@ -1862,7 +842,7 @@ to{opacity: 1;
   width: 3px;
 }
 
-.x05-galerie-web .overlap-group {
+.x07-tarifs-desktop .overlap-group {
   align-self: flex-end;
   height: 45px;
   margin-left: 1px;
@@ -1870,7 +850,7 @@ to{opacity: 1;
   width: 14px;
 }
 
-.x05-galerie-web .groupe-5077 {
+.x07-tarifs-desktop .groupe-216 {
   background-image: url(../img/groupe-10002@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1882,31 +862,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5152 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5158 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5179 {
+.x07-tarifs-desktop .groupe-318 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1918,19 +874,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5203 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5212 {
+.x07-tarifs-desktop .groupe-351 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1942,31 +886,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5215 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 9px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5218 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 16px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5233 {
+.x07-tarifs-desktop .groupe-372 {
   background-image: url(../img/groupe-370-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1978,7 +898,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5236 {
+.x07-tarifs-desktop .groupe-375 {
   background-image: url(../img/groupe-373-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1990,7 +910,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5239 {
+.x07-tarifs-desktop .groupe-378 {
   background-image: url(../img/groupe-376-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2002,7 +922,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5242 {
+.x07-tarifs-desktop .groupe-381 {
   background-image: url(../img/groupe-10338@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2014,7 +934,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5245 {
+.x07-tarifs-desktop .groupe-384 {
   background-image: url(../img/groupe-382-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2026,7 +946,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5248 {
+.x07-tarifs-desktop .groupe-387 {
   background-image: url(../img/groupe-385-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2038,7 +958,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5251 {
+.x07-tarifs-desktop .groupe-390 {
   background-image: url(../img/groupe-388-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2050,7 +970,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5254 {
+.x07-tarifs-desktop .groupe-393 {
   background-image: url(../img/groupe-391-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2062,7 +982,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5257 {
+.x07-tarifs-desktop .groupe-396 {
   background-image: url(../img/groupe-394-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2074,7 +994,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5260 {
+.x07-tarifs-desktop .groupe-399 {
   background-image: url(../img/groupe-397-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2086,7 +1006,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5263 {
+.x07-tarifs-desktop .groupe-402 {
   background-image: url(../img/groupe-400-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2098,7 +1018,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5266 {
+.x07-tarifs-desktop .groupe-405 {
   background-image: url(../img/groupe-403-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2110,7 +1030,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5269 {
+.x07-tarifs-desktop .groupe-408 {
   background-image: url(../img/groupe-406-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2122,7 +1042,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5272 {
+.x07-tarifs-desktop .groupe-411 {
   background-image: url(../img/groupe-409-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2134,7 +1054,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5275 {
+.x07-tarifs-desktop .groupe-414 {
   background-image: url(../img/groupe-1522-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2146,7 +1066,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5278 {
+.x07-tarifs-desktop .groupe-417 {
   background-image: url(../img/groupe-415-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2158,31 +1078,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5281 {
-  background-image: url(../img/groupe-10263@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 33px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5284 {
-  background-image: url(../img/groupe-421-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 32px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5287 {
+.x07-tarifs-desktop .groupe-426 {
   background-image: url(../img/groupe-424-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2194,7 +1090,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5290 {
+.x07-tarifs-desktop .groupe-429 {
   background-image: url(../img/groupe-10302@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2206,43 +1102,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5293 {
-  background-image: url(../img/groupe-10320@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5296 {
-  background-image: url(../img/groupe-10074@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 34px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5299 {
-  background-image: url(../img/groupe-10059@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 37px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5302 {
+.x07-tarifs-desktop .groupe-441 {
   background-image: url(../img/groupe-1381-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2254,7 +1114,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5305 {
+.x07-tarifs-desktop .groupe-444 {
   background-image: url(../img/groupe-10047@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2266,7 +1126,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5308 {
+.x07-tarifs-desktop .groupe-447 {
   background-image: url(../img/groupe-1525-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2278,31 +1138,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5311 {
-  background-image: url(../img/groupe-10050@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 36px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5314 {
-  background-image: url(../img/groupe-4371-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5317 {
+.x07-tarifs-desktop .groupe-456 {
   background-image: url(../img/groupe-454-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2314,31 +1150,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5320 {
-  background-image: url(../img/groupe-10251@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 35px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5323 {
-  background-image: url(../img/groupe-454-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5326 {
+.x07-tarifs-desktop .groupe-465 {
   background-image: url(../img/groupe-10092@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2350,7 +1162,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5329 {
+.x07-tarifs-desktop .groupe-468 {
   background-image: url(../img/groupe-1561-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2362,31 +1174,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5332 {
-  background-image: url(../img/groupe-469-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5335 {
-  background-image: url(../img/groupe-4599-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5338 {
+.x07-tarifs-desktop .groupe-477 {
   background-image: url(../img/groupe-1381-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2398,7 +1186,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5341 {
+.x07-tarifs-desktop .groupe-480 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2410,19 +1198,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5344 {
-  background-image: url(../img/groupe-1297-6@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 37px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5347 {
+.x07-tarifs-desktop .groupe-486 {
   background-image: url(../img/groupe-10077@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2434,7 +1210,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5350 {
+.x07-tarifs-desktop .groupe-489 {
   background-image: url(../img/groupe-10005@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2446,31 +1222,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5353 {
-  background-image: url(../img/groupe-10008@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5356 {
-  background-image: url(../img/groupe-10104@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 35px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5359 {
+.x07-tarifs-desktop .groupe-498 {
   background-image: url(../img/groupe-10005@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2482,19 +1234,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5362 {
-  background-image: url(../img/groupe-10089@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5365 {
+.x07-tarifs-desktop .groupe-504 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2506,31 +1246,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5368 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5371 {
-  background-image: url(../img/groupe-10344@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5374 {
+.x07-tarifs-desktop .groupe-513 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2542,7 +1258,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5377 {
+.x07-tarifs-desktop .groupe-516 {
   background-image: url(../img/groupe-10200@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2554,7 +1270,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5380 {
+.x07-tarifs-desktop .groupe-519 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2566,31 +1282,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5383 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5386 {
-  background-image: url(../img/groupe-10134@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5389 {
+.x07-tarifs-desktop .groupe-528 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2602,7 +1294,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5392 {
+.x07-tarifs-desktop .groupe-531 {
   background-image: url(../img/groupe-10089@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2614,7 +1306,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5395 {
+.x07-tarifs-desktop .groupe-534 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2626,31 +1318,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5398 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5401 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5404 {
+.x07-tarifs-desktop .groupe-543 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2662,19 +1330,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5407 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5410 {
+.x07-tarifs-desktop .groupe-549 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2686,43 +1342,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5413 {
-  background-image: url(../img/groupe-10134@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5416 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5419 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5422 {
+.x07-tarifs-desktop .groupe-561 {
   background-image: url(../img/groupe-100-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2734,43 +1354,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5425 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5428 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5431 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 36px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5434 {
+.x07-tarifs-desktop .groupe-573 {
   background-image: url(../img/groupe-10113@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2782,43 +1366,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5437 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 32px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5440 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5443 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 34px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5446 {
+.x07-tarifs-desktop .groupe-585 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2830,31 +1378,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5449 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5452 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5455 {
+.x07-tarifs-desktop .groupe-594 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2866,19 +1390,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-5458 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 37px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-5461 {
+.x07-tarifs-desktop .groupe-600 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2890,7 +1402,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .trac-1708 {
+.x07-tarifs-desktop .trac-205 {
   height: 44px;
   left: 1px;
   object-fit: cover;
@@ -2899,84 +1411,598 @@ to{opacity: 1;
   width: 13px;
 }
 
-.x05-galerie-web .trac-1710 {
+.x07-tarifs-desktop .trac-207 {
   height: 33px;
   margin-right: 0;
   object-fit: cover;
   width: 101px;
 }
 
-.x05-galerie-web .trac-438 {
-  height: 187px;
-  left: -1223px;
-  object-fit: cover;
-  position: fixed;
-  top: 166px;
-  width: 4366px;
+.x07-tarifs-desktop .groupe-10425 {
+  align-items: center;
+  display: flex;
+  gap: 60px;
+  height: 27px;
+  margin-left: 277px;
+  margin-top: 3.86px;
+  min-width: 1360px;
 }
 
-.x05-galerie-web .groupe-5465 {
-  align-items: flex-start;
+.x07-tarifs-desktop .accueil {
   cursor: pointer;
-  display: flex;
-  height: 52px;
-  left: 837px;
-  min-width: 247px;
-  position: absolute;
-  top: 196px;
-}
-
-.x05-galerie-web .groupe-container {
-  border-radius: 26px;
-  height: 52px;
-  position: relative;
-  width: 247px;
-}
-
-.x05-galerie-web .groupe-1823 {
-  align-items: flex-end;
-  background-color: var(--corn);
-  border-radius: 26px;
-  display: flex;
-  height: 52px;
-  justify-content: flex-end;
-  left: 0;
-  min-width: 247px;
-  padding: 9px 82px;
-  position: absolute;
-  top: 0;
-}
-
-.x05-galerie-web .accueil {
-  letter-spacing: 0;
-  line-height: 25px;
-  min-height: 27px;
-  min-width: 82px;
+  letter-spacing: 2.70px;
+  line-height: 18px;
+  margin-top: 1.0px;
+  min-height: 20px;
+  min-width: 95px;
   white-space: nowrap;
 }
 
-.x05-galerie-web .groupe-2428 {
-  align-items: flex-start;
-  display: flex;
-  height: 37px;
-  justify-content: flex-end;
-  left: 14px;
-  min-width: 37px;
-  padding: 0 0.0px;
+.x07-tarifs-desktop .explorer-le-gte {
+  cursor: pointer;
+  letter-spacing: 2.70px;
+  line-height: 18px;
+  margin-top: 1.0px;
+  min-height: 24px;
+  min-width: 209px;
+  white-space: nowrap;
+}
+
+.x07-tarifs-desktop .galerie {
+  cursor: pointer;
+  letter-spacing: 2.70px;
+  line-height: 18px;
+  margin-top: 1.0px;
+  min-height: 20px;
+  min-width: 94px;
+  white-space: nowrap;
+}
+
+.x07-tarifs-desktop .overlap-group9 {
+  align-self: flex-end;
+  height: 24px;
+  position: relative;
+  width: 286px;
+}
+
+.x07-tarifs-desktop .tarifs-et-rservations {
+  left: 0;
+  letter-spacing: 2.70px;
+  line-height: 18px;
   position: absolute;
-  top: 8px;
-  transform: rotate(90deg);
+  top: 0;
+  white-space: nowrap;
 }
 
-.x05-galerie-web .union-1 {
-  height: 37px;
-  margin-top: 0;
+.x07-tarifs-desktop .rectangle-413 {
+  background-color: var(--corn);
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 284px;
+}
+
+.x07-tarifs-desktop .activits-et-tourisme {
+  cursor: pointer;
+  letter-spacing: 2.70px;
+  line-height: 18px;
+  margin-top: 1.0px;
+  min-height: 23px;
+  min-width: 271px;
+  white-space: nowrap;
+}
+
+.x07-tarifs-desktop .place {
+  cursor: pointer;
+  letter-spacing: 2.70px;
+  line-height: 18px;
+  margin-top: 1.0px;
+  min-height: 20px;
+  min-width: 105px;
+  white-space: nowrap;
+}
+
+.x07-tarifs-desktop .composant-5-18 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-left: 78px;
+  margin-top: 3.86px;
+  min-height: 20px;
+  width: 23px;
+}
+
+.x07-tarifs-desktop .rectangle-3216 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 2px;
+  margin-top: 8px;
+  width: 23px;
+}
+
+.x07-tarifs-desktop .overlap-group10 {
+  height: 3422px;
+  position: relative;
+  width: 1950px;
+}
+
+.x07-tarifs-desktop .groupe-de-masques-25 {
+  height: 1080px;
+  left: 15px;
   object-fit: cover;
-  transform: rotate(-90deg);
-  width: 37px;
+  position: absolute;
+  top: 10px;
+  width: 1920px;
 }
 
-.x05-galerie-web .groupe-7382 {
+.x07-tarifs-desktop .trac-2449 {
+  height: 1110px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1950px;
+}
+
+.x07-tarifs-desktop .rectangle-426 {
+  background-color: var(--bianca);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 30px 30px 0px 0px;
+  height: 2447px;
+  left: 15px;
+  position: absolute;
+  top: 975px;
+  width: 1920px;
+}
+
+.x07-tarifs-desktop .bienvenue-dans-votre {
+  left: 188px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 217px;
+  white-space: nowrap;
+}
+
+.x07-tarifs-desktop .title {
+  left: 693px;
+  letter-spacing: 7.80px;
+  line-height: 52px;
+  position: absolute;
+  top: 1009px;
+  white-space: nowrap;
+}
+
+.x07-tarifs-desktop .serviettes-de-toilet {
+  height: 30px;
+  left: 611px;
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 1532px;
+  width: 730px;
+}
+
+.x07-tarifs-desktop .borne-de-recharge-po {
+  height: 29px;
+  left: 400px;
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 1574px;
+  width: 1152px;
+}
+
+.x07-tarifs-desktop .possibilit-de-tarif {
+  height: 29px;
+  left: 400px;
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 1614px;
+  width: 1152px;
+}
+
+.x07-tarifs-desktop .les-animaux-ne-sont {
+  left: 640px;
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 2877px;
+  white-space: nowrap;
+}
+
+.x07-tarifs-desktop .tarifs-juillet-ao {
+  left: 348px;
+  letter-spacing: 7.80px;
+  line-height: 52px;
+  position: absolute;
+  top: 1848px;
+  white-space: nowrap;
+}
+
+.x07-tarifs-desktop .rectangle-416 {
+  background-color: var(--bianca);
+  border-radius: 22px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 371px;
+  left: 127px;
+  position: absolute;
+  top: 1122px;
+  width: 266px;
+}
+
+.x07-tarifs-desktop .rectangle-629 {
+  background-color: var(--bianca);
+  border-radius: 22px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 371px;
+  left: 413px;
+  position: absolute;
+  top: 1122px;
+  width: 266px;
+}
+
+.x07-tarifs-desktop .rectangle-630 {
+  background-color: var(--bianca);
+  border-radius: 22px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 371px;
+  left: 699px;
+  position: absolute;
+  top: 1122px;
+  width: 266px;
+}
+
+.x07-tarifs-desktop .rectangle-631 {
+  background-color: var(--bianca);
+  border-radius: 22px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 371px;
+  left: 985px;
+  position: absolute;
+  top: 1122px;
+  width: 266px;
+}
+
+.x07-tarifs-desktop .rectangle-632 {
+  background-color: var(--bianca);
+  border-radius: 22px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 371px;
+  left: 1271px;
+  position: absolute;
+  top: 1122px;
+  width: 266px;
+}
+
+.x07-tarifs-desktop .rectangle-633 {
+  background-color: var(--bianca);
+  border-radius: 22px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 371px;
+  left: 1557px;
+  position: absolute;
+  top: 1122px;
+  width: 266px;
+}
+
+.x07-tarifs-desktop .overlap-group-1 {
+  border-radius: 41.5px;
+  height: 83px;
+  left: 914px;
+  position: absolute;
+  top: 750px;
+  width: 83px;
+}
+
+.x07-tarifs-desktop .ellipse-1 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 41.5px;
+  height: 83px;
+  opacity: 0.55;
+  width: 83px;
+}
+
+.x07-tarifs-desktop .union-1 {
+  height: 48px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 48px;
+}
+
+.x07-tarifs-desktop .ellipse-2 {
+  border: 3px solid;
+  border-color: var(--white);
+  border-radius: 41.5px;
+  height: 83px;
+  opacity: 0.55;
+  width: 83px;
+}
+
+.x07-tarifs-desktop .address {
+  color: var(--black);
+  font-family: var(--font-family-josefin_sans);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  left: 187px;
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 1188px;
+  white-space: nowrap;
+}
+
+.x07-tarifs-desktop .address-1 {
+  left: 489px;
+  text-align: center;
+  top: 1188px;
+}
+
+.x07-tarifs-desktop .address-2 {
+  left: 775px;
+  text-align: center;
+  top: 1188px;
+}
+
+.x07-tarifs-desktop .address-3 {
+  left: 1061px;
+  text-align: center;
+  top: 1188px;
+}
+
+.x07-tarifs-desktop .address-4 {
+  left: 1346px;
+  text-align: center;
+  top: 1188px;
+}
+
+.x07-tarifs-desktop .address-5 {
+  left: 1612px;
+  text-align: center;
+  top: 1188px;
+}
+
+.x07-tarifs-desktop .draps-et-mnagecompris {
+  left: 171px;
+  letter-spacing: 2.70px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 1414px;
+  white-space: nowrap;
+}
+
+.x07-tarifs-desktop .draps-et-mnagecompris-1 {
+  left: 457px;
+  top: 1414px;
+}
+
+.x07-tarifs-desktop .draps-et-mnagecompris-2 {
+  left: 743px;
+  top: 1414px;
+}
+
+.x07-tarifs-desktop .draps-et-mnagecompris-3 {
+  left: 1029px;
+  top: 1414px;
+}
+
+.x07-tarifs-desktop .draps-et-mnagecompris-4 {
+  left: 1315px;
+  top: 1414px;
+}
+
+.x07-tarifs-desktop .draps-et-mnagecompris-5 {
+  left: 1601px;
+  top: 1414px;
+}
+
+.x07-tarifs-desktop .price {
+  left: 183px;
+  letter-spacing: 3.36px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 1306px;
+  white-space: nowrap;
+}
+
+.x07-tarifs-desktop .price-1 {
+  left: 472px;
+  top: 1306px;
+}
+
+.x07-tarifs-desktop .price-2 {
+  left: 757px;
+  top: 1306px;
+}
+
+.x07-tarifs-desktop .price-3 {
+  left: 1036px;
+  top: 1306px;
+}
+
+.x07-tarifs-desktop .price-4 {
+  left: 1323px;
+  top: 1306px;
+}
+
+.x07-tarifs-desktop .price-5 {
+  left: 1609px;
+  top: 1306px;
+}
+
+.x07-tarifs-desktop .rectangle-639 {
+  background-color: var(--bianca);
+  border-radius: 22px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 371px;
+  left: 274px;
+  position: absolute;
+  top: 1951px;
+  width: 266px;
+}
+
+.x07-tarifs-desktop .rectangle-637 {
+  background-color: var(--bianca);
+  border-radius: 22px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 371px;
+  left: 560px;
+  position: absolute;
+  top: 1951px;
+  width: 266px;
+}
+
+.x07-tarifs-desktop .rectangle-636 {
+  background-color: var(--bianca);
+  border-radius: 22px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 371px;
+  left: 846px;
+  position: absolute;
+  top: 1951px;
+  width: 266px;
+}
+
+.x07-tarifs-desktop .rectangle-3012 {
+  background-color: var(--bianca);
+  border-radius: 22px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 260px;
+  left: 849px;
+  position: absolute;
+  top: 2581px;
+  width: 260px;
+}
+
+.x07-tarifs-desktop .rectangle-634 {
+  background-color: var(--bianca);
+  border-radius: 22px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 371px;
+  left: 1132px;
+  position: absolute;
+  top: 1951px;
+  width: 266px;
+}
+
+.x07-tarifs-desktop .rectangle-635 {
+  background-color: var(--bianca);
+  border-radius: 22px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 371px;
+  left: 1418px;
+  position: absolute;
+  top: 1951px;
+  width: 266px;
+}
+
+.x07-tarifs-desktop .address-6 {
+  color: var(--black);
+  font-family: var(--font-family-josefin_sans);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  left: 334px;
+  text-align: center;
+  top: 2018px;
+}
+
+.x07-tarifs-desktop .address-7 {
+  left: 636px;
+  text-align: center;
+  top: 2018px;
+}
+
+.x07-tarifs-desktop .address-8 {
+  left: 922px;
+  text-align: center;
+  top: 2018px;
+}
+
+.x07-tarifs-desktop .address-9 {
+  left: 1207px;
+  text-align: center;
+  top: 2018px;
+}
+
+.x07-tarifs-desktop .address-10 {
+  left: 1473px;
+  text-align: center;
+  top: 2018px;
+}
+
+.x07-tarifs-desktop .draps-et-mnagecompris-6 {
+  left: 318px;
+  top: 2243px;
+}
+
+.x07-tarifs-desktop .draps-et-mnagecompris-7 {
+  left: 604px;
+  top: 2243px;
+}
+
+.x07-tarifs-desktop .draps-et-mnagecompris-8 {
+  left: 890px;
+  top: 2243px;
+}
+
+.x07-tarifs-desktop .draps-et-mnagecompris-9 {
+  left: 1176px;
+  top: 2243px;
+}
+
+.x07-tarifs-desktop .draps-et-mnagecompris-10 {
+  left: 1462px;
+  top: 2243px;
+}
+
+.x07-tarifs-desktop .price-6 {
+  left: 325px;
+  top: 2134px;
+}
+
+.x07-tarifs-desktop .price-7 {
+  left: 614px;
+  top: 2134px;
+}
+
+.x07-tarifs-desktop .price-8 {
+  left: 898px;
+  top: 2134px;
+}
+
+.x07-tarifs-desktop .price-9 {
+  left: 1189px;
+  top: 2134px;
+}
+
+.x07-tarifs-desktop .price-10 {
+  left: 1472px;
+  top: 2134px;
+}
+
+.x07-tarifs-desktop .ligne-23 {
+  height: 3px;
+  left: 330px;
+  top: 1784px;
+  width: 1291px;
+}
+
+.x07-tarifs-desktop .groupe-1213 {
   align-items: flex-end;
   background-color: var(--corn);
   border-radius: 26px;
@@ -2984,14 +2010,14 @@ to{opacity: 1;
   display: flex;
   height: 52px;
   justify-content: flex-end;
-  left: 1032px;
+  left: 832px;
   min-width: 286px;
   padding: 9px 23px;
   position: absolute;
-  top: 7818px;
+  top: 1689px;
 }
 
-.x05-galerie-web .rservez-votre-sjour {
+.x07-tarifs-desktop .rservez-votre-sjour {
   letter-spacing: 0;
   line-height: 25px;
   min-height: 27px;
@@ -2999,7 +2025,7 @@ to{opacity: 1;
   white-space: nowrap;
 }
 
-.x05-galerie-web .groupe-7383 {
+.x07-tarifs-desktop .groupe-1214 {
   align-items: flex-end;
   background-color: var(--corn);
   border-radius: 26px;
@@ -3007,76 +2033,88 @@ to{opacity: 1;
   display: flex;
   height: 52px;
   justify-content: flex-end;
-  left: 603px;
-  min-width: 335px;
-  padding: 9px 51px;
+  left: 832px;
+  min-width: 286px;
+  padding: 9px 23px;
   position: absolute;
-  top: 7818px;
+  top: 2493px;
 }
 
-.x05-galerie-web .activits-et-tourisme {
-  letter-spacing: 0;
-  line-height: 25px;
-  min-height: 27px;
-  min-width: 231px;
+.x07-tarifs-desktop .retrouvez-ici-toutes {
+  color: var(--corn);
+  font-family: var(--font-family-josefin_sans);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  left: 184px;
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  position: absolute;
+  top: 467px;
   white-space: nowrap;
 }
 
-.x05-galerie-web .accueil-1 {
-  left: 533px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 8056px;
+.x07-tarifs-desktop .span0 {
+  color: var(--white);
+  font-weight: 500;
 }
 
-.x05-galerie-web .explorer-le-gte {
+.x07-tarifs-desktop .accueil-1 {
   cursor: pointer;
-  left: 533px;
+  left: 585px;
   letter-spacing: 2.20px;
   line-height: 22px;
   position: absolute;
-  top: 8102px;
+  top: 3070px;
   white-space: nowrap;
 }
 
-.x05-galerie-web .galerie {
-  left: 533px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 8150px;
-  white-space: nowrap;
-}
-
-.x05-galerie-web .tarifs-et-rservations {
+.x07-tarifs-desktop .explorer-le-gte-1 {
   cursor: pointer;
-  left: 533px;
+  left: 585px;
   letter-spacing: 2.20px;
   line-height: 22px;
   position: absolute;
-  top: 8196px;
+  top: 3116px;
   white-space: nowrap;
 }
 
-.x05-galerie-web .ligne-35 {
+.x07-tarifs-desktop .galerie-1 {
+  cursor: pointer;
+  left: 585px;
+  letter-spacing: 2.20px;
+  line-height: 22px;
+  position: absolute;
+  top: 3162px;
+  white-space: nowrap;
+}
+
+.x07-tarifs-desktop .tarifs-et-rservations-1 {
+  left: 585px;
+  letter-spacing: 2.20px;
+  line-height: 22px;
+  position: absolute;
+  top: 3208px;
+  white-space: nowrap;
+}
+
+.x07-tarifs-desktop .ligne-35 {
   height: 2px;
-  left: 139px;
-  top: 7958px;
+  left: 191px;
+  top: 2971px;
   width: 1596px;
 }
 
-.x05-galerie-web .groupe-1821 {
+.x07-tarifs-desktop .groupe-1821 {
   display: flex;
   height: 261px;
-  left: 113px;
+  left: 165px;
   overflow: hidden;
   position: absolute;
-  top: 8055px;
+  top: 3068px;
   width: 244px;
 }
 
-.x05-galerie-web .groupe-1820 {
+.x07-tarifs-desktop .groupe-1820 {
   display: flex;
   flex: 1;
   margin-bottom: 0;
@@ -3084,24 +2122,24 @@ to{opacity: 1;
   width: 244.02px;
 }
 
-.x05-galerie-web .groupe-1819 {
+.x07-tarifs-desktop .groupe-1819 {
   align-items: center;
   display: flex;
   flex: 1;
   flex-direction: column;
   gap: 17px;
-  overflow: hidden;
+  padding: 0.0px 0.0px;
   width: 244.02px;
 }
 
-.x05-galerie-web .flex-row-1 {
+.x07-tarifs-desktop .flex-row-2 {
   align-items: flex-end;
   display: flex;
   margin-right: 6.85px;
   min-width: 168px;
 }
 
-.x05-galerie-web .groupe-1386 {
+.x07-tarifs-desktop .groupe-1386 {
   align-self: flex-start;
   background-image: url(../img/groupe-1384-1@1x.png);
   background-position: 50% 50%;
@@ -3112,7 +2150,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .overlap-group-1 {
+.x07-tarifs-desktop .overlap-group-2 {
   height: 161px;
   margin-bottom: 0.15px;
   margin-left: 7px;
@@ -3120,8 +2158,8 @@ to{opacity: 1;
   width: 49px;
 }
 
-.x05-galerie-web .groupe-1221 {
-  background-image: url(../img/groupe-1219-3-1x-png@1x.png);
+.x07-tarifs-desktop .groupe-1221 {
+  background-image: url(../img/groupe-1219-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 5px;
@@ -3132,7 +2170,7 @@ to{opacity: 1;
   width: 2px;
 }
 
-.x05-galerie-web .groupe-1224 {
+.x07-tarifs-desktop .groupe-1224 {
   background-image: url(../img/groupe-1222-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3144,7 +2182,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1227 {
+.x07-tarifs-desktop .groupe-1227 {
   background-image: url(../img/groupe-1225-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3156,7 +2194,7 @@ to{opacity: 1;
   width: 2px;
 }
 
-.x05-galerie-web .groupe-1230 {
+.x07-tarifs-desktop .groupe-1230 {
   background-image: url(../img/groupe-1228-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3168,7 +2206,7 @@ to{opacity: 1;
   width: 2px;
 }
 
-.x05-galerie-web .groupe-1233 {
+.x07-tarifs-desktop .groupe-1233 {
   background-image: url(../img/groupe-1231-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3180,7 +2218,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1236 {
+.x07-tarifs-desktop .groupe-1236 {
   background-image: url(../img/groupe-1234-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3192,7 +2230,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1239 {
+.x07-tarifs-desktop .groupe-1239 {
   background-image: url(../img/groupe-1237-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3204,7 +2242,7 @@ to{opacity: 1;
   width: 2px;
 }
 
-.x05-galerie-web .groupe-1242 {
+.x07-tarifs-desktop .groupe-1242 {
   background-image: url(../img/groupe-1240-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3216,7 +2254,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1245 {
+.x07-tarifs-desktop .groupe-1245 {
   background-image: url(../img/groupe-1243-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3228,7 +2266,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1248 {
+.x07-tarifs-desktop .groupe-1248 {
   background-image: url(../img/groupe-1246-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3240,7 +2278,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1251 {
+.x07-tarifs-desktop .groupe-1251 {
   background-image: url(../img/groupe-1249-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3252,7 +2290,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1254 {
+.x07-tarifs-desktop .groupe-1254 {
   background-image: url(../img/groupe-1252-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3264,8 +2302,8 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1257 {
-  background-image: url(../img/groupe-1255-1@1x.png);
+.x07-tarifs-desktop .groupe-1257 {
+  background-image: url(../img/groupe-1255-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 2px;
@@ -3276,7 +2314,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1260 {
+.x07-tarifs-desktop .groupe-1260 {
   background-image: url(../img/groupe-1258-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3288,7 +2326,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1263 {
+.x07-tarifs-desktop .groupe-1263 {
   background-image: url(../img/groupe-1261-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3300,7 +2338,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1266 {
+.x07-tarifs-desktop .groupe-1266 {
   background-image: url(../img/groupe-1264-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3312,8 +2350,8 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1269 {
-  background-image: url(../img/groupe-1267-1@1x.png);
+.x07-tarifs-desktop .groupe-1269 {
+  background-image: url(../img/groupe-1267-3@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -3324,7 +2362,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1272 {
+.x07-tarifs-desktop .groupe-1272 {
   background-image: url(../img/groupe-1270-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3336,8 +2374,8 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1275 {
-  background-image: url(../img/groupe-1273-2@1x.png);
+.x07-tarifs-desktop .groupe-1275 {
+  background-image: url(../img/groupe-1273-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -3348,7 +2386,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1278 {
+.x07-tarifs-desktop .groupe-1278 {
   background-image: url(../img/groupe-1276-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3360,7 +2398,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1281 {
+.x07-tarifs-desktop .groupe-1281 {
   background-image: url(../img/groupe-1279-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3372,7 +2410,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1284 {
+.x07-tarifs-desktop .groupe-1284 {
   background-image: url(../img/groupe-1282-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3384,7 +2422,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1287 {
+.x07-tarifs-desktop .groupe-1287 {
   background-image: url(../img/groupe-1285-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3396,7 +2434,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1290 {
+.x07-tarifs-desktop .groupe-1290 {
   background-image: url(../img/groupe-1288-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3408,7 +2446,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1293 {
+.x07-tarifs-desktop .groupe-1293 {
   background-image: url(../img/groupe-1291-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3420,7 +2458,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1296 {
+.x07-tarifs-desktop .groupe-1296 {
   background-image: url(../img/groupe-1294-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3432,7 +2470,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1299 {
+.x07-tarifs-desktop .groupe-1299 {
   background-image: url(../img/groupe-1297-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3444,7 +2482,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1302 {
+.x07-tarifs-desktop .groupe-1302 {
   background-image: url(../img/groupe-1300-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3456,7 +2494,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1305 {
+.x07-tarifs-desktop .groupe-1305 {
   background-image: url(../img/groupe-1303-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3468,7 +2506,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1308 {
+.x07-tarifs-desktop .groupe-1308 {
   background-image: url(../img/groupe-1306-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3480,7 +2518,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1311 {
+.x07-tarifs-desktop .groupe-1311 {
   background-image: url(../img/groupe-1309-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3492,8 +2530,8 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1314 {
-  background-image: url(../img/groupe-1312-2@1x.png);
+.x07-tarifs-desktop .groupe-1314 {
+  background-image: url(../img/groupe-1312-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -3504,7 +2542,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1317 {
+.x07-tarifs-desktop .groupe-1317 {
   background-image: url(../img/groupe-1315-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3516,8 +2554,8 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1320 {
-  background-image: url(../img/groupe-1318-2@1x.png);
+.x07-tarifs-desktop .groupe-1320 {
+  background-image: url(../img/groupe-1318-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -3528,7 +2566,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1323 {
+.x07-tarifs-desktop .groupe-1323 {
   background-image: url(../img/groupe-1321-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3540,7 +2578,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1326 {
+.x07-tarifs-desktop .groupe-1326 {
   background-image: url(../img/groupe-1324-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3552,7 +2590,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1329 {
+.x07-tarifs-desktop .groupe-1329 {
   background-image: url(../img/groupe-1327-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3564,7 +2602,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1332 {
+.x07-tarifs-desktop .groupe-1332 {
   background-image: url(../img/groupe-1330-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3576,7 +2614,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1335 {
+.x07-tarifs-desktop .groupe-1335 {
   background-image: url(../img/groupe-1333-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3588,7 +2626,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1338 {
+.x07-tarifs-desktop .groupe-1338 {
   background-image: url(../img/groupe-1336-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3600,7 +2638,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1341 {
+.x07-tarifs-desktop .groupe-1341 {
   background-image: url(../img/groupe-1339-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3612,7 +2650,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1344 {
+.x07-tarifs-desktop .groupe-1344 {
   background-image: url(../img/groupe-1342-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3624,7 +2662,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1347 {
+.x07-tarifs-desktop .groupe-1347 {
   background-image: url(../img/groupe-1345-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3636,7 +2674,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1350 {
+.x07-tarifs-desktop .groupe-1350 {
   background-image: url(../img/groupe-1348-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3648,7 +2686,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1353 {
+.x07-tarifs-desktop .groupe-1353 {
   background-image: url(../img/groupe-1351-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3660,7 +2698,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1356 {
+.x07-tarifs-desktop .groupe-1356 {
   background-image: url(../img/groupe-1354-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3672,7 +2710,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1359 {
+.x07-tarifs-desktop .groupe-1359 {
   background-image: url(../img/groupe-1357-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3684,7 +2722,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1362 {
+.x07-tarifs-desktop .groupe-1362 {
   background-image: url(../img/groupe-1360-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3696,7 +2734,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1365 {
+.x07-tarifs-desktop .groupe-1365 {
   background-image: url(../img/groupe-1363-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3708,8 +2746,8 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1368 {
-  background-image: url(../img/groupe-1366-1@1x.png);
+.x07-tarifs-desktop .groupe-1368 {
+  background-image: url(../img/groupe-1366-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -3720,7 +2758,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1371 {
+.x07-tarifs-desktop .groupe-1371 {
   background-image: url(../img/groupe-1369-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3732,7 +2770,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1374 {
+.x07-tarifs-desktop .groupe-1374 {
   background-image: url(../img/groupe-1372-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3744,8 +2782,8 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1377 {
-  background-image: url(../img/groupe-1294-6@1x.png);
+.x07-tarifs-desktop .groupe-1377 {
+  background-image: url(../img/groupe-1375-3@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -3756,7 +2794,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1380 {
+.x07-tarifs-desktop .groupe-1380 {
   background-image: url(../img/groupe-1369-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3768,7 +2806,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1383 {
+.x07-tarifs-desktop .groupe-1383 {
   background-image: url(../img/groupe-1381-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3780,7 +2818,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .trac-277 {
+.x07-tarifs-desktop .trac-277 {
   height: 138px;
   left: 26px;
   object-fit: cover;
@@ -3789,7 +2827,7 @@ to{opacity: 1;
   width: 22px;
 }
 
-.x05-galerie-web .groupe-1389 {
+.x07-tarifs-desktop .groupe-1389 {
   background-image: url(../img/groupe-1387-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3801,8 +2839,8 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1392 {
-  background-image: url(../img/groupe-1390-1@1x.png);
+.x07-tarifs-desktop .groupe-1392 {
+  background-image: url(../img/groupe-1390-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -3813,7 +2851,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1395 {
+.x07-tarifs-desktop .groupe-1395 {
   background-image: url(../img/groupe-1393-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3825,7 +2863,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1398 {
+.x07-tarifs-desktop .groupe-1398 {
   background-image: url(../img/groupe-1396-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3837,7 +2875,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1401 {
+.x07-tarifs-desktop .groupe-1401 {
   background-image: url(../img/groupe-1399-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3849,7 +2887,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1404 {
+.x07-tarifs-desktop .groupe-1404 {
   background-image: url(../img/groupe-1402-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3861,7 +2899,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1407 {
+.x07-tarifs-desktop .groupe-1407 {
   background-image: url(../img/groupe-1405-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3873,7 +2911,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1410 {
+.x07-tarifs-desktop .groupe-1410 {
   background-image: url(../img/groupe-1408-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3885,7 +2923,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1413 {
+.x07-tarifs-desktop .groupe-1413 {
   background-image: url(../img/groupe-1267-6@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3897,7 +2935,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .trac-288 {
+.x07-tarifs-desktop .trac-288 {
   height: 161px;
   left: 0;
   object-fit: cover;
@@ -3906,7 +2944,7 @@ to{opacity: 1;
   width: 30px;
 }
 
-.x05-galerie-web .overlap-group3-1 {
+.x07-tarifs-desktop .overlap-group3-1 {
   align-items: flex-start;
   align-self: center;
   background-image: url(../img/trac--429-1@1x.png);
@@ -3918,13 +2956,13 @@ to{opacity: 1;
   min-width: 19px;
 }
 
-.x05-galerie-web .trac-430 {
+.x07-tarifs-desktop .trac-430 {
   height: 40px;
   object-fit: cover;
   width: 19px;
 }
 
-.x05-galerie-web .trac-427 {
+.x07-tarifs-desktop .trac-427 {
   align-self: flex-start;
   height: 165px;
   margin-left: 4px;
@@ -3932,7 +2970,10 @@ to{opacity: 1;
   width: 31px;
 }
 
-.x05-galerie-web .flex-col-1 {
+.x07-tarifs-desktop .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
   gap: 6px;
   margin-bottom: 4.36px;
   margin-left: 7px;
@@ -3940,20 +2981,20 @@ to{opacity: 1;
   width: 11px;
 }
 
-.x05-galerie-web .trac-352 {
+.x07-tarifs-desktop .trac-352 {
   height: 9px;
   margin-left: 2.19px;
   object-fit: cover;
   width: 8px;
 }
 
-.x05-galerie-web .group-container {
+.x07-tarifs-desktop .group-container {
   height: 85px;
   position: relative;
   width: 11px;
 }
 
-.x05-galerie-web .overlap-group2-1 {
+.x07-tarifs-desktop .overlap-group1-1 {
   height: 85px;
   left: 1px;
   position: absolute;
@@ -3961,7 +3002,7 @@ to{opacity: 1;
   width: 10px;
 }
 
-.x05-galerie-web .groupe-1416 {
+.x07-tarifs-desktop .groupe-1416 {
   background-image: url(../img/groupe-1414-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3973,7 +3014,7 @@ to{opacity: 1;
   width: 2px;
 }
 
-.x05-galerie-web .groupe-1419 {
+.x07-tarifs-desktop .groupe-1419 {
   background-image: url(../img/groupe-1417-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3985,7 +3026,7 @@ to{opacity: 1;
   width: 2px;
 }
 
-.x05-galerie-web .groupe-1422 {
+.x07-tarifs-desktop .groupe-1422 {
   background-image: url(../img/groupe-1420-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3997,7 +3038,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1425 {
+.x07-tarifs-desktop .groupe-1425 {
   background-image: url(../img/groupe-1423-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4009,7 +3050,7 @@ to{opacity: 1;
   width: 2px;
 }
 
-.x05-galerie-web .groupe-1428 {
+.x07-tarifs-desktop .groupe-1428 {
   background-image: url(../img/groupe-1426-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4021,7 +3062,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1431 {
+.x07-tarifs-desktop .groupe-1431 {
   background-image: url(../img/groupe-1429-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4033,7 +3074,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1437 {
+.x07-tarifs-desktop .groupe-1437 {
   background-image: url(../img/groupe-1435-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4045,7 +3086,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1440 {
+.x07-tarifs-desktop .groupe-1440 {
   background-image: url(../img/groupe-1438-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4057,8 +3098,8 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1443 {
-  background-image: url(../img/groupe-1441-1@1x.png);
+.x07-tarifs-desktop .groupe-1443 {
+  background-image: url(../img/groupe-1441-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -4069,7 +3110,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1446 {
+.x07-tarifs-desktop .groupe-1446 {
   background-image: url(../img/groupe-1444-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4081,7 +3122,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1452 {
+.x07-tarifs-desktop .groupe-1452 {
   background-image: url(../img/groupe-1450-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4093,7 +3134,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1455 {
+.x07-tarifs-desktop .groupe-1455 {
   background-image: url(../img/groupe-1453-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4105,7 +3146,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1458 {
+.x07-tarifs-desktop .groupe-1458 {
   background-image: url(../img/groupe-1456-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4117,8 +3158,8 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1461 {
-  background-image: url(../img/groupe-1459-2@1x.png);
+.x07-tarifs-desktop .groupe-1461 {
+  background-image: url(../img/groupe-1459-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -4129,7 +3170,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1464 {
+.x07-tarifs-desktop .groupe-1464 {
   background-image: url(../img/groupe-1462-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4141,7 +3182,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1470 {
+.x07-tarifs-desktop .groupe-1470 {
   background-image: url(../img/groupe-1468-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4153,7 +3194,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1473 {
+.x07-tarifs-desktop .groupe-1473 {
   background-image: url(../img/groupe-1471-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4165,7 +3206,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1476 {
+.x07-tarifs-desktop .groupe-1476 {
   background-image: url(../img/groupe-1474-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4177,7 +3218,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1479 {
+.x07-tarifs-desktop .groupe-1479 {
   background-image: url(../img/groupe-1477-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4189,7 +3230,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1482 {
+.x07-tarifs-desktop .groupe-1482 {
   background-image: url(../img/groupe-1480-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4201,7 +3242,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1485 {
+.x07-tarifs-desktop .groupe-1485 {
   background-image: url(../img/groupe-1483-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4213,7 +3254,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1491 {
+.x07-tarifs-desktop .groupe-1491 {
   background-image: url(../img/groupe-1489-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4225,7 +3266,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1494 {
+.x07-tarifs-desktop .groupe-1494 {
   background-image: url(../img/groupe-1492-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4237,7 +3278,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1497 {
+.x07-tarifs-desktop .groupe-1497 {
   background-image: url(../img/groupe-1495-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4249,7 +3290,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1500 {
+.x07-tarifs-desktop .groupe-1500 {
   background-image: url(../img/groupe-1498-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4261,7 +3302,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1503 {
+.x07-tarifs-desktop .groupe-1503 {
   background-image: url(../img/groupe-1501-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4273,7 +3314,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1506 {
+.x07-tarifs-desktop .groupe-1506 {
   background-image: url(../img/groupe-1504-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4285,7 +3326,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1512 {
+.x07-tarifs-desktop .groupe-1512 {
   background-image: url(../img/groupe-1510-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4297,7 +3338,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1518 {
+.x07-tarifs-desktop .groupe-1518 {
   background-image: url(../img/groupe-10302@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4309,7 +3350,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1521 {
+.x07-tarifs-desktop .groupe-1521 {
   background-image: url(../img/groupe-1519-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4321,7 +3362,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1524 {
+.x07-tarifs-desktop .groupe-1524 {
   background-image: url(../img/groupe-1522-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4333,7 +3374,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1530 {
+.x07-tarifs-desktop .groupe-1530 {
   background-image: url(../img/groupe-1528-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4345,7 +3386,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1533 {
+.x07-tarifs-desktop .groupe-1533 {
   background-image: url(../img/groupe-1531-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4357,7 +3398,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1539 {
+.x07-tarifs-desktop .groupe-1539 {
   background-image: url(../img/groupe-10035@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4369,7 +3410,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1542 {
+.x07-tarifs-desktop .groupe-1542 {
   background-image: url(../img/groupe-1540-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4381,7 +3422,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1545 {
+.x07-tarifs-desktop .groupe-1545 {
   background-image: url(../img/groupe-1543-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4393,7 +3434,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1548 {
+.x07-tarifs-desktop .groupe-1548 {
   background-image: url(../img/groupe-10248@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4405,7 +3446,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1551 {
+.x07-tarifs-desktop .groupe-1551 {
   background-image: url(../img/groupe-10068@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4417,7 +3458,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1554 {
+.x07-tarifs-desktop .groupe-1554 {
   background-image: url(../img/groupe-1552-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4429,7 +3470,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1557 {
+.x07-tarifs-desktop .groupe-1557 {
   background-image: url(../img/groupe-1555-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4441,7 +3482,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1566 {
+.x07-tarifs-desktop .groupe-1566 {
   background-image: url(../img/groupe-1564-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4453,7 +3494,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1578 {
+.x07-tarifs-desktop .groupe-1578 {
   background-image: url(../img/groupe-10008@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4465,7 +3506,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1581 {
+.x07-tarifs-desktop .groupe-1581 {
   background-image: url(../img/groupe-10332@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4477,7 +3518,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1584 {
+.x07-tarifs-desktop .groupe-1584 {
   background-image: url(../img/groupe-10077@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4489,7 +3530,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1587 {
+.x07-tarifs-desktop .groupe-1587 {
   background-image: url(../img/groupe-1384-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4501,7 +3542,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .trac-351 {
+.x07-tarifs-desktop .trac-351 {
   height: 85px;
   left: 1px;
   object-fit: cover;
@@ -4510,7 +3551,7 @@ to{opacity: 1;
   width: 7px;
 }
 
-.x05-galerie-web .groupe-1449 {
+.x07-tarifs-desktop .groupe-1449 {
   background-image: url(../img/groupe-1447-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4522,8 +3563,8 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1467 {
-  background-image: url(../img/groupe-1465-2@1x.png);
+.x07-tarifs-desktop .groupe-1467 {
+  background-image: url(../img/groupe-1465-2-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -4534,7 +3575,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1488 {
+.x07-tarifs-desktop .groupe-1488 {
   background-image: url(../img/groupe-1486-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4546,7 +3587,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1527 {
+.x07-tarifs-desktop .groupe-1527 {
   background-image: url(../img/groupe-1525-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4558,7 +3599,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1563 {
+.x07-tarifs-desktop .groupe-1563 {
   background-image: url(../img/groupe-1561-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4570,14 +3611,14 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .group-container-1 {
+.x07-tarifs-desktop .group-container-1 {
   height: 107px;
   margin-left: 3px;
   position: relative;
   width: 35px;
 }
 
-.x05-galerie-web .groupe-1434 {
+.x07-tarifs-desktop .groupe-1434 {
   background-image: url(../img/groupe-1432-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4589,7 +3630,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .group-container-2 {
+.x07-tarifs-desktop .group-container-2 {
   height: 107px;
   left: 0;
   position: absolute;
@@ -4597,7 +3638,7 @@ to{opacity: 1;
   width: 35px;
 }
 
-.x05-galerie-web .group-container-3 {
+.x07-tarifs-desktop .group-container-3 {
   height: 107px;
   left: 1px;
   position: absolute;
@@ -4605,7 +3646,7 @@ to{opacity: 1;
   width: 34px;
 }
 
-.x05-galerie-web .overlap-group1-1 {
+.x07-tarifs-desktop .overlap-group2-1 {
   height: 107px;
   left: 1px;
   position: absolute;
@@ -4613,7 +3654,7 @@ to{opacity: 1;
   width: 33px;
 }
 
-.x05-galerie-web .groupe-1515 {
+.x07-tarifs-desktop .groupe-1515 {
   background-image: url(../img/groupe-1513-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4625,7 +3666,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1572 {
+.x07-tarifs-desktop .groupe-1572 {
   background-image: url(../img/groupe-10302@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4637,7 +3678,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1575 {
+.x07-tarifs-desktop .groupe-1575 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4649,7 +3690,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1590 {
+.x07-tarifs-desktop .groupe-1590 {
   background-image: url(../img/groupe-1588-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4661,7 +3702,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1593 {
+.x07-tarifs-desktop .groupe-1593 {
   background-image: url(../img/groupe-1591-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4673,7 +3714,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1596 {
+.x07-tarifs-desktop .groupe-1596 {
   background-image: url(../img/groupe-1594-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4685,7 +3726,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1599 {
+.x07-tarifs-desktop .groupe-1599 {
   background-image: url(../img/groupe-1597-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4697,8 +3738,8 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1602 {
-  background-image: url(../img/groupe-1600-1@1x.png);
+.x07-tarifs-desktop .groupe-1602 {
+  background-image: url(../img/groupe-1600-4@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 3px;
@@ -4709,8 +3750,8 @@ to{opacity: 1;
   width: 2px;
 }
 
-.x05-galerie-web .groupe-1605 {
-  background-image: url(../img/groupe-1603-1@1x.png);
+.x07-tarifs-desktop .groupe-1605 {
+  background-image: url(../img/groupe-1603-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 2px;
@@ -4721,7 +3762,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1608 {
+.x07-tarifs-desktop .groupe-1608 {
   background-image: url(../img/groupe-1606-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4733,7 +3774,7 @@ to{opacity: 1;
   width: 2px;
 }
 
-.x05-galerie-web .groupe-1611 {
+.x07-tarifs-desktop .groupe-1611 {
   background-image: url(../img/groupe-1609-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4745,7 +3786,7 @@ to{opacity: 1;
   width: 2px;
 }
 
-.x05-galerie-web .groupe-1614 {
+.x07-tarifs-desktop .groupe-1614 {
   background-image: url(../img/groupe-1612-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4757,7 +3798,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1617 {
+.x07-tarifs-desktop .groupe-1617 {
   background-image: url(../img/groupe-1615-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4769,7 +3810,7 @@ to{opacity: 1;
   width: 2px;
 }
 
-.x05-galerie-web .groupe-1620 {
+.x07-tarifs-desktop .groupe-1620 {
   background-image: url(../img/groupe-1618-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4781,7 +3822,7 @@ to{opacity: 1;
   width: 2px;
 }
 
-.x05-galerie-web .groupe-1623 {
+.x07-tarifs-desktop .groupe-1623 {
   background-image: url(../img/groupe-1621-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4793,7 +3834,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1626 {
+.x07-tarifs-desktop .groupe-1626 {
   background-image: url(../img/groupe-1624-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4805,7 +3846,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1629 {
+.x07-tarifs-desktop .groupe-1629 {
   background-image: url(../img/groupe-1627-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4817,7 +3858,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1632 {
+.x07-tarifs-desktop .groupe-1632 {
   background-image: url(../img/groupe-1630-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4829,7 +3870,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1635 {
+.x07-tarifs-desktop .groupe-1635 {
   background-image: url(../img/groupe-1633-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4841,7 +3882,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1638 {
+.x07-tarifs-desktop .groupe-1638 {
   background-image: url(../img/groupe-1636-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4853,7 +3894,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1641 {
+.x07-tarifs-desktop .groupe-1641 {
   background-image: url(../img/groupe-1639-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4865,7 +3906,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1644 {
+.x07-tarifs-desktop .groupe-1644 {
   background-image: url(../img/groupe-1642-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4877,7 +3918,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1647 {
+.x07-tarifs-desktop .groupe-1647 {
   background-image: url(../img/groupe-1645-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4889,7 +3930,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1650 {
+.x07-tarifs-desktop .groupe-1650 {
   background-image: url(../img/groupe-1648-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4901,7 +3942,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1653 {
+.x07-tarifs-desktop .groupe-1653 {
   background-image: url(../img/groupe-1651-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4913,7 +3954,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1656 {
+.x07-tarifs-desktop .groupe-1656 {
   background-image: url(../img/groupe-1654-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4925,7 +3966,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1659 {
+.x07-tarifs-desktop .groupe-1659 {
   background-image: url(../img/groupe-1657-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4937,7 +3978,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1662 {
+.x07-tarifs-desktop .groupe-1662 {
   background-image: url(../img/groupe-1660-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4949,7 +3990,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1665 {
+.x07-tarifs-desktop .groupe-1665 {
   background-image: url(../img/groupe-1663-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4961,8 +4002,8 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1668 {
-  background-image: url(../img/groupe-1666-1@1x.png);
+.x07-tarifs-desktop .groupe-1668 {
+  background-image: url(../img/groupe-1666-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -4973,7 +4014,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1671 {
+.x07-tarifs-desktop .groupe-1671 {
   background-image: url(../img/groupe-1669-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4985,8 +4026,8 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1674 {
-  background-image: url(../img/groupe-1672-3@1x.png);
+.x07-tarifs-desktop .groupe-1674 {
+  background-image: url(../img/groupe-1672-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -4997,7 +4038,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1677 {
+.x07-tarifs-desktop .groupe-1677 {
   background-image: url(../img/groupe-1675-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5009,7 +4050,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1680 {
+.x07-tarifs-desktop .groupe-1680 {
   background-image: url(../img/groupe-1678-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5021,7 +4062,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1683 {
+.x07-tarifs-desktop .groupe-1683 {
   background-image: url(../img/groupe-1681-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5033,7 +4074,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1686 {
+.x07-tarifs-desktop .groupe-1686 {
   background-image: url(../img/groupe-1684-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5045,7 +4086,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1689 {
+.x07-tarifs-desktop .groupe-1689 {
   background-image: url(../img/groupe-1687-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5057,7 +4098,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1692 {
+.x07-tarifs-desktop .groupe-1692 {
   background-image: url(../img/groupe-1690-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5069,7 +4110,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1695 {
+.x07-tarifs-desktop .groupe-1695 {
   background-image: url(../img/groupe-1693-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5081,8 +4122,8 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1698 {
-  background-image: url(../img/groupe-1696-1@1x.png);
+.x07-tarifs-desktop .groupe-1698 {
+  background-image: url(../img/groupe-1696@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -5093,7 +4134,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1701 {
+.x07-tarifs-desktop .groupe-1701 {
   background-image: url(../img/groupe-1699-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5105,7 +4146,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1704 {
+.x07-tarifs-desktop .groupe-1704 {
   background-image: url(../img/groupe-1702-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5117,7 +4158,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1707 {
+.x07-tarifs-desktop .groupe-1707 {
   background-image: url(../img/groupe-1705-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5129,7 +4170,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1710 {
+.x07-tarifs-desktop .groupe-1710 {
   background-image: url(../img/groupe-1708-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5141,7 +4182,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1713 {
+.x07-tarifs-desktop .groupe-1713 {
   background-image: url(../img/groupe-1711-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5153,7 +4194,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1716 {
+.x07-tarifs-desktop .groupe-1716 {
   background-image: url(../img/groupe-1714-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5165,7 +4206,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1719 {
+.x07-tarifs-desktop .groupe-1719 {
   background-image: url(../img/groupe-1717-2@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5177,7 +4218,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1722 {
+.x07-tarifs-desktop .groupe-1722 {
   background-image: url(../img/groupe-1720-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5189,7 +4230,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1725 {
+.x07-tarifs-desktop .groupe-1725 {
   background-image: url(../img/groupe-1723-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5201,7 +4242,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1728 {
+.x07-tarifs-desktop .groupe-1728 {
   background-image: url(../img/groupe-1495-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5213,7 +4254,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1731 {
+.x07-tarifs-desktop .groupe-1731 {
   background-image: url(../img/groupe-1729-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5225,7 +4266,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1734 {
+.x07-tarifs-desktop .groupe-1734 {
   background-image: url(../img/groupe-1732-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5237,7 +4278,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1737 {
+.x07-tarifs-desktop .groupe-1737 {
   background-image: url(../img/groupe-1735-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5249,7 +4290,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1740 {
+.x07-tarifs-desktop .groupe-1740 {
   background-image: url(../img/groupe-1513-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5261,7 +4302,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1743 {
+.x07-tarifs-desktop .groupe-1743 {
   background-image: url(../img/groupe-1741-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5273,7 +4314,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1746 {
+.x07-tarifs-desktop .groupe-1746 {
   background-image: url(../img/groupe-1744-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5285,7 +4326,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1749 {
+.x07-tarifs-desktop .groupe-1749 {
   background-image: url(../img/groupe-1747-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5297,7 +4338,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1752 {
+.x07-tarifs-desktop .groupe-1752 {
   background-image: url(../img/groupe-1750-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5309,7 +4350,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1755 {
+.x07-tarifs-desktop .groupe-1755 {
   background-image: url(../img/groupe-1753-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5321,7 +4362,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1758 {
+.x07-tarifs-desktop .groupe-1758 {
   background-image: url(../img/groupe-1756-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5333,7 +4374,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1761 {
+.x07-tarifs-desktop .groupe-1761 {
   background-image: url(../img/groupe-1759-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5345,7 +4386,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1764 {
+.x07-tarifs-desktop .groupe-1764 {
   background-image: url(../img/groupe-1762-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5357,7 +4398,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1767 {
+.x07-tarifs-desktop .groupe-1767 {
   background-image: url(../img/groupe-1765-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5369,7 +4410,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1770 {
+.x07-tarifs-desktop .groupe-1770 {
   background-image: url(../img/groupe-1759-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5381,7 +4422,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1773 {
+.x07-tarifs-desktop .groupe-1773 {
   background-image: url(../img/groupe-1771-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5393,7 +4434,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1776 {
+.x07-tarifs-desktop .groupe-1776 {
   background-image: url(../img/groupe-1774-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5405,7 +4446,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1779 {
+.x07-tarifs-desktop .groupe-1779 {
   background-image: url(../img/groupe-1762-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5417,7 +4458,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1782 {
+.x07-tarifs-desktop .groupe-1782 {
   background-image: url(../img/groupe-1780-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5429,7 +4470,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1785 {
+.x07-tarifs-desktop .groupe-1785 {
   background-image: url(../img/groupe-1783-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5441,7 +4482,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1788 {
+.x07-tarifs-desktop .groupe-1788 {
   background-image: url(../img/groupe-1786-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5453,7 +4494,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1791 {
+.x07-tarifs-desktop .groupe-1791 {
   background-image: url(../img/groupe-1789-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5465,7 +4506,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1794 {
+.x07-tarifs-desktop .groupe-1794 {
   background-image: url(../img/groupe-10056@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5477,7 +4518,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1797 {
+.x07-tarifs-desktop .groupe-1797 {
   background-image: url(../img/groupe-1795-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5489,7 +4530,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1800 {
+.x07-tarifs-desktop .groupe-1800 {
   background-image: url(../img/groupe-1798-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5501,7 +4542,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1803 {
+.x07-tarifs-desktop .groupe-1803 {
   background-image: url(../img/groupe-10248@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5513,7 +4554,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1806 {
+.x07-tarifs-desktop .groupe-1806 {
   background-image: url(../img/groupe-1804-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5525,7 +4566,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1809 {
+.x07-tarifs-desktop .groupe-1809 {
   background-image: url(../img/groupe-1807-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5537,7 +4578,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1812 {
+.x07-tarifs-desktop .groupe-1812 {
   background-image: url(../img/groupe-10074@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5549,7 +4590,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1815 {
+.x07-tarifs-desktop .groupe-1815 {
   background-image: url(../img/groupe-1813-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5561,7 +4602,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1818 {
+.x07-tarifs-desktop .groupe-1818 {
   background-image: url(../img/groupe-1816-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5573,7 +4614,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .trac-426 {
+.x07-tarifs-desktop .trac-426 {
   height: 106px;
   left: 1px;
   object-fit: cover;
@@ -5582,7 +4623,7 @@ to{opacity: 1;
   width: 33px;
 }
 
-.x05-galerie-web .groupe-1536 {
+.x07-tarifs-desktop .groupe-1536 {
   background-image: url(../img/groupe-10260@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5594,7 +4635,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .groupe-1569 {
+.x07-tarifs-desktop .groupe-1569 {
   background-image: url(../img/groupe-1297-6@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5606,117 +4647,106 @@ to{opacity: 1;
   width: 1px;
 }
 
-.x05-galerie-web .trac-428 {
+.x07-tarifs-desktop .trac-428 {
   height: 79px;
   margin-right: 0;
   object-fit: cover;
   width: 244px;
 }
 
-.x05-galerie-web .activits-et-tourisme-1 {
-  left: 533px;
-  letter-spacing: 2.20px;
-  line-height: 22px;
-  position: absolute;
-  top: 8242px;
-}
-
-.x05-galerie-web .place {
+.x07-tarifs-desktop .activits-et-tourisme-1 {
   cursor: pointer;
-  left: 533px;
+  left: 585px;
   letter-spacing: 2.20px;
   line-height: 22px;
   position: absolute;
-  top: 8288px;
+  top: 3256px;
   white-space: nowrap;
 }
 
-.x05-galerie-web .gitelenidgmailcom {
-  left: 991px;
+.x07-tarifs-desktop .place-1 {
+  cursor: pointer;
+  left: 585px;
+  letter-spacing: 2.20px;
+  line-height: 22px;
+  position: absolute;
+  top: 3302px;
+  white-space: nowrap;
+}
+
+.x07-tarifs-desktop .gitelenidgmailcom {
+  left: 1043px;
   letter-spacing: 3.60px;
   line-height: 24px;
   position: absolute;
-  top: 8074px;
+  top: 3088px;
   white-space: nowrap;
 }
 
-.x05-galerie-web .trac-434 {
+.x07-tarifs-desktop .trac-434 {
   height: 42px;
-  left: 888px;
+  left: 940px;
   object-fit: cover;
   position: absolute;
-  top: 8166px;
+  top: 3179px;
   width: 42px;
 }
 
-.x05-galerie-web .trac-435 {
+.x07-tarifs-desktop .trac-435 {
   height: 38px;
-  left: 888px;
+  left: 940px;
   object-fit: cover;
   position: absolute;
-  top: 8065px;
+  top: 3078px;
   width: 48px;
 }
 
-.x05-galerie-web .ligne-34 {
+.x07-tarifs-desktop .ligne-34 {
   height: 256px;
-  left: 968px;
-  top: 8055px;
+  left: 1020px;
+  top: 3068px;
   width: 2px;
 }
 
-.x05-galerie-web .ligne-58 {
+.x07-tarifs-desktop .ligne-58 {
   height: 256px;
-  left: 493px;
-  top: 8055px;
+  left: 545px;
+  top: 3068px;
   width: 2px;
 }
 
-.x05-galerie-web .phone {
-  left: 991px;
+.x07-tarifs-desktop .phone {
+  left: 1043px;
   letter-spacing: 3.60px;
   line-height: 24px;
   position: absolute;
-  top: 8178px;
+  top: 3191px;
   white-space: nowrap;
 }
 
-.x05-galerie-web .address {
-  left: 991px;
-  letter-spacing: 3.60px;
-  line-height: 24px;
-  position: absolute;
-  top: 8257px;
-  white-space: nowrap;
+.x07-tarifs-desktop .address-11 {
+  left: 1043px;
+  top: 3270px;
 }
 
-.x05-galerie-web .trac-436 {
+.x07-tarifs-desktop .trac-436 {
   height: 52px;
-  left: 894px;
+  left: 946px;
   object-fit: cover;
   position: absolute;
-  top: 8255px;
+  top: 3268px;
   width: 36px;
 }
 
-.x05-galerie-web .groupe-4256 {
-  align-items: flex-end;
-  display: flex;
-  height: 26px;
-  left: 1378px;
-  min-width: 395px;
-  position: absolute;
-  top: 8274px;
-}
-
-.x05-galerie-web .overlap-group8 {
+.x07-tarifs-desktop .overlap-group8 {
   height: 27px;
-  margin-bottom: -0.45px;
-  position: relative;
+  left: 1430px;
+  position: absolute;
+  top: 3287px;
   width: 395px;
 }
 
-.x05-galerie-web .c-le-nid-tous-droits-rservs {
+.x07-tarifs-desktop .c-le-nid-tous-droits-rservs {
   left: 5px;
   letter-spacing: 3.15px;
   line-height: 21px;
@@ -5725,143 +4755,88 @@ to{opacity: 1;
   white-space: nowrap;
 }
 
-.x05-galerie-web .ellipse-3 {
+.x07-tarifs-desktop .ellipse-3 {
   border: 1px solid;
   border-color: var(--black);
   border-radius: 13.18px;
   height: 26px;
-  left: 0;
-  position: absolute;
-  top: 0;
   width: 26px;
 }
 
-.x05-galerie-web .composant-5-17 {
-  align-items: flex-start;
-  cursor: pointer;
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-  left: 1848px;
-  min-height: 20px;
+.x07-tarifs-desktop .noun-no-pet-6367718 {
+  background-image: url(../img/trac--2451-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 183px;
+  left: 887px;
   position: absolute;
-  top: 37px;
-  width: 30px;
+  top: 2626px;
+  width: 183px;
 }
 
-.x05-galerie-web .rectangle-321 {
-  background-color: var(--black);
-  border-radius: 2px;
-  height: 3px;
-  width: 30px;
-}
-
-.x05-galerie-web .groupe-10425 {
-  align-items: center;
-  display: flex;
-  gap: 60px;
-  height: 27px;
-  left: 410px;
-  min-width: 1360px;
+.x07-tarifs-desktop .serviettes-de-toilet-1 {
+  height: 30px;
+  left: 611px;
+  letter-spacing: 3.60px;
+  line-height: 24px;
   position: absolute;
-  top: 39px;
+  text-align: center;
+  top: 2358px;
+  width: 730px;
 }
 
-.x05-galerie-web .accueil-2 {
-  letter-spacing: 2.70px;
-  line-height: 18px;
-  margin-top: 1.0px;
-  min-height: 20px;
-  min-width: 95px;
-}
-
-.x05-galerie-web .explorer-le-gte-1 {
-  cursor: pointer;
-  letter-spacing: 2.70px;
-  line-height: 18px;
-  margin-top: 1.0px;
-  min-height: 24px;
-  min-width: 209px;
-  white-space: nowrap;
-}
-
-.x05-galerie-web .flex-col-2 {
-  align-self: flex-end;
-  gap: 1px;
-  min-height: 23px;
-  width: 94px;
-}
-
-.x05-galerie-web .galerie-1 {
-  letter-spacing: 2.70px;
-  line-height: 18px;
-  min-height: 20px;
-  white-space: nowrap;
-}
-
-.x05-galerie-web .rectangle-413 {
-  background-color: var(--corn);
-  height: 2px;
-  width: 92px;
-}
-
-.x05-galerie-web .tarifs-et-rservations-1 {
-  cursor: pointer;
-  letter-spacing: 2.70px;
-  line-height: 18px;
-  margin-top: 1.0px;
-  min-height: 23px;
-  min-width: 286px;
-  white-space: nowrap;
-}
-
-.x05-galerie-web .activits-et-tourisme-2 {
-  letter-spacing: 2.70px;
-  line-height: 18px;
-  margin-top: 1.0px;
-  min-height: 23px;
-  min-width: 271px;
-}
-
-.x05-galerie-web .place-1 {
-  cursor: pointer;
-  letter-spacing: 2.70px;
-  line-height: 18px;
-  margin-top: 1.0px;
-  min-height: 20px;
-  min-width: 105px;
-  white-space: nowrap;
-}
-
-.x05-galerie-web .accueil-3 {
-  cursor: pointer;
-  white-space: nowrap;
-}
-
-.x05-galerie-web .activits-et-tourisme-3 {
-  cursor: pointer;
-  white-space: nowrap;
-}
-
-.x05-galerie-web .flex-col-3 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-}
-
-.x05-galerie-web .img-20250611 {
-  border-radius: 10px;
-  object-fit: cover;
+.x07-tarifs-desktop .borne-de-recharge-po-1 {
+  height: 29px;
+  left: 400px;
+  letter-spacing: 3.60px;
+  line-height: 24px;
   position: absolute;
+  text-align: center;
+  top: 2400px;
+  width: 1152px;
 }
 
-.x05-galerie-web .ligne {
-  object-fit: cover;
+.x07-tarifs-desktop .possibilit-de-tarif-1 {
+  height: 29px;
+  left: 400px;
+  letter-spacing: 3.60px;
+  line-height: 24px;
   position: absolute;
+  text-align: center;
+  top: 2440px;
+  width: 1152px;
 }
 
-.x05-galerie-web .x-container-3 {
+.x07-tarifs-desktop .address-12 {
+  letter-spacing: 3.60px;
+  line-height: 24px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.x07-tarifs-desktop .draps-et-mnagecompris-11 {
+  letter-spacing: 2.70px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.x07-tarifs-desktop .ellipse {
   left: 0;
   position: absolute;
   top: 0;
+}
+
+.x07-tarifs-desktop .ligne {
+  object-fit: cover;
+  position: absolute;
+}
+
+.x07-tarifs-desktop .price-11 {
+  letter-spacing: 3.36px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
 }
