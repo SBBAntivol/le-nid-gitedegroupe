@@ -4613,18 +4613,6 @@ to{opacity: 1;
   width: 33px;
 }
 
-.x05-galerie-web .groupe-1509 {
-  background-image: url(../img/groupe-1507-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
 .x05-galerie-web .groupe-1515 {
   background-image: url(../img/groupe-1513-1@1x.png);
   background-position: 50% 50%;
@@ -4634,18 +4622,6 @@ to{opacity: 1;
   opacity: 0.28;
   position: absolute;
   top: 47px;
-  width: 1px;
-}
-
-.x05-galerie-web .groupe-1560 {
-  background-image: url(../img/groupe-1558-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
   width: 1px;
 }
 
@@ -5871,6 +5847,12 @@ to{opacity: 1;
   align-items: flex-start;
   display: flex;
   flex-direction: column;
+}
+
+.x05-galerie-web .img-20250611 {
+  border-radius: 10px;
+  object-fit: cover;
+  position: absolute;
 }
 
 .x05-galerie-web .ligne {

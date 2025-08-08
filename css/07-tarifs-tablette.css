@@ -5,24 +5,24 @@
   background-color: var(--bianca);
   display: flex;
   flex-direction: column;
-  gap: 5px;
-  height: 2013.19px;
+  gap: 1px;
+  height: 1431.6px;
   overflow: hidden;
-  width: 1080px;
+  width: 768px;
 }
 
 .x07-tarifs-tablette .flex-row {
-  margin-right: 6.11px;
-  margin-top: 20px;
-  min-width: 1038px;
+  margin-right: 4.28px;
+  margin-top: 14px;
+  min-width: 738px;
 }
 
 .x07-tarifs-tablette .groupe-603 {
   cursor: pointer;
   display: flex;
-  height: 61px;
+  height: 43px;
   overflow: hidden;
-  width: 57px;
+  width: 40px;
 }
 
 .x07-tarifs-tablette .groupe-602 {
@@ -30,7 +30,7 @@
   flex: 1;
   margin-bottom: 0;
   margin-top: 0;
-  width: 56.66px;
+  width: 40.29px;
 }
 
 .x07-tarifs-tablette .groupe-601 {
@@ -38,18 +38,16 @@
   display: flex;
   flex: 1;
   flex-direction: column;
-  gap: 3px;
+  gap: 2px;
   overflow: hidden;
   padding: 0 0.0px;
-  width: 56.66px;
+  width: 40.29px;
 }
 
 .x07-tarifs-tablette .flex-row-1 {
-  align-items: flex-start;
-  display: flex;
-  height: 39px;
-  margin-right: 1.59px;
-  min-width: 39px;
+  height: 28px;
+  margin-right: 1.13px;
+  min-width: 28px;
 }
 
 .x07-tarifs-tablette .groupe-168 {
@@ -57,296 +55,249 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  margin-top: 2.4px;
+  margin-top: 1.71px;
   opacity: 0.28;
   width: 1px;
+}
+
+.x07-tarifs-tablette .overlap-group-container {
+  align-self: center;
+  height: 27px;
+  margin-bottom: 0.3px;
+  position: relative;
+  width: 11px;
 }
 
 .x07-tarifs-tablette .overlap-group1 {
-  align-self: center;
-  height: 37px;
-  margin-bottom: 0.02px;
-  margin-left: 1px;
-  position: relative;
-  width: 12px;
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 8px;
 }
 
-.x07-tarifs-tablette .groupe-3-6 {
-  background-image: url(../img/groupe-1-4@1x.png);
-  left: 6px;
-  top: 28px;
+.x07-tarifs-tablette .groupe-3-1 {
+  background-image: url(../img/groupe-1-4-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-6-1 {
-  background-image: url(../img/groupe-4-4@1x.png);
+  background-image: url(../img/groupe-7550-10@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 6px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
-  top: 27px;
+  top: 19px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-12 {
-  background-image: url(../img/groupe-10-6@1x.png);
+.x07-tarifs-tablette .groupe-18-1 {
+  background-image: url(../img/groupe-10308@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 6px;
+  left: 4px;
   opacity: 0.28;
   position: absolute;
-  top: 33px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-15 {
-  background-image: url(../img/groupe-13-4@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-18 {
-  background-image: url(../img/groupe-223-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 27px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-21 {
-  background-image: url(../img/groupe-43-3@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-24 {
-  background-image: url(../img/groupe-22-4@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
+  top: 19px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-27 {
-  background-image: url(../img/groupe-25-4@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 33px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-30 {
-  background-image: url(../img/groupe-10008@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-33 {
-  background-image: url(../img/groupe-10344@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 18px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-36 {
-  background-image: url(../img/groupe-34-4@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-39 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-42 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 32px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-45 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 7px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-30 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-33 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-36 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-39 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-42-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
   top: 22px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-48 {
-  background-image: url(../img/groupe-10014@1x.png);
+.x07-tarifs-tablette .groupe {
+  background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 7px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
-  top: 29px;
+  top: 16px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-48 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-51 {
-  background-image: url(../img/groupe-10014@1x.png);
+  background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 7px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
-  top: 31px;
+  top: 22px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-54 {
-  background-image: url(../img/groupe-10113@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 27px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-57 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-60 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 31px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-63 {
-  background-image: url(../img/groupe-10113@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-66 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-69 {
-  background-image: url(../img/groupe-10101@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 33px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-72 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 33px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-75 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 7px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-57 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-60 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-63 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-66 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-72 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
   top: 23px;
@@ -358,34 +309,34 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 6px;
+  left: 4px;
   opacity: 0.28;
   position: absolute;
-  top: 31px;
+  top: 22px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-81 {
-  background-image: url(../img/groupe-10146@1x.png);
+.x07-tarifs-tablette .groupe-2 {
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 7px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
-  top: 34px;
+  top: 24px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-84 {
-  background-image: url(../img/groupe-10116@1x.png);
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 7px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
-  top: 15px;
+  top: 10px;
   width: 1px;
 }
 
@@ -394,46 +345,34 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 7px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
-  top: 16px;
+  top: 11px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-90 {
+.x07-tarifs-tablette .groupe-3 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 6px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
-  top: 30px;
+  top: 21px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-93 {
-  background-image: url(../img/groupe-10146@1x.png);
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 8px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
-  top: 10px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-96 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 32px;
+  top: 7px;
   width: 1px;
 }
 
@@ -442,83 +381,28 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 6px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
-  top: 26px;
+  top: 18px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-105 {
+.x07-tarifs-tablette .groupe-4 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 7px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
-  top: 32px;
+  top: 15px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-108 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 33px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-111 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-114 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-117 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-120 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
+.x07-tarifs-tablette .groupe-1-3 {
+  left: 5px;
+  top: 20px;
 }
 
 .x07-tarifs-tablette .groupe-123 {
@@ -526,26 +410,19 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 7px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
-  top: 18px;
+  top: 13px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-126 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 33px;
-  width: 1px;
+.x07-tarifs-tablette .groupe-1-4 {
+  left: 4px;
+  top: 23px;
 }
 
-.x07-tarifs-tablette .groupe-129 {
+.x07-tarifs-tablette .groupe-5 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -553,56 +430,13 @@
   left: 6px;
   opacity: 0.28;
   position: absolute;
-  top: 32px;
+  top: 5px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-132 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 7px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-135 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 33px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-138 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 12px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-141 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
+.x07-tarifs-tablette .groupe-1-5 {
+  left: 5px;
+  top: 22px;
 }
 
 .x07-tarifs-tablette .groupe-147 {
@@ -610,22 +444,10 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 6px;
+  left: 4px;
   opacity: 0.28;
   position: absolute;
-  top: 27px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-150 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
+  top: 19px;
   width: 1px;
 }
 
@@ -634,95 +456,47 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 11px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-6 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .trac-56 {
+  height: 23px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.x07-tarifs-tablette .groupe-171 {
+  background-image: url(../img/groupe-1564-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
   opacity: 0.28;
   position: absolute;
   top: 7px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-156 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 10px;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-159 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 34px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-162 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 31px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-165 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 23px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .trac-56 {
-  height: 32px;
-  left: 6px;
-  object-fit: cover;
-  position: absolute;
-  top: 5px;
-  width: 5px;
-}
-
-.x07-tarifs-tablette .groupe-171 {
-  background-image: url(../img/groupe-169-4@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 10px;
-  width: 1px;
-}
-
 .x07-tarifs-tablette .groupe-174 {
-  background-image: url(../img/groupe-10344@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 10px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-177 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -730,36 +504,12 @@
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 11px;
+  top: 7px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-180 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 12px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-183 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 5px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe {
-  background-image: url(../img/groupe-10146@1x.png);
+.x07-tarifs-tablette .groupe-7 {
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -770,12 +520,36 @@
   width: 1px;
 }
 
+.x07-tarifs-tablette .groupe-8 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-9 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
 .x07-tarifs-tablette .groupe-189 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 2px;
+  left: 1px;
   opacity: 0.28;
   position: absolute;
   top: 1px;
@@ -787,144 +561,114 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 4px;
+  left: 3px;
   opacity: 0.28;
   position: absolute;
-  top: 2px;
+  top: 1px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .trac-67 {
-  height: 37px;
+  height: 27px;
   left: 0;
   object-fit: cover;
   position: absolute;
   top: 0;
-  width: 7px;
+  width: 5px;
 }
 
-.x07-tarifs-tablette .overlap-group3 {
+.x07-tarifs-tablette .overlap-group2 {
   align-items: flex-start;
-  align-self: center;
-  background-image: url(../img/trac--208-5@1x.png);
+  background-image: url(../img/trac--208-5-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   display: flex;
-  margin-top: 2.03px;
-  min-width: 4px;
+  height: 7px;
+  left: 8px;
+  min-width: 3px;
+  position: absolute;
+  top: 11px;
 }
 
 .x07-tarifs-tablette .trac-210 {
-  height: 9px;
+  height: 7px;
   object-fit: cover;
-  width: 4px;
+  width: 3px;
 }
 
 .x07-tarifs-tablette .trac-206 {
-  height: 38px;
+  height: 27px;
   margin-left: 1px;
   object-fit: cover;
-  width: 7px;
+  width: 5px;
 }
 
 .x07-tarifs-tablette .overlap-group4 {
   align-self: flex-end;
-  height: 26px;
-  margin-left: 2px;
+  height: 18px;
+  margin-left: 1px;
   position: relative;
-  width: 11px;
+  width: 8px;
 }
 
-.x07-tarifs-tablette .overlap-group-container {
-  height: 26px;
+.x07-tarifs-tablette .overlap-group {
+  height: 18px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 11px;
-}
-
-.x07-tarifs-tablette .overlap-group2 {
-  height: 20px;
-  left: 0;
-  position: absolute;
-  top: 4px;
-  width: 3px;
+  width: 8px;
 }
 
 .x07-tarifs-tablette .groupe-198 {
-  background-image: url(../img/groupe-196-4@1x.png);
+  background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 0;
   opacity: 0.28;
   position: absolute;
-  top: 14px;
+  top: 13px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-2 {
-  background-image: url(../img/groupe-178-1@1x.png);
+.x07-tarifs-tablette .groupe-201 {
+  background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-204 {
-  background-image: url(../img/groupe-202-4@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 6px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-207 {
-  background-image: url(../img/groupe-4548-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
   opacity: 0.28;
   position: absolute;
   top: 15px;
   width: 1px;
 }
 
+.x07-tarifs-tablette .groupe-204 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-207 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
 .x07-tarifs-tablette .groupe-210 {
-  background-image: url(../img/groupe-10344@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 8px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-213 {
-  background-image: url(../img/groupe-10134@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-219 {
-  background-image: url(../img/groupe-10116@1x.png);
+  background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -935,55 +679,13 @@
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-222 {
-  background-image: url(../img/groupe-10134@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
+.x07-tarifs-tablette .groupe-2-1 {
+  background-image: url(../img/groupe-10146@1x.png);
   left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
-  width: 1px;
+  top: 15px;
 }
 
-.x07-tarifs-tablette .groupe-225 {
-  background-image: url(../img/groupe-10134@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-228 {
-  background-image: url(../img/groupe-10113@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 16px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-3 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 10px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-4 {
+.x07-tarifs-tablette .groupe-216 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -991,7 +693,43 @@
   left: 2px;
   opacity: 0.28;
   position: absolute;
-  top: 16px;
+  top: 10px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-219 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-10 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-231 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
   width: 1px;
 }
 
@@ -1003,19 +741,31 @@
   left: 0;
   opacity: 0.28;
   position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-24 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
   top: 14px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-243 {
-  background-image: url(../img/groupe-10122@1x.png);
+.x07-tarifs-tablette .groupe-11 {
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 2px;
   opacity: 0.28;
   position: absolute;
-  top: 17px;
+  top: 15px;
   width: 1px;
 }
 
@@ -1027,84 +777,36 @@
   left: 0;
   opacity: 0.28;
   position: absolute;
-  top: 6px;
+  top: 7px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-249 {
-  background-image: url(../img/groupe-10116@1x.png);
+.x07-tarifs-tablette .groupe-12 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-13 {
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 0;
   opacity: 0.28;
   position: absolute;
-  top: 16px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-252 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-255 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 16px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-5 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-264 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-267 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
+  top: 15px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-270 {
-  background-image: url(../img/groupe-10146@1x.png);
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -1115,15 +817,15 @@
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-276 {
-  background-image: url(../img/groupe-10146@1x.png);
+.x07-tarifs-tablette .groupe-14 {
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 18px;
+  top: 15px;
   width: 1px;
 }
 
@@ -1135,7 +837,7 @@
   left: 0;
   opacity: 0.28;
   position: absolute;
-  top: 6px;
+  top: 7px;
   width: 1px;
 }
 
@@ -1147,23 +849,35 @@
   left: 0;
   opacity: 0.28;
   position: absolute;
-  top: 7px;
+  top: 8px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-285 {
-  background-image: url(../img/groupe-10146@1x.png);
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 1px;
+  left: 0;
   opacity: 0.28;
   position: absolute;
-  top: 3px;
+  top: 5px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-6 {
+.x07-tarifs-tablette .groupe-15 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-16 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1171,38 +885,56 @@
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 16px;
+  top: 14px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-3-1 {
+.x07-tarifs-tablette .groupe-17 {
   background-image: url(../img/groupe-10167@1x.png);
-  left: 1px;
-  top: 17px;
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-306 {
-  background-image: url(../img/groupe-10146@1x.png);
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 15px;
+  top: 13px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-3-2 {
+.x07-tarifs-tablette .groupe-309 {
   background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
   left: 0;
-  top: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-3-3 {
+.x07-tarifs-tablette .groupe-318 {
   background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
   left: 2px;
-  top: 17px;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-321 {
@@ -1210,14 +942,14 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 1px;
+  left: 0;
   opacity: 0.28;
   position: absolute;
-  top: 8px;
+  top: 9px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-327 {
+.x07-tarifs-tablette .groupe-348 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1225,49 +957,31 @@
   left: 0;
   opacity: 0.28;
   position: absolute;
-  top: 16px;
+  top: 13px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-330 {
+.x07-tarifs-tablette .groupe-351 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 1px;
+  left: 2px;
   opacity: 0.28;
   position: absolute;
-  top: 1px;
+  top: 10px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-339 {
+.x07-tarifs-tablette .groupe-18 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 0;
+  left: 3px;
   opacity: 0.28;
   position: absolute;
-  top: 15px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-3-4 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 0;
-  top: 14px;
-}
-
-.x07-tarifs-tablette .groupe-7 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 7px;
+  top: 4px;
   width: 1px;
 }
 
@@ -1283,330 +997,19 @@
   width: 1px;
 }
 
-.x07-tarifs-tablette .trac-130 {
-  height: 20px;
-  left: 0;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 2px;
-}
-
-.x07-tarifs-tablette .overlap-group {
-  height: 26px;
-  left: 3px;
-  position: absolute;
-  top: 0;
-  width: 8px;
-}
-
-.x07-tarifs-tablette .groupe-216 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-8 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 9px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-297 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 11px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-318 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-3-5 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 1px;
-  top: 9px;
-}
-
-.x07-tarifs-tablette .groupe-354 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 5px;
-  width: 1px;
-}
-
 .x07-tarifs-tablette .groupe-372 {
-  background-image: url(../img/groupe-10101@1x.png);
+  background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 1px;
+  left: 3px;
   opacity: 0.28;
   position: absolute;
-  top: 23px;
+  top: 16px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-375 {
-  background-image: url(../img/groupe-10089@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-378 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-381 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 25px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-384 {
-  background-image: url(../img/groupe-382-4@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-387 {
-  background-image: url(../img/groupe-385-4@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 18px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-390 {
-  background-image: url(../img/groupe-388-4@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-393 {
-  background-image: url(../img/groupe-7763-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-396 {
-  background-image: url(../img/groupe-10047@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 9px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-399 {
-  background-image: url(../img/groupe-1306-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 18px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-402 {
-  background-image: url(../img/groupe-4797-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-405 {
-  background-image: url(../img/groupe-4551-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 11px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-408 {
-  background-image: url(../img/groupe-10005@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-411 {
-  background-image: url(../img/groupe-10008@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-414 {
-  background-image: url(../img/groupe-10344@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-417 {
-  background-image: url(../img/groupe-10011@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 11px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-420 {
-  background-image: url(../img/groupe-178-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 18px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-423 {
-  background-image: url(../img/groupe-178-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 18px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-426 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-429 {
-  background-image: url(../img/groupe-10113@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-432 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1614,43 +1017,244 @@
   left: 3px;
   opacity: 0.28;
   position: absolute;
-  top: 21px;
+  top: 15px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-9 {
+.x07-tarifs-tablette .groupe-378 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 1px;
+  left: 3px;
   opacity: 0.28;
   position: absolute;
-  top: 19px;
+  top: 17px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-438 {
-  background-image: url(../img/groupe-10116@1x.png);
+.x07-tarifs-tablette .groupe-381 {
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 1px;
+  left: 3px;
   opacity: 0.28;
   position: absolute;
-  top: 21px;
+  top: 17px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-441 {
+.x07-tarifs-tablette .trac-130 {
+  height: 14px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-384 {
+  background-image: url(../img/groupe-382-5-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-387 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-390 {
+  background-image: url(../img/groupe-10107@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-393 {
+  background-image: url(../img/groupe-4599-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-396 {
+  background-image: url(../img/groupe-10077@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-399 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-402 {
+  background-image: url(../img/groupe-10005@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-405 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-408 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-411 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-414 {
   background-image: url(../img/groupe-10113@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 1px;
+  left: 3px;
   opacity: 0.28;
   position: absolute;
-  top: 18px;
+  top: 14px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-417 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-42 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-426 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-429 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-19 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-441 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
   width: 1px;
 }
 
@@ -1659,166 +1263,106 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 3px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
-  top: 22px;
+  top: 16px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-447 {
-  background-image: url(../img/groupe-10134@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 9px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-450 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-453 {
-  background-image: url(../img/groupe-10134@1x.png);
+  background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 3px;
   opacity: 0.28;
   position: absolute;
-  top: 22px;
+  top: 6px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-456 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 18px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-459 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-462 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-465 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-10 {
+.x07-tarifs-tablette .groupe-20 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-11 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-474 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
   left: 3px;
   opacity: 0.28;
   position: absolute;
-  top: 22px;
+  top: 14px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-477 {
-  background-image: url(../img/groupe-10116@1x.png);
+.x07-tarifs-tablette .groupe-21 {
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 4px;
   opacity: 0.28;
   position: absolute;
-  top: 21px;
+  top: 16px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-480 {
+.x07-tarifs-tablette .groupe-456 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-465 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
   opacity: 0.28;
   position: absolute;
   top: 15px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-483 {
-  background-image: url(../img/groupe-10128@1x.png);
+.x07-tarifs-tablette .groupe-468 {
+  background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 1px;
+  left: 3px;
   opacity: 0.28;
   position: absolute;
-  top: 21px;
+  top: 16px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-477 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-480 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
   width: 1px;
 }
 
@@ -1827,77 +1371,39 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 2px;
+  left: 3px;
   opacity: 0.28;
   position: absolute;
-  top: 23px;
+  top: 16px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-492 {
-  background-image: url(../img/groupe-10146@1x.png);
+.x07-tarifs-tablette .groupe-489 {
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 10px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-495 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-498 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
+  left: 3px;
   opacity: 0.28;
   position: absolute;
   top: 6px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-501 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-507 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 8px;
-  width: 1px;
-}
-
 .x07-tarifs-tablette .groupe-5-1 {
+  top: 15px;
+}
+
+.x07-tarifs-tablette .groupe-504 {
   background-image: url(../img/groupe-10167@1x.png);
-  left: 1px;
-  top: 21px;
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-513 {
@@ -1905,10 +1411,10 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 4px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
-  top: 20px;
+  top: 14px;
   width: 1px;
 }
 
@@ -1917,52 +1423,38 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 4px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
-  top: 20px;
+  top: 14px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-519 {
-  background-image: url(../img/groupe-10146@1x.png);
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 5px;
+  left: 6px;
   opacity: 0.28;
   position: absolute;
-  top: 10px;
+  top: 7px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-5-2 {
-  background-image: url(../img/groupe-10146@1x.png);
-  left: 3px;
-  top: 22px;
-}
-
-.x07-tarifs-tablette .groupe-528 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
+  top: 16px;
 }
 
 .x07-tarifs-tablette .groupe-531 {
-  background-image: url(../img/groupe-10146@1x.png);
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 2px;
+  left: 4px;
   opacity: 0.28;
   position: absolute;
-  top: 19px;
+  top: 14px;
   width: 1px;
 }
 
@@ -1971,23 +1463,19 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-537 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
   left: 3px;
   opacity: 0.28;
   position: absolute;
-  top: 22px;
+  top: 10px;
   width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-5-3 {
+  top: 5px;
+}
+
+.x07-tarifs-tablette .groupe-5-4 {
+  top: 13px;
 }
 
 .x07-tarifs-tablette .groupe-549 {
@@ -1995,88 +1483,34 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 5px;
+  left: 6px;
   opacity: 0.28;
   position: absolute;
-  top: 12px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-552 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 11px;
+  top: 9px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-561 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 3px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-570 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 1px;
+  left: 4px;
   opacity: 0.28;
   position: absolute;
-  top: 20px;
+  top: 2px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-5-3 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 5px;
-  top: 8px;
-}
-
-.x07-tarifs-tablette .groupe-576 {
+.x07-tarifs-tablette .groupe-573 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 1px;
+  left: 6px;
   opacity: 0.28;
   position: absolute;
-  top: 18px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-579 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 23px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-582 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
+  top: 6px;
   width: 1px;
 }
 
@@ -2085,22 +1519,10 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 5px;
+  left: 6px;
   opacity: 0.28;
   position: absolute;
-  top: 3px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-591 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 23px;
+  top: 2px;
   width: 1px;
 }
 
@@ -2109,102 +1531,101 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 2px;
+  left: 4px;
   opacity: 0.28;
   position: absolute;
-  top: 10px;
+  top: 7px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-600 {
-  background-image: url(../img/groupe-10146@1x.png);
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 2px;
+  left: 4px;
   opacity: 0.28;
   position: absolute;
-  top: 15px;
+  top: 11px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .trac-205 {
-  height: 25px;
-  left: 1px;
+  height: 18px;
+  left: 3px;
   object-fit: cover;
   position: absolute;
   top: 0;
-  width: 8px;
+  width: 5px;
 }
 
 .x07-tarifs-tablette .trac-131 {
-  height: 2px;
-  left: 1px;
+  height: 1px;
+  left: 0;
   object-fit: cover;
   position: absolute;
-  top: 1px;
-  width: 2px;
+  top: 0;
+  width: 1px;
 }
 
 .x07-tarifs-tablette .trac-207 {
-  height: 18px;
+  height: 13px;
   margin-right: 0;
   object-fit: cover;
-  width: 57px;
+  width: 40px;
 }
 
 .x07-tarifs-tablette .groupe-10425 {
   align-items: flex-end;
   display: flex;
-  height: 15px;
-  margin-left: 156px;
-  margin-top: 2.24px;
-  min-width: 765px;
+  height: 11px;
+  margin-left: 111px;
+  margin-top: 1.95px;
+  min-width: 544px;
 }
 
 .x07-tarifs-tablette .accueil {
   cursor: pointer;
-  letter-spacing: 1.50px;
-  line-height: 10px;
-  margin-bottom: 0.5px;
-  min-height: 13px;
-  min-width: 54px;
+  letter-spacing: 1.05px;
+  line-height: 7px;
+  min-height: 9px;
+  min-width: 38px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .explorer-le-gte {
   cursor: pointer;
-  letter-spacing: 1.50px;
-  line-height: 10px;
-  margin-left: 33px;
-  min-height: 14px;
-  min-width: 117px;
+  letter-spacing: 1.05px;
+  line-height: 7px;
+  margin-bottom: -1px;
+  margin-left: 24px;
+  min-height: 11px;
+  min-width: 83px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .galerie {
   cursor: pointer;
-  letter-spacing: 1.50px;
-  line-height: 10px;
-  margin-bottom: 0.5px;
-  margin-left: 34px;
-  min-height: 13px;
-  min-width: 53px;
+  letter-spacing: 1.05px;
+  line-height: 7px;
+  margin-left: 25px;
+  min-height: 9px;
+  min-width: 38px;
   white-space: nowrap;
 }
 
-.x07-tarifs-tablette .overlap-group6 {
-  height: 14px;
-  margin-bottom: -1px;
-  margin-left: 34px;
+.x07-tarifs-tablette .overlap-group5 {
+  height: 10px;
+  margin-bottom: -0.5px;
+  margin-left: 23px;
   position: relative;
-  width: 160px;
+  width: 112px;
 }
 
 .x07-tarifs-tablette .tarifs-et-rservations {
   left: 0;
-  letter-spacing: 1.50px;
-  line-height: 10px;
+  letter-spacing: 1.05px;
+  line-height: 7px;
   position: absolute;
   top: 0;
   white-space: nowrap;
@@ -2215,29 +1636,28 @@
   height: 1px;
   left: 0;
   position: absolute;
-  top: 12px;
-  width: 160px;
+  top: 8px;
+  width: 110px;
 }
 
 .x07-tarifs-tablette .activits-et-tourisme {
   cursor: pointer;
-  letter-spacing: 1.50px;
-  line-height: 10px;
-  margin-bottom: -1px;
-  margin-left: 34px;
-  min-height: 14px;
-  min-width: 152px;
+  letter-spacing: 1.05px;
+  line-height: 7px;
+  margin-bottom: -0.5px;
+  margin-left: 26px;
+  min-height: 10px;
+  min-width: 107px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .place {
   cursor: pointer;
-  letter-spacing: 1.50px;
-  line-height: 10px;
-  margin-bottom: 0.5px;
-  margin-left: 35px;
-  min-height: 13px;
-  min-width: 59px;
+  letter-spacing: 1.05px;
+  line-height: 7px;
+  margin-left: 26px;
+  min-height: 9px;
+  min-width: 42px;
   white-space: nowrap;
 }
 
@@ -2246,42 +1666,42 @@
   cursor: pointer;
   display: flex;
   flex-direction: column;
-  gap: 4px;
-  margin-left: 44px;
-  margin-top: 0.24px;
-  min-height: 14px;
-  width: 16px;
+  gap: 3px;
+  margin-left: 32px;
+  margin-top: 1.95px;
+  min-height: 9px;
+  width: 11px;
 }
 
 .x07-tarifs-tablette .rectangle-321 {
   background-color: var(--black);
   border-radius: 2px;
-  height: 2px;
-  width: 16px;
+  height: 1px;
+  width: 11px;
 }
 
-.x07-tarifs-tablette .overlap-group8 {
-  height: 1929px;
+.x07-tarifs-tablette .overlap-group7 {
+  height: 1375px;
   position: relative;
-  width: 1110px;
+  width: 798px;
 }
 
 .x07-tarifs-tablette .groupe-de-masques-25 {
-  height: 607px;
+  height: 432px;
   left: 15px;
   object-fit: cover;
   position: absolute;
   top: 10px;
-  width: 1080px;
+  width: 768px;
 }
 
 .x07-tarifs-tablette .trac-2449 {
-  height: 638px;
+  height: 462px;
   left: 0;
   object-fit: cover;
   position: absolute;
   top: 0;
-  width: 1110px;
+  width: 798px;
 }
 
 .x07-tarifs-tablette .rectangle-426 {
@@ -2289,247 +1709,234 @@
   border: 1px solid;
   border-color: var(--dove-gray);
   border-radius: 30px 30px 0px 0px;
-  height: 1377px;
+  height: 979px;
   left: 15px;
   position: absolute;
-  top: 552px;
-  width: 1080px;
+  top: 396px;
+  width: 768px;
 }
 
 .x07-tarifs-tablette .bienvenue-dans-votre {
-  left: 112px;
+  color: var(--white);
+  font-family: var(--font-family-josefin_sans);
+  font-size: 17px;
+  font-weight: 700;
+  left: 84px;
   letter-spacing: 0;
-  line-height: 25px;
+  line-height: 17px;
   position: absolute;
-  top: 126px;
+  top: 92px;
   white-space: nowrap;
 }
 
-.x07-tarifs-tablette .title {
-  left: 396px;
-  letter-spacing: 4.35px;
-  line-height: 29px;
+.x07-tarifs-tablette .tarifs-hors-saison {
+  left: 286px;
+  letter-spacing: 3.00px;
+  line-height: 20px;
   position: absolute;
-  top: 572px;
+  top: 410px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .serviettes-de-toilet {
-  height: 18px;
-  left: 350px;
-  letter-spacing: 1.80px;
-  line-height: 12px;
+  height: 13px;
+  left: 253px;
+  letter-spacing: 1.35px;
+  line-height: 9px;
   position: absolute;
   text-align: center;
-  top: 866px;
-  width: 412px;
+  top: 624px;
+  width: 294px;
 }
 
 .x07-tarifs-tablette .borne-de-recharge-po {
-  height: 17px;
-  left: 232px;
-  letter-spacing: 1.80px;
-  line-height: 12px;
+  height: 13px;
+  left: 169px;
+  letter-spacing: 1.35px;
+  line-height: 9px;
   position: absolute;
   text-align: center;
-  top: 889px;
-  width: 649px;
+  top: 640px;
+  width: 462px;
 }
 
 .x07-tarifs-tablette .possibilit-de-tarif {
-  height: 17px;
-  left: 232px;
-  letter-spacing: 1.80px;
-  line-height: 12px;
+  height: 13px;
+  left: 169px;
+  letter-spacing: 1.35px;
+  line-height: 9px;
   position: absolute;
   text-align: center;
-  top: 912px;
-  width: 649px;
+  top: 657px;
+  width: 462px;
 }
 
 .x07-tarifs-tablette .tarifs-juillet-ao {
-  left: 202px;
-  letter-spacing: 4.35px;
-  line-height: 29px;
+  left: 148px;
+  letter-spacing: 3.00px;
+  line-height: 20px;
   position: absolute;
-  top: 1044px;
+  top: 746px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .rectangle-416 {
   background-color: var(--bianca);
-  border-radius: 22px;
+  border-radius: 10px;
   box-shadow: 0px 3px 6px #00000029;
-  height: 209px;
-  left: 78px;
+  height: 148px;
+  left: 60px;
   position: absolute;
-  top: 635px;
-  width: 150px;
+  top: 455px;
+  width: 106px;
 }
 
 .x07-tarifs-tablette .rectangle-629 {
   background-color: var(--bianca);
-  border-radius: 22px;
+  border-radius: 10px;
   box-shadow: 0px 3px 6px #00000029;
-  height: 209px;
-  left: 239px;
+  height: 148px;
+  left: 174px;
   position: absolute;
-  top: 635px;
-  width: 150px;
+  top: 455px;
+  width: 107px;
 }
 
 .x07-tarifs-tablette .rectangle-630 {
   background-color: var(--bianca);
-  border-radius: 22px;
+  border-radius: 10px;
   box-shadow: 0px 3px 6px #00000029;
-  height: 209px;
-  left: 400px;
+  height: 148px;
+  left: 289px;
   position: absolute;
-  top: 635px;
-  width: 149px;
+  top: 455px;
+  width: 106px;
 }
 
 .x07-tarifs-tablette .rectangle-631 {
   background-color: var(--bianca);
-  border-radius: 22px;
+  border-radius: 10px;
   box-shadow: 0px 3px 6px #00000029;
-  height: 209px;
-  left: 561px;
+  height: 148px;
+  left: 403px;
   position: absolute;
-  top: 635px;
-  width: 149px;
+  top: 455px;
+  width: 106px;
 }
 
 .x07-tarifs-tablette .overlap-group-1 {
-  border-radius: 23px/23.5px;
-  height: 47px;
-  left: 521px;
+  border-radius: 16.5px/17px;
+  height: 34px;
+  left: 375px;
   position: absolute;
-  top: 426px;
-  width: 46px;
+  top: 306px;
+  width: 33px;
 }
 
 .x07-tarifs-tablette .ellipse-1 {
   background-color: var(--white);
-  border: 1px solid;
-  border-color: var(--dove-gray);
-  border-radius: 23px/23.5px;
-  height: 47px;
+  border-radius: 16.5px/17px;
+  height: 34px;
   opacity: 0.55;
-  width: 46px;
+  width: 33px;
 }
 
 .x07-tarifs-tablette .union-1 {
-  height: 27px;
-  left: 10px;
+  height: 19px;
+  left: 7px;
   object-fit: cover;
   position: absolute;
-  top: 6px;
-  width: 27px;
-}
-
-.x07-tarifs-tablette .ellipse-2 {
-  border: 3px solid;
-  border-color: var(--white);
-  border-radius: 23px/23.5px;
-  height: 47px;
-  opacity: 0.55;
-  width: 46px;
+  top: 4px;
+  width: 19px;
 }
 
 .x07-tarifs-tablette .address {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-l);
+  font-size: 9px;
   font-weight: 500;
-  left: 112px;
-  letter-spacing: 1.95px;
-  line-height: 13px;
-  position: absolute;
-  text-align: center;
-  top: 673px;
-  white-space: nowrap;
-}
-
-.x07-tarifs-tablette .address-1 {
-  left: 282px;
-  text-align: center;
-  top: 673px;
-}
-
-.x07-tarifs-tablette .address-2 {
-  left: 443px;
-  text-align: center;
-  top: 673px;
-}
-
-.x07-tarifs-tablette .address-3 {
-  left: 603px;
-  text-align: center;
-  top: 673px;
-}
-
-.x07-tarifs-tablette .draps-et-mnagecompris {
-  left: 103px;
+  left: 84px;
   letter-spacing: 1.35px;
   line-height: 9px;
   position: absolute;
   text-align: center;
-  top: 799px;
+  top: 481px;
+  white-space: nowrap;
+}
+
+.x07-tarifs-tablette .address-1 {
+  left: 205px;
+  text-align: center;
+  top: 481px;
+}
+
+.x07-tarifs-tablette .address-2 {
+  left: 319px;
+  text-align: center;
+  top: 481px;
+}
+
+.x07-tarifs-tablette .address-3 {
+  left: 433px;
+  text-align: center;
+  top: 481px;
+}
+
+.x07-tarifs-tablette .draps-et-mnagecompris {
+  left: 79px;
+  letter-spacing: 1.05px;
+  line-height: 7px;
+  position: absolute;
+  text-align: center;
+  top: 570px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .draps-et-mnagecompris-1 {
-  left: 264px;
-  top: 799px;
+  left: 193px;
+  top: 570px;
 }
 
 .x07-tarifs-tablette .draps-et-mnagecompris-2 {
-  left: 425px;
-  top: 799px;
+  left: 308px;
+  top: 570px;
 }
 
 .x07-tarifs-tablette .draps-et-mnagecompris-3 {
-  left: 585px;
-  top: 799px;
+  left: 421px;
+  top: 570px;
 }
 
 .x07-tarifs-tablette .price {
-  left: 110px;
-  letter-spacing: 1.84px;
-  line-height: 23px;
+  left: 83px;
+  letter-spacing: 1.28px;
+  line-height: 16px;
   position: absolute;
   text-align: center;
-  top: 738px;
+  top: 528px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .price-1 {
-  left: 272px;
-  letter-spacing: 1.84px;
-  line-height: 23px;
-  top: 738px;
+  left: 198px;
+  top: 528px;
 }
 
 .x07-tarifs-tablette .price-2 {
-  left: 432px;
-  letter-spacing: 1.84px;
-  line-height: 23px;
-  top: 738px;
+  left: 312px;
+  top: 528px;
 }
 
 .x07-tarifs-tablette .price-3 {
-  left: 589px;
-  letter-spacing: 1.84px;
-  line-height: 23px;
-  top: 738px;
+  left: 423px;
+  top: 528px;
 }
 
 .x07-tarifs-tablette .ligne-23 {
-  height: 3px;
-  left: 192px;
-  top: 1007px;
-  width: 726px;
+  height: 1px;
+  left: 141px;
+  top: 720px;
+  width: 516px;
 }
 
 .x07-tarifs-tablette .groupe-1213 {
@@ -2538,262 +1945,259 @@
   border-radius: 26px;
   cursor: pointer;
   display: flex;
-  height: 29px;
+  height: 20px;
   justify-content: flex-end;
-  left: 475px;
-  min-width: 160px;
-  padding: 3.5px 12px;
+  left: 342px;
+  min-width: 114px;
+  padding: 2px 3px;
   position: absolute;
-  top: 954px;
+  top: 682px;
 }
 
 .x07-tarifs-tablette .rservez-votre-sjour {
   letter-spacing: 0;
-  line-height: 14px;
-  min-height: 17px;
-  min-width: 135px;
+  line-height: 11px;
+  min-height: 13px;
+  min-width: 106px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .retrouvez-ici-toutes {
   color: var(--corn);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-m);
   font-weight: 400;
-  left: 110px;
-  letter-spacing: 1.95px;
-  line-height: 13px;
+  left: 83px;
+  letter-spacing: 1.50px;
+  line-height: 10px;
   position: absolute;
-  top: 267px;
-  white-space: nowrap;
-}
-
-.x07-tarifs-tablette .les-animaux-ne-sont {
-  left: 367px;
-  letter-spacing: 1.95px;
-  line-height: 13px;
-  position: absolute;
-  text-align: center;
-  top: 1623px;
+  top: 194px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .rectangle-632 {
   background-color: var(--bianca);
-  border-radius: 22px;
+  border-radius: 10px;
   box-shadow: 0px 3px 6px #00000029;
-  height: 209px;
-  left: 722px;
+  height: 148px;
+  left: 518px;
   position: absolute;
-  top: 635px;
-  width: 149px;
-}
-
-.x07-tarifs-tablette .rectangle-633 {
-  background-color: var(--bianca);
-  border-radius: 22px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 209px;
-  left: 882px;
-  position: absolute;
-  top: 635px;
-  width: 150px;
+  top: 455px;
+  width: 106px;
 }
 
 .x07-tarifs-tablette .address-4 {
-  left: 764px;
+  left: 548px;
   text-align: center;
-  top: 673px;
-}
-
-.x07-tarifs-tablette .address-5 {
-  left: 913px;
-  text-align: center;
-  top: 673px;
+  top: 481px;
 }
 
 .x07-tarifs-tablette .draps-et-mnagecompris-4 {
-  left: 746px;
-  top: 799px;
-}
-
-.x07-tarifs-tablette .draps-et-mnagecompris-5 {
-  left: 907px;
-  top: 799px;
+  left: 536px;
+  top: 570px;
 }
 
 .x07-tarifs-tablette .price-4 {
-  left: 751px;
-  letter-spacing: 1.84px;
-  line-height: 23px;
-  top: 738px;
-}
-
-.x07-tarifs-tablette .price-5 {
-  left: 912px;
-  letter-spacing: 1.84px;
-  line-height: 23px;
-  top: 738px;
+  left: 538px;
+  top: 528px;
 }
 
 .x07-tarifs-tablette .rectangle-639 {
   background-color: var(--bianca);
-  border-radius: 22px;
+  border-radius: 10px;
   box-shadow: 0px 3px 6px #00000029;
-  height: 209px;
-  left: 161px;
+  height: 149px;
+  left: 119px;
   position: absolute;
-  top: 1101px;
-  width: 149px;
+  top: 786px;
+  width: 106px;
 }
 
 .x07-tarifs-tablette .rectangle-637 {
   background-color: var(--bianca);
-  border-radius: 22px;
+  border-radius: 10px;
   box-shadow: 0px 3px 6px #00000029;
-  height: 209px;
-  left: 322px;
+  height: 149px;
+  left: 233px;
   position: absolute;
-  top: 1101px;
-  width: 149px;
+  top: 786px;
+  width: 106px;
 }
 
 .x07-tarifs-tablette .rectangle-636 {
   background-color: var(--bianca);
-  border-radius: 22px;
+  border-radius: 10px;
   box-shadow: 0px 3px 6px #00000029;
-  height: 209px;
-  left: 482px;
+  height: 149px;
+  left: 347px;
   position: absolute;
-  top: 1101px;
-  width: 150px;
+  top: 786px;
+  width: 107px;
+}
+
+.x07-tarifs-tablette .rectangle-634 {
+  background-color: var(--bianca);
+  border-radius: 10px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 149px;
+  left: 462px;
+  position: absolute;
+  top: 786px;
+  width: 106px;
+}
+
+.x07-tarifs-tablette .address-5 {
+  color: var(--black);
+  font-family: var(--font-family-josefin_sans);
+  font-size: 9px;
+  font-weight: 500;
+  left: 142px;
+  text-align: center;
+  top: 813px;
+}
+
+.x07-tarifs-tablette .address-6 {
+  left: 263px;
+  text-align: center;
+  top: 813px;
+}
+
+.x07-tarifs-tablette .address-7 {
+  left: 378px;
+  text-align: center;
+  top: 813px;
+}
+
+.x07-tarifs-tablette .address-8 {
+  left: 492px;
+  text-align: center;
+  top: 813px;
+}
+
+.x07-tarifs-tablette .draps-et-mnagecompris-5 {
+  left: 135px;
+  top: 902px;
+}
+
+.x07-tarifs-tablette .draps-et-mnagecompris-6 {
+  left: 249px;
+  top: 902px;
+}
+
+.x07-tarifs-tablette .draps-et-mnagecompris-7 {
+  left: 364px;
+  top: 902px;
+}
+
+.x07-tarifs-tablette .draps-et-mnagecompris-8 {
+  left: 478px;
+  top: 902px;
+}
+
+.x07-tarifs-tablette .price-5 {
+  left: 139px;
+  top: 859px;
+}
+
+.x07-tarifs-tablette .price-6 {
+  left: 255px;
+  top: 859px;
+}
+
+.x07-tarifs-tablette .price-7 {
+  left: 368px;
+  top: 859px;
+}
+
+.x07-tarifs-tablette .price-8 {
+  left: 484px;
+  top: 859px;
+}
+
+.x07-tarifs-tablette .serviettes-de-toilet-1 {
+  height: 13px;
+  left: 253px;
+  letter-spacing: 1.35px;
+  line-height: 9px;
+  position: absolute;
+  text-align: center;
+  top: 949px;
+  width: 294px;
+}
+
+.x07-tarifs-tablette .les-animaux-ne-sont {
+  left: 265px;
+  letter-spacing: 1.35px;
+  line-height: 9px;
+  position: absolute;
+  text-align: center;
+  top: 1157px;
+  white-space: nowrap;
+}
+
+.x07-tarifs-tablette .rectangle-633 {
+  background-color: var(--bianca);
+  border-radius: 10px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 148px;
+  left: 632px;
+  position: absolute;
+  top: 455px;
+  width: 106px;
+}
+
+.x07-tarifs-tablette .address-9 {
+  left: 654px;
+  text-align: center;
+  top: 481px;
+}
+
+.x07-tarifs-tablette .draps-et-mnagecompris-9 {
+  left: 650px;
+  top: 570px;
+}
+
+.x07-tarifs-tablette .price-9 {
+  left: 653px;
+  top: 528px;
 }
 
 .x07-tarifs-tablette .rectangle-3012 {
   background-color: var(--bianca);
   border-radius: 22px;
   box-shadow: 0px 3px 6px #00000029;
-  height: 146px;
-  left: 484px;
+  height: 103px;
+  left: 349px;
   position: absolute;
-  top: 1456px;
-  width: 146px;
-}
-
-.x07-tarifs-tablette .rectangle-634 {
-  background-color: var(--bianca);
-  border-radius: 22px;
-  box-shadow: 0px 3px 6px #00000029;
-  height: 209px;
-  left: 643px;
-  position: absolute;
-  top: 1101px;
-  width: 150px;
+  top: 1039px;
+  width: 103px;
 }
 
 .x07-tarifs-tablette .rectangle-635 {
   background-color: var(--bianca);
-  border-radius: 22px;
+  border-radius: 10px;
   box-shadow: 0px 3px 6px #00000029;
-  height: 209px;
-  left: 804px;
+  height: 149px;
+  left: 576px;
   position: absolute;
-  top: 1101px;
-  width: 150px;
-}
-
-.x07-tarifs-tablette .address-6 {
-  color: var(--black);
-  font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-l);
-  font-weight: 500;
-  left: 194px;
-  text-align: center;
-  top: 1139px;
-}
-
-.x07-tarifs-tablette .address-7 {
-  left: 364px;
-  text-align: center;
-  top: 1139px;
-}
-
-.x07-tarifs-tablette .address-8 {
-  left: 525px;
-  text-align: center;
-  top: 1139px;
-}
-
-.x07-tarifs-tablette .address-9 {
-  left: 686px;
-  text-align: center;
-  top: 1139px;
+  top: 786px;
+  width: 107px;
 }
 
 .x07-tarifs-tablette .address-10 {
-  left: 835px;
+  left: 598px;
   text-align: center;
-  top: 1139px;
-}
-
-.x07-tarifs-tablette .draps-et-mnagecompris-6 {
-  left: 185px;
-  top: 1266px;
-}
-
-.x07-tarifs-tablette .draps-et-mnagecompris-7 {
-  left: 346px;
-  top: 1266px;
-}
-
-.x07-tarifs-tablette .draps-et-mnagecompris-8 {
-  left: 507px;
-  top: 1266px;
-}
-
-.x07-tarifs-tablette .draps-et-mnagecompris-9 {
-  left: 668px;
-  top: 1266px;
+  top: 813px;
 }
 
 .x07-tarifs-tablette .draps-et-mnagecompris-10 {
-  left: 829px;
-  top: 1266px;
-}
-
-.x07-tarifs-tablette .price-6 {
-  left: 189px;
-  letter-spacing: 1.84px;
-  line-height: 23px;
-  top: 1204px;
-}
-
-.x07-tarifs-tablette .price-7 {
-  left: 352px;
-  letter-spacing: 1.84px;
-  line-height: 23px;
-  top: 1204px;
-}
-
-.x07-tarifs-tablette .price-8 {
-  left: 512px;
-  letter-spacing: 1.84px;
-  line-height: 23px;
-  top: 1204px;
-}
-
-.x07-tarifs-tablette .price-9 {
-  left: 675px;
-  letter-spacing: 1.92px;
-  line-height: 24px;
-  top: 1204px;
+  left: 593px;
+  top: 902px;
 }
 
 .x07-tarifs-tablette .price-10 {
-  left: 835px;
-  letter-spacing: 1.84px;
-  line-height: 23px;
-  top: 1204px;
+  left: 598px;
+  top: 859px;
 }
 
 .x07-tarifs-tablette .groupe-1214 {
@@ -2802,70 +2206,70 @@
   border-radius: 26px;
   cursor: pointer;
   display: flex;
-  height: 30px;
+  height: 21px;
   justify-content: flex-end;
-  left: 475px;
-  min-width: 160px;
-  padding: 4.5px 12px;
+  left: 342px;
+  min-width: 114px;
+  padding: 3px;
   position: absolute;
-  top: 1406px;
+  top: 1003px;
 }
 
 .x07-tarifs-tablette .accueil-1 {
   cursor: pointer;
-  left: 336px;
-  letter-spacing: 1.20px;
-  line-height: 12px;
+  left: 243px;
+  letter-spacing: 0.80px;
+  line-height: 8px;
   position: absolute;
-  top: 1730px;
+  top: 1233px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .explorer-le-gte-1 {
   cursor: pointer;
-  left: 336px;
-  letter-spacing: 1.20px;
-  line-height: 12px;
+  left: 243px;
+  letter-spacing: 0.80px;
+  line-height: 8px;
   position: absolute;
-  top: 1756px;
+  top: 1252px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .galerie-1 {
   cursor: pointer;
-  left: 336px;
-  letter-spacing: 1.20px;
-  line-height: 12px;
+  left: 243px;
+  letter-spacing: 0.80px;
+  line-height: 8px;
   position: absolute;
-  top: 1783px;
+  top: 1271px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .tarifs-et-rservations-1 {
-  left: 336px;
-  letter-spacing: 1.20px;
-  line-height: 12px;
+  left: 243px;
+  letter-spacing: 0.80px;
+  line-height: 8px;
   position: absolute;
-  top: 1809px;
+  top: 1290px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .ligne-35 {
-  height: 2px;
-  left: 114px;
-  top: 1675px;
-  width: 897px;
+  height: 1px;
+  left: 85px;
+  top: 1194px;
+  width: 638px;
 }
 
 .x07-tarifs-tablette .groupe-1821 {
   cursor: pointer;
   display: flex;
-  height: 147px;
-  left: 99px;
+  height: 105px;
+  left: 75px;
   overflow: hidden;
   position: absolute;
-  top: 1730px;
-  width: 137px;
+  top: 1233px;
+  width: 98px;
 }
 
 .x07-tarifs-tablette .groupe-1820 {
@@ -2873,7 +2277,7 @@
   flex: 1;
   margin-bottom: 0;
   margin-top: 0;
-  width: 137.26px;
+  width: 97.61px;
 }
 
 .x07-tarifs-tablette .groupe-1819 {
@@ -2881,58 +2285,57 @@
   display: flex;
   flex: 1;
   flex-direction: column;
-  gap: 9px;
-  overflow: hidden;
-  width: 137.26px;
+  gap: 6px;
+  padding: 0 0.0px;
+  width: 97.61px;
 }
 
 .x07-tarifs-tablette .flex-row-2 {
-  align-items: flex-end;
-  display: flex;
-  margin-right: 3.85px;
-  min-width: 95px;
+  height: 67px;
+  margin-right: 2.74px;
+  min-width: 67px;
 }
 
 .x07-tarifs-tablette .groupe-1386 {
-  align-self: flex-start;
-  background-image: url(../img/groupe-10116@1x.png);
+  background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  margin-top: 5.82px;
+  margin-top: 4.14px;
   opacity: 0.28;
   width: 1px;
 }
 
 .x07-tarifs-tablette .overlap-group1-1 {
-  height: 91px;
-  margin-bottom: 0.52px;
-  margin-left: 3px;
+  align-self: center;
+  height: 64px;
+  margin-left: 2px;
+  margin-top: 0.68px;
   position: relative;
-  width: 27px;
+  width: 19px;
 }
 
 .x07-tarifs-tablette .groupe-1221 {
   background-image: url(../img/groupe-1219-6-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
-  height: 3px;
-  left: 15px;
+  height: 2px;
+  left: 11px;
   opacity: 0.28;
   position: absolute;
-  top: 69px;
+  top: 49px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-1224 {
-  background-image: url(../img/groupe-1222-8@1x.png);
+  background-image: url(../img/groupe-1222-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
-  height: 2px;
-  left: 15px;
+  height: 1px;
+  left: 11px;
   opacity: 0.28;
   position: absolute;
-  top: 66px;
+  top: 47px;
   width: 1px;
 }
 
@@ -2940,555 +2343,495 @@
   background-image: url(../img/groupe-1225-6-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
-  height: 2px;
-  left: 16px;
+  height: 1px;
+  left: 11px;
   opacity: 0.28;
   position: absolute;
-  top: 69px;
+  top: 49px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-1230 {
-  background-image: url(../img/groupe-1228-8@1x.png);
+  background-image: url(../img/groupe-1228-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
-  height: 2px;
-  left: 15px;
+  height: 1px;
+  left: 11px;
   opacity: 0.28;
   position: absolute;
-  top: 81px;
+  top: 58px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-1233 {
-  background-image: url(../img/groupe-1231-7@1x.png);
+  background-image: url(../img/groupe-1231-7-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 2px;
-  left: 17px;
+  left: 12px;
   opacity: 0.28;
   position: absolute;
-  top: 35px;
+  top: 25px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-1236 {
-  background-image: url(../img/groupe-1234-11@1x.png);
+  background-image: url(../img/groupe-1234-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 15px;
+  left: 11px;
   opacity: 0.28;
   position: absolute;
-  top: 65px;
+  top: 46px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-1239 {
-  background-image: url(../img/groupe-1237-11@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 71px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1242 {
-  background-image: url(../img/groupe-1240-11@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 17px;
-  opacity: 0.28;
-  position: absolute;
-  top: 42px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1245 {
-  background-image: url(../img/groupe-1243-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 80px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1248 {
-  background-image: url(../img/groupe-1246-10@1x.png);
+  background-image: url(../img/groupe-1237-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 15px;
-  opacity: 0.28;
-  position: absolute;
-  top: 73px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1251 {
-  background-image: url(../img/groupe-1249-11@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 17px;
-  opacity: 0.28;
-  position: absolute;
-  top: 43px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1254 {
-  background-image: url(../img/groupe-1252-11@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 17px;
-  opacity: 0.28;
-  position: absolute;
-  top: 68px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1257 {
-  background-image: url(../img/groupe-1255-11@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 67px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1260 {
-  background-image: url(../img/groupe-1258-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 76px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1263 {
-  background-image: url(../img/groupe-1261-11@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 54px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1266 {
-  background-image: url(../img/groupe-1264-11@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 70px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1269 {
-  background-image: url(../img/groupe-1267-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 76px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1272 {
-  background-image: url(../img/groupe-1270-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 15px;
-  opacity: 0.28;
-  position: absolute;
-  top: 66px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1275 {
-  background-image: url(../img/groupe-1273-11@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 17px;
-  opacity: 0.28;
-  position: absolute;
-  top: 34px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1278 {
-  background-image: url(../img/groupe-1276-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 15px;
-  opacity: 0.28;
-  position: absolute;
-  top: 74px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1281 {
-  background-image: url(../img/groupe-1279-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 15px;
-  opacity: 0.28;
-  position: absolute;
-  top: 67px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1284 {
-  background-image: url(../img/groupe-4365-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 15px;
-  opacity: 0.28;
-  position: absolute;
-  top: 71px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1287 {
-  background-image: url(../img/groupe-1285-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 80px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1290 {
-  background-image: url(../img/groupe-1288-6-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 17px;
-  opacity: 0.28;
-  position: absolute;
-  top: 79px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1293 {
-  background-image: url(../img/groupe-1291-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 56px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1296 {
-  background-image: url(../img/groupe-1294-11@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 15px;
-  opacity: 0.28;
-  position: absolute;
-  top: 75px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1299 {
-  background-image: url(../img/groupe-10050@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 83px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1302 {
-  background-image: url(../img/groupe-4919@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 18px;
-  opacity: 0.28;
-  position: absolute;
-  top: 36px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1305 {
-  background-image: url(../img/groupe-10065@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 17px;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1308 {
-  background-image: url(../img/groupe-1306-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 72px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1311 {
-  background-image: url(../img/groupe-1306-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 19px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1314 {
-  background-image: url(../img/groupe-1312-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 78px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1317 {
-  background-image: url(../img/groupe-10077@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 15px;
-  opacity: 0.28;
-  position: absolute;
-  top: 62px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1320 {
-  background-image: url(../img/groupe-10308@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 25px;
-  opacity: 0.28;
-  position: absolute;
-  top: 33px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1323 {
-  background-image: url(../img/groupe-178-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 77px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1326 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 79px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1329 {
-  background-image: url(../img/groupe-4548-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 17px;
-  opacity: 0.28;
-  position: absolute;
-  top: 71px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1332 {
-  background-image: url(../img/groupe-10338@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
+  left: 11px;
   opacity: 0.28;
   position: absolute;
   top: 51px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1335 {
-  background-image: url(../img/groupe-178-3@1x.png);
+.x07-tarifs-tablette .groupe-1242 {
+  background-image: url(../img/groupe-1240-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 18px;
-  opacity: 0.28;
-  position: absolute;
-  top: 31px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1338 {
-  background-image: url(../img/groupe-10332@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 68px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1341 {
-  background-image: url(../img/groupe-10338@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 17px;
-  opacity: 0.28;
-  position: absolute;
-  top: 44px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1344 {
-  background-image: url(../img/groupe-250-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 79px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1347 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 15px;
-  opacity: 0.28;
-  position: absolute;
-  top: 77px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1350 {
-  background-image: url(../img/groupe-10005@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 21px;
-  opacity: 0.28;
-  position: absolute;
-  top: 16px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1353 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 15px;
-  opacity: 0.28;
-  position: absolute;
-  top: 79px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1356 {
-  background-image: url(../img/groupe-10344@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 18px;
+  left: 12px;
   opacity: 0.28;
   position: absolute;
   top: 30px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1359 {
+.x07-tarifs-tablette .groupe-1245 {
+  background-image: url(../img/groupe-1243-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1248 {
+  background-image: url(../img/groupe-1246-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1251 {
+  background-image: url(../img/groupe-1249-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1254 {
+  background-image: url(../img/groupe-1252-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1257 {
+  background-image: url(../img/groupe-1255-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1260 {
+  background-image: url(../img/groupe-1258-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1263 {
+  background-image: url(../img/groupe-7796-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1266 {
+  background-image: url(../img/groupe-1306-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1269 {
+  background-image: url(../img/groupe-10080@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1272 {
+  background-image: url(../img/groupe-1375-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1275 {
+  background-image: url(../img/groupe-1273-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1278 {
+  background-image: url(../img/groupe-10071@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1281 {
+  background-image: url(../img/groupe-1279-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1284 {
+  background-image: url(../img/groupe-1306-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1287 {
+  background-image: url(../img/groupe-4599-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1290 {
+  background-image: url(../img/groupe-1288-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1293 {
+  background-image: url(../img/groupe-178-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1296 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1299 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 59px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1302 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1305 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1308 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 16px;
+  left: 11px;
   opacity: 0.28;
   position: absolute;
-  top: 74px;
+  top: 51px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1362 {
-  background-image: url(../img/groupe-10101@1x.png);
+.x07-tarifs-tablette .groupe-1311 {
+  background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 25px;
+  left: 13px;
   opacity: 0.28;
   position: absolute;
-  top: 34px;
+  top: 17px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1365 {
+.x07-tarifs-tablette .groupe-1314 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1317 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1320 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 18px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1323 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1326 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1329 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1332 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1335 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1338 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 49px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1341 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1344 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1347 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1350 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3496,7 +2839,67 @@
   left: 15px;
   opacity: 0.28;
   position: absolute;
-  top: 66px;
+  top: 12px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1353 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1356 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1359 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1362 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 18px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1365 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
   width: 1px;
 }
 
@@ -3505,120 +2908,309 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 16px;
+  left: 12px;
   opacity: 0.28;
   position: absolute;
-  top: 69px;
+  top: 49px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-1371 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 25px;
-  opacity: 0.28;
-  position: absolute;
-  top: 16px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1374 {
   background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 25px;
-  opacity: 0.28;
-  position: absolute;
-  top: 33px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1377 {
-  background-image: url(../img/groupe-10113@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 17px;
-  opacity: 0.28;
-  position: absolute;
-  top: 81px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1380 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 75px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1383 {
-  background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 18px;
   opacity: 0.28;
   position: absolute;
-  top: 55px;
+  top: 11px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1374 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 18px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1377 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 58px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1380 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1383 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .trac-277 {
-  height: 77px;
-  left: 15px;
+  height: 55px;
+  left: 11px;
   object-fit: cover;
   position: absolute;
-  top: 13px;
-  width: 12px;
+  top: 9px;
+  width: 9px;
 }
 
 .x07-tarifs-tablette .groupe-1389 {
-  background-image: url(../img/groupe-1387-10@1x.png);
+  background-image: url(../img/groupe-1387-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
-  height: 3px;
+  height: 2px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1392 {
+  background-image: url(../img/groupe-4919@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1395 {
+  background-image: url(../img/groupe-10086@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
   left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1398 {
+  background-image: url(../img/groupe-10089@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1401 {
+  background-image: url(../img/groupe-10077@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1404 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1407 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1410 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1413 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .trac-288 {
+  height: 64px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.x07-tarifs-tablette .overlap-group3 {
+  align-items: flex-start;
+  align-self: center;
+  background-image: url(../img/trac--429-7-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-left: 1px;
+  margin-top: 4.23px;
+  min-width: 7px;
+}
+
+.x07-tarifs-tablette .trac-430 {
+  height: 16px;
+  object-fit: cover;
+  width: 7px;
+}
+
+.x07-tarifs-tablette .trac-427 {
+  height: 66px;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 12px;
+}
+
+.x07-tarifs-tablette .flex-col {
+  align-self: flex-end;
+  flex-direction: column;
+  gap: 2px;
+  margin-bottom: 2.34px;
+  margin-left: 3px;
+  min-height: 40px;
+  width: 5px;
+}
+
+.x07-tarifs-tablette .trac-352 {
+  height: 4px;
+  margin-left: 0.88px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.x07-tarifs-tablette .overlap-group-2 {
+  height: 34px;
+  position: relative;
+  width: 5px;
+}
+
+.x07-tarifs-tablette .groupe-1416 {
+  background-image: url(../img/groupe-1414-11-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
   opacity: 0.28;
   position: absolute;
   top: 25px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1392 {
-  background-image: url(../img/groupe-1390-8@1x.png);
+.x07-tarifs-tablette .groupe-1419 {
+  background-image: url(../img/groupe-1417-11-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 2px;
+  left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 24px;
+  top: 30px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1395 {
-  background-image: url(../img/groupe-1393-10@1x.png);
+.x07-tarifs-tablette .groupe-1422 {
+  background-image: url(../img/groupe-1420-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 2px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1425 {
+  background-image: url(../img/groupe-1423-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
   opacity: 0.28;
   position: absolute;
   top: 26px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1398 {
-  background-image: url(../img/groupe-10251@1x.png);
+.x07-tarifs-tablette .groupe-1428 {
+  background-image: url(../img/groupe-7523-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1431 {
+  background-image: url(../img/groupe-1294-11@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -3629,400 +3221,115 @@
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1401 {
-  background-image: url(../img/groupe-10296@1x.png);
+.x07-tarifs-tablette .groupe-1437 {
+  background-image: url(../img/groupe-10074@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1404 {
-  background-image: url(../img/groupe-1396-6@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1407 {
-  background-image: url(../img/groupe-10092@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 3px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1410 {
-  background-image: url(../img/groupe-10299@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1413 {
-  background-image: url(../img/groupe-10101@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 10px;
-  opacity: 0.28;
-  position: absolute;
-  top: 4px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .trac-288 {
-  height: 91px;
   left: 0;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 17px;
-}
-
-.x07-tarifs-tablette .overlap-group4-1 {
-  align-items: flex-start;
-  align-self: center;
-  background-image: url(../img/trac--429-7@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  display: flex;
-  margin-left: 1px;
-  margin-top: 6.35px;
-  min-width: 10px;
-}
-
-.x07-tarifs-tablette .trac-430 {
-  height: 23px;
-  object-fit: cover;
-  width: 10px;
-}
-
-.x07-tarifs-tablette .trac-427 {
-  align-self: flex-start;
-  height: 93px;
-  margin-left: 2px;
-  object-fit: cover;
-  width: 17px;
-}
-
-.x07-tarifs-tablette .flex-col {
-  flex-direction: column;
-  gap: 3px;
-  margin-bottom: 2.89px;
-  margin-left: 4px;
-  min-height: 56px;
-  width: 7px;
-}
-
-.x07-tarifs-tablette .trac-352 {
-  height: 5px;
-  margin-left: 1.23px;
-  object-fit: cover;
-  width: 5px;
-}
-
-.x07-tarifs-tablette .overlap-group-2 {
-  height: 48px;
-  position: relative;
-  width: 7px;
-}
-
-.x07-tarifs-tablette .groupe-1416 {
-  background-image: url(../img/groupe-1414-11@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 35px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1419 {
-  background-image: url(../img/groupe-1417-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 42px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1422 {
-  background-image: url(../img/groupe-1420-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
   opacity: 0.28;
   position: absolute;
   top: 14px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1425 {
-  background-image: url(../img/groupe-1423-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 36px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1428 {
-  background-image: url(../img/groupe-1300-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1431 {
-  background-image: url(../img/groupe-1429-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 41px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1437 {
-  background-image: url(../img/groupe-1435-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
 .x07-tarifs-tablette .groupe-1440 {
-  background-image: url(../img/groupe-1438-11@1x.png);
+  background-image: url(../img/groupe-10083@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 34px;
+  top: 24px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-1443 {
-  background-image: url(../img/groupe-1441-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 33px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1446 {
-  background-image: url(../img/groupe-1444-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1449 {
-  background-image: url(../img/groupe-1447-10@1x.png);
+  background-image: url(../img/trac--1330-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1446 {
+  background-image: url(../img/groupe-1282-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1449 {
+  background-image: url(../img/groupe-10011@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1452 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1455 {
+  background-image: url(../img/groupe-10332@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
   opacity: 0.28;
   position: absolute;
   top: 25px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1452 {
-  background-image: url(../img/groupe-1450-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1455 {
-  background-image: url(../img/groupe-10248@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 35px;
-  width: 1px;
-}
-
 .x07-tarifs-tablette .groupe-1458 {
-  background-image: url(../img/groupe-10266@1x.png);
+  background-image: url(../img/groupe-10077@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1461 {
-  background-image: url(../img/groupe-4635-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
+  top: 28px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-1464 {
-  background-image: url(../img/groupe-4806-1@1x.png);
+  background-image: url(../img/groupe-10008@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 14px;
+  top: 10px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-1467 {
-  background-image: url(../img/groupe-4797-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1470 {
-  background-image: url(../img/groupe-424-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 41px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1473 {
-  background-image: url(../img/groupe-1513-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1476 {
-  background-image: url(../img/groupe-1381-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1479 {
-  background-image: url(../img/trac--1409-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 41px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1482 {
-  background-image: url(../img/groupe-10044@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1485 {
-  background-image: url(../img/groupe-1297-6@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1488 {
   background-image: url(../img/groupe-1807-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4034,91 +3341,91 @@
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1491 {
-  background-image: url(../img/groupe-4383-1@1x.png);
+.x07-tarifs-tablette .groupe-1470 {
+  background-image: url(../img/groupe-10107@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1476 {
+  background-image: url(../img/groupe-10089@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1479 {
+  background-image: url(../img/groupe-10107@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1482 {
+  background-image: url(../img/groupe-10299@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1485 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1488 {
+  background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 0;
   opacity: 0.28;
   position: absolute;
-  top: 39px;
+  top: 19px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1491 {
+  background-image: url(../img/groupe-10089@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-1494 {
-  background-image: url(../img/groupe-10104@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 43px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1497 {
-  background-image: url(../img/groupe-4599-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 15px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1500 {
-  background-image: url(../img/groupe-10104@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 16px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1503 {
-  background-image: url(../img/groupe-178-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 8px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1506 {
-  background-image: url(../img/groupe-10308@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1512 {
-  background-image: url(../img/groupe-10011@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1518 {
   background-image: url(../img/groupe-100-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4126,48 +3433,24 @@
   left: 2px;
   opacity: 0.28;
   position: absolute;
-  top: 41px;
+  top: 30px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1521 {
+.x07-tarifs-tablette .groupe-1497 {
   background-image: url(../img/groupe-10344@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 5px;
+  left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 39px;
+  top: 10px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1524 {
-  background-image: url(../img/groupe-10344@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 36px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1527 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 23px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1530 {
-  background-image: url(../img/groupe-10344@1x.png);
+.x07-tarifs-tablette .groupe-1500 {
+  background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -4178,43 +3461,7 @@
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1533 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 41px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1539 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1542 {
-  background-image: url(../img/groupe-10344@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 41px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1545 {
+.x07-tarifs-tablette .groupe-1503 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4222,35 +3469,23 @@
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 40px;
+  top: 6px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1548 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 3px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1551 {
-  background-image: url(../img/groupe-10113@1x.png);
+.x07-tarifs-tablette .groupe-1506 {
+  background-image: url(../img/groupe-10101@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 41px;
+  top: 29px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1554 {
+.x07-tarifs-tablette .groupe-1512 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4258,31 +3493,151 @@
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 11px;
+  top: 28px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1557 {
-  background-image: url(../img/groupe-10344@1x.png);
+.x07-tarifs-tablette .groupe-1518 {
+  background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 37px;
+  top: 29px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1521 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1524 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1527 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1530 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1533 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1542 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1545 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1548 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1551 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1557 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-1563 {
-  background-image: url(../img/groupe-10122@1x.png);
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 5px;
+  left: 4px;
   opacity: 0.28;
   position: absolute;
-  top: 42px;
+  top: 30px;
   width: 1px;
 }
 
@@ -4294,7 +3649,7 @@
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 35px;
+  top: 25px;
   width: 1px;
 }
 
@@ -4303,27 +3658,301 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 4px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1581 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1584 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1587 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .trac-351 {
+  height: 34px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.x07-tarifs-tablette .overlap-group2-1 {
+  align-self: flex-end;
+  height: 43px;
+  position: relative;
+  width: 14px;
+}
+
+.x07-tarifs-tablette .groupe-1434 {
+  background-image: url(../img/groupe-1303-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-15-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  left: 1px;
+  top: 16px;
+}
+
+.x07-tarifs-tablette .groupe-1515 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1536 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1569 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1572 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1575 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1590 {
+  background-image: url(../img/groupe-1261-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1593 {
+  background-image: url(../img/groupe-1261-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1596 {
+  background-image: url(../img/groupe-4922@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1599 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
   opacity: 0.28;
   position: absolute;
   top: 42px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1581 {
-  background-image: url(../img/groupe-10116@1x.png);
+.x07-tarifs-tablette .groupe-1602 {
+  background-image: url(../img/groupe-1600-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 3px;
+  left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 17px;
+  top: 32px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1584 {
-  background-image: url(../img/groupe-10128@1x.png);
+.x07-tarifs-tablette .groupe-1605 {
+  background-image: url(../img/groupe-1603-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1608 {
+  background-image: url(../img/groupe-1606-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1611 {
+  background-image: url(../img/groupe-1609-11-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1614 {
+  background-image: url(../img/groupe-1612-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1617 {
+  background-image: url(../img/groupe-1615-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1620 {
+  background-image: url(../img/groupe-1618-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1623 {
+  background-image: url(../img/groupe-1621-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1626 {
+  background-image: url(../img/groupe-1624-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1629 {
+  background-image: url(../img/groupe-1627-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -4334,112 +3963,488 @@
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1587 {
-  background-image: url(../img/groupe-10122@1x.png);
+.x07-tarifs-tablette .groupe-1632 {
+  background-image: url(../img/groupe-4797-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1635 {
+  background-image: url(../img/groupe-415-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1638 {
+  background-image: url(../img/groupe-1636-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 3px;
   opacity: 0.28;
   position: absolute;
-  top: 26px;
+  top: 32px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .trac-351 {
-  height: 48px;
-  left: 1px;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 4px;
-}
-
-.x07-tarifs-tablette .overlap-group-container-1 {
-  height: 60px;
-  margin-left: 1px;
-  position: relative;
-  width: 20px;
-}
-
-.x07-tarifs-tablette .groupe-container {
-  height: 2px;
-  left: 0;
-  position: absolute;
-  top: 33px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1434 {
-  background-image: url(../img/trac--1385-1@1x.png);
+.x07-tarifs-tablette .groupe-1641 {
+  background-image: url(../img/groupe-1639-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 0;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1569 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 1px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .overlap-group2-1 {
-  height: 60px;
-  left: 1px;
-  position: absolute;
-  top: 0;
-  width: 19px;
-}
-
-.x07-tarifs-tablette .groupe-1509 {
-  background-image: url(../img/groupe-10107@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1515 {
-  background-image: url(../img/groupe-10134@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 26px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1536 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
+  left: 2px;
   opacity: 0.28;
   position: absolute;
   top: 31px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1560 {
+.x07-tarifs-tablette .groupe-1644 {
+  background-image: url(../img/groupe-1393-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1647 {
+  background-image: url(../img/groupe-10050@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1650 {
+  background-image: url(../img/groupe-1384-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1653 {
+  background-image: url(../img/groupe-10068@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1656 {
+  background-image: url(../img/groupe-4383-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1659 {
+  background-image: url(../img/groupe-10086@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1662 {
+  background-image: url(../img/groupe-1525-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1665 {
+  background-image: url(../img/groupe-1381-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1668 {
+  background-image: url(../img/groupe-10002@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1671 {
+  background-image: url(../img/groupe-217-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1674 {
+  background-image: url(../img/groupe-4371-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1677 {
+  background-image: url(../img/groupe-1675-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1680 {
+  background-image: url(../img/groupe-4371-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1683 {
+  background-image: url(../img/groupe-10086@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1686 {
+  background-image: url(../img/groupe-4551-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1689 {
+  background-image: url(../img/groupe-1687-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1692 {
+  background-image: url(../img/groupe-250-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1695 {
+  background-image: url(../img/groupe-1306-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1698 {
+  background-image: url(../img/groupe-10011@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1701 {
+  background-image: url(../img/groupe-1396-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1704 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1707 {
+  background-image: url(../img/groupe-10104@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1710 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1713 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1716 {
+  background-image: url(../img/groupe-10104@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1719 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1722 {
   background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1725 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1728 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1731 {
+  background-image: url(../img/groupe-10089@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1734 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1737 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1740 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1743 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1746 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1749 {
+  background-image: url(../img/groupe-10089@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1752 {
+  background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -4450,8 +4455,128 @@
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1572 {
-  background-image: url(../img/groupe-10113@1x.png);
+.x07-tarifs-tablette .groupe-1755 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1758 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1761 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1764 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1767 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1770 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1773 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1776 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1779 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1782 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.x07-tarifs-tablette .groupe-1785 {
+  background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -4462,236 +4587,8 @@
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1590 {
-  background-image: url(../img/groupe-1588-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 56px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1593 {
-  background-image: url(../img/groupe-1591-11@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 52px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1596 {
-  background-image: url(../img/groupe-1594-8@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 57px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1599 {
-  background-image: url(../img/groupe-1396-6@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 59px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1602 {
-  background-image: url(../img/groupe-1600-11@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 45px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1605 {
-  background-image: url(../img/groupe-1603-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 44px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1608 {
-  background-image: url(../img/groupe-1606-11@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 46px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1611 {
-  background-image: url(../img/groupe-1609-6@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 54px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1614 {
-  background-image: url(../img/groupe-1612-7@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1617 {
-  background-image: url(../img/groupe-1615-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 43px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1620 {
-  background-image: url(../img/groupe-1618-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 47px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1623 {
-  background-image: url(../img/groupe-1621-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 27px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1626 {
-  background-image: url(../img/groupe-1624-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 49px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1629 {
-  background-image: url(../img/groupe-1627-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 54px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1632 {
-  background-image: url(../img/groupe-1630-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 49px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1635 {
-  background-image: url(../img/groupe-1633-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 27px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1638 {
-  background-image: url(../img/groupe-1636-11@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 45px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1641 {
-  background-image: url(../img/groupe-1639-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 44px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1644 {
-  background-image: url(../img/groupe-1642-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 51px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1647 {
-  background-image: url(../img/groupe-4524-1@1x.png);
+.x07-tarifs-tablette .groupe-1788 {
+  background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -4702,790 +4599,240 @@
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1650 {
-  background-image: url(../img/groupe-4524-1@1x.png);
+.x07-tarifs-tablette .groupe-1791 {
+  background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 7px;
+  left: 9px;
   opacity: 0.28;
   position: absolute;
-  top: 51px;
+  top: 14px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1653 {
-  background-image: url(../img/groupe-4512-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 46px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1656 {
-  background-image: url(../img/groupe-4512-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 50px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1659 {
-  background-image: url(../img/trac--408-1@1x.png);
+.x07-tarifs-tablette .groupe-1794 {
+  background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 44px;
+  top: 31px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1662 {
-  background-image: url(../img/groupe-1660-11@1x.png);
+.x07-tarifs-tablette .groupe-1797 {
+  background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 7px;
+  left: 5px;
   opacity: 0.28;
   position: absolute;
-  top: 53px;
+  top: 39px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1665 {
-  background-image: url(../img/groupe-1507-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1668 {
-  background-image: url(../img/groupe-1666-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 49px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1671 {
-  background-image: url(../img/groupe-1285-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 54px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1674 {
-  background-image: url(../img/groupe-1249-6@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 44px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1677 {
-  background-image: url(../img/groupe-1354-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 47px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1680 {
-  background-image: url(../img/groupe-1678-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 53px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1683 {
-  background-image: url(../img/trac--1385-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 52px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1686 {
-  background-image: url(../img/groupe-1684-10@1x.png);
+.x07-tarifs-tablette .groupe-1800 {
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 53px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1689 {
-  background-image: url(../img/groupe-1687-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 53px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1692 {
-  background-image: url(../img/groupe-1513-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 53px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1695 {
-  background-image: url(../img/groupe-1285-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 50px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1698 {
-  background-image: url(../img/groupe-1696-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 36px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1701 {
-  background-image: url(../img/groupe-1699-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 50px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1704 {
-  background-image: url(../img/groupe-10302@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 56px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1707 {
-  background-image: url(../img/groupe-4536-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1710 {
-  background-image: url(../img/groupe-4599-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1713 {
-  background-image: url(../img/groupe-1396-6@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 48px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1716 {
-  background-image: url(../img/groupe-217-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1719 {
-  background-image: url(../img/groupe-4548-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 52px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1722 {
-  background-image: url(../img/groupe-10326@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1725 {
-  background-image: url(../img/groupe-10308@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1728 {
-  background-image: url(../img/groupe-10005@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 51px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1731 {
-  background-image: url(../img/groupe-10320@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 49px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1734 {
-  background-image: url(../img/groupe-10056@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 48px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1737 {
-  background-image: url(../img/groupe-10053@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1740 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 53px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1743 {
-  background-image: url(../img/groupe-10077@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 54px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1746 {
-  background-image: url(../img/groupe-10332@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 51px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1749 {
-  background-image: url(../img/groupe-1384-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 47px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1752 {
-  background-image: url(../img/groupe-10011@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
   opacity: 0.28;
   position: absolute;
   top: 33px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1755 {
-  background-image: url(../img/groupe-10332@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 52px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1758 {
-  background-image: url(../img/groupe-1297-6@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 18px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1761 {
-  background-image: url(../img/groupe-10092@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 45px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1764 {
-  background-image: url(../img/groupe-10077@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 54px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1767 {
-  background-image: url(../img/groupe-10077@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1770 {
-  background-image: url(../img/groupe-10326@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1773 {
-  background-image: url(../img/groupe-178-3@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 53px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1776 {
-  background-image: url(../img/groupe-10338@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 51px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1779 {
-  background-image: url(../img/groupe-10104@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 7px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1782 {
-  background-image: url(../img/groupe-10101@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 53px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1788 {
-  background-image: url(../img/groupe-10338@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 49px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1791 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1794 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 43px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1797 {
-  background-image: url(../img/groupe-10338@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 55px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1800 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 46px;
-  width: 1px;
-}
-
 .x07-tarifs-tablette .groupe-1803 {
-  background-image: url(../img/groupe-10134@1x.png);
+  background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 10px;
+  left: 8px;
   opacity: 0.28;
   position: absolute;
-  top: 7px;
+  top: 5px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-1806 {
-  background-image: url(../img/groupe-10146@1x.png);
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 12px;
+  left: 9px;
   opacity: 0.28;
   position: absolute;
-  top: 18px;
+  top: 13px;
   width: 1px;
 }
 
 .x07-tarifs-tablette .groupe-1809 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 55px;
-  width: 1px;
-}
-
-.x07-tarifs-tablette .groupe-1812 {
-  background-image: url(../img/groupe-10134@1x.png);
+  background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 4px;
   opacity: 0.28;
   position: absolute;
-  top: 25px;
+  top: 39px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1815 {
-  background-image: url(../img/groupe-10338@1x.png);
+.x07-tarifs-tablette .groupe-1812 {
+  background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 3px;
   opacity: 0.28;
   position: absolute;
-  top: 50px;
+  top: 18px;
   width: 1px;
 }
 
-.x07-tarifs-tablette .groupe-1818 {
-  background-image: url(../img/groupe-10014@1x.png);
+.x07-tarifs-tablette .groupe-1815 {
+  background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 5px;
+  left: 2px;
   opacity: 0.28;
   position: absolute;
   top: 36px;
   width: 1px;
 }
 
+.x07-tarifs-tablette .groupe-1818 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
 .x07-tarifs-tablette .trac-426 {
-  height: 60px;
+  height: 43px;
   left: 1px;
   object-fit: cover;
   position: absolute;
   top: 0;
-  width: 18px;
+  width: 13px;
 }
 
 .x07-tarifs-tablette .trac-428 {
-  height: 45px;
+  height: 32px;
   margin-right: 0;
   object-fit: cover;
-  width: 137px;
+  width: 98px;
 }
 
 .x07-tarifs-tablette .activits-et-tourisme-1 {
   cursor: pointer;
-  left: 336px;
-  letter-spacing: 1.20px;
-  line-height: 12px;
+  left: 243px;
+  letter-spacing: 0.80px;
+  line-height: 8px;
   position: absolute;
-  top: 1835px;
+  top: 1308px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .place-1 {
   cursor: pointer;
-  left: 336px;
-  letter-spacing: 1.20px;
-  line-height: 12px;
+  left: 243px;
+  letter-spacing: 0.80px;
+  line-height: 8px;
   position: absolute;
-  top: 1861px;
+  top: 1327px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .gitelenidgmailcom {
-  left: 593px;
-  letter-spacing: 1.95px;
-  line-height: 13px;
+  left: 426px;
+  letter-spacing: 1.35px;
+  line-height: 9px;
   position: absolute;
-  top: 1740px;
+  top: 1240px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .trac-434 {
-  height: 24px;
-  left: 535px;
+  height: 17px;
+  left: 385px;
   object-fit: cover;
   position: absolute;
-  top: 1793px;
-  width: 24px;
+  top: 1278px;
+  width: 17px;
 }
 
 .x07-tarifs-tablette .trac-435 {
-  height: 22px;
-  left: 535px;
+  height: 15px;
+  left: 385px;
   object-fit: cover;
   position: absolute;
-  top: 1736px;
-  width: 27px;
+  top: 1237px;
+  width: 19px;
 }
 
-.x07-tarifs-tablette .ligne-34 {
-  height: 144px;
-  left: 580px;
-  top: 1730px;
-  width: 2px;
+.x07-tarifs-tablette .trac-3516 {
+  height: 102px;
+  left: 417px;
+  object-fit: cover;
+  position: absolute;
+  top: 1233px;
+  width: 1px;
 }
 
 .x07-tarifs-tablette .ligne-58 {
-  height: 144px;
-  left: 312px;
-  top: 1730px;
-  width: 2px;
+  height: 102px;
+  left: 227px;
+  top: 1233px;
+  width: 1px;
 }
 
 .x07-tarifs-tablette .phone {
-  left: 593px;
-  letter-spacing: 1.95px;
-  line-height: 13px;
+  left: 426px;
+  letter-spacing: 1.35px;
+  line-height: 9px;
   position: absolute;
-  top: 1799px;
+  top: 1282px;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .address-11 {
-  left: 593px;
-  top: 1844px;
+  left: 426px;
+  top: 1314px;
 }
 
 .x07-tarifs-tablette .trac-436 {
-  height: 29px;
-  left: 539px;
+  height: 21px;
+  left: 387px;
   object-fit: cover;
   position: absolute;
-  top: 1843px;
-  width: 20px;
+  top: 1313px;
+  width: 14px;
 }
 
-.x07-tarifs-tablette .overlap-group7 {
-  height: 16px;
-  left: 811px;
+.x07-tarifs-tablette .overlap-group6 {
+  height: 12px;
+  left: 581px;
   position: absolute;
-  top: 1853px;
-  width: 190px;
+  top: 1320px;
+  width: 133px;
 }
 
 .x07-tarifs-tablette .c-le-nid-tous-droits-rservs {
-  left: 3px;
-  letter-spacing: 1.50px;
-  line-height: 10px;
+  left: 2px;
+  letter-spacing: 1.05px;
+  line-height: 7px;
   position: absolute;
   top: 3px;
   white-space: nowrap;
@@ -5494,65 +4841,54 @@
 .x07-tarifs-tablette .ellipse-3 {
   border: 1px solid;
   border-color: var(--black);
-  border-radius: 7.41px;
-  height: 15px;
-  width: 15px;
+  border-radius: 5.27px;
+  height: 11px;
+  width: 11px;
 }
 
 .x07-tarifs-tablette .noun-no-pet-6367718 {
-  background-image: url(../img/trac--2451-1-1x-png@1x.png);
+  background-image: url(../img/trac--2451-1-1x-png-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
-  height: 103px;
-  left: 505px;
+  height: 73px;
+  left: 364px;
   position: absolute;
-  top: 1482px;
-  width: 103px;
-}
-
-.x07-tarifs-tablette .serviettes-de-toilet-1 {
-  height: 18px;
-  left: 350px;
-  letter-spacing: 1.80px;
-  line-height: 12px;
-  position: absolute;
-  text-align: center;
-  top: 1330px;
-  width: 412px;
+  top: 1057px;
+  width: 73px;
 }
 
 .x07-tarifs-tablette .borne-de-recharge-po-1 {
-  height: 17px;
-  left: 232px;
-  letter-spacing: 1.80px;
-  line-height: 12px;
+  height: 13px;
+  left: 169px;
+  letter-spacing: 1.35px;
+  line-height: 9px;
   position: absolute;
   text-align: center;
-  top: 1354px;
-  width: 649px;
+  top: 966px;
+  width: 462px;
 }
 
 .x07-tarifs-tablette .possibilit-de-tarif-1 {
-  height: 17px;
-  left: 232px;
-  letter-spacing: 1.80px;
-  line-height: 12px;
+  height: 13px;
+  left: 169px;
+  letter-spacing: 1.35px;
+  line-height: 9px;
   position: absolute;
   text-align: center;
-  top: 1377px;
-  width: 649px;
+  top: 982px;
+  width: 462px;
 }
 
 .x07-tarifs-tablette .address-12 {
-  letter-spacing: 1.95px;
-  line-height: 13px;
+  letter-spacing: 1.35px;
+  line-height: 9px;
   position: absolute;
   white-space: nowrap;
 }
 
 .x07-tarifs-tablette .draps-et-mnagecompris-11 {
-  letter-spacing: 1.35px;
-  line-height: 9px;
+  letter-spacing: 1.05px;
+  line-height: 7px;
   position: absolute;
   text-align: center;
   white-space: nowrap;
@@ -5564,10 +4900,17 @@
   top: 0;
 }
 
-.x07-tarifs-tablette .groupe-5-4 {
+.x07-tarifs-tablette .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.x07-tarifs-tablette .groupe-5-5 {
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
+  left: 3px;
   opacity: 0.28;
   position: absolute;
   width: 1px;
@@ -5579,6 +4922,8 @@
 }
 
 .x07-tarifs-tablette .price-11 {
+  letter-spacing: 1.28px;
+  line-height: 16px;
   position: absolute;
   text-align: center;
   white-space: nowrap;

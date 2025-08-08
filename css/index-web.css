@@ -1764,18 +1764,6 @@
   width: 33px;
 }
 
-.index-web .groupe-1509 {
-  background-image: url(../img/groupe-1507-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
 .index-web .groupe-1515 {
   background-image: url(../img/groupe-1513-1@1x.png);
   background-position: 50% 50%;
@@ -1785,18 +1773,6 @@
   opacity: 0.28;
   position: absolute;
   top: 47px;
-  width: 1px;
-}
-
-.index-web .groupe-1560 {
-  background-image: url(../img/groupe-1558-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
   width: 1px;
 }
 
@@ -5818,7 +5794,7 @@
 .index-web .dcouvrez-linterieu {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxxxl);
+  font-size: var(--font-size-xxxl);
   font-weight: 400;
   left: 1069px;
   letter-spacing: 2.40px;
@@ -5863,7 +5839,7 @@
 .index-web .retrouvez-ici-toutes {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-xl);
   font-weight: 500;
   left: 1743px;
   letter-spacing: 2.70px;
