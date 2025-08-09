@@ -45,2492 +45,32 @@
   box-sizing: border-box;
 }
 
-.groupe-8005 {
-  display: flex;
-  height: 399px;
-  margin-left: 327px;
-  margin-top: 334.37px;
-  overflow: hidden;
-  width: 372px;
-}
-
-.groupe-8004 {
-  display: flex;
-  flex: 1;
-  margin-bottom: 0;
-  margin-top: 0;
-  width: 372.04px;
-}
-
-.groupe-7570 {
-  align-self: flex-start;
-  background-image: url(../img/groupe-7568-1@1x.png);
+.groupe-1461 {
+  background-image: url(../img/groupe-1459-1-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  margin-top: 15.78px;
-  opacity: 0.28;
-  width: 1px;
-}
-
-.groupe-7411 {
-  background-image: url(../img/groupe-7409-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 5px;
-  left: 44px;
-  opacity: 0.28;
-  position: absolute;
-  top: 187px;
-  width: 3px;
-}
-
-.groupe-7414 {
-  background-image: url(../img/groupe-7412-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 4px;
-  left: 42px;
-  opacity: 0.28;
-  position: absolute;
-  top: 220px;
-  width: 3px;
-}
-
-.groupe-7420 {
-  background-image: url(../img/groupe-7418-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 3px;
-  left: 41px;
-  opacity: 0.28;
-  position: absolute;
-  top: 177px;
-  width: 2px;
-}
-
-.groupe-7423 {
-  background-image: url(../img/groupe-7421-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 4px;
-  left: 43px;
-  opacity: 0.28;
-  position: absolute;
-  top: 193px;
-  width: 2px;
-}
-
-.groupe-7426 {
-  background-image: url(../img/groupe-7424-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 4px;
-  left: 47px;
-  opacity: 0.28;
-  position: absolute;
-  top: 115px;
-  width: 1px;
-}
-
-.groupe-7429 {
-  background-image: url(../img/groupe-7427-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 4px;
-  left: 44px;
-  opacity: 0.28;
-  position: absolute;
-  top: 216px;
-  width: 1px;
-}
-
-.groupe-7432 {
-  background-image: url(../img/groupe-7430-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 3px;
-  left: 41px;
-  opacity: 0.28;
-  position: absolute;
-  top: 198px;
-  width: 1px;
-}
-
-.groupe-7435 {
-  background-image: url(../img/groupe-7433-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 45px;
-  opacity: 0.28;
-  position: absolute;
-  top: 116px;
-  width: 1px;
-}
-
-.groupe-7441 {
-  background-image: url(../img/groupe-7439-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 3px;
-  left: 44px;
-  opacity: 0.28;
-  position: absolute;
-  top: 182px;
-  width: 1px;
-}
-
-.groupe-7444 {
-  background-image: url(../img/groupe-7442-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 3px;
-  left: 42px;
-  opacity: 0.28;
-  position: absolute;
-  top: 207px;
-  width: 1px;
-}
-
-.groupe-7447 {
-  background-image: url(../img/groupe-7445-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 43px;
-  opacity: 0.28;
-  position: absolute;
-  top: 145px;
-  width: 1px;
-}
-
-.groupe-7450 {
-  background-image: url(../img/groupe-7448-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 43px;
-  opacity: 0.28;
-  position: absolute;
-  top: 189px;
-  width: 1px;
-}
-
-.groupe-7453 {
-  background-image: url(../img/groupe-7451-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 43px;
-  opacity: 0.28;
-  position: absolute;
-  top: 205px;
-  width: 1px;
-}
-
-.groupe-7459 {
-  background-image: url(../img/groupe-7457-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 47px;
-  opacity: 0.28;
-  position: absolute;
-  top: 93px;
-  width: 1px;
-}
-
-.groupe-7465 {
-  background-image: url(../img/groupe-7463-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 41px;
-  opacity: 0.28;
-  position: absolute;
-  top: 183px;
-  width: 1px;
-}
-
-.groupe-7468 {
-  background-image: url(../img/groupe-7466-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 40px;
-  opacity: 0.28;
-  position: absolute;
-  top: 193px;
-  width: 1px;
-}
-
-.groupe-7477 {
-  background-image: url(../img/groupe-7475-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 43px;
-  opacity: 0.28;
-  position: absolute;
-  top: 152px;
-  width: 1px;
-}
-
-.groupe-7480 {
-  background-image: url(../img/groupe-7478-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 41px;
-  opacity: 0.28;
-  position: absolute;
-  top: 204px;
-  width: 1px;
-}
-
-.groupe-7483 {
-  background-image: url(../img/groupe-7481-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 45px;
-  opacity: 0.28;
-  position: absolute;
-  top: 224px;
-  width: 1px;
-}
-
-.groupe-7486 {
-  background-image: url(../img/groupe-7484-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 48px;
-  opacity: 0.28;
-  position: absolute;
-  top: 96px;
-  width: 1px;
-}
-
-.groupe-7489 {
-  background-image: url(../img/groupe-7487-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 46px;
-  opacity: 0.28;
-  position: absolute;
-  top: 103px;
-  width: 1px;
-}
-
-.groupe-7492 {
-  background-image: url(../img/groupe-7490-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 42px;
-  opacity: 0.28;
-  position: absolute;
-  top: 195px;
-  width: 1px;
-}
-
-.groupe-7495 {
-  background-image: url(../img/groupe-7493-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 51px;
-  opacity: 0.28;
-  position: absolute;
-  top: 66px;
-  width: 1px;
-}
-
-.groupe-7498 {
-  background-image: url(../img/groupe-7496-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 44px;
-  opacity: 0.28;
-  position: absolute;
-  top: 212px;
-  width: 1px;
-}
-
-.groupe-7501 {
-  background-image: url(../img/groupe-7499-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 42px;
-  opacity: 0.28;
-  position: absolute;
-  top: 168px;
-  width: 1px;
-}
-
-.groupe-7504 {
-  background-image: url(../img/groupe-7502-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 67px;
-  opacity: 0.28;
-  position: absolute;
-  top: 90px;
-  width: 1px;
-}
-
-.groupe-7507 {
-  background-image: url(../img/groupe-7505-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 44px;
-  opacity: 0.28;
-  position: absolute;
-  top: 208px;
-  width: 1px;
-}
-
-.groupe-7510 {
-  background-image: url(../img/groupe-7508-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 43px;
-  opacity: 0.28;
-  position: absolute;
-  top: 214px;
-  width: 1px;
-}
-
-.groupe-7513 {
-  background-image: url(../img/groupe-7511-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 46px;
-  opacity: 0.28;
-  position: absolute;
-  top: 192px;
-  width: 1px;
-}
-
-.groupe-7516 {
-  background-image: url(../img/groupe-7514-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 43px;
-  opacity: 0.28;
-  position: absolute;
-  top: 137px;
-  width: 1px;
-}
-
-.groupe-7519 {
-  background-image: url(../img/groupe-7517-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 48px;
-  opacity: 0.28;
-  position: absolute;
-  top: 83px;
-  width: 1px;
-}
-
-.groupe-7522 {
-  background-image: url(../img/groupe-7520-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 44px;
-  opacity: 0.28;
-  position: absolute;
-  top: 185px;
-  width: 1px;
-}
-
-.groupe-7525 {
-  background-image: url(../img/groupe-7523-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 47px;
-  opacity: 0.28;
-  position: absolute;
-  top: 119px;
-  width: 1px;
-}
-
-.groupe-7528 {
-  background-image: url(../img/groupe-7526-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 45px;
-  opacity: 0.28;
-  position: absolute;
-  top: 215px;
-  width: 1px;
-}
-
-.groupe-7531 {
-  background-image: url(../img/groupe-7529-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 41px;
-  opacity: 0.28;
-  position: absolute;
-  top: 209px;
-  width: 1px;
-}
-
-.groupe-7534 {
-  background-image: url(../img/groupe-7532-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 56px;
-  opacity: 0.28;
-  position: absolute;
-  top: 44px;
-  width: 1px;
-}
-
-.groupe-7540 {
-  background-image: url(../img/groupe-7538-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 48px;
-  opacity: 0.28;
-  position: absolute;
-  top: 80px;
-  width: 1px;
-}
-
-.groupe-7543 {
-  background-image: url(../img/groupe-7541-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 43px;
-  opacity: 0.28;
-  position: absolute;
-  top: 200px;
-  width: 1px;
-}
-
-.groupe-7546 {
-  background-image: url(../img/groupe-7544-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 67px;
-  opacity: 0.28;
-  position: absolute;
-  top: 91px;
-  width: 1px;
-}
-
-.groupe-7549 {
-  background-image: url(../img/groupe-7547-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 41px;
-  opacity: 0.28;
-  position: absolute;
-  top: 179px;
-  width: 1px;
-}
-
-.groupe-7552 {
-  background-image: url(../img/groupe-7550-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 44px;
-  opacity: 0.28;
-  position: absolute;
-  top: 188px;
-  width: 1px;
-}
-
-.groupe-7555 {
-  background-image: url(../img/groupe-7553-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 69px;
-  opacity: 0.28;
-  position: absolute;
-  top: 43px;
-  width: 1px;
-}
-
-.groupe-7561 {
-  background-image: url(../img/groupe-7559-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 47px;
-  opacity: 0.28;
-  position: absolute;
-  top: 221px;
-  width: 1px;
-}
-
-.groupe-7564 {
-  background-image: url(../img/groupe-7562-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 44px;
-  opacity: 0.28;
-  position: absolute;
-  top: 203px;
-  width: 1px;
-}
-
-.groupe-7567 {
-  background-image: url(../img/groupe-7565-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 49px;
-  opacity: 0.28;
-  position: absolute;
-  top: 150px;
-  width: 1px;
-}
-
-.trac-2508 {
-  height: 210px;
-  left: 40px;
-  object-fit: cover;
-  position: absolute;
-  top: 36px;
-  width: 34px;
-}
-
-.groupe-7576 {
-  background-image: url(../img/groupe-7574-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 65px;
-  width: 1px;
-}
-
-.groupe-7582 {
-  background-image: url(../img/groupe-7580-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 78px;
-  width: 1px;
-}
-
-.groupe-7585 {
-  background-image: url(../img/groupe-7583-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 35px;
-  width: 1px;
-}
-
-.groupe-7588 {
-  background-image: url(../img/groupe-7586-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 55px;
-  width: 1px;
-}
-
-.groupe-7591 {
-  background-image: url(../img/groupe-7589-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 9px;
-  width: 1px;
-}
-
-.groupe-7594 {
-  background-image: url(../img/groupe-7592-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 51px;
-  width: 1px;
-}
-
-.groupe-7597 {
-  background-image: url(../img/groupe-7595-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 27px;
-  opacity: 0.28;
-  position: absolute;
-  top: 10px;
-  width: 1px;
-}
-
-.trac-2519 {
-  height: 246px;
-  left: 0;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 46px;
-}
-
-.trac-2661 {
-  height: 62px;
-  object-fit: cover;
-  width: 28px;
-}
-
-.trac-2658 {
-  height: 251px;
-  margin-left: 7px;
-  object-fit: cover;
-  width: 47px;
-}
-
-.trac-2583 {
-  height: 13px;
-  margin-left: 3.34px;
-  object-fit: cover;
-  width: 13px;
-}
-
-.groupe-7603 {
-  background-image: url(../img/groupe-7601-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 3px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 114px;
-  width: 3px;
-}
-
-.groupe-7606 {
-  background-image: url(../img/groupe-7604-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 4px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.groupe-7609 {
-  background-image: url(../img/groupe-7607-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 3px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 98px;
-  width: 3px;
-}
-
-.groupe-7612 {
-  background-image: url(../img/groupe-7610-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 3px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 51px;
-  width: 1px;
-}
-
-.groupe-7615 {
-  background-image: url(../img/groupe-7613-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 3px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 111px;
-  width: 1px;
-}
-
-.groupe-7621 {
-  background-image: url(../img/groupe-7619-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 51px;
-  width: 2px;
-}
-
-.groupe-7624 {
-  background-image: url(../img/groupe-7622-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 92px;
-  width: 2px;
-}
-
-.groupe-7627 {
-  background-image: url(../img/groupe-7625-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 91px;
-  width: 2px;
-}
-
-.groupe-7630 {
-  background-image: url(../img/groupe-7628-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 106px;
-  width: 1px;
-}
-
-.groupe-7636 {
-  background-image: url(../img/groupe-7634-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 13px;
-  opacity: 0.28;
-  position: absolute;
-  top: 105px;
-  width: 1px;
-}
-
-.groupe-7639 {
-  background-image: url(../img/groupe-7637-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 95px;
-  width: 1px;
-}
-
-.groupe-7642 {
-  background-image: url(../img/groupe-7640-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 105px;
-  width: 1px;
-}
-
-.groupe-7648 {
-  background-image: url(../img/groupe-7646-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.groupe-7654 {
-  background-image: url(../img/groupe-7652-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 13px;
-  opacity: 0.28;
-  position: absolute;
-  top: 111px;
-  width: 1px;
-}
-
-.groupe-7663 {
-  background-image: url(../img/groupe-7661-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 112px;
-  width: 1px;
-}
-
-.groupe-7666 {
-  background-image: url(../img/groupe-7664-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
   left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 110px;
-  width: 1px;
-}
-
-.groupe-7681 {
-  background-image: url(../img/groupe-7679-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
-.groupe-7687 {
-  background-image: url(../img/groupe-7685-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.groupe-7690 {
-  background-image: url(../img/groupe-7688-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 109px;
-  width: 1px;
-}
-
-.groupe-7696 {
-  background-image: url(../img/groupe-7694-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 107px;
-  width: 1px;
-}
-
-.groupe-7702 {
-  background-image: url(../img/groupe-7700-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 110px;
-  width: 1px;
-}
-
-.groupe-7705 {
-  background-image: url(../img/groupe-7703-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 105px;
-  width: 1px;
-}
-
-.groupe-7708 {
-  background-image: url(../img/groupe-7706-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 97px;
-  width: 1px;
-}
-
-.groupe-7714 {
-  background-image: url(../img/groupe-7712-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 32px;
-  width: 1px;
-}
-
-.groupe-7717 {
-  background-image: url(../img/groupe-7715-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 111px;
-  width: 1px;
-}
-
-.groupe-7723 {
-  background-image: url(../img/groupe-7721-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
   opacity: 0.28;
   position: absolute;
   top: 53px;
   width: 1px;
 }
 
-.groupe-7726 {
-  background-image: url(../img/groupe-7724-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 111px;
-  width: 1px;
-}
-
-.groupe-7729 {
-  background-image: url(../img/groupe-1501-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 107px;
-  width: 1px;
-}
-
-.groupe-7732 {
-  background-image: url(../img/groupe-7730-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 8px;
-  width: 1px;
-}
-
-.groupe-7735 {
-  background-image: url(../img/groupe-7733-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 111px;
-  width: 1px;
-}
-
-.groupe-7738 {
-  background-image: url(../img/groupe-7736-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.groupe-7741 {
-  background-image: url(../img/groupe-7739-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 102px;
-  width: 1px;
-}
-
-.groupe-7750 {
-  background-image: url(../img/groupe-7748-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 94px;
-  width: 1px;
-}
-
-.groupe-7762 {
-  background-image: url(../img/groupe-4806-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 114px;
-  width: 1px;
-}
-
-.groupe-7765 {
-  background-image: url(../img/groupe-7763-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 47px;
-  width: 1px;
-}
-
-.groupe-7768 {
-  background-image: url(../img/groupe-7766-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 103px;
-  width: 1px;
-}
-
-.groupe-7771 {
-  background-image: url(../img/groupe-7769-1@1x.png);
+.groupe-1473 {
+  background-image: url(../img/groupe-1471-1-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 71px;
-  width: 1px;
-}
-
-.trac-2582 {
-  height: 130px;
-  left: 1px;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 11px;
-}
-
-.groupe-7651 {
-  background-image: url(../img/groupe-7649-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 103px;
-  width: 1px;
-}
-
-.groupe-7657 {
-  background-image: url(../img/groupe-7655-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 13px;
-  opacity: 0.28;
-  position: absolute;
-  top: 108px;
-  width: 1px;
-}
-
-.groupe-7660 {
-  background-image: url(../img/groupe-7658-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 13px;
-  opacity: 0.28;
-  position: absolute;
-  top: 107px;
-  width: 1px;
-}
-
-.groupe-7669 {
-  background-image: url(../img/groupe-7667-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 14px;
-  opacity: 0.28;
-  position: absolute;
-  top: 109px;
-  width: 1px;
-}
-
-.groupe-7675 {
-  background-image: url(../img/groupe-7673-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 104px;
-  width: 1px;
-}
-
-.groupe-7747 {
-  background-image: url(../img/groupe-7745-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 14px;
-  opacity: 0.28;
-  position: absolute;
-  top: 113px;
-  width: 1px;
-}
-
-.groupe-7633 {
-  background-image: url(../img/groupe-7631-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 69px;
-  width: 1px;
-}
-
-.groupe-7645 {
-  background-image: url(../img/groupe-7643-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 15px;
-  opacity: 0.28;
-  position: absolute;
-  top: 109px;
-  width: 1px;
-}
-
-.groupe-7672 {
-  background-image: url(../img/groupe-7670-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 73px;
-  width: 1px;
-}
-
-.groupe-7711 {
-  background-image: url(../img/groupe-7709-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 64px;
-  width: 1px;
-}
-
-.groupe-7618 {
-  background-image: url(../img/groupe-7616-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  opacity: 0.28;
-  width: 1px;
-}
-
-.groupe-7753 {
-  background-image: url(../img/groupe-4740-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  margin-left: 0.48px;
-  opacity: 0.28;
-  width: 1px;
-}
-
-.groupe-7693 {
-  background-image: url(../img/groupe-7691-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 61px;
-  width: 1px;
-}
-
-.groupe-7744 {
-  background-image: url(../img/groupe-7742-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 62px;
-  width: 1px;
-}
-
-.groupe-7756 {
-  background-image: url(../img/groupe-1759-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 34px;
-  width: 1px;
-}
-
-.groupe-7774 {
-  background-image: url(../img/groupe-7772-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 3px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 151px;
-  width: 1px;
-}
-
-.groupe-7777 {
-  background-image: url(../img/groupe-7775-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 140px;
-  width: 1px;
-}
-
-.groupe-7780 {
-  background-image: url(../img/groupe-7778-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 155px;
-  width: 1px;
-}
-
-.groupe-7783 {
-  background-image: url(../img/groupe-7781-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 161px;
-  width: 1px;
-}
-
-.groupe-7789 {
-  background-image: url(../img/groupe-7787-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 4px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 118px;
-  width: 2px;
-}
-
-.groupe-7792 {
-  background-image: url(../img/groupe-7790-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 4px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 124px;
-  width: 4px;
-}
-
-.groupe-7795 {
-  background-image: url(../img/groupe-7793-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 3px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 147px;
-  width: 3px;
-}
-
-.groupe-7801 {
-  background-image: url(../img/groupe-7799-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 3px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 116px;
-  width: 3px;
-}
-
-.groupe-7804 {
-  background-image: url(../img/groupe-7802-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 3px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 128px;
-  width: 3px;
-}
-
-.groupe-7813 {
-  background-image: url(../img/groupe-7811-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 3px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 145px;
-  width: 2px;
-}
-
-.groupe-7816 {
-  background-image: url(../img/groupe-7814-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 132px;
-  width: 2px;
-}
-
-.groupe-7819 {
-  background-image: url(../img/groupe-7817-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 73px;
-  width: 2px;
-}
-
-.groupe-7822 {
-  background-image: url(../img/groupe-7820-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 121px;
-  width: 2px;
-}
-
-.groupe-7825 {
-  background-image: url(../img/groupe-7823-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 120px;
-  width: 2px;
-}
-
-.groupe-7828 {
-  background-image: url(../img/groupe-7826-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 138px;
-  width: 2px;
-}
-
-.groupe-7831 {
-  background-image: url(../img/groupe-7829-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 94px;
-  width: 1px;
-}
-
-.groupe-7834 {
-  background-image: url(../img/groupe-7832-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 17px;
-  opacity: 0.28;
-  position: absolute;
-  top: 139px;
-  width: 1px;
-}
-
-.groupe-7837 {
-  background-image: url(../img/groupe-7835-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 125px;
-  width: 2px;
-}
-
-.groupe-7840 {
-  background-image: url(../img/groupe-7838-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 137px;
-  width: 1px;
-}
-
-.groupe-7843 {
-  background-image: url(../img/groupe-7841-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 118px;
-  width: 1px;
-}
-
-.groupe-7846 {
-  background-image: url(../img/groupe-7844-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 18px;
-  opacity: 0.28;
-  position: absolute;
-  top: 144px;
-  width: 1px;
-}
-
-.groupe-7849 {
-  background-image: url(../img/groupe-7847-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 56px;
-  width: 2px;
-}
-
-.groupe-7852 {
-  background-image: url(../img/groupe-7850-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 134px;
-  width: 2px;
-}
-
-.groupe-7855 {
-  background-image: url(../img/groupe-7853-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 15px;
-  opacity: 0.28;
-  position: absolute;
-  top: 147px;
-  width: 2px;
-}
-
-.groupe-7858 {
-  background-image: url(../img/groupe-7856-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 120px;
-  width: 1px;
-}
-
-.groupe-7861 {
-  background-image: url(../img/groupe-7859-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 128px;
-  width: 2px;
-}
-
-.groupe-7864 {
-  background-image: url(../img/groupe-7862-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 142px;
-  width: 2px;
-}
-
-.groupe-7867 {
-  background-image: url(../img/groupe-7865-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 141px;
-  width: 1px;
-}
-
-.groupe-7870 {
-  background-image: url(../img/groupe-7868-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 145px;
-  width: 2px;
-}
-
-.groupe-7873 {
-  background-image: url(../img/groupe-7871-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 143px;
-  width: 1px;
-}
-
-.groupe-7876 {
-  background-image: url(../img/groupe-7874-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 144px;
-  width: 1px;
-}
-
-.groupe-7879 {
-  background-image: url(../img/groupe-7877-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 21px;
-  opacity: 0.28;
-  position: absolute;
-  top: 137px;
-  width: 1px;
-}
-
-.groupe-7885 {
-  background-image: url(../img/groupe-7883-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 136px;
-  width: 1px;
-}
-
-.groupe-7888 {
-  background-image: url(../img/groupe-7886-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 151px;
-  width: 1px;
-}
-
-.groupe-7891 {
-  background-image: url(../img/groupe-7889-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 59px;
-  width: 1px;
-}
-
-.groupe-7894 {
-  background-image: url(../img/groupe-7892-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 64px;
-  width: 1px;
-}
-
-.groupe-7897 {
-  background-image: url(../img/groupe-7895-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 129px;
-  width: 1px;
-}
-
-.groupe-7900 {
-  background-image: url(../img/groupe-7898-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 37px;
-  width: 1px;
-}
-
-.groupe-7903 {
-  background-image: url(../img/groupe-7901-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 142px;
-  width: 1px;
-}
-
-.groupe-7906 {
-  background-image: url(../img/groupe-7904-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 110px;
-  width: 1px;
-}
-
-.groupe-7909 {
-  background-image: url(../img/groupe-7907-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 31px;
-  opacity: 0.28;
-  position: absolute;
-  top: 51px;
-  width: 1px;
-}
-
-.groupe-7912 {
-  background-image: url(../img/groupe-7910-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 139px;
-  width: 1px;
-}
-
-.groupe-7915 {
-  background-image: url(../img/groupe-7913-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 22px;
-  opacity: 0.28;
-  position: absolute;
-  top: 133px;
-  width: 1px;
-}
-
-.groupe-7918 {
-  background-image: url(../img/groupe-7916-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 21px;
-  opacity: 0.28;
-  position: absolute;
-  top: 131px;
-  width: 1px;
-}
-
-.groupe-7921 {
-  background-image: url(../img/groupe-7919-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 30px;
-  opacity: 0.28;
-  position: absolute;
-  top: 64px;
-  width: 1px;
-}
-
-.groupe-7924 {
-  background-image: url(../img/groupe-7922-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 143px;
-  width: 1px;
-}
-
-.groupe-7927 {
-  background-image: url(../img/groupe-7925-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 18px;
-  opacity: 0.28;
-  position: absolute;
-  top: 146px;
-  width: 1px;
-}
-
-.groupe-7930 {
-  background-image: url(../img/groupe-7928-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 16px;
-  opacity: 0.28;
-  position: absolute;
-  top: 139px;
-  width: 1px;
-}
-
-.groupe-7933 {
-  background-image: url(../img/groupe-7931-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 127px;
-  width: 1px;
-}
-
-.groupe-7936 {
-  background-image: url(../img/groupe-7934-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 88px;
-  width: 1px;
-}
-
-.groupe-7939 {
-  background-image: url(../img/groupe-7937-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 19px;
-  opacity: 0.28;
-  position: absolute;
-  top: 141px;
-  width: 1px;
-}
-
-.groupe-7942 {
-  background-image: url(../img/groupe-7940-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 49px;
-  width: 1px;
-}
-
-.groupe-7945 {
-  background-image: url(../img/groupe-7943-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 122px;
-  width: 1px;
-}
-
-.groupe-7948 {
-  background-image: url(../img/groupe-7946-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 15px;
-  opacity: 0.28;
-  position: absolute;
-  top: 146px;
-  width: 1px;
-}
-
-.groupe-7954 {
-  background-image: url(../img/groupe-7952-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 75px;
-  width: 1px;
-}
-
-.groupe-7957 {
-  background-image: url(../img/groupe-7955-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 144px;
-  width: 1px;
-}
-
-.groupe-7960 {
-  background-image: url(../img/groupe-7958-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 139px;
-  width: 1px;
-}
-
-.groupe-7963 {
-  background-image: url(../img/groupe-7961-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.groupe-7966 {
-  background-image: url(../img/groupe-7964-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 143px;
-  width: 1px;
-}
-
-.groupe-7969 {
-  background-image: url(../img/groupe-7967-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 47px;
-  width: 1px;
-}
-
-.groupe-7972 {
-  background-image: url(../img/groupe-7970-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 133px;
-  width: 1px;
-}
-
-.groupe-7975 {
-  background-image: url(../img/groupe-7973-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 31px;
-  opacity: 0.28;
-  position: absolute;
-  top: 52px;
-  width: 1px;
-}
-
-.groupe-7978 {
-  background-image: url(../img/groupe-7976-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 117px;
-  width: 1px;
-}
-
-.groupe-7984 {
-  background-image: url(../img/groupe-7982-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 124px;
-  width: 1px;
-}
-
-.groupe-7990 {
-  background-image: url(../img/groupe-7988-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 31px;
-  opacity: 0.28;
-  position: absolute;
-  top: 50px;
-  width: 1px;
-}
-
-.groupe-7993 {
-  background-image: url(../img/groupe-10245@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 149px;
-  width: 1px;
-}
-
-.groupe-7996 {
-  background-image: url(../img/groupe-7994-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 10px;
-  opacity: 0.28;
-  position: absolute;
-  top: 68px;
-  width: 1px;
-}
-
-.groupe-8002 {
-  background-image: url(../img/groupe-8000-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 97px;
-  width: 1px;
-}
-
-.trac-2657 {
-  height: 162px;
-  left: 1px;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 50px;
-}
-
-.groupe-7699 {
-  background-image: url(../img/groupe-7697-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 72px;
-  width: 1px;
-}
-
-.groupe-7720 {
-  background-image: url(../img/groupe-7718-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 85px;
-  width: 1px;
-}
-
-.trac-2659 {
-  height: 121px;
-  object-fit: cover;
-  width: 372px;
-}
-
-.rectangle-3222 {
-  background-color: var(--black);
-  border-radius: 2px;
-  height: 3px;
-  left: -3px;
-  position: absolute;
-  top: 9px;
-  transform: rotate(-45.00deg);
-  width: 26px;
-}
-
-.groupe-69 {
-  background-image: url(../img/groupe-4548-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 59px;
-  width: 1px;
-}
-
-.groupe-81 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 61px;
-  width: 1px;
-}
-
-.groupe-90 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
   opacity: 0.28;
   position: absolute;
   top: 53px;
   width: 1px;
 }
 
-.groupe-96 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 57px;
-  width: 1px;
-}
-
-.groupe-102 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 18px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.groupe-105 {
-  background-image: url(../img/groupe-10134@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 56px;
-  width: 1px;
-}
-
-.groupe-108 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 58px;
-  width: 1px;
-}
-
-.groupe-114 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 37px;
-  width: 1px;
-}
-
-.groupe-117 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 13px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.groupe-120 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 50px;
-  width: 1px;
-}
-
-.groupe-126 {
-  background-image: url(../img/groupe-10113@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 58px;
-  width: 1px;
-}
-
-.groupe-129 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 56px;
-  width: 1px;
-}
-
-.groupe-132 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 15px;
-  opacity: 0.28;
-  position: absolute;
-  top: 12px;
-  width: 1px;
-}
-
-.groupe-135 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 58px;
-  width: 1px;
-}
-
-.groupe-138 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 13px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.groupe-141 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 54px;
-  width: 1px;
-}
-
-.groupe-144 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 18px;
-  opacity: 0.28;
-  position: absolute;
-  top: 25px;
-  width: 1px;
-}
-
-.groupe-150 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 51px;
-  width: 1px;
-}
-
-.groupe-156 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 18px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.groupe-159 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 13px;
-  opacity: 0.28;
-  position: absolute;
-  top: 60px;
-  width: 1px;
-}
-
-.groupe-162 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 55px;
-  width: 1px;
-}
-
-.groupe-165 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 13px;
-  opacity: 0.28;
-  position: absolute;
-  top: 41px;
-  width: 1px;
-}
-
-.groupe-177 {
-  background-image: url(../img/groupe-10002@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.groupe-180 {
-  background-image: url(../img/groupe-178-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.groupe-183 {
+.groupe-1554 {
   background-image: url(../img/groupe-10332@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 9px;
-  width: 1px;
-}
-
-.groupe-186 {
-  background-image: url(../img/groupe-10101@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -2541,8 +81,37 @@
   width: 1px;
 }
 
-.groupe-192 {
-  background-image: url(../img/groupe-100-1@1x.png);
+.groupe-1509 {
+  background-image: url(../img/groupe-1450-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.groupe-1560 {
+  background-image: url(../img/groupe-10011@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.groupe-de-masques {
+  object-fit: cover;
+  position: absolute;
+}
+
+.groupe-177 {
+  background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -2553,187 +122,223 @@
   width: 1px;
 }
 
-.groupe-213 {
-  background-image: url(../img/groupe-211-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.groupe-222 {
-  background-image: url(../img/groupe-220-1@1x.png);
+.groupe-180 {
+  background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 25px;
+  top: 16px;
   width: 1px;
 }
 
-.groupe-225 {
-  background-image: url(../img/groupe-223-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 25px;
-  width: 1px;
-}
-
-.groupe-228 {
-  background-image: url(../img/groupe-226-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.groupe-240 {
-  background-image: url(../img/groupe-10332@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.groupe-243 {
-  background-image: url(../img/groupe-1807-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.groupe-249 {
-  background-image: url(../img/groupe-10299@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.groupe-252 {
-  background-image: url(../img/groupe-250-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.groupe-255 {
-  background-image: url(../img/groupe-1303-6@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.groupe-261 {
-  background-image: url(../img/groupe-178-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.groupe-264 {
-  background-image: url(../img/groupe-10065@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.groupe-267 {
-  background-image: url(../img/groupe-10101@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.groupe-273 {
-  background-image: url(../img/groupe-10089@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.groupe-276 {
+.groupe-183 {
   background-image: url(../img/groupe-100-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 2px;
+  left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 31px;
+  top: 7px;
   width: 1px;
 }
 
-.groupe-288 {
-  background-image: url(../img/groupe-10338@1x.png);
+.groupe-186 {
+  background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 29px;
+  top: 11px;
   width: 1px;
 }
 
-.groupe-294 {
+.groupe-213 {
+  background-image: url(../img/groupe-211-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.groupe-222 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.groupe-225 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.groupe-228 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.groupe-234 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.groupe-240 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.groupe-243 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.groupe-249 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.groupe-252 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.groupe-255 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.groupe-261 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.groupe-264 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.groupe-267 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.groupe-273 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.groupe-276 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.groupe-288 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2741,55 +346,55 @@
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 29px;
+  top: 22px;
   width: 1px;
 }
 
 .groupe-303 {
-  background-image: url(../img/groupe-10116@1x.png);
+  background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 4px;
+  left: 3px;
   opacity: 0.28;
   position: absolute;
-  top: 28px;
+  top: 21px;
   width: 1px;
 }
 
 .groupe-312 {
-  background-image: url(../img/groupe-10116@1x.png);
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.groupe-315 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.groupe-324 {
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 9px;
-  width: 1px;
-}
-
-.groupe-315 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.groupe-324 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
+  top: 22px;
   width: 1px;
 }
 
@@ -2801,7 +406,7 @@
   left: 0;
   opacity: 0.28;
   position: absolute;
-  top: 29px;
+  top: 22px;
   width: 1px;
 }
 
@@ -2810,46 +415,34 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 3px;
+  left: 2px;
   opacity: 0.28;
   position: absolute;
   top: 2px;
   width: 1px;
 }
 
-.groupe-336 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 8px;
-  width: 1px;
-}
-
-.groupe-339 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 27px;
-  width: 1px;
-}
-
-.groupe-345 {
+.groupe-333 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 4px;
+  left: 0;
   opacity: 0.28;
   position: absolute;
-  top: 31px;
+  top: 23px;
+  width: 1px;
+}
+
+.groupe-336 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
   width: 1px;
 }
 
@@ -2858,82 +451,34 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 3px;
+  left: 2px;
   opacity: 0.28;
   position: absolute;
-  top: 31px;
+  top: 23px;
   width: 1px;
 }
 
 .groupe-363 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.groupe-366 {
-  background-image: url(../img/groupe-10146@1x.png);
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.groupe-291 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
-  width: 1px;
-}
-
-.groupe-297 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.groupe-342 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
+  top: 10px;
   width: 1px;
 }
 
 .groupe-354 {
-  background-image: url(../img/groupe-10146@1x.png);
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 9px;
+  top: 7px;
   width: 1px;
 }
 
@@ -2945,295 +490,235 @@
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 16px;
+  top: 12px;
   width: 1px;
 }
 
 .groupe-420 {
-  background-image: url(../img/groupe-10263@1x.png);
+  background-image: url(../img/groupe-4383-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 3px;
+  left: 2px;
   opacity: 0.28;
   position: absolute;
-  top: 33px;
+  top: 25px;
   width: 1px;
 }
 
 .groupe-423 {
-  background-image: url(../img/groupe-421-1@1x.png);
+  background-image: url(../img/groupe-10332@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 2px;
+  left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 32px;
+  top: 24px;
   width: 1px;
 }
 
 .groupe-432 {
-  background-image: url(../img/groupe-10320@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.groupe-435 {
-  background-image: url(../img/groupe-10074@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 34px;
-  width: 1px;
-}
-
-.groupe-438 {
-  background-image: url(../img/groupe-10059@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 37px;
-  width: 1px;
-}
-
-.groupe-450 {
-  background-image: url(../img/groupe-10050@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 36px;
-  width: 1px;
-}
-
-.groupe-453 {
-  background-image: url(../img/groupe-4371-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
-.groupe-459 {
-  background-image: url(../img/groupe-10251@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 35px;
-  width: 1px;
-}
-
-.groupe-462 {
-  background-image: url(../img/groupe-454-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.groupe-471 {
-  background-image: url(../img/groupe-469-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.groupe-474 {
-  background-image: url(../img/groupe-4599-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.groupe-483 {
-  background-image: url(../img/groupe-1297-6@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 37px;
-  width: 1px;
-}
-
-.groupe-492 {
-  background-image: url(../img/groupe-10008@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
-  width: 1px;
-}
-
-.groupe-495 {
-  background-image: url(../img/groupe-10104@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 35px;
-  width: 1px;
-}
-
-.groupe-501 {
-  background-image: url(../img/groupe-10089@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.groupe-507 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
-  width: 1px;
-}
-
-.groupe-510 {
   background-image: url(../img/groupe-10344@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 3px;
+  left: 4px;
   opacity: 0.28;
   position: absolute;
-  top: 38px;
+  top: 28px;
   width: 1px;
 }
 
-.groupe-522 {
+.groupe-435 {
+  background-image: url(../img/groupe-10326@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.groupe-438 {
+  background-image: url(../img/groupe-10011@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.groupe-450 {
+  background-image: url(../img/groupe-10104@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.groupe-453 {
+  background-image: url(../img/groupe-10332@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.groupe-459 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.groupe-462 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-471 {
+  background-image: url(../img/groupe-250-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-483 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.groupe-495 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.groupe-498 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.groupe-501 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
   left: 2px;
   opacity: 0.28;
   position: absolute;
-  top: 39px;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-510 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
   width: 1px;
 }
 
 .groupe-525 {
-  background-image: url(../img/groupe-10134@1x.png);
+  background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 6px;
+  left: 4px;
   opacity: 0.28;
   position: absolute;
-  top: 39px;
+  top: 30px;
   width: 1px;
 }
 
 .groupe-537 {
-  background-image: url(../img/groupe-10014@1x.png);
+  background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 6px;
+  left: 4px;
   opacity: 0.28;
   position: absolute;
-  top: 38px;
+  top: 29px;
   width: 1px;
 }
 
-.groupe-540 {
-  background-image: url(../img/groupe-10122@1x.png);
+.groupe-543 {
+  background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 2px;
   opacity: 0.28;
   position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.groupe-546 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
+  top: 25px;
   width: 1px;
 }
 
 .groupe-552 {
-  background-image: url(../img/groupe-10134@1x.png);
+  background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 3px;
+  left: 2px;
   opacity: 0.28;
   position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.groupe-555 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
+  top: 15px;
   width: 1px;
 }
 
@@ -3245,47 +730,23 @@
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 38px;
+  top: 28px;
   width: 1px;
 }
 
 .groupe-564 {
-  background-image: url(../img/groupe-10128@1x.png);
+  background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.groupe-567 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
+  top: 29px;
   width: 1px;
 }
 
 .groupe-570 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 36px;
-  width: 1px;
-}
-
-.groupe-576 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3293,19 +754,19 @@
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 32px;
+  top: 27px;
   width: 1px;
 }
 
-.groupe-579 {
-  background-image: url(../img/groupe-10128@1x.png);
+.groupe-576 {
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 5px;
+  left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 40px;
+  top: 24px;
   width: 1px;
 }
 
@@ -3317,7 +778,7 @@
   left: 2px;
   opacity: 0.28;
   position: absolute;
-  top: 34px;
+  top: 25px;
   width: 1px;
 }
 
@@ -3326,27 +787,990 @@
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 9px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.groupe-591 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.groupe-597 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.ligne {
+  object-fit: cover;
+  position: absolute;
+}
+
+.groupe-291 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.groupe-540 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.groupe-1224-1 {
+  background-image: url(../img/groupe-1222-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.groupe-1230-1 {
+  background-image: url(../img/groupe-1228-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 58px;
+  width: 1px;
+}
+
+.groupe-1239-1 {
+  background-image: url(../img/groupe-1237-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.groupe-1242-1 {
+  background-image: url(../img/groupe-1240-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.groupe-1245-1 {
+  background-image: url(../img/groupe-1243-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+
+.groupe-1254-1 {
+  background-image: url(../img/groupe-1252-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.groupe-1263-1 {
+  background-image: url(../img/groupe-7796-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.groupe-1269-1 {
+  background-image: url(../img/groupe-10080@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.groupe-1275-1 {
+  background-image: url(../img/groupe-1273-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.groupe-1281-1 {
+  background-image: url(../img/groupe-1279-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.groupe-1290-1 {
+  background-image: url(../img/groupe-1288-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.groupe-1299-1 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 59px;
+  width: 1px;
+}
+
+.groupe-1311-1 {
+  background-image: url(../img/groupe-10011@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.groupe-1317-1 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.groupe-1320-1 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 18px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.groupe-1323-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.groupe-1326-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.groupe-1332-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.groupe-1335-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.groupe-1341-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.groupe-1347-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.groupe-1350-1 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.groupe-1356-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.groupe-1362-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 18px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.groupe-1365-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.groupe-1368-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 49px;
+  width: 1px;
+}
+
+.groupe-1371-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 18px;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.groupe-1374-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 18px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.groupe-1389-1 {
+  background-image: url(../img/groupe-1387-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.groupe-1395-1 {
+  background-image: url(../img/groupe-10086@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.groupe-1401-1 {
+  background-image: url(../img/groupe-10077@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.groupe-1404-1 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
   opacity: 0.28;
   position: absolute;
   top: 14px;
   width: 1px;
 }
 
-.groupe-591 {
+.groupe-1407-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.groupe-1413-1 {
   background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.trac-430-1 {
+  height: 16px;
+  object-fit: cover;
+  width: 7px;
+}
+
+.trac-427-1 {
+  height: 66px;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 12px;
+}
+
+.trac-352-1 {
+  height: 4px;
+  margin-left: 0.88px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.groupe-1425-1 {
+  background-image: url(../img/groupe-1423-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.groupe-1440-1 {
+  background-image: url(../img/groupe-10083@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.groupe-1446-1 {
+  background-image: url(../img/groupe-1282-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.groupe-1449-1 {
+  background-image: url(../img/groupe-10011@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.groupe-1452-1 {
+  background-image: url(../img/groupe-10008@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 4px;
   opacity: 0.28;
   position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.groupe-1455-1 {
+  background-image: url(../img/groupe-10332@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.groupe-1464-1 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.groupe-1467-1 {
+  background-image: url(../img/groupe-1807-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.groupe-1470-1 {
+  background-image: url(../img/groupe-10107@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-1476-1 {
+  background-image: url(../img/groupe-10089@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.groupe-1479-1 {
+  background-image: url(../img/groupe-10107@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-1482-1 {
+  background-image: url(../img/groupe-10299@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-1485-1 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-1488-1 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.groupe-1497-1 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.groupe-1503-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.groupe-1506-1 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-1512-1 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.groupe-1518-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-1524-1 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.groupe-1527-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.groupe-1530-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.groupe-1533-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-1539-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.groupe-1542-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-1545-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.groupe-1548-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.groupe-1551-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-1557-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.groupe-1563-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.groupe-1566-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.groupe-1584-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.groupe-1587-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.trac-351-1 {
+  height: 34px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.groupe-1434-1 {
+  background-image: url(../img/groupe-1303-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.groupe-1515-1 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.groupe-1536-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.groupe-1569-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.groupe-1572-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.groupe-1575-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.groupe-1590-1 {
+  background-image: url(../img/groupe-1261-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
   top: 40px;
   width: 1px;
 }
 
-.groupe-597 {
-  background-image: url(../img/groupe-10128@1x.png);
+.groupe-1593-1 {
+  background-image: url(../img/groupe-1261-6@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -3357,71 +1781,1604 @@
   width: 1px;
 }
 
-.groupe-1509 {
-  background-image: url(../img/groupe-1507-1@1x.png);
+.groupe-1596-1 {
+  background-image: url(../img/groupe-4922@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.groupe-1599-1 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.groupe-1614-1 {
+  background-image: url(../img/groupe-1612-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 40px;
+  top: 15px;
   width: 1px;
 }
 
-.groupe-1560 {
-  background-image: url(../img/groupe-1558-1@1x.png);
+.groupe-1629-1 {
+  background-image: url(../img/groupe-1627-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.groupe-1638-1 {
+  background-image: url(../img/groupe-1636-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.groupe-1644-1 {
+  background-image: url(../img/groupe-1393-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.groupe-1647-1 {
+  background-image: url(../img/groupe-10050@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.groupe-1650-1 {
+  background-image: url(../img/groupe-1384-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.groupe-1659-1 {
+  background-image: url(../img/groupe-10086@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 1px;
   opacity: 0.28;
   position: absolute;
-  top: 40px;
+  top: 31px;
   width: 1px;
 }
 
-.rectangle-3215 {
-  background-color: var(--black);
-  border-radius: 2px;
-  height: 2px;
-  width: 23px;
+.groupe-1668-1 {
+  background-image: url(../img/groupe-10002@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
 }
 
-.rectangle-3217 {
-  background-color: var(--black);
-  border-radius: 2px;
-  height: 2px;
-  margin-top: 7px;
-  width: 23px;
+.groupe-1671-1 {
+  background-image: url(../img/groupe-217-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
 }
 
-.flex {
-  align-items: flex-start;
+.groupe-1683-1 {
+  background-image: url(../img/groupe-10086@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.groupe-1686-1 {
+  background-image: url(../img/groupe-4551-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.groupe-1689-1 {
+  background-image: url(../img/groupe-1687-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.groupe-1692-1 {
+  background-image: url(../img/groupe-250-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.groupe-1698-1 {
+  background-image: url(../img/groupe-10011@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.groupe-1701-1 {
+  background-image: url(../img/groupe-1396-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.groupe-1710-1 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.groupe-1713-1 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.groupe-1716-1 {
+  background-image: url(../img/groupe-10104@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.groupe-1719-1 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.groupe-1722-1 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-1725-1 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.groupe-1731-1 {
+  background-image: url(../img/groupe-10089@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.groupe-1740-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.groupe-1743-1 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.groupe-1752-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.groupe-1755-1 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.groupe-1758-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.groupe-1761-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.groupe-1767-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.groupe-1770-1 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.groupe-1773-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.groupe-1782-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.groupe-1785-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.groupe-1788-1 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.groupe-1791-1 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.groupe-1794-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.groupe-1797-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.groupe-1800-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.groupe-1803-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.groupe-1806-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.groupe-1809-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.groupe-1812-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.trac-426-1 {
+  height: 43px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.groupe-168-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-top: 1.71px;
+  opacity: 0.28;
+  width: 1px;
+}
+
+.groupe-9-1 {
+  background-image: url(../img/groupe-4868-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.groupe-12-1 {
+  background-image: url(../img/groupe-10005@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.groupe-15-2 {
+  background-image: url(../img/groupe-4389-1@1x.png);
+  left: 5px;
+  top: 10px;
+}
+
+.groupe-21-1 {
+  background-image: url(../img/groupe-10299@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.groupe-24-2 {
+  background-image: url(../img/groupe-10200@1x.png);
+  left: 5px;
+  top: 12px;
+}
+
+.groupe-33-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.groupe-57-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.groupe-66-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.groupe-72-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.groupe-78-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.groupe-84-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.groupe-87-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.groupe-93-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.groupe-99-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.groupe-1-1 {
+  left: 7px;
+  top: 10px;
+}
+
+.groupe-1-2 {
+  left: 5px;
+  top: 9px;
+}
+
+.groupe-123-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.groupe-147-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.groupe-153-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.trac-56-1 {
+  height: 23px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.groupe-171-1 {
+  background-image: url(../img/groupe-1564-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.groupe-174-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.groupe-189-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.groupe-195-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.trac-67-1 {
+  height: 27px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.trac-210-1 {
+  height: 7px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.trac-206-1 {
+  height: 27px;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 5px;
+}
+
+.groupe-198-1 {
+  background-image: url(../img/groupe-10011@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.groupe-201-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.groupe-204-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.groupe-207-1 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.groupe-210-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.groupe-216-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.groupe-219-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.groupe-231-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.groupe-237-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.groupe-246-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.groupe-270-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.groupe-279-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.groupe-282-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.groupe-285-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.groupe-306-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.groupe-309-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.groupe-318-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.groupe-321-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.groupe-348-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.groupe-351-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.groupe-372-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.groupe-375-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.groupe-378-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.groupe-381-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.trac-130-1 {
+  height: 14px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.groupe-387-1 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.groupe-393-1 {
+  background-image: url(../img/groupe-4599-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.groupe-396-1 {
+  background-image: url(../img/groupe-10077@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.groupe-399-1 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.groupe-402-1 {
+  background-image: url(../img/groupe-10005@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.groupe-405-1 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.groupe-411-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.groupe-414-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.groupe-417-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.groupe-426-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.groupe-429-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.groupe-4-2 {
+  top: 15px;
+}
+
+.groupe-441-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.groupe-444-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.groupe-447-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.groupe-456-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.groupe-465-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.groupe-468-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.groupe-477-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.groupe-480-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.groupe-486-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.groupe-489-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.groupe-513-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.groupe-516-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.groupe-519-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.groupe-531-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.groupe-534-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.groupe-549-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.groupe-561-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.groupe-585-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.groupe-594-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.groupe-600-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.trac-205-1 {
+  height: 18px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.trac-131-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.rservez-votre-sjour-1 {
+  letter-spacing: 0;
+  line-height: 11px;
+  min-height: 13px;
+  min-width: 106px;
+  white-space: nowrap;
+}
+
+.groupe-1461-1 {
+  background-image: url(../img/groupe-178-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-1473-1 {
+  background-image: url(../img/groupe-178-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.groupe-4-3 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  width: 1px;
+}
+
+.groupe-8005-1 {
   display: flex;
+  height: 159px;
+  margin-left: 135px;
+  margin-top: 133.64px;
+  overflow: hidden;
+  width: 149px;
 }
 
-.groupe-de-masques {
-  object-fit: cover;
-  position: absolute;
-}
-
-.whats-app-image-2025-22 {
-  border-radius: 10px;
-  object-fit: cover;
-}
-
-.trac-2394 {
+.groupe-8004-1 {
+  display: flex;
   flex: 1;
   margin-bottom: 0;
-  margin-left: 0;
-  margin-right: 0;
-  object-fit: cover;
+  margin-top: 0;
+  width: 148.69px;
 }
 
-.union {
-  object-fit: cover;
-  position: absolute;
+.groupe-8003-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  overflow: hidden;
+  width: 148.69px;
+}
+
+.groupe-7570-1 {
+  align-self: flex-start;
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-top: 6.3px;
+  opacity: 0.28;
+  width: 1px;
 }
 
 .groupe-7405-1 {
@@ -3433,6 +3390,18 @@
   opacity: 0.28;
   position: absolute;
   top: 74px;
+  width: 1px;
+}
+
+.groupe-7411-1 {
+  background-image: url(../img/groupe-7409-10-1x-png-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 17px;
+  opacity: 0.28;
+  position: absolute;
+  top: 75px;
   width: 1px;
 }
 
@@ -3448,6 +3417,18 @@
   width: 1px;
 }
 
+.groupe-7420-1 {
+  background-image: url(../img/groupe-7418-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 71px;
+  width: 1px;
+}
+
 .groupe-7423-1 {
   background-image: url(../img/groupe-7421-10-1x-png@1x.png);
   background-position: 50% 50%;
@@ -3457,6 +3438,30 @@
   opacity: 0.28;
   position: absolute;
   top: 77px;
+  width: 1px;
+}
+
+.groupe-7426-1 {
+  background-image: url(../img/groupe-7424-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 19px;
+  opacity: 0.28;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.groupe-7429-1 {
+  background-image: url(../img/groupe-7427-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 18px;
+  opacity: 0.28;
+  position: absolute;
+  top: 86px;
   width: 1px;
 }
 
@@ -3484,6 +3489,18 @@
   width: 1px;
 }
 
+.groupe-7438-1 {
+  background-image: url(../img/groupe-7436-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 18px;
+  opacity: 0.28;
+  position: absolute;
+  top: 73px;
+  width: 1px;
+}
+
 .groupe-7441-1 {
   background-image: url(../img/groupe-7439-10-1x-png@1x.png);
   background-position: 50% 50%;
@@ -3508,6 +3525,18 @@
   width: 1px;
 }
 
+.groupe-7450-1 {
+  background-image: url(../img/groupe-7448-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 17px;
+  opacity: 0.28;
+  position: absolute;
+  top: 75px;
+  width: 1px;
+}
+
 .groupe-7453-1 {
   background-image: url(../img/groupe-7451-10-1x-png@1x.png);
   background-position: 50% 50%;
@@ -3517,6 +3546,18 @@
   opacity: 0.28;
   position: absolute;
   top: 82px;
+  width: 1px;
+}
+
+.groupe-7456-1 {
+  background-image: url(../img/groupe-7454-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 72px;
   width: 1px;
 }
 
@@ -3544,6 +3585,18 @@
   width: 1px;
 }
 
+.groupe-7465-1 {
+  background-image: url(../img/groupe-7463-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 73px;
+  width: 1px;
+}
+
 .groupe-7468-1 {
   background-image: url(../img/groupe-7466-10-1x-png@1x.png);
   background-position: 50% 50%;
@@ -3565,6 +3618,18 @@
   opacity: 0.28;
   position: absolute;
   top: 86px;
+  width: 1px;
+}
+
+.groupe-7474-1 {
+  background-image: url(../img/groupe-7472-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 18px;
+  opacity: 0.28;
+  position: absolute;
+  top: 85px;
   width: 1px;
 }
 
@@ -3637,6 +3702,18 @@
   opacity: 0.28;
   position: absolute;
   top: 78px;
+  width: 1px;
+}
+
+.groupe-7495-1 {
+  background-image: url(../img/groupe-1273-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 20px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
   width: 1px;
 }
 
@@ -3856,6 +3933,18 @@
   width: 1px;
 }
 
+.groupe-7558-1 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 27px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
 .groupe-7561-1 {
   background-image: url(../img/groupe-10113@1x.png);
   background-position: 50% 50%;
@@ -3890,6 +3979,15 @@
   position: absolute;
   top: 60px;
   width: 1px;
+}
+
+.trac-2508-1 {
+  height: 84px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 13px;
 }
 
 .groupe-7576-1 {
@@ -4006,6 +4104,42 @@
   width: 5px;
 }
 
+.groupe-7600-1 {
+  background-image: url(../img/groupe-7598-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.groupe-7603-1 {
+  background-image: url(../img/groupe-7601-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.groupe-7606-1 {
+  background-image: url(../img/groupe-7604-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
 .groupe-7609-1 {
   background-image: url(../img/groupe-7607-10-1x-png@1x.png);
   background-position: 50% 50%;
@@ -4030,6 +4164,18 @@
   width: 1px;
 }
 
+.groupe-7615-1 {
+  background-image: url(../img/groupe-7613-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
 .groupe-7621-1 {
   background-image: url(../img/groupe-7619-10-1x-png@1x.png);
   background-position: 50% 50%;
@@ -4039,6 +4185,18 @@
   opacity: 0.28;
   position: absolute;
   top: 21px;
+  width: 1px;
+}
+
+.groupe-7624-1 {
+  background-image: url(../img/groupe-7622-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
   width: 1px;
 }
 
@@ -4159,6 +4317,18 @@
   opacity: 0.28;
   position: absolute;
   top: 45px;
+  width: 1px;
+}
+
+.groupe-7657-1 {
+  background-image: url(../img/groupe-1750-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
   width: 1px;
 }
 
@@ -4495,6 +4665,18 @@
   width: 5px;
 }
 
+.groupe-7711-1 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
 .groupe-7618-1 {
   background-image: url(../img/groupe-4494-1@1x.png);
   background-position: 50% 50%;
@@ -4528,6 +4710,18 @@
   opacity: 0.28;
   position: absolute;
   top: 24px;
+  width: 1px;
+}
+
+.groupe-7699-1 {
+  background-image: url(../img/groupe-10107@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
   width: 1px;
 }
 
@@ -4576,6 +4770,18 @@
   opacity: 0.28;
   position: absolute;
   top: 24px;
+  width: 1px;
+}
+
+.groupe-7774-1 {
+  background-image: url(../img/groupe-7772-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 60px;
   width: 1px;
 }
 
@@ -4636,6 +4842,18 @@
   opacity: 0.28;
   position: absolute;
   top: 47px;
+  width: 1px;
+}
+
+.groupe-7795-1 {
+  background-image: url(../img/groupe-7793-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 59px;
   width: 1px;
 }
 
@@ -4708,6 +4926,18 @@
   opacity: 0.28;
   position: absolute;
   top: 58px;
+  width: 1px;
+}
+
+.groupe-7816-1 {
+  background-image: url(../img/groupe-7814-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
   width: 1px;
 }
 
@@ -4819,6 +5049,18 @@
   width: 1px;
 }
 
+.groupe-7846-1 {
+  background-image: url(../img/groupe-7844-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+
 .groupe-7849-1 {
   background-image: url(../img/groupe-7847-10-1x-png@1x.png);
   background-position: 50% 50%;
@@ -4828,6 +5070,18 @@
   opacity: 0.28;
   position: absolute;
   top: 23px;
+  width: 1px;
+}
+
+.groupe-7852-1 {
+  background-image: url(../img/groupe-7850-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
   width: 1px;
 }
 
@@ -4879,6 +5133,18 @@
   width: 1px;
 }
 
+.groupe-7876-1 {
+  background-image: url(../img/groupe-382-7@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 58px;
+  width: 1px;
+}
+
 .groupe-7879-1 {
   background-image: url(../img/groupe-1693-11@1x.png);
   background-position: 50% 50%;
@@ -4903,6 +5169,18 @@
   width: 1px;
 }
 
+.groupe-7885-1 {
+  background-image: url(../img/groupe-7883-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
 .groupe-7888-1 {
   background-image: url(../img/groupe-454-1@1x.png);
   background-position: 50% 50%;
@@ -4912,6 +5190,18 @@
   opacity: 0.28;
   position: absolute;
   top: 60px;
+  width: 1px;
+}
+
+.groupe-7891-1 {
+  background-image: url(../img/groupe-7691-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
   width: 1px;
 }
 
@@ -4975,6 +5265,18 @@
   width: 1px;
 }
 
+.groupe-7909-1 {
+  background-image: url(../img/groupe-1381-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
 .groupe-7912-1 {
   background-image: url(../img/groupe-1306-10@1x.png);
   background-position: 50% 50%;
@@ -4984,6 +5286,30 @@
   opacity: 0.28;
   position: absolute;
   top: 56px;
+  width: 1px;
+}
+
+.groupe-7915-1 {
+  background-image: url(../img/groupe-217-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.groupe-7918-1 {
+  background-image: url(../img/groupe-10050@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
   width: 1px;
 }
 
@@ -5287,6 +5613,18 @@
   width: 1px;
 }
 
+.groupe-7996-1 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
 .groupe-7999-1 {
   background-image: url(../img/groupe-10200@1x.png);
   background-position: 50% 50%;
@@ -5326,94 +5664,21 @@
   width: 149px;
 }
 
-.groupe-9-1 {
-  background-image: url(../img/groupe-4868-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
+.rectangle-3222-1 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 2px;
+  left: -2px;
   position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.groupe-12-1 {
-  background-image: url(../img/groupe-10005@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.groupe-15-2 {
-  background-image: url(../img/groupe-4389-1@1x.png);
-  left: 5px;
-  top: 10px;
-}
-
-.groupe-21-1 {
-  background-image: url(../img/groupe-10299@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.groupe-24-1 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 12px;
-  width: 1px;
-}
-
-.groupe-1-1 {
-  left: 7px;
-  top: 10px;
-}
-
-.groupe-1-2 {
-  left: 5px;
-  top: 9px;
-}
-
-.groupe-22 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
+  top: 5px;
+  transform: rotate(-45.00deg);
+  width: 16px;
 }
 
 .groupe-2-2 {
   background-image: url(../img/groupe-10167@1x.png);
   left: 2px;
   top: 14px;
-}
-
-.groupe-4-1 {
-  top: 14px;
-}
-
-.groupe-4-2 {
-  top: 15px;
 }
 
 .groupe-14-1 {
@@ -5446,7 +5711,1318 @@
   width: 1px;
 }
 
-.groupe-4-3 {
+.rectangle-3215-1 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 2px;
+  width: 23px;
+}
+
+.groupe-76-1 {
+  left: 0;
+  top: 13px;
+}
+
+.groupe-76-2 {
+  left: 2px;
+  top: 14px;
+}
+
+.groupe-77-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.groupe-79-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  left: 1px;
+  top: 16px;
+}
+
+.groupe-79-2 {
+  background-image: url(../img/groupe-10146@1x.png);
+  left: 2px;
+  top: 19px;
+}
+
+.galerie-6 {
+  letter-spacing: 0;
+  line-height: 13px;
+  min-height: 15px;
+  min-width: 44px;
+  white-space: nowrap;
+}
+
+.activits-et-tourisme-6 {
+  letter-spacing: 0;
+  line-height: 13px;
+  min-height: 15px;
+  min-width: 121px;
+  white-space: nowrap;
+}
+
+.groupe-8609 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-top: 0;
+  width: 116.56px;
+}
+
+.groupe-8608 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 8px;
+  overflow: hidden;
+  width: 116.56px;
+}
+
+.groupe-8175 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-top: 4.94px;
+  opacity: 0.28;
+  width: 1px;
+}
+
+.groupe-8010 {
+  background-image: url(../img/groupe-8008-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 58px;
+  width: 1px;
+}
+
+.groupe-8013 {
+  background-image: url(../img/groupe-1222-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.groupe-8016 {
+  background-image: url(../img/groupe-1225-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 59px;
+  width: 1px;
+}
+
+.groupe-8019 {
+  background-image: url(../img/groupe-1228-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 69px;
+  width: 1px;
+}
+
+.groupe-8022 {
+  background-image: url(../img/groupe-1231-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.groupe-8025 {
+  background-image: url(../img/groupe-1234-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.groupe-8028 {
+  background-image: url(../img/groupe-1237-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 61px;
+  width: 1px;
+}
+
+.groupe-8031 {
+  background-image: url(../img/groupe-1240-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.groupe-8034 {
+  background-image: url(../img/groupe-1243-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 68px;
+  width: 1px;
+}
+
+.groupe-8037 {
+  background-image: url(../img/groupe-1246-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 62px;
+  width: 1px;
+}
+
+.groupe-8040 {
+  background-image: url(../img/groupe-1249-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.groupe-8043 {
+  background-image: url(../img/groupe-1252-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 58px;
+  width: 1px;
+}
+
+.groupe-8046 {
+  background-image: url(../img/groupe-1255-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+
+.groupe-8049 {
+  background-image: url(../img/groupe-1258-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 65px;
+  width: 1px;
+}
+
+.groupe-8052 {
+  background-image: url(../img/groupe-1261-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.groupe-8055 {
+  background-image: url(../img/groupe-1264-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 59px;
+  width: 1px;
+}
+
+.groupe-8058 {
+  background-image: url(../img/groupe-1267-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 64px;
+  width: 1px;
+}
+
+.groupe-8061 {
+  background-image: url(../img/groupe-1270-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.groupe-8064 {
+  background-image: url(../img/groupe-1273-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-8067 {
+  background-image: url(../img/groupe-1276-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 63px;
+  width: 1px;
+}
+
+.groupe-8070 {
+  background-image: url(../img/groupe-1279-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+
+.groupe-8073 {
+  background-image: url(../img/groupe-1282-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 60px;
+  width: 1px;
+}
+
+.groupe-8076 {
+  background-image: url(../img/groupe-1285-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 68px;
+  width: 1px;
+}
+
+.groupe-8079 {
+  background-image: url(../img/groupe-1288-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.groupe-8082 {
+  background-image: url(../img/groupe-1291-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.groupe-8085 {
+  background-image: url(../img/groupe-1294-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 64px;
+  width: 1px;
+}
+
+.groupe-8088 {
+  background-image: url(../img/groupe-1297-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 70px;
+  width: 1px;
+}
+
+.groupe-8091 {
+  background-image: url(../img/groupe-10302@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.groupe-8097 {
+  background-image: url(../img/groupe-10326@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 61px;
+  width: 1px;
+}
+
+.groupe-8103 {
+  background-image: url(../img/groupe-1312-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 66px;
+  width: 1px;
+}
+
+.groupe-8106 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.groupe-8109 {
+  background-image: url(../img/groupe-10011@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.groupe-8112 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 65px;
+  width: 1px;
+}
+
+.groupe-8115 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.groupe-8118 {
+  background-image: url(../img/groupe-10005@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 60px;
+  width: 1px;
+}
+
+.groupe-8121 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.groupe-8124 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.groupe-8127 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 58px;
+  width: 1px;
+}
+
+.groupe-8130 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.groupe-8133 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.groupe-8136 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 65px;
+  width: 1px;
+}
+
+.groupe-8139 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 18px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.groupe-8142 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.groupe-8145 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.groupe-8148 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 63px;
+  width: 1px;
+}
+
+.groupe-8151 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.groupe-8154 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.groupe-8157 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 59px;
+  width: 1px;
+}
+
+.groupe-8160 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 22px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.groupe-8163 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.groupe-8166 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 69px;
+  width: 1px;
+}
+
+.groupe-8169 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 64px;
+  width: 1px;
+}
+
+.groupe-8172 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.trac-2718 {
+  height: 66px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 11px;
+}
+
+.groupe-8184 {
+  background-image: url(../img/groupe-1393-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.groupe-8187 {
+  background-image: url(../img/groupe-1396-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.groupe-8193 {
+  background-image: url(../img/groupe-10005@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.groupe-8196 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.groupe-8199 {
+  background-image: url(../img/groupe-10011@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.groupe-8202 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.trac-2729 {
+  height: 77px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.trac-2871 {
+  height: 19px;
+  object-fit: cover;
+  width: 9px;
+}
+
+.trac-2868 {
+  height: 79px;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 15px;
+}
+
+.trac-2793 {
+  height: 4px;
+  margin-left: 1.05px;
+  object-fit: cover;
+  width: 4px;
+}
+
+.groupe-8205 {
+  background-image: url(../img/groupe-10017@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-8208 {
+  background-image: url(../img/groupe-10020@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.groupe-8211 {
+  background-image: url(../img/groupe-10023@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.groupe-8214 {
+  background-image: url(../img/groupe-10026@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.groupe-8217 {
+  background-image: url(../img/groupe-10029@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.groupe-8220 {
+  background-image: url(../img/groupe-10032@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.groupe-8226 {
+  background-image: url(../img/groupe-10038@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.groupe-8229 {
+  background-image: url(../img/groupe-10041@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-8232 {
+  background-image: url(../img/groupe-10044@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.groupe-8235 {
+  background-image: url(../img/groupe-10047@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.groupe-8238 {
+  background-image: url(../img/groupe-10050@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.groupe-8241 {
+  background-image: url(../img/groupe-10053@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.groupe-8244 {
+  background-image: url(../img/groupe-10056@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.groupe-8247 {
+  background-image: url(../img/groupe-10059@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.groupe-8250 {
+  background-image: url(../img/groupe-10062@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.groupe-8253 {
+  background-image: url(../img/groupe-10065@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.groupe-8256 {
+  background-image: url(../img/groupe-10068@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.groupe-8259 {
+  background-image: url(../img/groupe-10071@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.groupe-8262 {
+  background-image: url(../img/groupe-10074@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.groupe-8265 {
+  background-image: url(../img/groupe-10077@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.groupe-8268 {
+  background-image: url(../img/groupe-10080@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.groupe-8271 {
+  background-image: url(../img/groupe-10083@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.groupe-8274 {
+  background-image: url(../img/groupe-10086@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.groupe-8277 {
+  background-image: url(../img/groupe-10089@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.groupe-8280 {
+  background-image: url(../img/groupe-10092@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.groupe-8283 {
+  background-image: url(../img/groupe-10011@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.groupe-8286 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.groupe-8289 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.groupe-8292 {
+  background-image: url(../img/groupe-10104@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.groupe-8295 {
+  background-image: url(../img/groupe-10107@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.groupe-8301 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.groupe-8307 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.groupe-8310 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.groupe-8313 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.groupe-8316 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.groupe-8319 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.groupe-8322 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.groupe-8328 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.groupe-8331 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.groupe-8334 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.groupe-8337 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -5454,17 +7030,1160 @@
   left: 3px;
   opacity: 0.28;
   position: absolute;
+  top: 3px;
   width: 1px;
 }
 
-.groupe-1-6 {
+.groupe-8340 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.groupe-8343 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.groupe-8346 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.groupe-8352 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.groupe-8355 {
   background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-8367 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.groupe-8370 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.groupe-8373 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.groupe-8376 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.trac-2792 {
+  height: 41px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.groupe-8223 {
+  background-image: url(../img/groupe-10035@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.groupe-8358 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.groupe-8298 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.groupe-8304 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.groupe-8325 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.groupe-8349 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.groupe-8361 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.groupe-8364 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.groupe-8379 {
+  background-image: url(../img/groupe-10191@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.groupe-8382 {
+  background-image: url(../img/groupe-10194@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.groupe-8385 {
+  background-image: url(../img/groupe-10197@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.groupe-8388 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+
+.groupe-8394 {
+  background-image: url(../img/groupe-10206@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.groupe-8397 {
+  background-image: url(../img/groupe-10209@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.groupe-8403 {
+  background-image: url(../img/groupe-10215@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.groupe-8406 {
+  background-image: url(../img/groupe-10218@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.groupe-8409 {
+  background-image: url(../img/groupe-10221@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.groupe-8412 {
+  background-image: url(../img/groupe-10224@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.groupe-8415 {
+  background-image: url(../img/groupe-10227@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.groupe-8418 {
+  background-image: url(../img/groupe-10230@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.groupe-8424 {
+  background-image: url(../img/groupe-10236@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.groupe-8427 {
+  background-image: url(../img/groupe-10239@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.groupe-8430 {
+  background-image: url(../img/groupe-10239@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.groupe-8433 {
+  background-image: url(../img/groupe-10245@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.groupe-8436 {
+  background-image: url(../img/groupe-10248@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.groupe-8439 {
+  background-image: url(../img/groupe-10251@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.groupe-8442 {
+  background-image: url(../img/groupe-10254@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.groupe-8445 {
+  background-image: url(../img/groupe-10257@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.groupe-8448 {
+  background-image: url(../img/groupe-10260@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.groupe-8451 {
+  background-image: url(../img/groupe-10263@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.groupe-8454 {
+  background-image: url(../img/groupe-10266@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.groupe-8457 {
+  background-image: url(../img/groupe-10269@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.groupe-8460 {
+  background-image: url(../img/groupe-10272@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.groupe-8463 {
+  background-image: url(../img/groupe-10275@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.groupe-8466 {
+  background-image: url(../img/groupe-10266@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.groupe-8469 {
+  background-image: url(../img/groupe-10281@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.groupe-8472 {
+  background-image: url(../img/groupe-10284@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.groupe-8478 {
+  background-image: url(../img/groupe-10290@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.groupe-8481 {
+  background-image: url(../img/groupe-10074@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.groupe-8484 {
+  background-image: url(../img/groupe-10296@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.groupe-8490 {
+  background-image: url(../img/groupe-10302@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.groupe-8493 {
+  background-image: url(../img/groupe-10092@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.groupe-8496 {
+  background-image: url(../img/groupe-10308@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.groupe-8499 {
+  background-image: url(../img/groupe-10107@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.groupe-8502 {
+  background-image: url(../img/groupe-10107@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.groupe-8505 {
+  background-image: url(../img/groupe-10308@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.groupe-8508 {
+  background-image: url(../img/groupe-10320@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.groupe-8511 {
+  background-image: url(../img/groupe-10005@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.groupe-8514 {
+  background-image: url(../img/groupe-10326@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.groupe-8517 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.groupe-8520 {
+  background-image: url(../img/groupe-10332@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.groupe-8523 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.groupe-8526 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.groupe-8529 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.groupe-8532 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.groupe-8535 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.groupe-8538 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.groupe-8541 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.groupe-8544 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.groupe-8547 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.groupe-8550 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.groupe-8553 {
+  background-image: url(../img/groupe-10089@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.groupe-8556 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.groupe-8559 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.groupe-8562 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.groupe-8565 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.groupe-8568 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.groupe-8571 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.groupe-8574 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.groupe-8577 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.groupe-8580 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.groupe-8583 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.groupe-8586 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.groupe-8589 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.groupe-8592 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.groupe-8595 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.groupe-8598 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.groupe-8601 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.groupe-8604 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.groupe-8607 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.trac-2867 {
+  height: 51px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.trac-2869 {
+  height: 38px;
+  margin-right: 0;
+  object-fit: cover;
+  width: 117px;
+}
+
+.c-le-nid-tous-droits-rservs-2 {
+  left: 3px;
+  letter-spacing: 1.35px;
+  line-height: 9px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.ellipse-3-2 {
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 6.89px;
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.groupe-76-3 {
+  background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   opacity: 0.28;
   position: absolute;
   width: 1px;
+}
+
+.groupe-79-3 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  opacity: 0.28;
+  position: absolute;
+  width: 1px;
+}
+
+.groupe-78-2 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.rservez-votre-sjour-2 {
+  letter-spacing: 0;
+  line-height: 13px;
+  min-height: 15px;
+  min-width: 125px;
+  white-space: nowrap;
 }
 
 .rectangle-3216-2 {
@@ -5813,6 +8532,18 @@
   width: 1px;
 }
 
+.groupe-7477-2 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
 .groupe-7480-2 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
@@ -5909,10 +8640,6 @@
   width: 1px;
 }
 
-.groupe-75-1 {
-  top: 27px;
-}
-
 .groupe-7513-2 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
@@ -5949,10 +8676,6 @@
   width: 1px;
 }
 
-.groupe-75-2 {
-  top: 24px;
-}
-
 .groupe-7525-2 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
@@ -5963,12 +8686,6 @@
   position: absolute;
   top: 15px;
   width: 1px;
-}
-
-.groupe-753 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 5px;
-  top: 27px;
 }
 
 .groupe-7534-2 {
@@ -5993,10 +8710,6 @@
   position: absolute;
   top: 10px;
   width: 1px;
-}
-
-.groupe-75-3 {
-  top: 26px;
 }
 
 .groupe-7546-2 {
@@ -6116,12 +8829,6 @@
   width: 1px;
 }
 
-.groupe-7-1 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 1px;
-  top: 7px;
-}
-
 .groupe-7591-2 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
@@ -6132,12 +8839,6 @@
   position: absolute;
   top: 1px;
   width: 1px;
-}
-
-.groupe-7-2 {
-  background-image: url(../img/groupe-10146@1x.png);
-  left: 1px;
-  top: 7px;
 }
 
 .groupe-7597-2 {
@@ -6294,12 +8995,6 @@
   width: 1px;
 }
 
-.groupe-76 {
-  background-image: url(../img/groupe-10146@1x.png);
-  left: 0;
-  top: 9px;
-}
-
 .groupe-7636-2 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
@@ -6324,16 +9019,6 @@
   width: 1px;
 }
 
-.groupe-76-1 {
-  left: 0;
-  top: 13px;
-}
-
-.groupe-76-2 {
-  left: 2px;
-  top: 14px;
-}
-
 .groupe-7648-2 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
@@ -6344,12 +9029,6 @@
   position: absolute;
   top: 5px;
   width: 1px;
-}
-
-.groupe-7-3 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 0;
-  top: 13px;
 }
 
 .groupe-7654-2 {
@@ -6364,18 +9043,6 @@
   width: 1px;
 }
 
-.groupe-7-4 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 2px;
-  top: 14px;
-}
-
-.groupe-7-5 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 1px;
-  top: 14px;
-}
-
 .groupe-7666-2 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
@@ -6386,12 +9053,6 @@
   position: absolute;
   top: 14px;
   width: 1px;
-}
-
-.groupe-7-6 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 1px;
-  top: 15px;
 }
 
 .groupe-7681-2 {
@@ -6442,12 +9103,6 @@
   width: 1px;
 }
 
-.groupe-7-7 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 1px;
-  top: 12px;
-}
-
 .groupe-7711-2 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
@@ -6457,24 +9112,6 @@
   opacity: 0.28;
   position: absolute;
   top: 8px;
-  width: 1px;
-}
-
-.groupe-77 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 0;
-  top: 4px;
-}
-
-.groupe-77-1 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
   width: 1px;
 }
 
@@ -6488,18 +9125,6 @@
   position: absolute;
   top: 1px;
   width: 1px;
-}
-
-.groupe-775 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 0;
-  top: 12px;
-}
-
-.groupe-7-8 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 1px;
-  top: 6px;
 }
 
 .groupe-7768-2 {
@@ -6547,12 +9172,6 @@
   width: 1px;
 }
 
-.groupe-7-9 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 1px;
-  top: 8px;
-}
-
 .groupe-7699-2 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
@@ -6587,12 +9206,6 @@
   position: absolute;
   top: 19px;
   width: 1px;
-}
-
-.groupe-7-10 {
-  background-image: url(../img/groupe-10122@1x.png);
-  left: 1px;
-  top: 18px;
 }
 
 .groupe-7780-2 {
@@ -6640,6 +9253,18 @@
   opacity: 0.28;
   position: absolute;
   top: 16px;
+  width: 1px;
+}
+
+.groupe-7795-2 {
+  background-image: url(../img/groupe-7793-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
   width: 1px;
 }
 
@@ -6775,12 +9400,6 @@
   width: 1px;
 }
 
-.groupe-7-11 {
-  background-image: url(../img/groupe-10146@1x.png);
-  left: 1px;
-  top: 16px;
-}
-
 .groupe-7843-2 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
@@ -6803,12 +9422,6 @@
   position: absolute;
   top: 18px;
   width: 1px;
-}
-
-.groupe-7-12 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 1px;
-  top: 17px;
 }
 
 .groupe-7855-2 {
@@ -6857,12 +9470,6 @@
   position: absolute;
   top: 18px;
   width: 1px;
-}
-
-.groupe-7-13 {
-  background-image: url(../img/groupe-10146@1x.png);
-  left: 2px;
-  top: 18px;
 }
 
 .groupe-7873-2 {
@@ -6961,12 +9568,6 @@
   width: 1px;
 }
 
-.groupe-79 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 1px;
-  top: 18px;
-}
-
 .groupe-7915-2 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
@@ -7049,18 +9650,6 @@
   position: absolute;
   top: 6px;
   width: 1px;
-}
-
-.groupe-79-1 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 1px;
-  top: 16px;
-}
-
-.groupe-79-2 {
-  background-image: url(../img/groupe-10146@1x.png);
-  left: 2px;
-  top: 19px;
 }
 
 .groupe-7951-2 {
@@ -7193,51 +9782,4 @@
   height: 15px;
   object-fit: cover;
   width: 48px;
-}
-
-.groupe-7-14 {
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  opacity: 0.28;
-  position: absolute;
-  width: 1px;
-}
-
-.groupe-75-4 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  width: 1px;
-}
-
-.groupe-76-3 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  opacity: 0.28;
-  position: absolute;
-  width: 1px;
-}
-
-.groupe-79-3 {
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  opacity: 0.28;
-  position: absolute;
-  width: 1px;
-}
-
-.overlap-group4-1 {
-  align-self: flex-end;
-  height: 22px;
-  margin-left: 1px;
-  position: relative;
-  width: 10px;
 }
