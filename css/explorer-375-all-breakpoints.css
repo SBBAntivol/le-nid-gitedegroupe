@@ -8144,6 +8144,18 @@
   top: 16px;
 }
 
+.explorer-375-all-breakpoints .groupe-78-2 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
 .explorer-375-all-breakpoints .groupe-7843 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
@@ -8645,6 +8657,10 @@
 }
 
 .explorer-375-all-breakpoints .un-lieu-simple-vrai-et-accueillant-2 {
+  color: var(--white);
+  font-family: var(--font-family-josefin_sans);
+  font-size: 20px;
+  font-weight: 700;
   height: 57px;
   left: 162px;
   letter-spacing: 0;
@@ -13720,13 +13736,6 @@
   width: 11px;
 }
 
-.explorer-768 .rectangle-321-1 {
-  background-color: var(--black);
-  border-radius: 2px;
-  height: 1px;
-  width: 11px;
-}
-
 .explorer-768 .groupe-de-masques-2-1 {
   height: 313px;
   left: 423px;
@@ -13791,6 +13800,16 @@
   min-width: 28px;
 }
 
+.explorer-768 .groupe-168-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-top: 1.71px;
+  opacity: 0.28;
+  width: 1px;
+}
+
 .explorer-768 .overlap-group-container-3 {
   align-self: center;
   height: 27px;
@@ -13843,6 +13862,12 @@
   width: 1px;
 }
 
+.explorer-768 .groupe-24-2 {
+  background-image: url(../img/groupe-10200@1x.png);
+  left: 5px;
+  top: 12px;
+}
+
 .explorer-768 .groupe-27-1 {
   background-image: url(../img/groupe-100-1@1x.png);
   background-position: 50% 50%;
@@ -13864,6 +13889,18 @@
   opacity: 0.28;
   position: absolute;
   top: 22px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-33-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
   width: 1px;
 }
 
@@ -13945,8 +13982,44 @@
   width: 1px;
 }
 
+.explorer-768 .groupe-57-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-66-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
 .explorer-768 .groupe-8 {
   background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-72-1 {
+  background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -13969,6 +14042,18 @@
   width: 1px;
 }
 
+.explorer-768 .groupe-78-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
 .explorer-768 .groupe-10 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
@@ -13981,6 +14066,30 @@
   width: 1px;
 }
 
+.explorer-768 .groupe-84-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-87-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
 .explorer-768 .groupe-11 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
@@ -13990,6 +14099,30 @@
   opacity: 0.28;
   position: absolute;
   top: 21px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-93-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-99-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
   width: 1px;
 }
 
@@ -14008,6 +14141,18 @@
 .explorer-768 .groupe-1-3 {
   left: 5px;
   top: 20px;
+}
+
+.explorer-768 .groupe-123-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
 }
 
 .explorer-768 .groupe-1-4 {
@@ -14032,6 +14177,30 @@
   top: 22px;
 }
 
+.explorer-768 .groupe-147-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-153-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
 .explorer-768 .groupe-16 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
@@ -14041,6 +14210,39 @@
   opacity: 0.28;
   position: absolute;
   top: 16px;
+  width: 1px;
+}
+
+.explorer-768 .trac-56-1 {
+  height: 23px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.explorer-768 .groupe-171-1 {
+  background-image: url(../img/groupe-1564-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-174-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
   width: 1px;
 }
 
@@ -14080,6 +14282,39 @@
   width: 1px;
 }
 
+.explorer-768 .groupe-189-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-195-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.explorer-768 .trac-67-1 {
+  height: 27px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
 .explorer-768 .overlap-group2-2 {
   align-items: flex-start;
   background-image: url(../img/trac--208-7-1x-png@1x.png);
@@ -14091,6 +14326,19 @@
   min-width: 3px;
   position: absolute;
   top: 11px;
+}
+
+.explorer-768 .trac-210-1 {
+  height: 7px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.explorer-768 .trac-206-1 {
+  height: 27px;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 5px;
 }
 
 .explorer-768 .overlap-group4 {
@@ -14109,6 +14357,66 @@
   width: 8px;
 }
 
+.explorer-768 .groupe-198-1 {
+  background-image: url(../img/groupe-10011@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-201-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-204-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-207-1 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-210-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
 .explorer-768 .groupe-2-1 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
@@ -14118,6 +14426,30 @@
   opacity: 0.28;
   position: absolute;
   top: 15px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-216-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-219-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
   width: 1px;
 }
 
@@ -14145,6 +14477,18 @@
   width: 1px;
 }
 
+.explorer-768 .groupe-231-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
 .explorer-768 .groupe-234-1 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
@@ -14154,6 +14498,18 @@
   opacity: 0.28;
   position: absolute;
   top: 14px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-237-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
   width: 1px;
 }
 
@@ -14172,6 +14528,18 @@
   opacity: 0.28;
   position: absolute;
   top: 15px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-246-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
   width: 1px;
 }
 
@@ -14199,6 +14567,18 @@
   width: 1px;
 }
 
+.explorer-768 .groupe-270-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
 .explorer-768 .groupe-28 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
@@ -14208,6 +14588,42 @@
   opacity: 0.28;
   position: absolute;
   top: 15px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-279-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-282-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-285-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 5px;
   width: 1px;
 }
 
@@ -14247,6 +14663,78 @@
   width: 1px;
 }
 
+.explorer-768 .groupe-306-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-309-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-318-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-321-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-348-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-351-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
 .explorer-768 .groupe-34 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
@@ -14271,8 +14759,77 @@
   width: 1px;
 }
 
+.explorer-768 .groupe-372-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-375-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-378-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-381-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.explorer-768 .trac-130-1 {
+  height: 14px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
 .explorer-768 .groupe-384-1 {
   background-image: url(../img/groupe-382-7@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-387-1 {
+  background-image: url(../img/groupe-10101@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -14295,6 +14852,66 @@
   width: 1px;
 }
 
+.explorer-768 .groupe-393-1 {
+  background-image: url(../img/groupe-4599-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-396-1 {
+  background-image: url(../img/groupe-10077@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-399-1 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-402-1 {
+  background-image: url(../img/groupe-10005@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-405-1 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
 .explorer-768 .groupe-408-1 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
@@ -14307,10 +14924,70 @@
   width: 1px;
 }
 
+.explorer-768 .groupe-411-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-414-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-417-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
 .explorer-768 .groupe-42-1 {
   background-image: url(../img/groupe-10113@1x.png);
   left: 3px;
   top: 13px;
+}
+
+.explorer-768 .groupe-426-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-429-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
 }
 
 .explorer-768 .groupe-35 {
@@ -14327,6 +15004,42 @@
 
 .explorer-768 .groupe-4-1 {
   top: 14px;
+}
+
+.explorer-768 .groupe-441-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-444-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-447-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
+  width: 1px;
 }
 
 .explorer-768 .groupe-36 {
@@ -14353,6 +15066,90 @@
   width: 1px;
 }
 
+.explorer-768 .groupe-456-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-465-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-468-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-477-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-480-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-486-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-489-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
 .explorer-768 .groupe-38 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
@@ -14365,7 +15162,65 @@
   width: 1px;
 }
 
-.explorer-768 .groupe-504 {
+.explorer-768 .groupe-5-3 {
+  left: 6px;
+  top: 6px;
+}
+
+.explorer-768 .groupe-513-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-516-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-519-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-5-4 {
+  left: 3px;
+  top: 16px;
+}
+
+.explorer-768 .groupe-531-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-534-1 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -14373,18 +15228,8 @@
   left: 3px;
   opacity: 0.28;
   position: absolute;
-  top: 12px;
+  top: 10px;
   width: 1px;
-}
-
-.explorer-768 .groupe-5-3 {
-  left: 6px;
-  top: 6px;
-}
-
-.explorer-768 .groupe-5-4 {
-  left: 3px;
-  top: 16px;
 }
 
 .explorer-768 .groupe-5-5 {
@@ -14395,6 +15240,84 @@
 .explorer-768 .groupe-5-6 {
   left: 3px;
   top: 13px;
+}
+
+.explorer-768 .groupe-549-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-561-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-585-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-594-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.explorer-768 .groupe-600-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.explorer-768 .trac-205-1 {
+  height: 18px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.explorer-768 .trac-131-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
 }
 
 .explorer-768 .trac-207-1 {
@@ -16635,18 +17558,6 @@
   position: absolute;
   top: 9px;
   width: 9px;
-}
-
-.explorer-768 .groupe-1392-1 {
-  background-image: url(../img/groupe-1390-10-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
-  width: 1px;
 }
 
 .explorer-768 .groupe-1398-1 {
