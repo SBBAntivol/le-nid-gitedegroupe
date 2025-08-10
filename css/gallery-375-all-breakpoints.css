@@ -5748,7 +5748,7 @@ to{opacity: 1;
 .gallery-375-all-breakpoints .accueil-6 {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-xl);
   font-weight: 400;
   letter-spacing: 0;
   line-height: 14px;
@@ -10897,13 +10897,6 @@ to{opacity: 1;
   top: 30px;
 }
 
-.gallery-375-all-breakpoints .rectangle-321-2 {
-  background-color: var(--black);
-  border-radius: 2px;
-  height: 2px;
-  width: 23px;
-}
-
 .gallery-375-all-breakpoints .rectangle-3216 {
   margin-top: 8px;
 }
@@ -11709,6 +11702,13 @@ to{opacity: 1;
   min-height: 9px;
   position: absolute;
   top: 16px;
+  width: 11px;
+}
+
+.gallery-768 .rectangle-321-1 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 1px;
   width: 11px;
 }
 
@@ -13568,6 +13568,18 @@ to{opacity: 1;
   position: absolute;
   top: 10px;
   width: 9px;
+}
+
+.gallery-768 .groupe-1392-1 {
+  background-image: url(../img/groupe-1390-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
 }
 
 .gallery-768 .groupe-1398-1 {

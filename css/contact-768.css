@@ -465,11 +465,6 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1-5 {
-  left: 5px;
-  top: 22px;
-}
-
 .contact-768 .groupe-147 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
@@ -1441,6 +1436,18 @@
   top: 15px;
 }
 
+.contact-768 .groupe-504 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
 .contact-768 .groupe-513 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
@@ -1534,6 +1541,18 @@
   opacity: 0.28;
   position: absolute;
   top: 2px;
+  width: 1px;
+}
+
+.contact-768 .groupe-573 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
   width: 1px;
 }
 
@@ -1757,7 +1776,7 @@
 .contact-768 .contactez-nous {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-m);
   font-weight: 400;
   left: 71px;
   letter-spacing: 0;
@@ -4604,6 +4623,24 @@
 
 .contact-768 .groupe-1-6 {
   background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  opacity: 0.28;
+  position: absolute;
+  width: 1px;
+}
+
+.contact-768 .groupe-15-3 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  opacity: 0.28;
+  position: absolute;
+  width: 1px;
+}
+
+.contact-768 .groupe-2-3 {
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
