@@ -6,20 +6,20 @@
   --gravel: #474747;
   --white: #ffffff;
  
-  --font-size-l: 13px;
-  --font-size-m: 12px;
-  --font-size-s: 10px;
-  --font-size-xl: 14px;
-  --font-size-xs: 8px;
-  --font-size-xxl: 18px;
-  --font-size-xxs: 7px;
+  --font-size-l: 12px;
+  --font-size-m: 10px;
+  --font-size-s: 8px;
+  --font-size-xl: 13px;
+  --font-size-xs: 7px;
+  --font-size-xxl: 14px;
+  --font-size-xxxl: 18px;
  
   --font-family-josefin_sans: "Josefin Sans", Helvetica;
 }
 .josefinsans-medium-black-8px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 500;
 }
@@ -27,7 +27,7 @@
 .josefinsans-medium-black-7px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxs);
+  font-size: var(--font-size-xs);
   font-style: normal;
   font-weight: 500;
 }
@@ -43,7 +43,7 @@
 .josefinsans-light-black-13px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 300;
 }
@@ -59,7 +59,7 @@
 .josefinsans-light-black-7px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxs);
+  font-size: var(--font-size-xs);
   font-style: normal;
   font-weight: 300;
 }
@@ -67,7 +67,7 @@
 .josefinsans-light-black-8px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 300;
 }
@@ -75,7 +75,7 @@
 .josefinsans-medium-black-18px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 500;
 }
@@ -91,7 +91,7 @@
 .josefinsans-medium-black-13px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 500;
 }
@@ -112,18 +112,10 @@
   font-weight: 400;
 }
 
-.josefinsans-medium-black-12px {
-  color: var(--black);
-  font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 500;
-}
-
 .josefinsans-bold-black-13px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 700;
 }
@@ -147,7 +139,7 @@
 .josefinsans-normal-white-18px {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 400;
 }
@@ -155,23 +147,15 @@
 .josefinsans-medium-black-10px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.josefinsans-normal-black-12px {
-  color: var(--black);
-  font-family: var(--font-family-josefin_sans);
   font-size: var(--font-size-m);
   font-style: normal;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 .josefinsans-normal-white-13px {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 400;
 }
@@ -179,15 +163,23 @@
 .josefinsans-bold-black-7px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxs);
+  font-size: var(--font-size-xs);
   font-style: normal;
   font-weight: 700;
+}
+
+.josefinsans-medium-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-josefin_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
 }
 
 .josefinsans-bold-black-8px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 700;
 }
@@ -195,7 +187,7 @@
 .josefinsans-medium-black-14px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 500;
 }
@@ -211,25 +203,25 @@
 .josefinsans-bold-white-12px {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-m);
+  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 700;
 }
 
-.josefinsans-bold-black-12px {
+.josefinsans-normal-black-12px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.josefinsans-normal-white-16px {
-  color: var(--white);
-  font-family: var(--font-family-josefin_sans);
-  font-size: 16px;
+  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 400;
+}
+
+.josefinsans-light-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-josefin_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 300;
 }
 
 .josefinsans-medium-black-17px {
@@ -243,7 +235,7 @@
 .josefinsans-normal-black-18px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 400;
 }
@@ -256,10 +248,10 @@
   font-weight: 700;
 }
 
-.josefinsans-bold-gravel-18px {
-  color: var(--gravel);
+.josefinsans-bold-black-12px {
+  color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 700;
 }
@@ -283,7 +275,7 @@
 .josefinsans-bold-gravel-14px {
   color: var(--gravel);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 700;
 }
@@ -315,7 +307,7 @@
 .josefinsans-normal-white-10px {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-s);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }
@@ -331,7 +323,7 @@
 .josefinsans-medium-white-14px {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 500;
 }
@@ -339,7 +331,7 @@
 .josefinsans-bold-white-10px {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-s);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 700;
 }
@@ -350,14 +342,6 @@
   font-size: 17px;
   font-style: normal;
   font-weight: 700;
-}
-
-.josefinsans-light-black-18px {
-  color: var(--black);
-  font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 300;
 }
 
 .josefinsans-medium-black-6px {
@@ -371,7 +355,7 @@
 .josefinsans-bold-black-18px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 700;
 }
@@ -411,7 +395,7 @@
 .josefinsans-bold-white-8px {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 700;
 }
@@ -419,7 +403,7 @@
 .josefinsans-medium-white-7px {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxs);
+  font-size: var(--font-size-xs);
   font-style: normal;
   font-weight: 500;
 }
@@ -433,7 +417,7 @@
 .josefinsans-medium-white-8px {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 500;
 }
@@ -441,7 +425,7 @@
 .josefinsans-normal-black-13px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 400;
 }
@@ -465,7 +449,7 @@
 .josefinsans-normal-black-10px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-s);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }
@@ -489,7 +473,7 @@
 .josefinsans-medium-white-10px {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-s);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 500;
 }
@@ -497,7 +481,7 @@
 .josefinsans-bold-black-10px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-s);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 700;
 }
@@ -513,7 +497,7 @@
 .josefinsans-normal-black-8px {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 400;
 }

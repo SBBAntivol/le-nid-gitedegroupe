@@ -9,12 +9,12 @@
   width: 1440px;
 }
 
-.gallery-1440.bp1-animate-enter {
-  animation: bp1-animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
+.gallery-1440.bp3-animate-enter {
+  animation: bp3-animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter-frames {
+@keyframes bp3-animate-enter-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -196,7 +196,7 @@ to{opacity: 1;
   width: 333px;
 }
 
-.gallery-1440 .overlap-group7 {
+.gallery-1440 .overlap-group8 {
   align-items: flex-start;
   background-image: url(../img/whatsapp-image-2025-07-11---15-35-51-7003af20-1-1x-png@1x.png);
   background-position: 50% 50%;
@@ -249,2542 +249,6 @@ to{opacity: 1;
   width: 333px;
 }
 
-.gallery-1440 .rectangle-1906 {
-  background-color: var(--bianca);
-  height: 125px;
-  left: -918px;
-  position: fixed;
-  top: 0;
-  width: 3275px;
-}
-
-.gallery-1440 .groupe-5464 {
-  cursor: pointer;
-  display: flex;
-  height: 81px;
-  left: 24px;
-  overflow: hidden;
-  position: absolute;
-  top: 26px;
-  width: 76px;
-}
-
-.gallery-1440 .groupe-5463 {
-  display: flex;
-  flex: 1;
-  margin-bottom: 0;
-  margin-top: 0;
-  width: 75.55px;
-}
-
-.gallery-1440 .groupe-5462 {
-  align-items: center;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  gap: 5px;
-  overflow: hidden;
-  padding: 0.0px 0;
-  width: 75.55px;
-}
-
-.gallery-1440 .flex-row {
-  height: 52px;
-  margin-right: 2.12px;
-  min-width: 52px;
-}
-
-.gallery-1440 .groupe-5029 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  margin-top: 3.2px;
-  opacity: 0.28;
-  width: 1px;
-}
-
-.gallery-1440 .overlap-group1 {
-  align-self: center;
-  height: 50px;
-  margin-left: 1px;
-  margin-top: 0.3px;
-  position: relative;
-  width: 15px;
-}
-
-.gallery-1440 .groupe-4864 {
-  background-image: url(../img/groupe-1-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4867 {
-  background-image: url(../img/groupe-4-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 37px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4870 {
-  background-image: url(../img/groupe-4868-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4873 {
-  background-image: url(../img/groupe-10-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 45px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4876 {
-  background-image: url(../img/groupe-13-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4879 {
-  background-image: url(../img/groupe-16-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 36px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4882 {
-  background-image: url(../img/groupe-19-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4885 {
-  background-image: url(../img/groupe-22-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 23px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4888 {
-  background-image: url(../img/groupe-13-4@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 44px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4891 {
-  background-image: url(../img/groupe-4845-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4894 {
-  background-image: url(../img/groupe-1306-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4 {
-  background-image: url(../img/groupe-376-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 37px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4903 {
-  background-image: url(../img/groupe-4362-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 42px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4906 {
-  background-image: url(../img/groupe-10344@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4909 {
-  background-image: url(../img/groupe-10077@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4912 {
-  background-image: url(../img/groupe-10008@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 42px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4915 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 37px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4918 {
-  background-image: url(../img/groupe-10089@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 10px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4921 {
-  background-image: url(../img/groupe-10005@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 41px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4924 {
-  background-image: url(../img/groupe-10005@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 37px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4927 {
-  background-image: url(../img/groupe-10008@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4930 {
-  background-image: url(../img/groupe-10326@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 44px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4933 {
-  background-image: url(../img/groupe-1564-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 43px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4936 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 31px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4939 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 41px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4942 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 45px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4945 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 10px;
-  opacity: 0.28;
-  position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4948 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4951 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4954 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 10px;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4957 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 43px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4960 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 34px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4963 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 14px;
-  opacity: 0.28;
-  position: absolute;
-  top: 18px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4966 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 42px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4969 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 43px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4972 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4975 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4978 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 10px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4981 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4984 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 10px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4987 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 44px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4990 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 42px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4993 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 9px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4996 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 44px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-4999 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 10px;
-  opacity: 0.28;
-  position: absolute;
-  top: 16px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5002 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 41px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5005 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 14px;
-  opacity: 0.28;
-  position: absolute;
-  top: 18px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5008 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 8px;
-  opacity: 0.28;
-  position: absolute;
-  top: 36px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5011 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5014 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 14px;
-  opacity: 0.28;
-  position: absolute;
-  top: 9px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5017 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 14px;
-  opacity: 0.28;
-  position: absolute;
-  top: 18px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5020 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 10px;
-  opacity: 0.28;
-  position: absolute;
-  top: 45px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5023 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 41px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5026 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 10px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.gallery-1440 .trac-1559 {
-  height: 43px;
-  left: 8px;
-  object-fit: cover;
-  position: absolute;
-  top: 7px;
-  width: 7px;
-}
-
-.gallery-1440 .groupe-5032 {
-  background-image: url(../img/groupe-169-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5035 {
-  background-image: url(../img/groupe-10086@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5038 {
-  background-image: url(../img/groupe-10134@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5041 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 16px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5044 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 7px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5047 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 11px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5050 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 2px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 10px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5056 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 2px;
-  width: 1px;
-}
-
-.gallery-1440 .trac-1570 {
-  height: 50px;
-  left: 0;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 9px;
-}
-
-.gallery-1440 .overlap-group3 {
-  align-items: flex-start;
-  align-self: center;
-  background-image: url(../img/trac--1711-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  display: flex;
-  margin-left: 1px;
-  margin-top: 3.05px;
-  min-width: 6px;
-}
-
-.gallery-1440 .trac-1712 {
-  height: 13px;
-  object-fit: cover;
-  width: 6px;
-}
-
-.gallery-1440 .trac-1709 {
-  height: 51px;
-  margin-left: 1px;
-  object-fit: cover;
-  width: 9px;
-}
-
-.gallery-1440 .flex-col {
-  align-self: flex-end;
-  flex-direction: column;
-  gap: 2px;
-  margin-bottom: 2.04px;
-  margin-left: 2px;
-  min-height: 31px;
-  width: 4px;
-}
-
-.gallery-1440 .trac-1634 {
-  height: 3px;
-  margin-left: 0.68px;
-  object-fit: cover;
-  width: 3px;
-}
-
-.gallery-1440 .overlap-group2 {
-  height: 26px;
-  position: relative;
-  width: 4px;
-}
-
-.gallery-1440 .groupe-5059 {
-  background-image: url(../img/groupe-1438-11@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5062 {
-  background-image: url(../img/groupe-4527-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 23px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5065 {
-  background-image: url(../img/groupe-202-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 8px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5068 {
-  background-image: url(../img/groupe-205-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5071 {
-  background-image: url(../img/groupe-1282-6@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 10px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5074 {
-  background-image: url(../img/groupe-211-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 23px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5080 {
-  background-image: url(../img/groupe-10101@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 10px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5083 {
-  background-image: url(../img/groupe-10008@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5086 {
-  background-image: url(../img/groupe-10134@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 18px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5089 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5092 {
-  background-image: url(../img/groupe-10134@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5095 {
-  background-image: url(../img/groupe-10113@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5098 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5101 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5104 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5107 {
-  background-image: url(../img/groupe-10338@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 8px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5110 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5113 {
-  background-image: url(../img/groupe-10344@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 23px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5116 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5119 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5122 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 23px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5125 {
-  background-image: url(../img/groupe-10113@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5128 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5131 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 15px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5134 {
-  background-image: url(../img/groupe-10113@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5137 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 23px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5140 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 8px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5143 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 9px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5146 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 4px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5149 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5-1 {
-  left: 1px;
-  top: 22px;
-}
-
-.gallery-1440 .groupe-5164 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5167 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5170 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-51 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 6px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5176 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5182 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 11px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5185 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5188 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 22px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5191 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 2px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5194 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 23px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-52 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5206 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 23px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5209 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5221 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 23px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5224 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 10px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5-2 {
-  left: 1px;
-  top: 15px;
-}
-
-.gallery-1440 .trac-1633 {
-  height: 26px;
-  left: 1px;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 2px;
-}
-
-.gallery-1440 .overlap-group {
-  align-self: flex-end;
-  height: 34px;
-  position: relative;
-  width: 11px;
-}
-
-.gallery-1440 .groupe-5077 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 18px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5152 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 12px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5179 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5-3 {
-  left: 1px;
-  top: 13px;
-}
-
-.gallery-1440 .groupe-5212 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 18px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5215 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 7px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5218 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 12px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5233 {
-  background-image: url(../img/groupe-370-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 31px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5236 {
-  background-image: url(../img/groupe-10092@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5239 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 31px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5242 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 33px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5245 {
-  background-image: url(../img/groupe-382-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 25px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5248 {
-  background-image: url(../img/groupe-385-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5251 {
-  background-image: url(../img/groupe-388-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 25px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5254 {
-  background-image: url(../img/groupe-391-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5257 {
-  background-image: url(../img/groupe-394-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 12px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5260 {
-  background-image: url(../img/groupe-397-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5263 {
-  background-image: url(../img/groupe-400-1-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 26px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5266 {
-  background-image: url(../img/groupe-1273-6@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 15px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5269 {
-  background-image: url(../img/groupe-58-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 27px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5272 {
-  background-image: url(../img/groupe-7511-11@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5275 {
-  background-image: url(../img/groupe-1297-6@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 27px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5278 {
-  background-image: url(../img/groupe-10056@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 15px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5281 {
-  background-image: url(../img/groupe-4383-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 25px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5284 {
-  background-image: url(../img/groupe-10332@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5287 {
-  background-image: url(../img/groupe-10302@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5290 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5293 {
-  background-image: url(../img/groupe-10344@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5296 {
-  background-image: url(../img/groupe-10326@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 25px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5299 {
-  background-image: url(../img/groupe-10011@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5302 {
-  background-image: url(../img/groupe-10338@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5305 {
-  background-image: url(../img/groupe-10332@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5308 {
-  background-image: url(../img/groupe-10008@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 11px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5311 {
-  background-image: url(../img/groupe-10104@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 27px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5314 {
-  background-image: url(../img/groupe-10332@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5317 {
-  background-image: url(../img/groupe-10107@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5320 {
-  background-image: url(../img/groupe-10101@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 26px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5323 {
-  background-image: url(../img/groupe-10338@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5326 {
-  background-image: url(../img/groupe-10134@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5329 {
-  background-image: url(../img/groupe-250-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5332 {
-  background-image: url(../img/groupe-250-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5335 {
-  background-image: url(../img/groupe-10344@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5338 {
-  background-image: url(../img/groupe-10326@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5341 {
-  background-image: url(../img/groupe-10134@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5344 {
-  background-image: url(../img/groupe-10134@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5347 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 31px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5350 {
-  background-image: url(../img/groupe-10113@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 12px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5356 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 26px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5359 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 7px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5362 {
-  background-image: url(../img/groupe-10113@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5-4 {
-  left: 7px;
-  top: 10px;
-}
-
-.gallery-1440 .groupe-5371 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5374 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 27px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5377 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 27px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5380 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5-5 {
-  left: 2px;
-  top: 29px;
-}
-
-.gallery-1440 .groupe-5386 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5389 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5392 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 26px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5395 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 18px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5398 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5401 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 10px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5404 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 25px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-54 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5410 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 16px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5413 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 15px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5419 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5422 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 4px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5425 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5431 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 27px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5437 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5443 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 25px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5446 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 4px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5449 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 7px;
-  opacity: 0.28;
-  position: absolute;
-  top: 10px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5452 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5455 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5458 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 27px;
-  width: 1px;
-}
-
-.gallery-1440 .groupe-5461 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.gallery-1440 .trac-1708 {
-  height: 33px;
-  left: 1px;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 10px;
-}
-
-.gallery-1440 .trac-1710 {
-  height: 25px;
-  margin-right: 0;
-  object-fit: cover;
-  width: 76px;
-}
-
-.gallery-1440 .trac-438 {
-  height: 140px;
-  left: -917px;
-  object-fit: cover;
-  position: fixed;
-  top: 125px;
-  width: 3275px;
-}
-
-.gallery-1440 .groupe-5465 {
-  align-items: flex-start;
-  cursor: pointer;
-  display: flex;
-  height: 39px;
-  justify-content: flex-end;
-  left: 627px;
-  min-width: 186px;
-  position: absolute;
-  top: 147px;
-}
-
-.gallery-1440 .groupe-container {
-  border-radius: 26px;
-  height: 39px;
-  margin-top: 0;
-  position: relative;
-  width: 186px;
-}
-
-.gallery-1440 .groupe-1823 {
-  align-items: flex-end;
-  background-color: var(--corn);
-  border-radius: 26px;
-  display: flex;
-  height: 39px;
-  left: 0;
-  min-width: 186px;
-  padding: 6.5px 62.0px;
-  position: absolute;
-  top: 0;
-}
-
-.gallery-1440 .accueil {
-  letter-spacing: 0;
-  line-height: 18px;
-  min-height: 21px;
-  min-width: 59px;
-  white-space: nowrap;
-}
-
-.gallery-1440 .groupe-2428 {
-  align-items: flex-start;
-  display: flex;
-  height: 28px;
-  justify-content: flex-end;
-  left: 11px;
-  min-width: 28px;
-  padding: 0.0px 0.0px;
-  position: absolute;
-  top: 6px;
-  transform: rotate(90deg);
-}
-
-.gallery-1440 .union-1 {
-  height: 28px;
-  object-fit: cover;
-  transform: rotate(-90deg);
-  width: 28px;
-}
-
-.gallery-1440 .groupe-10425 {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  gap: 1px;
-  left: 307px;
-  min-height: 20px;
-  position: absolute;
-  top: 29px;
-  width: 1019px;
-}
-
-.gallery-1440 .flex-row-1 {
-  align-items: center;
-  display: flex;
-  height: 17px;
-  margin-top: 1px;
-  min-width: 1019px;
-}
-
-.gallery-1440 .accueil-1 {
-  letter-spacing: 1.95px;
-  line-height: 13px;
-  min-height: 15px;
-  min-width: 69px;
-}
-
-.gallery-1440 .explorer-le-gte {
-  cursor: pointer;
-  letter-spacing: 1.95px;
-  line-height: 13px;
-  margin-left: 48px;
-  min-height: 17px;
-  min-width: 152px;
-  white-space: nowrap;
-}
-
-.gallery-1440 .galerie {
-  letter-spacing: 1.95px;
-  line-height: 13px;
-  margin-left: 49px;
-  min-height: 15px;
-  min-width: 69px;
-  white-space: nowrap;
-}
-
-.gallery-1440 .tarifs-et-rservations {
-  cursor: pointer;
-  letter-spacing: 1.95px;
-  line-height: 13px;
-  margin-left: 47px;
-  min-height: 16px;
-  min-width: 207px;
-  white-space: nowrap;
-}
-
-.gallery-1440 .activits-et-tourisme {
-  cursor: pointer;
-  letter-spacing: 1.95px;
-  line-height: 13px;
-  margin-left: 52px;
-  min-height: 16px;
-  min-width: 197px;
-  white-space: nowrap;
-}
-
-.gallery-1440 .place {
-  cursor: pointer;
-  letter-spacing: 1.95px;
-  line-height: 13px;
-  margin-left: 52px;
-  min-height: 15px;
-  min-width: 77px;
-  white-space: nowrap;
-}
-
-.gallery-1440 .rectangle-413 {
-  background-color: var(--corn);
-  height: 1px;
-  margin-right: 314.0px;
-  width: 69px;
-}
-
 .gallery-1440 .ltage {
   left: 210px;
   letter-spacing: 0;
@@ -2803,7 +267,7 @@ to{opacity: 1;
   width: 887px;
 }
 
-.gallery-1440 .overlap-group11 {
+.gallery-1440 .overlap-group12 {
   height: 916px;
   left: 201px;
   position: absolute;
@@ -2884,7 +348,7 @@ to{opacity: 1;
   top: 5864px;
 }
 
-.gallery-1440 .activits-et-tourisme-1 {
+.gallery-1440 .activits-et-tourisme {
   letter-spacing: 0;
   line-height: 18px;
   min-height: 21px;
@@ -2892,15 +356,17 @@ to{opacity: 1;
   white-space: nowrap;
 }
 
-.gallery-1440 .accueil-2 {
+.gallery-1440 .accueil {
+  cursor: pointer;
   left: 400px;
   letter-spacing: 1.50px;
   line-height: 15px;
   position: absolute;
   top: 6042px;
+  white-space: nowrap;
 }
 
-.gallery-1440 .explorer-le-gte-1 {
+.gallery-1440 .explorer-le-gte {
   cursor: pointer;
   left: 400px;
   letter-spacing: 1.50px;
@@ -2910,7 +376,7 @@ to{opacity: 1;
   white-space: nowrap;
 }
 
-.gallery-1440 .galerie-1 {
+.gallery-1440 .galerie {
   left: 400px;
   letter-spacing: 1.50px;
   line-height: 15px;
@@ -2919,7 +385,7 @@ to{opacity: 1;
   white-space: nowrap;
 }
 
-.gallery-1440 .tarifs-et-rservations-1 {
+.gallery-1440 .tarifs-et-rservations {
   cursor: pointer;
   left: 400px;
   letter-spacing: 1.50px;
@@ -2964,7 +430,7 @@ to{opacity: 1;
   width: 183.02px;
 }
 
-.gallery-1440 .flex-row-2 {
+.gallery-1440 .flex-row {
   align-items: flex-end;
   display: flex;
   height: 124px;
@@ -2983,7 +449,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.gallery-1440 .overlap-group-1 {
+.gallery-1440 .overlap-group {
   height: 121px;
   margin-bottom: 0.37px;
   margin-left: 5px;
@@ -3777,7 +1243,7 @@ to{opacity: 1;
   width: 22px;
 }
 
-.gallery-1440 .overlap-group3-1 {
+.gallery-1440 .overlap-group3 {
   align-items: flex-start;
   align-self: center;
   background-image: url(../img/trac--429-3@1x.png);
@@ -3803,7 +1269,7 @@ to{opacity: 1;
   width: 23px;
 }
 
-.gallery-1440 .flex-col-1 {
+.gallery-1440 .flex-col {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -3827,7 +1293,7 @@ to{opacity: 1;
   width: 9px;
 }
 
-.gallery-1440 .overlap-group2-1 {
+.gallery-1440 .overlap-group2 {
   height: 64px;
   left: 0;
   position: absolute;
@@ -4427,7 +1893,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.gallery-1440 .overlap-group1-1 {
+.gallery-1440 .overlap-group1 {
   height: 80px;
   left: 1px;
   position: absolute;
@@ -5435,17 +2901,15 @@ to{opacity: 1;
   width: 183px;
 }
 
-.gallery-1440 .activits-et-tourisme-2 {
-  cursor: pointer;
+.gallery-1440 .activits-et-tourisme-1 {
   left: 400px;
   letter-spacing: 1.50px;
   line-height: 15px;
   position: absolute;
   top: 6182px;
-  white-space: nowrap;
 }
 
-.gallery-1440 .place-1 {
+.gallery-1440 .place {
   cursor: pointer;
   left: 400px;
   letter-spacing: 1.50px;
@@ -5460,34 +2924,6 @@ to{opacity: 1;
   left: 369px;
   top: 6042px;
   width: 2px;
-}
-
-.gallery-1440 .composant-5-17 {
-  align-items: flex-start;
-  cursor: pointer;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  left: 1385px;
-  min-height: 15px;
-  position: absolute;
-  top: 28px;
-  width: 23px;
-}
-
-.gallery-1440 .rectangle-3215 {
-  background-color: var(--black);
-  border-radius: 2px;
-  height: 2px;
-  width: 23px;
-}
-
-.gallery-1440 .rectangle-321 {
-  background-color: var(--black);
-  border-radius: 2px;
-  height: 2px;
-  margin-left: 0.76px;
-  width: 23px;
 }
 
 .gallery-1440 .groupe-7382 {
@@ -5641,7 +3077,2575 @@ to{opacity: 1;
   width: 27px;
 }
 
-.gallery-1440 .accueil-3 {
+.gallery-1440 .rectangle-1906 {
+  background-color: var(--bianca);
+  height: 125px;
+  left: -918px;
+  position: fixed;
+  top: 0;
+  width: 3275px;
+}
+
+.gallery-1440 .groupe-5464 {
+  cursor: pointer;
+  display: flex;
+  height: 81px;
+  left: 24px;
+  overflow: hidden;
+  position: absolute;
+  top: 26px;
+  width: 76px;
+}
+
+.gallery-1440 .groupe-5463 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-top: 0;
+  width: 75.55px;
+}
+
+.gallery-1440 .groupe-5462 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 5px;
+  overflow: hidden;
+  padding: 0.0px 0;
+  width: 75.55px;
+}
+
+.gallery-1440 .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 52px;
+  margin-right: 2.12px;
+  min-width: 52px;
+}
+
+.gallery-1440 .groupe-5029 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-top: 3.2px;
+  opacity: 0.28;
+  width: 1px;
+}
+
+.gallery-1440 .overlap-group1-1 {
+  align-self: center;
+  height: 50px;
+  margin-left: 1px;
+  margin-top: 0.3px;
+  position: relative;
+  width: 15px;
+}
+
+.gallery-1440 .groupe-4864 {
+  background-image: url(../img/groupe-1-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4867 {
+  background-image: url(../img/groupe-4-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4870 {
+  background-image: url(../img/groupe-4868-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4873 {
+  background-image: url(../img/groupe-10-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4876 {
+  background-image: url(../img/groupe-13-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4879 {
+  background-image: url(../img/groupe-16-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4882 {
+  background-image: url(../img/groupe-19-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4885 {
+  background-image: url(../img/groupe-22-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4888 {
+  background-image: url(../img/groupe-13-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4891 {
+  background-image: url(../img/groupe-4845-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4894 {
+  background-image: url(../img/groupe-1306-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4 {
+  background-image: url(../img/groupe-376-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4903 {
+  background-image: url(../img/groupe-4362-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4906 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4909 {
+  background-image: url(../img/groupe-10077@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4912 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4915 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4918 {
+  background-image: url(../img/groupe-10089@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4921 {
+  background-image: url(../img/groupe-10005@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4924 {
+  background-image: url(../img/groupe-10005@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4927 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4930 {
+  background-image: url(../img/groupe-10326@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4933 {
+  background-image: url(../img/groupe-1564-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4936 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4939 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4942 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4945 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4948 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4951 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4954 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4957 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4960 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4963 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4966 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4969 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4972 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4975 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4978 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4981 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4984 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4987 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4990 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4993 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4996 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-4999 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5002 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5005 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5008 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5011 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5014 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5017 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5020 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5023 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5026 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.gallery-1440 .trac-1559 {
+  height: 43px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 7px;
+}
+
+.gallery-1440 .groupe-5032 {
+  background-image: url(../img/groupe-169-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5035 {
+  background-image: url(../img/groupe-10086@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5038 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5041 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5044 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5047 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5050 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5056 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.gallery-1440 .trac-1570 {
+  height: 50px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.gallery-1440 .overlap-group3-1 {
+  align-items: flex-start;
+  align-self: center;
+  background-image: url(../img/trac--1711-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-left: 1px;
+  margin-top: 3.05px;
+  min-width: 6px;
+}
+
+.gallery-1440 .trac-1712 {
+  height: 13px;
+  object-fit: cover;
+  width: 6px;
+}
+
+.gallery-1440 .trac-1709 {
+  height: 51px;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 9px;
+}
+
+.gallery-1440 .flex-col-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-bottom: 2.04px;
+  margin-left: 2px;
+  min-height: 31px;
+  width: 4px;
+}
+
+.gallery-1440 .trac-1634 {
+  height: 3px;
+  margin-left: 0.68px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.gallery-1440 .overlap-group2-1 {
+  height: 26px;
+  position: relative;
+  width: 4px;
+}
+
+.gallery-1440 .groupe-5059 {
+  background-image: url(../img/groupe-1438-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5062 {
+  background-image: url(../img/groupe-4527-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5065 {
+  background-image: url(../img/groupe-202-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5068 {
+  background-image: url(../img/groupe-205-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5071 {
+  background-image: url(../img/groupe-1282-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5074 {
+  background-image: url(../img/groupe-211-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5080 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5083 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5086 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5089 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5092 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5095 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5098 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5101 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5104 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5107 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5110 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5113 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5116 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5119 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5122 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5125 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5128 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5131 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5134 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5137 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5140 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5143 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5146 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5149 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5-1 {
+  left: 1px;
+  top: 22px;
+}
+
+.gallery-1440 .groupe-5164 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5167 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5170 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-51 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5176 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5182 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5185 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5188 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5191 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5194 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-52 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5206 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5209 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5221 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5224 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5-2 {
+  left: 1px;
+  top: 15px;
+}
+
+.gallery-1440 .trac-1633 {
+  height: 26px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.gallery-1440 .overlap-group-1 {
+  align-self: flex-end;
+  height: 34px;
+  position: relative;
+  width: 11px;
+}
+
+.gallery-1440 .groupe-5077 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5152 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5179 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5-3 {
+  left: 1px;
+  top: 13px;
+}
+
+.gallery-1440 .groupe-5212 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5215 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5218 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5233 {
+  background-image: url(../img/groupe-370-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5236 {
+  background-image: url(../img/groupe-10092@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5239 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5242 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5245 {
+  background-image: url(../img/groupe-382-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5248 {
+  background-image: url(../img/groupe-385-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5251 {
+  background-image: url(../img/groupe-388-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5254 {
+  background-image: url(../img/groupe-391-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5257 {
+  background-image: url(../img/groupe-394-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5260 {
+  background-image: url(../img/groupe-397-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5263 {
+  background-image: url(../img/groupe-400-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5266 {
+  background-image: url(../img/groupe-1273-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5269 {
+  background-image: url(../img/groupe-58-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5272 {
+  background-image: url(../img/groupe-7511-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5275 {
+  background-image: url(../img/groupe-1297-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5278 {
+  background-image: url(../img/groupe-10056@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5281 {
+  background-image: url(../img/groupe-4383-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5284 {
+  background-image: url(../img/groupe-10332@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5287 {
+  background-image: url(../img/groupe-10302@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5290 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5293 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5296 {
+  background-image: url(../img/groupe-10326@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5299 {
+  background-image: url(../img/groupe-10011@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5302 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5305 {
+  background-image: url(../img/groupe-10332@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5308 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5311 {
+  background-image: url(../img/groupe-10104@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5314 {
+  background-image: url(../img/groupe-10332@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5317 {
+  background-image: url(../img/groupe-10107@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5320 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5323 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5326 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5329 {
+  background-image: url(../img/groupe-250-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5332 {
+  background-image: url(../img/groupe-250-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5335 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5338 {
+  background-image: url(../img/groupe-10326@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5341 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5344 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5347 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5350 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5356 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5359 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5362 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5-4 {
+  left: 7px;
+  top: 10px;
+}
+
+.gallery-1440 .groupe-5371 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5374 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5377 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5380 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5-5 {
+  left: 2px;
+  top: 29px;
+}
+
+.gallery-1440 .groupe-5386 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5389 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5392 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5395 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5398 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5401 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5404 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-54 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5410 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5413 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5419 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5422 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5425 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5431 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5437 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5443 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5446 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5449 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5452 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5455 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5458 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.gallery-1440 .groupe-5461 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.gallery-1440 .trac-1708 {
+  height: 33px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.gallery-1440 .trac-1710 {
+  height: 25px;
+  margin-right: 0;
+  object-fit: cover;
+  width: 76px;
+}
+
+.gallery-1440 .trac-438 {
+  height: 140px;
+  left: -917px;
+  object-fit: cover;
+  position: fixed;
+  top: 125px;
+  width: 3275px;
+}
+
+.gallery-1440 .groupe-5465 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  justify-content: flex-end;
+  left: 627px;
+  min-width: 186px;
+  position: absolute;
+  top: 147px;
+}
+
+.gallery-1440 .groupe-container {
+  border-radius: 26px;
+  height: 39px;
+  margin-top: 0;
+  position: relative;
+  width: 186px;
+}
+
+.gallery-1440 .groupe-1823 {
+  align-items: flex-end;
+  background-color: var(--corn);
+  border-radius: 26px;
+  display: flex;
+  height: 39px;
+  left: 0;
+  min-width: 186px;
+  padding: 6.5px 62.0px;
+  position: absolute;
+  top: 0;
+}
+
+.gallery-1440 .accueil-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 21px;
+  min-width: 59px;
+  white-space: nowrap;
+}
+
+.gallery-1440 .groupe-2428 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  justify-content: flex-end;
+  left: 11px;
+  min-width: 28px;
+  padding: 0.0px 0.0px;
+  position: absolute;
+  top: 6px;
+  transform: rotate(90deg);
+}
+
+.gallery-1440 .union-1 {
+  height: 28px;
+  object-fit: cover;
+  transform: rotate(-90deg);
+  width: 28px;
+}
+
+.gallery-1440 .groupe-10425 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  left: 307px;
+  min-height: 20px;
+  position: absolute;
+  top: 29px;
+  width: 1019px;
+}
+
+.gallery-1440 .flex-row-2 {
+  align-items: center;
+  display: flex;
+  height: 17px;
+  margin-top: 1px;
+  min-width: 1019px;
+}
+
+.gallery-1440 .accueil-2 {
+  cursor: pointer;
+  letter-spacing: 1.95px;
+  line-height: 13px;
+  min-height: 15px;
+  min-width: 69px;
+  white-space: nowrap;
+}
+
+.gallery-1440 .explorer-le-gte-1 {
+  cursor: pointer;
+  letter-spacing: 1.95px;
+  line-height: 13px;
+  margin-left: 48px;
+  min-height: 17px;
+  min-width: 152px;
+  white-space: nowrap;
+}
+
+.gallery-1440 .galerie-1 {
+  letter-spacing: 1.95px;
+  line-height: 13px;
+  margin-left: 49px;
+  min-height: 15px;
+  min-width: 69px;
+  white-space: nowrap;
+}
+
+.gallery-1440 .tarifs-et-rservations-1 {
+  cursor: pointer;
+  letter-spacing: 1.95px;
+  line-height: 13px;
+  margin-left: 47px;
+  min-height: 16px;
+  min-width: 207px;
+  white-space: nowrap;
+}
+
+.gallery-1440 .activits-et-tourisme-2 {
+  letter-spacing: 1.95px;
+  line-height: 13px;
+  margin-left: 52px;
+  min-height: 16px;
+  min-width: 197px;
+}
+
+.gallery-1440 .place-1 {
+  cursor: pointer;
+  letter-spacing: 1.95px;
+  line-height: 13px;
+  margin-left: 52px;
+  min-height: 15px;
+  min-width: 77px;
+  white-space: nowrap;
+}
+
+.gallery-1440 .rectangle-413 {
+  background-color: var(--corn);
+  height: 1px;
+  margin-right: 314.0px;
+  width: 69px;
+}
+
+.gallery-1440 .composant-5-17 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 1385px;
+  min-height: 15px;
+  position: absolute;
+  top: 28px;
+  width: 23px;
+}
+
+.gallery-1440 .rectangle-3215 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 2px;
+  width: 23px;
+}
+
+.gallery-1440 .rectangle-321 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 2px;
+  margin-left: 0.76px;
+  width: 23px;
+}
+
+.gallery-1440 .activits-et-tourisme-3 {
   cursor: pointer;
   white-space: nowrap;
 }
@@ -5748,7 +5752,7 @@ to{opacity: 1;
 .gallery-375-all-breakpoints .accueil-6 {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-xxl);
   font-weight: 400;
   letter-spacing: 0;
   line-height: 14px;
@@ -6224,7 +6228,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.gallery-375-all-breakpoints .overlap-group1-5 {
+.gallery-375-all-breakpoints .overlap-group1-4 {
   align-self: center;
   height: 77px;
   margin-left: 3px;
@@ -7061,12 +7065,6 @@ to{opacity: 1;
   margin-left: 1.05px;
   object-fit: cover;
   width: 4px;
-}
-
-.gallery-375-all-breakpoints .overlap-group-6 {
-  height: 41px;
-  position: relative;
-  width: 6px;
 }
 
 .gallery-375-all-breakpoints .groupe-9413 {
@@ -8876,7 +8874,7 @@ to{opacity: 1;
   width: 171px;
 }
 
-.gallery-375-all-breakpoints .overlap-group8-1 {
+.gallery-375-all-breakpoints .overlap-group8-2 {
   height: 88px;
   left: -186px;
   position: absolute;
@@ -8928,7 +8926,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.gallery-375-all-breakpoints .overlap-group-4 {
+.gallery-375-all-breakpoints .overlap-group-5 {
   align-self: center;
   height: 31px;
   margin-bottom: 0.18px;
@@ -10128,7 +10126,7 @@ to{opacity: 1;
   width: 1px;
 }
 
-.gallery-375-all-breakpoints .overlap-group-5 {
+.gallery-375-all-breakpoints .overlap-group-6 {
   height: 22px;
   left: 3px;
   position: absolute;
@@ -11234,7 +11232,7 @@ to{opacity: 1;
   width: 179px;
 }
 
-.gallery-768 .overlap-group8 {
+.gallery-768 .overlap-group8-1 {
   align-items: flex-start;
   background-image: url(../img/whatsapp-image-2025-07-11---15-35-51-7003af20-5-1x-png-1x-png@1x.png);
   background-position: 50% 50%;
@@ -11260,158 +11258,6 @@ to{opacity: 1;
   position: absolute;
   top: 145px;
   width: 586px;
-}
-
-.gallery-768 .rectangle-1906-1 {
-  background-color: var(--bianca);
-  height: 67px;
-  left: -494px;
-  position: fixed;
-  top: 0;
-  width: 1755px;
-}
-
-.gallery-768 .trac-438-1 {
-  height: 75px;
-  left: -494px;
-  object-fit: cover;
-  position: fixed;
-  top: 67px;
-  width: 1756px;
-}
-
-.gallery-768 .groupe-5465-1 {
-  align-items: flex-start;
-  cursor: pointer;
-  display: flex;
-  height: 21px;
-  left: 334px;
-  min-width: 100px;
-  position: absolute;
-  top: 79px;
-}
-
-.gallery-768 .groupe-container-1 {
-  border-radius: 26px;
-  height: 21px;
-  position: relative;
-  width: 100px;
-}
-
-.gallery-768 .groupe-1823-1 {
-  align-items: flex-end;
-  background-color: var(--corn);
-  border-radius: 26px;
-  display: flex;
-  height: 21px;
-  justify-content: flex-end;
-  left: 0;
-  min-width: 100px;
-  padding: 2.0px 30.7px;
-  position: absolute;
-  top: 0;
-}
-
-.gallery-768 .accueil-3 {
-  letter-spacing: 0;
-  line-height: 11px;
-  min-height: 14px;
-  min-width: 37px;
-  white-space: nowrap;
-}
-
-.gallery-768 .groupe-2428-1 {
-  align-items: flex-end;
-  display: flex;
-  height: 15px;
-  justify-content: flex-end;
-  left: 6px;
-  min-width: 15px;
-  padding: 0.0px 0.0px;
-  position: absolute;
-  top: 3px;
-  transform: rotate(90deg);
-}
-
-.gallery-768 .union-1-1 {
-  height: 15px;
-  object-fit: cover;
-  transform: rotate(-90deg);
-  width: 15px;
-}
-
-.gallery-768 .groupe-10425-1 {
-  align-items: center;
-  display: flex;
-  height: 13px;
-  left: 163px;
-  min-width: 546px;
-  padding: 0.0px 0;
-  position: absolute;
-  top: 14px;
-}
-
-.gallery-768 .accueil-4 {
-  cursor: pointer;
-  letter-spacing: 1.05px;
-  line-height: 7px;
-  margin-top: 0.37px;
-  min-height: 9px;
-  min-width: 38px;
-  white-space: nowrap;
-}
-
-.gallery-768 .explorer-le-gte-2 {
-  letter-spacing: 1.05px;
-  margin-left: 24px;
-  margin-top: 0.37px;
-  min-height: 11px;
-  min-width: 83px;
-}
-
-.gallery-768 .flex-col-2 {
-  gap: 1px;
-  margin-left: 25px;
-  min-height: 11px;
-  width: 38px;
-}
-
-.gallery-768 .galerie-2 {
-  letter-spacing: 1.05px;
-  margin-left: 0;
-  min-height: 9px;
-}
-
-.gallery-768 .rectangle-413-1 {
-  background-color: var(--corn);
-  height: 1px;
-  width: 37px;
-}
-
-.gallery-768 .tarifs-et-rservations-2 {
-  letter-spacing: 1.05px;
-  margin-left: 24px;
-  margin-top: 0.37px;
-  min-height: 10px;
-  min-width: 112px;
-}
-
-.gallery-768 .activits-et-tourisme-3 {
-  letter-spacing: 1.05px;
-  line-height: 7px;
-  margin-left: 28px;
-  margin-top: 0.37px;
-  min-height: 10px;
-  min-width: 107px;
-  white-space: nowrap;
-}
-
-.gallery-768 .place-2 {
-  letter-spacing: 1.05px;
-  margin-left: 26px;
-  margin-top: 0.37px;
-  min-height: 9px;
-  min-width: 42px;
 }
 
 .gallery-768 .rectangle-1460-1 {
@@ -11527,7 +11373,7 @@ to{opacity: 1;
   top: 3143px;
 }
 
-.gallery-768 .activits-et-tourisme-4 {
+.gallery-768 .activits-et-tourisme-3 {
   letter-spacing: 0;
   line-height: 11px;
   min-height: 13px;
@@ -11535,7 +11381,7 @@ to{opacity: 1;
   white-space: nowrap;
 }
 
-.gallery-768 .accueil-5 {
+.gallery-768 .accueil-3 {
   cursor: pointer;
   left: 212px;
   letter-spacing: 0.70px;
@@ -11545,21 +11391,21 @@ to{opacity: 1;
   white-space: nowrap;
 }
 
-.gallery-768 .explorer-le-gte-3 {
+.gallery-768 .explorer-le-gte-2 {
   left: 212px;
   letter-spacing: 0.70px;
   position: absolute;
   top: 3258px;
 }
 
-.gallery-768 .galerie-3 {
+.gallery-768 .galerie-2 {
   left: 212px;
   letter-spacing: 0.70px;
   position: absolute;
   top: 3277px;
 }
 
-.gallery-768 .tarifs-et-rservations-3 {
+.gallery-768 .tarifs-et-rservations-2 {
   left: 212px;
   letter-spacing: 0.70px;
   position: absolute;
@@ -11575,7 +11421,7 @@ to{opacity: 1;
   width: 642px;
 }
 
-.gallery-768 .activits-et-tourisme-5 {
+.gallery-768 .activits-et-tourisme-4 {
   cursor: pointer;
   left: 212px;
   letter-spacing: 0.70px;
@@ -11585,7 +11431,7 @@ to{opacity: 1;
   white-space: nowrap;
 }
 
-.gallery-768 .place-3 {
+.gallery-768 .place-2 {
   left: 212px;
   letter-spacing: 0.70px;
   position: absolute;
@@ -11665,7 +11511,7 @@ to{opacity: 1;
   top: 3327px;
 }
 
-.gallery-768 .overlap-group1-2 {
+.gallery-768 .overlap-group-2 {
   height: 12px;
   margin-bottom: -1.2px;
   position: relative;
@@ -11692,6 +11538,1222 @@ to{opacity: 1;
   width: 11px;
 }
 
+.gallery-768 .groupe-1821-1 {
+  cursor: pointer;
+  display: flex;
+  height: 105px;
+  left: 43px;
+  overflow: hidden;
+  position: absolute;
+  top: 3239px;
+  width: 98px;
+}
+
+.gallery-768 .groupe-1820-1 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-top: 0;
+  width: 98.11px;
+}
+
+.gallery-768 .groupe-1819-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  overflow: hidden;
+  width: 98.11px;
+}
+
+.gallery-768 .flex-row-3 {
+  height: 67px;
+  margin-right: 2.75px;
+  min-width: 68px;
+}
+
+.gallery-768 .groupe-1386-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-top: 4.16px;
+  opacity: 0.28;
+  width: 1px;
+}
+
+.gallery-768 .overlap-group1-2 {
+  align-self: center;
+  height: 65px;
+  margin-left: 2px;
+  margin-top: 0.69px;
+  position: relative;
+  width: 20px;
+}
+
+.gallery-768 .groupe-1221-1 {
+  background-image: url(../img/groupe-1219-9@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 49px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1227-1 {
+  background-image: url(../img/groupe-1225-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 49px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1233-1 {
+  background-image: url(../img/groupe-1231-9@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1236-1 {
+  background-image: url(../img/groupe-1234-9@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1248-1 {
+  background-image: url(../img/groupe-1246-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1251-1 {
+  background-image: url(../img/groupe-1249-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1257-1 {
+  background-image: url(../img/groupe-1255-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1260-1 {
+  background-image: url(../img/groupe-1258-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1266-1 {
+  background-image: url(../img/groupe-4383-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1272-1 {
+  background-image: url(../img/groupe-226-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1278-1 {
+  background-image: url(../img/groupe-10047@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1284-1 {
+  background-image: url(../img/groupe-4548-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1287-1 {
+  background-image: url(../img/groupe-1306-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1293-1 {
+  background-image: url(../img/groupe-178-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1296-1 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1302-1 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1305-1 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1308-1 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1314-1 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1329-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1338-1 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 49px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1344-1 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1353-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1359-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1377-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 58px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1380-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1383-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.gallery-768 .trac-277-1 {
+  height: 55px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 9px;
+}
+
+.gallery-768 .groupe-1392-1 {
+  background-image: url(../img/groupe-1390-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1398-1 {
+  background-image: url(../img/groupe-10107@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1410-1 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.gallery-768 .trac-288-1 {
+  height: 65px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.gallery-768 .overlap-group3-2 {
+  align-items: flex-start;
+  align-self: center;
+  background-image: url(../img/trac--429-9-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-left: 1px;
+  margin-top: 4.25px;
+  min-width: 7px;
+}
+
+.gallery-768 .flex-col-2 {
+  gap: 2px;
+  margin-bottom: 2.35px;
+  margin-left: 3px;
+  min-height: 40px;
+  width: 5px;
+}
+
+.gallery-768 .overlap-group-3 {
+  height: 34px;
+  position: relative;
+  width: 5px;
+}
+
+.gallery-768 .groupe-1416-1 {
+  background-image: url(../img/groupe-1414-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1419-1 {
+  background-image: url(../img/groupe-1417-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1422-1 {
+  background-image: url(../img/groupe-1420-9-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1428-1 {
+  background-image: url(../img/groupe-1426-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1431-1 {
+  background-image: url(../img/groupe-1429-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1437-1 {
+  background-image: url(../img/groupe-10074@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1443-1 {
+  background-image: url(../img/groupe-1441-9@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1458-1 {
+  background-image: url(../img/groupe-10332@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1491-1 {
+  background-image: url(../img/groupe-10089@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1494-1 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1500-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-15 {
+  background-image: url(../img/groupe-10146@1x.png);
+  left: 1px;
+  top: 29px;
+}
+
+.gallery-768 .groupe-1521-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.gallery-768 .groupe {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1578-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1581-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.gallery-768 .overlap-group2-2 {
+  align-self: flex-end;
+  height: 43px;
+  position: relative;
+  width: 14px;
+}
+
+.gallery-768 .groupe-15-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1602-1 {
+  background-image: url(../img/groupe-1600-9-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1605-1 {
+  background-image: url(../img/groupe-1603-9@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1608-1 {
+  background-image: url(../img/groupe-1606-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1611-1 {
+  background-image: url(../img/groupe-1609-9@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1617-1 {
+  background-image: url(../img/groupe-1615-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1620-1 {
+  background-image: url(../img/groupe-1618-9-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1623-1 {
+  background-image: url(../img/groupe-1621-9@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1626-1 {
+  background-image: url(../img/groupe-1624-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1632-1 {
+  background-image: url(../img/groupe-10269@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1635-1 {
+  background-image: url(../img/groupe-415-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1641-1 {
+  background-image: url(../img/groupe-1639-9@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1653-1 {
+  background-image: url(../img/groupe-1525-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1656-1 {
+  background-image: url(../img/groupe-1381-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1662-1 {
+  background-image: url(../img/groupe-10071@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1665-1 {
+  background-image: url(../img/groupe-10068@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1674-1 {
+  background-image: url(../img/groupe-1543-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1677-1 {
+  background-image: url(../img/groupe-10059@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1680-1 {
+  background-image: url(../img/groupe-4371-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1695-1 {
+  background-image: url(../img/groupe-1306-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1704-1 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1707-1 {
+  background-image: url(../img/groupe-10104@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1728-1 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1734-1 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1737-1 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1746-1 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1749-1 {
+  background-image: url(../img/groupe-10089@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1764-1 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1776-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1779-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1815-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.gallery-768 .groupe-1818-1 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.gallery-768 .trac-428-1 {
+  height: 32px;
+  margin-right: 0;
+  object-fit: cover;
+  width: 98px;
+}
+
+.gallery-768 .ltage-1 {
+  left: 110px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 2557px;
+  white-space: nowrap;
+}
+
+.gallery-768 .surname-3 {
+  top: 134px;
+}
+
+.gallery-768 .ligne-58-1 {
+  height: 103px;
+  left: 196px;
+  object-fit: cover;
+  position: absolute;
+  top: 3239px;
+  width: 1px;
+}
+
+.gallery-768 .rectangle-1906-1 {
+  background-color: var(--bianca);
+  height: 67px;
+  left: -494px;
+  position: fixed;
+  top: 0;
+  width: 1755px;
+}
+
+.gallery-768 .trac-438-1 {
+  height: 75px;
+  left: -494px;
+  object-fit: cover;
+  position: fixed;
+  top: 67px;
+  width: 1756px;
+}
+
+.gallery-768 .groupe-5465-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 334px;
+  min-width: 100px;
+  position: absolute;
+  top: 79px;
+}
+
+.gallery-768 .groupe-container-1 {
+  border-radius: 26px;
+  height: 21px;
+  position: relative;
+  width: 100px;
+}
+
+.gallery-768 .groupe-1823-1 {
+  align-items: flex-end;
+  background-color: var(--corn);
+  border-radius: 26px;
+  display: flex;
+  height: 21px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 100px;
+  padding: 2.0px 30.7px;
+  position: absolute;
+  top: 0;
+}
+
+.gallery-768 .accueil-4 {
+  letter-spacing: 0;
+  line-height: 11px;
+  min-height: 14px;
+  min-width: 37px;
+  white-space: nowrap;
+}
+
+.gallery-768 .groupe-2428-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 15px;
+  justify-content: flex-end;
+  left: 6px;
+  min-width: 15px;
+  padding: 0.0px 0.0px;
+  position: absolute;
+  top: 3px;
+  transform: rotate(90deg);
+}
+
+.gallery-768 .union-1-1 {
+  height: 15px;
+  object-fit: cover;
+  transform: rotate(-90deg);
+  width: 15px;
+}
+
+.gallery-768 .groupe-10425-1 {
+  align-items: center;
+  display: flex;
+  height: 13px;
+  left: 163px;
+  min-width: 546px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 14px;
+}
+
+.gallery-768 .accueil-5 {
+  cursor: pointer;
+  letter-spacing: 1.05px;
+  line-height: 7px;
+  margin-top: 0.37px;
+  min-height: 9px;
+  min-width: 38px;
+  white-space: nowrap;
+}
+
+.gallery-768 .explorer-le-gte-3 {
+  letter-spacing: 1.05px;
+  margin-left: 24px;
+  margin-top: 0.37px;
+  min-height: 11px;
+  min-width: 83px;
+}
+
+.gallery-768 .flex-col-3 {
+  gap: 1px;
+  margin-left: 25px;
+  min-height: 11px;
+  width: 38px;
+}
+
+.gallery-768 .galerie-3 {
+  letter-spacing: 1.05px;
+  margin-left: 0;
+  min-height: 9px;
+}
+
+.gallery-768 .rectangle-413-1 {
+  background-color: var(--corn);
+  height: 1px;
+  width: 37px;
+}
+
+.gallery-768 .tarifs-et-rservations-3 {
+  letter-spacing: 1.05px;
+  margin-left: 24px;
+  margin-top: 0.37px;
+  min-height: 10px;
+  min-width: 112px;
+}
+
+.gallery-768 .activits-et-tourisme-5 {
+  letter-spacing: 1.05px;
+  line-height: 7px;
+  margin-left: 28px;
+  margin-top: 0.37px;
+  min-height: 10px;
+  min-width: 107px;
+  white-space: nowrap;
+}
+
+.gallery-768 .place-3 {
+  letter-spacing: 1.05px;
+  margin-left: 26px;
+  margin-top: 0.37px;
+  min-height: 9px;
+  min-width: 42px;
+}
+
 .gallery-768 .composant-5-23 {
   align-items: flex-start;
   cursor: pointer;
@@ -11702,13 +12764,6 @@ to{opacity: 1;
   min-height: 9px;
   position: absolute;
   top: 16px;
-  width: 11px;
-}
-
-.gallery-768 .rectangle-321-1 {
-  background-color: var(--black);
-  border-radius: 2px;
-  height: 1px;
   width: 11px;
 }
 
@@ -11741,7 +12796,7 @@ to{opacity: 1;
   width: 40.5px;
 }
 
-.gallery-768 .flex-row-3 {
+.gallery-768 .flex-row-4 {
   height: 28px;
   margin-right: 1.14px;
   min-width: 28px;
@@ -11995,16 +13050,10 @@ to{opacity: 1;
   width: 1px;
 }
 
-.gallery-768 .groupe {
+.gallery-768 .groupe-1 {
   background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
   left: 5px;
-  opacity: 0.28;
-  position: absolute;
   top: 24px;
-  width: 1px;
 }
 
 .gallery-768 .groupe-4933-1 {
@@ -12071,7 +13120,7 @@ to{opacity: 1;
   top: 21px;
 }
 
-.gallery-768 .groupe-1 {
+.gallery-768 .groupe-2 {
   background-image: url(../img/groupe-10167@1x.png);
   left: 6px;
   top: 7px;
@@ -12093,13 +13142,13 @@ to{opacity: 1;
   width: 1px;
 }
 
-.gallery-768 .groupe-2 {
+.gallery-768 .groupe-3 {
   background-image: url(../img/groupe-10167@1x.png);
   left: 7px;
   top: 10px;
 }
 
-.gallery-768 .groupe-3 {
+.gallery-768 .groupe-6 {
   background-image: url(../img/groupe-10167@1x.png);
   left: 5px;
   top: 15px;
@@ -12109,7 +13158,7 @@ to{opacity: 1;
   top: 9px;
 }
 
-.gallery-768 .groupe-6 {
+.gallery-768 .groupe-7 {
   background-image: url(../img/groupe-10167@1x.png);
   left: 5px;
   top: 20px;
@@ -12133,7 +13182,7 @@ to{opacity: 1;
   top: 23px;
 }
 
-.gallery-768 .groupe-7 {
+.gallery-768 .groupe-8 {
   background-image: url(../img/groupe-10167@1x.png);
   left: 6px;
   top: 5px;
@@ -12208,12 +13257,6 @@ to{opacity: 1;
   width: 1px;
 }
 
-.gallery-768 .groupe-8 {
-  background-image: url(../img/groupe-10167@1x.png);
-  left: 1px;
-  top: 8px;
-}
-
 .gallery-768 .groupe-5-7 {
   background-image: url(../img/groupe-10167@1x.png);
   left: 1px;
@@ -12259,7 +13302,7 @@ to{opacity: 1;
   width: 5px;
 }
 
-.gallery-768 .overlap-group2-2 {
+.gallery-768 .overlap-group2-3 {
   align-items: flex-start;
   background-image: url(../img/trac--1711-1-1x-png@1x.png);
   background-position: 50% 50%;
@@ -12293,7 +13336,7 @@ to{opacity: 1;
   width: 8px;
 }
 
-.gallery-768 .overlap-group-2 {
+.gallery-768 .overlap-group-4 {
   height: 19px;
   left: 0;
   position: absolute;
@@ -13181,1058 +14224,6 @@ to{opacity: 1;
   margin-right: 0;
   object-fit: cover;
   width: 40px;
-}
-
-.gallery-768 .groupe-1821-1 {
-  cursor: pointer;
-  display: flex;
-  height: 105px;
-  left: 43px;
-  overflow: hidden;
-  position: absolute;
-  top: 3239px;
-  width: 98px;
-}
-
-.gallery-768 .groupe-1820-1 {
-  display: flex;
-  flex: 1;
-  margin-bottom: 0;
-  margin-top: 0;
-  width: 98.11px;
-}
-
-.gallery-768 .groupe-1819-1 {
-  align-items: center;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  gap: 6px;
-  overflow: hidden;
-  width: 98.11px;
-}
-
-.gallery-768 .flex-row-4 {
-  height: 67px;
-  margin-right: 2.75px;
-  min-width: 68px;
-}
-
-.gallery-768 .groupe-1386-1 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  margin-top: 4.16px;
-  opacity: 0.28;
-  width: 1px;
-}
-
-.gallery-768 .overlap-group1-4 {
-  align-self: center;
-  height: 65px;
-  margin-left: 2px;
-  margin-top: 0.69px;
-  position: relative;
-  width: 20px;
-}
-
-.gallery-768 .groupe-1221-1 {
-  background-image: url(../img/groupe-1219-9@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 49px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1227-1 {
-  background-image: url(../img/groupe-1225-10-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 49px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1233-1 {
-  background-image: url(../img/groupe-1231-9@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 2px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 25px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1236-1 {
-  background-image: url(../img/groupe-1234-9@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 47px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1248-1 {
-  background-image: url(../img/groupe-1246-10-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 52px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1251-1 {
-  background-image: url(../img/groupe-1249-10-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 31px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1257-1 {
-  background-image: url(../img/groupe-1255-10-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 48px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1260-1 {
-  background-image: url(../img/groupe-1258-10-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 55px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1266-1 {
-  background-image: url(../img/groupe-4383-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 50px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1272-1 {
-  background-image: url(../img/groupe-226-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 47px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1278-1 {
-  background-image: url(../img/groupe-10047@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 53px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1284-1 {
-  background-image: url(../img/groupe-4548-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 51px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1287-1 {
-  background-image: url(../img/groupe-1306-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 57px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1293-1 {
-  background-image: url(../img/groupe-178-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1296-1 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 54px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1302-1 {
-  background-image: url(../img/groupe-10344@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 13px;
-  opacity: 0.28;
-  position: absolute;
-  top: 25px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1305-1 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 27px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1308-1 {
-  background-image: url(../img/groupe-10014@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 52px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1314-1 {
-  background-image: url(../img/groupe-10344@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 56px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1329-1 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 51px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1338-1 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 49px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1344-1 {
-  background-image: url(../img/groupe-10113@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 57px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1353-1 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 57px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1359-1 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 11px;
-  opacity: 0.28;
-  position: absolute;
-  top: 53px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1377-1 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 13px;
-  opacity: 0.28;
-  position: absolute;
-  top: 58px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1380-1 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 12px;
-  opacity: 0.28;
-  position: absolute;
-  top: 54px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1383-1 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 13px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
-.gallery-768 .trac-277-1 {
-  height: 55px;
-  left: 11px;
-  object-fit: cover;
-  position: absolute;
-  top: 10px;
-  width: 9px;
-}
-
-.gallery-768 .groupe-1392-1 {
-  background-image: url(../img/groupe-1390-10-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1398-1 {
-  background-image: url(../img/groupe-10107@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 20px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1410-1 {
-  background-image: url(../img/groupe-10134@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
-  width: 1px;
-}
-
-.gallery-768 .trac-288-1 {
-  height: 65px;
-  left: 0;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 12px;
-}
-
-.gallery-768 .overlap-group3-2 {
-  align-items: flex-start;
-  align-self: center;
-  background-image: url(../img/trac--429-9-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  display: flex;
-  margin-left: 1px;
-  margin-top: 4.25px;
-  min-width: 7px;
-}
-
-.gallery-768 .flex-col-3 {
-  gap: 2px;
-  margin-bottom: 2.35px;
-  margin-left: 3px;
-  min-height: 40px;
-  width: 5px;
-}
-
-.gallery-768 .overlap-group-3 {
-  height: 34px;
-  position: relative;
-  width: 5px;
-}
-
-.gallery-768 .groupe-1416-1 {
-  background-image: url(../img/groupe-1414-10-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 25px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1419-1 {
-  background-image: url(../img/groupe-1417-10-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1422-1 {
-  background-image: url(../img/groupe-1420-9-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 10px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1428-1 {
-  background-image: url(../img/groupe-1426-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1431-1 {
-  background-image: url(../img/groupe-1429-10-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 29px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1437-1 {
-  background-image: url(../img/groupe-10074@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1443-1 {
-  background-image: url(../img/groupe-1441-9@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 24px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1458-1 {
-  background-image: url(../img/groupe-10332@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1491-1 {
-  background-image: url(../img/groupe-10089@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1494-1 {
-  background-image: url(../img/groupe-100-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 31px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1500-1 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 12px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-15 {
-  background-image: url(../img/groupe-10146@1x.png);
-  left: 1px;
-  top: 29px;
-}
-
-.gallery-768 .groupe-1521-1 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 28px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1578-1 {
-  background-image: url(../img/groupe-10167@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 30px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1581-1 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 13px;
-  width: 1px;
-}
-
-.gallery-768 .overlap-group2-3 {
-  align-self: flex-end;
-  height: 43px;
-  position: relative;
-  width: 14px;
-}
-
-.gallery-768 .groupe-15-1 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 16px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1602-1 {
-  background-image: url(../img/groupe-1600-9-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 32px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1605-1 {
-  background-image: url(../img/groupe-1603-9@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 31px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1608-1 {
-  background-image: url(../img/groupe-1606-10-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 33px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1611-1 {
-  background-image: url(../img/groupe-1609-9@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 39px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1617-1 {
-  background-image: url(../img/groupe-1615-10-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 31px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1620-1 {
-  background-image: url(../img/groupe-1618-9-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 34px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1623-1 {
-  background-image: url(../img/groupe-1621-9@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1626-1 {
-  background-image: url(../img/groupe-1624-10-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 35px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1632-1 {
-  background-image: url(../img/groupe-10269@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 35px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1635-1 {
-  background-image: url(../img/groupe-415-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 19px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1641-1 {
-  background-image: url(../img/groupe-1639-9@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 32px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1653-1 {
-  background-image: url(../img/groupe-1525-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 33px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1656-1 {
-  background-image: url(../img/groupe-1381-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 36px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1662-1 {
-  background-image: url(../img/groupe-10071@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1665-1 {
-  background-image: url(../img/groupe-10068@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 15px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1674-1 {
-  background-image: url(../img/groupe-1543-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 32px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1677-1 {
-  background-image: url(../img/groupe-10059@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 34px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1680-1 {
-  background-image: url(../img/groupe-4371-1@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1695-1 {
-  background-image: url(../img/groupe-1306-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 36px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1704-1 {
-  background-image: url(../img/groupe-10101@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 40px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1707-1 {
-  background-image: url(../img/groupe-10104@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 16px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1728-1 {
-  background-image: url(../img/groupe-10113@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 37px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1734-1 {
-  background-image: url(../img/groupe-10200@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 6px;
-  opacity: 0.28;
-  position: absolute;
-  top: 35px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1737-1 {
-  background-image: url(../img/groupe-10113@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 9px;
-  opacity: 0.28;
-  position: absolute;
-  top: 17px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1746-1 {
-  background-image: url(../img/groupe-10122@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 37px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1749-1 {
-  background-image: url(../img/groupe-10089@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 34px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1764-1 {
-  background-image: url(../img/groupe-10338@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 38px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1776-1 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 37px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1779-1 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 3px;
-  opacity: 0.28;
-  position: absolute;
-  top: 5px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1815-1 {
-  background-image: url(../img/groupe-10128@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 2px;
-  opacity: 0.28;
-  position: absolute;
-  top: 36px;
-  width: 1px;
-}
-
-.gallery-768 .groupe-1818-1 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 4px;
-  opacity: 0.28;
-  position: absolute;
-  top: 26px;
-  width: 1px;
-}
-
-.gallery-768 .trac-428-1 {
-  height: 32px;
-  margin-right: 0;
-  object-fit: cover;
-  width: 98px;
-}
-
-.gallery-768 .ltage-1 {
-  left: 110px;
-  letter-spacing: 0;
-  line-height: 18px;
-  position: absolute;
-  top: 2557px;
-  white-space: nowrap;
-}
-
-.gallery-768 .surname-3 {
-  top: 134px;
-}
-
-.gallery-768 .ligne-58-1 {
-  height: 103px;
-  left: 196px;
-  object-fit: cover;
-  position: absolute;
-  top: 3239px;
-  width: 1px;
 }
 
 .gallery-768 .explorer-le-gte {

@@ -10579,7 +10579,7 @@
 .index-375 .explorez-le-gte-2 {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xl);
   font-weight: 700;
   left: 866px;
   letter-spacing: 0;
@@ -11643,13 +11643,6 @@
   gap: 4px;
   margin-left: 50px;
   min-height: 10px;
-  width: 11px;
-}
-
-.index-768-all-breakpoints .rectangle-321-1 {
-  background-color: var(--black);
-  border-radius: 2px;
-  height: 1px;
   width: 11px;
 }
 

@@ -1978,7 +1978,7 @@
 .pricing-1440 .address {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-xxxl);
   font-weight: 500;
   left: 144px;
   letter-spacing: 2.70px;
@@ -2143,7 +2143,7 @@
 .pricing-1440 .address-5 {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-xxxl);
   font-weight: 500;
   left: 254px;
   letter-spacing: 2.70px;
@@ -7121,12 +7121,6 @@
   width: 6px;
 }
 
-.pricing-375 .overlap-group-7 {
-  height: 41px;
-  position: relative;
-  width: 6px;
-}
-
 .pricing-375 .overlap-group-container-2 {
   align-self: flex-end;
   height: 51px;
@@ -7383,7 +7377,7 @@
 .pricing-375 .retrouvez-ici-toutes-2 {
   color: var(--corn);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-m);
+  font-size: var(--font-size-l);
   font-weight: 400;
   height: 211px;
   left: 52px;
@@ -8153,6 +8147,18 @@
   width: 1px;
 }
 
+.pricing-768-all-breakpoints .groupe-30-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
 .pricing-768-all-breakpoints .groupe-7 {
   background-image: url(../img/groupe-10167@1x.png);
   left: 5px;
@@ -8210,6 +8216,18 @@
   opacity: 0.28;
   position: absolute;
   top: 19px;
+  width: 1px;
+}
+
+.pricing-768-all-breakpoints .groupe-60-1 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
   width: 1px;
 }
 
@@ -8318,22 +8336,22 @@
   width: 8px;
 }
 
-.pricing-768-all-breakpoints .groupe-204-1 {
-  background-image: url(../img/groupe-10116@1x.png);
+.pricing-768-all-breakpoints .groupe-2-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  left: 1px;
+  top: 15px;
+}
+
+.pricing-768-all-breakpoints .groupe-22-1 {
+  background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
   left: 0;
   opacity: 0.28;
   position: absolute;
-  top: 7px;
+  top: 13px;
   width: 1px;
-}
-
-.pricing-768-all-breakpoints .groupe-2-1 {
-  background-image: url(../img/groupe-10146@1x.png);
-  left: 1px;
-  top: 15px;
 }
 
 .pricing-768-all-breakpoints .groupe-23 {
@@ -8587,13 +8605,6 @@
   width: 11px;
 }
 
-.pricing-768-all-breakpoints .rectangle-321-1 {
-  background-color: var(--black);
-  border-radius: 2px;
-  height: 1px;
-  width: 11px;
-}
-
 .pricing-768-all-breakpoints .overlap-group7-1 {
   height: 1375px;
   position: relative;
@@ -8833,7 +8844,7 @@
 .pricing-768-all-breakpoints .retrouvez-ici-toutes-1 {
   color: var(--corn);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-s);
+  font-size: var(--font-size-m);
   font-weight: 400;
   left: 83px;
   letter-spacing: 1.50px;

@@ -1,39 +1,24 @@
-/* screen - contact-768 */
+/* screen - activities-768 */
 
-.contact-768 {
-  align-items: flex-start;
+.activities-768 {
   background-color: var(--bianca);
-  display: flex;
-  flex-direction: column;
-  gap: 38px;
-  height: 617.6px;
-  padding: 14.1px 12.7px;
+  height: 3096.8px;
+  overflow: hidden;
+  position: relative;
   width: 768px;
 }
 
-.contact-768 .flex-col {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  min-height: 438px;
-  width: 738px;
-}
-
-.contact-768 .flex-row {
-  align-items: flex-start;
-  display: flex;
-  min-width: 738px;
-}
-
-.contact-768 .groupe-603 {
+.activities-768 .groupe-603 {
   cursor: pointer;
   display: flex;
   height: 43px;
-  overflow: hidden;
+  left: 13px;
+  position: absolute;
+  top: 14px;
   width: 40px;
 }
 
-.contact-768 .groupe-602 {
+.activities-768 .groupe-602 {
   display: flex;
   flex: 1;
   margin-bottom: 0;
@@ -41,7 +26,7 @@
   width: 40.29px;
 }
 
-.contact-768 .groupe-601 {
+.activities-768 .groupe-601 {
   align-items: center;
   display: flex;
   flex: 1;
@@ -51,15 +36,13 @@
   width: 40.29px;
 }
 
-.contact-768 .flex-row-1 {
-  align-items: flex-start;
-  display: flex;
+.activities-768 .flex-row {
   height: 28px;
   margin-right: 1.13px;
   min-width: 28px;
 }
 
-.contact-768 .groupe-168 {
+.activities-768 .groupe-168 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -69,13 +52,13 @@
   width: 1px;
 }
 
-.contact-768 .overlap-group-container {
+.activities-768 .overlap-group-container {
   height: 27px;
   margin-bottom: 0.3px;
   width: 11px;
 }
 
-.contact-768 .overlap-group1 {
+.activities-768 .overlap-group1 {
   height: 27px;
   left: 0;
   position: absolute;
@@ -83,7 +66,7 @@
   width: 8px;
 }
 
-.contact-768 .groupe-3-1 {
+.activities-768 .groupe-3-1 {
   background-image: url(../img/groupe-1-4-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -95,7 +78,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-6-1 {
+.activities-768 .groupe-6-1 {
   background-image: url(../img/groupe-7550-10@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -107,7 +90,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-18-1 {
+.activities-768 .groupe-18-1 {
   background-image: url(../img/groupe-10308@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -119,19 +102,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-21 {
-  background-image: url(../img/groupe-10299@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 5px;
-  opacity: 0.28;
-  position: absolute;
-  top: 21px;
-  width: 1px;
-}
-
-.contact-768 .groupe-24-1 {
+.activities-768 .groupe-24-1 {
   background-image: url(../img/groupe-10200@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -143,7 +114,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-27 {
+.activities-768 .groupe-27 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -155,7 +126,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-30 {
+.activities-768 .groupe-30 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -167,7 +138,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-33 {
+.activities-768 .groupe-33 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -179,8 +150,8 @@
   width: 1px;
 }
 
-.contact-768 .groupe-36 {
-  background-image: url(../img/groupe-10116@1x.png);
+.activities-768 .groupe {
+  background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -191,7 +162,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-39 {
+.activities-768 .groupe-39 {
   background-image: url(../img/groupe-10113@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -203,7 +174,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-42-1 {
+.activities-768 .groupe-42-1 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -215,7 +186,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe {
+.activities-768 .groupe-1 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -227,7 +198,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-48 {
+.activities-768 .groupe-48 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -239,7 +210,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-51 {
+.activities-768 .groupe-51 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -251,7 +222,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-54 {
+.activities-768 .groupe-54 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -263,7 +234,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-57 {
+.activities-768 .groupe-57 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -275,7 +246,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-60 {
+.activities-768 .groupe-60 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -287,7 +258,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-63 {
+.activities-768 .groupe-63 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -299,7 +270,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-66 {
+.activities-768 .groupe-66 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -311,7 +282,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1 {
+.activities-768 .groupe-2 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -323,7 +294,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-72 {
+.activities-768 .groupe-72 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -335,7 +306,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-78 {
+.activities-768 .groupe-78 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -347,7 +318,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-2 {
+.activities-768 .groupe-3 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -359,7 +330,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-84 {
+.activities-768 .groupe-84 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -371,7 +342,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-87 {
+.activities-768 .groupe-87 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -383,7 +354,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-3 {
+.activities-768 .groupe-4 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -395,7 +366,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-93 {
+.activities-768 .groupe-93 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -407,7 +378,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-99 {
+.activities-768 .groupe-99 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -419,7 +390,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-4 {
+.activities-768 .groupe-5 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -431,12 +402,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1-3 {
-  left: 5px;
-  top: 20px;
-}
-
-.contact-768 .groupe-123 {
+.activities-768 .groupe-123 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -448,12 +414,12 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1-4 {
+.activities-768 .groupe-1-3 {
   left: 4px;
   top: 23px;
 }
 
-.contact-768 .groupe-5 {
+.activities-768 .groupe-6 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -465,12 +431,12 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1-5 {
+.activities-768 .groupe-1-4 {
   left: 5px;
   top: 22px;
 }
 
-.contact-768 .groupe-147 {
+.activities-768 .groupe-147 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -482,7 +448,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-153 {
+.activities-768 .groupe-153 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -494,7 +460,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-6 {
+.activities-768 .groupe-7 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -506,7 +472,7 @@
   width: 1px;
 }
 
-.contact-768 .trac-56 {
+.activities-768 .trac-56 {
   height: 23px;
   left: 4px;
   object-fit: cover;
@@ -515,7 +481,7 @@
   width: 4px;
 }
 
-.contact-768 .groupe-171 {
+.activities-768 .groupe-171 {
   background-image: url(../img/groupe-1564-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -527,7 +493,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-174 {
+.activities-768 .groupe-174 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -539,7 +505,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-7 {
+.activities-768 .groupe-8 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -551,7 +517,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-8 {
+.activities-768 .groupe-9 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -563,7 +529,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-9 {
+.activities-768 .groupe-10 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -575,7 +541,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-189 {
+.activities-768 .groupe-189 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -587,7 +553,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-195 {
+.activities-768 .groupe-195 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -599,7 +565,7 @@
   width: 1px;
 }
 
-.contact-768 .trac-67 {
+.activities-768 .trac-67 {
   height: 27px;
   left: 0;
   object-fit: cover;
@@ -608,7 +574,7 @@
   width: 5px;
 }
 
-.contact-768 .overlap-group2 {
+.activities-768 .overlap-group2 {
   align-items: flex-start;
   background-image: url(../img/trac--208-5-1x-png@1x.png);
   background-position: 50% 50%;
@@ -621,20 +587,20 @@
   top: 11px;
 }
 
-.contact-768 .trac-210 {
+.activities-768 .trac-210 {
   height: 7px;
   object-fit: cover;
   width: 3px;
 }
 
-.contact-768 .trac-206 {
+.activities-768 .trac-206 {
   height: 27px;
   margin-left: 1px;
   object-fit: cover;
   width: 5px;
 }
 
-.contact-768 .overlap-group4 {
+.activities-768 .overlap-group4 {
   align-self: flex-end;
   height: 18px;
   margin-left: 1px;
@@ -642,7 +608,7 @@
   width: 8px;
 }
 
-.contact-768 .overlap-group {
+.activities-768 .overlap-group {
   height: 18px;
   left: 0;
   position: absolute;
@@ -650,7 +616,7 @@
   width: 8px;
 }
 
-.contact-768 .groupe-198 {
+.activities-768 .groupe-198 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -662,7 +628,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-201 {
+.activities-768 .groupe-201 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -674,8 +640,8 @@
   width: 1px;
 }
 
-.contact-768 .groupe-204 {
-  background-image: url(../img/groupe-10116@1x.png);
+.activities-768 .groupe-204 {
+  background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -686,7 +652,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-207 {
+.activities-768 .groupe-207 {
   background-image: url(../img/groupe-100-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -698,7 +664,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-210 {
+.activities-768 .groupe-210 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -710,13 +676,13 @@
   width: 1px;
 }
 
-.contact-768 .groupe-2-1 {
+.activities-768 .groupe-2-1 {
   background-image: url(../img/groupe-10146@1x.png);
   left: 1px;
   top: 15px;
 }
 
-.contact-768 .groupe-216 {
+.activities-768 .groupe-216 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -728,7 +694,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-219 {
+.activities-768 .groupe-219 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -740,7 +706,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-22 {
+.activities-768 .groupe-22 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -752,7 +718,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-10 {
+.activities-768 .groupe-11 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -764,7 +730,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-231 {
+.activities-768 .groupe-231 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -776,7 +742,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-237 {
+.activities-768 .groupe-237 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -788,7 +754,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-24 {
+.activities-768 .groupe-24 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -800,7 +766,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-11 {
+.activities-768 .groupe-12 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -812,7 +778,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-246 {
+.activities-768 .groupe-246 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -824,19 +790,19 @@
   width: 1px;
 }
 
-.contact-768 .groupe-258 {
+.activities-768 .groupe-13 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
-  left: 2px;
+  left: 1px;
   opacity: 0.28;
   position: absolute;
   top: 14px;
   width: 1px;
 }
 
-.contact-768 .groupe-12 {
+.activities-768 .groupe-14 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -848,7 +814,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-270 {
+.activities-768 .groupe-270 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -860,7 +826,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-13 {
+.activities-768 .groupe-15 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -872,7 +838,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-279 {
+.activities-768 .groupe-279 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -884,7 +850,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-282 {
+.activities-768 .groupe-282 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -896,7 +862,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-285 {
+.activities-768 .groupe-285 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -908,7 +874,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-14 {
+.activities-768 .groupe-16 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -920,7 +886,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-15 {
+.activities-768 .groupe-17 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -932,7 +898,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-16 {
+.activities-768 .groupe-18 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -944,7 +910,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-306 {
+.activities-768 .groupe-306 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -956,7 +922,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-309 {
+.activities-768 .groupe-309 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -968,7 +934,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-318 {
+.activities-768 .groupe-318 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -980,7 +946,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-321 {
+.activities-768 .groupe-321 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -992,7 +958,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-348 {
+.activities-768 .groupe-348 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1004,7 +970,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-351 {
+.activities-768 .groupe-351 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1016,7 +982,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-17 {
+.activities-768 .groupe-19 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1028,7 +994,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-369 {
+.activities-768 .groupe-369 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1040,7 +1006,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-372 {
+.activities-768 .groupe-372 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1052,7 +1018,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-375 {
+.activities-768 .groupe-375 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1064,7 +1030,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-378 {
+.activities-768 .groupe-378 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1076,7 +1042,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-381 {
+.activities-768 .groupe-381 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1088,7 +1054,7 @@
   width: 1px;
 }
 
-.contact-768 .trac-130 {
+.activities-768 .trac-130 {
   height: 14px;
   left: 0;
   object-fit: cover;
@@ -1097,7 +1063,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-384 {
+.activities-768 .groupe-384 {
   background-image: url(../img/groupe-382-5-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1109,7 +1075,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-387 {
+.activities-768 .groupe-387 {
   background-image: url(../img/groupe-10101@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1121,7 +1087,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-390 {
+.activities-768 .groupe-390 {
   background-image: url(../img/groupe-10107@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1133,7 +1099,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-393 {
+.activities-768 .groupe-393 {
   background-image: url(../img/groupe-4599-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1145,7 +1111,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-396 {
+.activities-768 .groupe-396 {
   background-image: url(../img/groupe-10077@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1157,7 +1123,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-399 {
+.activities-768 .groupe-399 {
   background-image: url(../img/groupe-10338@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1169,7 +1135,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-402 {
+.activities-768 .groupe-402 {
   background-image: url(../img/groupe-10005@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1181,7 +1147,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-405 {
+.activities-768 .groupe-405 {
   background-image: url(../img/groupe-100-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1193,7 +1159,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-408 {
+.activities-768 .groupe-408 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1205,7 +1171,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-411 {
+.activities-768 .groupe-411 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1217,7 +1183,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-414 {
+.activities-768 .groupe-414 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1229,7 +1195,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-417 {
+.activities-768 .groupe-417 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1241,7 +1207,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-42 {
+.activities-768 .groupe-42 {
   background-image: url(../img/groupe-10113@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1253,7 +1219,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-426 {
+.activities-768 .groupe-426 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1265,7 +1231,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-429 {
+.activities-768 .groupe-429 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1277,7 +1243,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-18 {
+.activities-768 .groupe-20 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1289,11 +1255,11 @@
   width: 1px;
 }
 
-.contact-768 .groupe-4-1 {
+.activities-768 .groupe-4-1 {
   top: 14px;
 }
 
-.contact-768 .groupe-441 {
+.activities-768 .groupe-441 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1305,7 +1271,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-444 {
+.activities-768 .groupe-444 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1317,7 +1283,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-447 {
+.activities-768 .groupe-447 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1329,7 +1295,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-19 {
+.activities-768 .groupe-21 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1341,7 +1307,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-20 {
+.activities-768 .groupe-23 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1353,7 +1319,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-456 {
+.activities-768 .groupe-456 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1365,7 +1331,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-465 {
+.activities-768 .groupe-465 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1377,7 +1343,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-468 {
+.activities-768 .groupe-468 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1389,7 +1355,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-477 {
+.activities-768 .groupe-477 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1401,7 +1367,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-480 {
+.activities-768 .groupe-480 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1413,7 +1379,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-486 {
+.activities-768 .groupe-486 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1425,7 +1391,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-489 {
+.activities-768 .groupe-489 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1437,11 +1403,11 @@
   width: 1px;
 }
 
-.contact-768 .groupe-5-1 {
+.activities-768 .groupe-5-1 {
   top: 15px;
 }
 
-.contact-768 .groupe-504 {
+.activities-768 .groupe-504 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1453,7 +1419,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-513 {
+.activities-768 .groupe-513 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1465,7 +1431,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-516 {
+.activities-768 .groupe-516 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1477,7 +1443,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-519 {
+.activities-768 .groupe-519 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1489,11 +1455,11 @@
   width: 1px;
 }
 
-.contact-768 .groupe-5-2 {
+.activities-768 .groupe-5-2 {
   top: 16px;
 }
 
-.contact-768 .groupe-531 {
+.activities-768 .groupe-531 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1505,7 +1471,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-534 {
+.activities-768 .groupe-534 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1517,15 +1483,15 @@
   width: 1px;
 }
 
-.contact-768 .groupe-5-3 {
+.activities-768 .groupe-5-3 {
   top: 5px;
 }
 
-.contact-768 .groupe-5-4 {
+.activities-768 .groupe-5-4 {
   top: 13px;
 }
 
-.contact-768 .groupe-549 {
+.activities-768 .groupe-549 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1537,7 +1503,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-561 {
+.activities-768 .groupe-561 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1549,7 +1515,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-573 {
+.activities-768 .groupe-573 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1561,7 +1527,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-585 {
+.activities-768 .groupe-585 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1573,7 +1539,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-594 {
+.activities-768 .groupe-594 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1585,7 +1551,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-600 {
+.activities-768 .groupe-600 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -1597,7 +1563,7 @@
   width: 1px;
 }
 
-.contact-768 .trac-205 {
+.activities-768 .trac-205 {
   height: 18px;
   left: 3px;
   object-fit: cover;
@@ -1606,7 +1572,7 @@
   width: 5px;
 }
 
-.contact-768 .trac-131 {
+.activities-768 .trac-131 {
   height: 1px;
   left: 0;
   object-fit: cover;
@@ -1615,24 +1581,311 @@
   width: 1px;
 }
 
-.contact-768 .trac-207 {
+.activities-768 .trac-207 {
   height: 13px;
   margin-right: 0;
   object-fit: cover;
   width: 40px;
 }
 
-.contact-768 .groupe-10425 {
+.activities-768 .x2-randonnes {
+  left: 423px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 738px;
+  white-space: nowrap;
+}
+
+.activities-768 .x1-le-puy-du-fou-30-min {
+  left: 423px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 506px;
+  white-space: nowrap;
+}
+
+.activities-768 .x3-clisson-hellfest-25-min {
+  left: 423px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 960px;
+  white-space: nowrap;
+}
+
+.activities-768 .groupe-3637 {
+  cursor: pointer;
+  display: flex;
+  height: 20px;
+  left: 423px;
+  position: absolute;
+  top: 873px;
+  width: 64px;
+}
+
+.activities-768 .groupe-3638 {
+  align-items: flex-end;
+  background-color: var(--corn);
+  border-radius: 26px;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  min-width: 64px;
+  padding: 2px 6px;
+}
+
+.activities-768 .dcouvrir {
+  letter-spacing: 0;
+  line-height: 11px;
+  min-height: 13px;
+  min-width: 50px;
+  white-space: nowrap;
+}
+
+.activities-768 .groupe-3643 {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 423px;
+  position: absolute;
+  top: 656px;
+  width: 64px;
+}
+
+.activities-768 .groupe-3638-2 {
+  background-image: url(../img/trac--2172-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  min-width: 63.6px;
+  padding: 2.4px 5.8px;
+}
+
+.activities-768 .groupe-3644 {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 423px;
+  position: absolute;
+  top: 1105px;
+  width: 64px;
+}
+
+.activities-768 .groupe-3638-3 {
+  background-color: var(--corn);
+  border-radius: 26px;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  min-width: 64px;
+  padding: 3.0px 6px;
+}
+
+.activities-768 .groupe-de-masques-3 {
+  height: 214px;
+  left: 41px;
+  top: 709px;
+  width: 353px;
+}
+
+.activities-768 .groupe-de-masques-8 {
+  height: 215px;
+  left: 41px;
+  top: 481px;
+  width: 353px;
+}
+
+.activities-768 .groupe-de-masques-12 {
+  height: 365px;
+  left: 394px;
+  top: 68px;
+  width: 374px;
+}
+
+.activities-768 .ligne-36 {
+  height: 34px;
+  left: 425px;
+  top: 793px;
+  width: 1px;
+}
+
+.activities-768 .ligne-41 {
+  height: 34px;
+  left: 425px;
+  top: 574px;
+  width: 1px;
+}
+
+.activities-768 .ligne-87 {
+  height: 132px;
+  left: 40px;
+  top: 247px;
+  width: 1px;
+}
+
+.activities-768 .ligne-42 {
+  height: 79px;
+  left: 425px;
+  top: 1005px;
+  width: 1px;
+}
+
+.activities-768 .trac-2442 {
+  height: 65px;
+  left: 270px;
+  object-fit: cover;
+  position: absolute;
+  top: 134px;
+  width: 79px;
+}
+
+.activities-768 .groupe-de-masques-17 {
+  height: 214px;
+  left: 41px;
+  top: 937px;
+  width: 353px;
+}
+
+.activities-768 .x4-nantes-50-min {
+  color: var(--gravel);
+  font-family: var(--font-family-josefin_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  left: 423px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 1185px;
+  white-space: nowrap;
+}
+
+.activities-768 .groupe-3645 {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 423px;
+  position: absolute;
+  top: 1340px;
+  width: 64px;
+}
+
+.activities-768 .groupe-3638-4 {
+  background-color: var(--corn);
+  border-radius: 26px;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  min-width: 64px;
+  padding: 3px 6px;
+}
+
+.activities-768 .ligne-43 {
+  height: 80px;
+  left: 425px;
+  top: 1234px;
+  width: 1px;
+}
+
+.activities-768 .groupe-de-masques-18 {
+  height: 215px;
+  left: 41px;
+  top: 1164px;
+  width: 353px;
+}
+
+.activities-768 .x6-chteau-de-tiffauges-10-min {
+  left: 424px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 1644px;
+  white-space: nowrap;
+}
+
+.activities-768 .ligne-81 {
+  height: 48px;
+  left: 424px;
+  top: 1701px;
+  width: 1px;
+}
+
+.activities-768 .groupe-de-masques-19 {
+  height: 214px;
+  left: 41px;
+  top: 1621px;
+  width: 353px;
+}
+
+.activities-768 .x5-la-cte-vendenne-1h10 {
+  left: 423px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 1412px;
+  white-space: nowrap;
+}
+
+.activities-768 .groupe-3646 {
+  cursor: pointer;
+  display: flex;
+  height: 20px;
+  left: 423px;
+  position: absolute;
+  top: 1569px;
+  width: 64px;
+}
+
+.activities-768 .groupe-de-masques-11 {
+  height: 214px;
+  left: 41px;
+  top: 1392px;
+  width: 353px;
+}
+
+.activities-768 .ligne-44 {
+  height: 62px;
+  left: 425px;
+  top: 1469px;
+  width: 1px;
+}
+
+.activities-768 .aux-alentours {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 194px;
+  white-space: nowrap;
+}
+
+.activities-768 .notre-gte-est-idal {
+  height: 188px;
+  left: 48px;
+  letter-spacing: 1.20px;
+  line-height: 12px;
+  position: absolute;
+  top: 247px;
+  width: 320px;
+}
+
+.activities-768 .groupe-10425 {
   align-items: flex-end;
   display: flex;
   height: 11px;
-  margin-left: 111px;
-  margin-top: 1.95px;
+  left: 164px;
   min-width: 544px;
+  position: absolute;
+  top: 16px;
 }
 
-.contact-768 .accueil {
-  align-self: center;
+.activities-768 .accueil {
   cursor: pointer;
   letter-spacing: 1.05px;
   line-height: 7px;
@@ -1641,7 +1894,7 @@
   white-space: nowrap;
 }
 
-.contact-768 .explorer-le-gte {
+.activities-768 .explorer-le-gte {
   cursor: pointer;
   letter-spacing: 1.05px;
   line-height: 7px;
@@ -1652,8 +1905,7 @@
   white-space: nowrap;
 }
 
-.contact-768 .galerie {
-  align-self: center;
+.activities-768 .galerie {
   cursor: pointer;
   letter-spacing: 1.05px;
   line-height: 7px;
@@ -1663,7 +1915,7 @@
   white-space: nowrap;
 }
 
-.contact-768 .tarifs-et-rservations {
+.activities-768 .tarifs-et-rservations {
   cursor: pointer;
   letter-spacing: 1.05px;
   line-height: 7px;
@@ -1674,25 +1926,15 @@
   white-space: nowrap;
 }
 
-.contact-768 .activits-et-tourisme {
-  cursor: pointer;
-  letter-spacing: 1.05px;
-  line-height: 7px;
+.activities-768 .overlap-group5 {
+  height: 10px;
   margin-bottom: -0.5px;
   margin-left: 26px;
-  min-height: 10px;
-  min-width: 107px;
-  white-space: nowrap;
-}
-
-.contact-768 .overlap-group5 {
-  height: 9px;
-  margin-left: 26px;
   position: relative;
-  width: 42px;
+  width: 107px;
 }
 
-.contact-768 .place {
+.activities-768 .activits-et-tourisme {
   left: 0;
   letter-spacing: 1.05px;
   line-height: 7px;
@@ -1701,300 +1943,415 @@
   white-space: nowrap;
 }
 
-.contact-768 .rectangle-413 {
+.activities-768 .rectangle-413 {
   background-color: var(--corn);
   height: 1px;
   left: 0;
   position: absolute;
   top: 8px;
-  width: 40px;
+  width: 105px;
 }
 
-.contact-768 .composant-5-26 {
-  align-items: flex-start;
+.activities-768 .place {
   cursor: pointer;
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-  margin-left: 32px;
-  margin-top: 2.95px;
+  letter-spacing: 1.05px;
+  line-height: 7px;
+  margin-left: 26px;
   min-height: 9px;
-  width: 11px;
+  min-width: 42px;
+  white-space: nowrap;
 }
 
-.contact-768 .rectangle-321 {
-  background-color: var(--black);
-  border-radius: 2px;
-  height: 1px;
-  width: 11px;
-}
-
-.contact-768 .flex-row-2 {
-  align-items: center;
-  display: flex;
-  gap: 48px;
-  margin-right: 14.86px;
-  margin-top: 56px;
-  min-width: 603px;
-}
-
-.contact-768 .overlap-group7 {
-  background-image: url(../img/groupe-de-masques-24-1-1x-png-1x-png@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 273px;
-  position: relative;
-  width: 226px;
-}
-
-.contact-768 .rectangle-3010 {
-  background-color: var(--black);
-  border-radius: 20px;
-  box-shadow: 0px 5px 10px #000000d4;
-  height: 273px;
-  left: 0;
-  opacity: 0.6;
+.activities-768 .x8-logis-de-la-chabotterie-40-min {
+  left: 424px;
+  letter-spacing: 0;
+  line-height: 14px;
   position: absolute;
-  top: 0;
-  width: 226px;
+  top: 2102px;
+  white-space: nowrap;
 }
 
-.contact-768 .union-24 {
-  height: 87px;
-  left: 67px;
-  object-fit: cover;
+.activities-768 .x7-lautre-usine-25-min {
+  color: var(--gravel);
+  font-family: var(--font-family-josefin_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  left: 424px;
+  letter-spacing: 0;
+  line-height: 13px;
   position: absolute;
-  top: 45px;
-  width: 93px;
+  top: 1873px;
+  white-space: nowrap;
 }
 
-.contact-768 .une-question-ou-une {
-  left: 14px;
+.activities-768 .plusieurs-parcours-e {
+  left: 440px;
   letter-spacing: 1.00px;
   line-height: 10px;
   position: absolute;
-  text-align: center;
-  top: 219px;
+  top: 798px;
   white-space: nowrap;
 }
 
-.contact-768 .contactez-nous {
-  color: var(--white);
-  font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-l);
-  font-weight: 400;
-  left: 71px;
+.activities-768 .venez-jeter-un-il {
+  left: 440px;
+  letter-spacing: 1.00px;
+  line-height: 10px;
+  position: absolute;
+  top: 2164px;
+  white-space: nowrap;
+}
+
+.activities-768 .il-y-en-a-pour-tous {
+  left: 440px;
+  letter-spacing: 1.00px;
+  line-height: 10px;
+  position: absolute;
+  top: 1942px;
+  white-space: nowrap;
+}
+
+.activities-768 .vous-allez-en-prendr {
+  height: 59px;
+  left: 440px;
+  letter-spacing: 1.00px;
+  line-height: 10px;
+  position: absolute;
+  top: 573px;
+  width: 258px;
+}
+
+.activities-768 .une-pause-dans-cette {
+  height: 80px;
+  left: 440px;
+  letter-spacing: 1.00px;
+  line-height: 10px;
+  position: absolute;
+  top: 1005px;
+  width: 262px;
+}
+
+.activities-768 .groupe-3642 {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 424px;
+  position: absolute;
+  top: 2021px;
+  width: 63px;
+}
+
+.activities-768 .groupe-3638-1 {
+  background-color: var(--corn);
+  border-radius: 26px;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  min-width: 63px;
+  padding: 3.0px 5px;
+}
+
+.activities-768 .groupe-de-masques-6 {
+  height: 214px;
+  left: 41px;
+  top: 2076px;
+  width: 353px;
+}
+
+.activities-768 .groupe-de-masques-7 {
+  height: 214px;
+  left: 41px;
+  top: 1848px;
+  width: 353px;
+}
+
+.activities-768 .ligne-39 {
+  height: 36px;
+  left: 426px;
+  top: 2160px;
+  width: 1px;
+}
+
+.activities-768 .ligne-40 {
+  height: 34px;
+  left: 426px;
+  top: 1938px;
+  width: 1px;
+}
+
+.activities-768 .embarquez-pour-le-vo {
+  height: 78px;
+  left: 440px;
+  letter-spacing: 1.00px;
+  line-height: 10px;
+  position: absolute;
+  top: 1237px;
+  width: 262px;
+}
+
+.activities-768 .situ-aux-confins-de {
+  left: 439px;
+  letter-spacing: 1.00px;
+  line-height: 10px;
+  position: absolute;
+  top: 1705px;
+  white-space: nowrap;
+}
+
+.activities-768 .l-ile-de-noirmoutier {
+  left: 440px;
+  letter-spacing: 1.00px;
+  line-height: 10px;
+  position: absolute;
+  top: 1476px;
+  white-space: nowrap;
+}
+
+.activities-768 .groupe-7389 {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 424px;
+  position: absolute;
+  top: 1796px;
+  width: 63px;
+}
+
+.activities-768 .groupe-3641 {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 424px;
+  position: absolute;
+  top: 2235px;
+  width: 63px;
+}
+
+.activities-768 .x10-lac-de-ribou-25-min {
+  left: 424px;
   letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 2560px;
+  white-space: nowrap;
+}
+
+.activities-768 .profitez-des-nombreu {
+  left: 440px;
+  letter-spacing: 1.00px;
+  line-height: 10px;
+  position: absolute;
+  top: 2628px;
+  white-space: nowrap;
+}
+
+.activities-768 .groupe-3639 {
+  cursor: pointer;
+  display: flex;
+  height: 20px;
+  left: 424px;
+  position: absolute;
+  top: 2696px;
+  width: 63px;
+}
+
+.activities-768 .groupe-3638-5 {
+  background-color: var(--corn);
+  border-radius: 26px;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  min-width: 63px;
+  padding: 2.0px 5px;
+}
+
+.activities-768 .groupe-de-masques-4 {
+  height: 214px;
+  left: 41px;
+  top: 2532px;
+  width: 353px;
+}
+
+.activities-768 .ligne-37 {
+  height: 34px;
+  left: 426px;
+  top: 2624px;
+  width: 1px;
+}
+
+.activities-768 .x9-maison-de-la-rivire-30-min {
+  left: 424px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 2330px;
+  white-space: nowrap;
+}
+
+.activities-768 .apro-embarqu-jeu {
+  left: 440px;
+  letter-spacing: 1.00px;
+  line-height: 10px;
+  position: absolute;
+  top: 2398px;
+  white-space: nowrap;
+}
+
+.activities-768 .groupe-3640 {
+  cursor: pointer;
+  display: flex;
+  height: 22px;
+  left: 424px;
+  position: absolute;
+  top: 2475px;
+  width: 63px;
+}
+
+.activities-768 .groupe-de-masques-5 {
+  height: 214px;
+  left: 41px;
+  top: 2304px;
+  width: 353px;
+}
+
+.activities-768 .ligne-38 {
+  height: 47px;
+  left: 426px;
+  top: 2395px;
+  width: 1px;
+}
+
+.activities-768 .et-bien-dautres-choses-dcouvrir {
+  left: 268px;
+  letter-spacing: 1.80px;
   line-height: 12px;
   position: absolute;
-  top: 164px;
+  top: 2826px;
   white-space: nowrap;
 }
 
-.contact-768 .ligne-86 {
-  height: 1px;
-  left: 35px;
-  object-fit: cover;
-  position: absolute;
-  top: 197px;
-  width: 156px;
-}
-
-.contact-768 .flex-col-1 {
-  gap: 20px;
-  margin-bottom: 3.9px;
-  min-height: 260px;
-  width: 329px;
-}
-
-.contact-768 .flex-col-2 {
-  gap: 11px;
-  margin-left: 0.2px;
-  min-height: 73px;
-  width: 329px;
-}
-
-.contact-768 .dmarrez-laventure {
-  letter-spacing: 3.00px;
-  line-height: 20px;
-  margin-left: 1px;
-  min-height: 23px;
-  white-space: nowrap;
-}
-
-.contact-768 .des-questions-ou-bie {
-  letter-spacing: 1.50px;
-  line-height: 10px;
-  min-height: 39px;
-  white-space: nowrap;
-}
-
-.contact-768 .flex-row-3 {
+.activities-768 .groupe-7400 {
   align-items: flex-end;
+  background-color: var(--corn);
+  border-radius: 26px;
+  cursor: pointer;
   display: flex;
-  height: 167px;
-  min-width: 287px;
+  height: 20px;
+  justify-content: flex-end;
+  left: 289px;
+  min-width: 100px;
+  padding: 1.5px 7px;
+  position: absolute;
+  top: 2851px;
 }
 
-.contact-768 .trac-container {
+.activities-768 .vende-tourisme {
+  letter-spacing: 0;
+  line-height: 11px;
+  min-height: 14px;
+  min-width: 84px;
+  white-space: nowrap;
+}
+
+.activities-768 .groupe-7401 {
   align-items: flex-start;
+  cursor: pointer;
   display: flex;
-  flex-direction: column;
-  margin-bottom: 5.06px;
-  min-height: 136px;
-  width: 19px;
+  height: 20px;
+  left: 400px;
+  min-width: 101px;
+  position: absolute;
+  top: 2851px;
 }
 
-.contact-768 .trac-43 {
-  height: 15px;
-  object-fit: cover;
-  width: 19px;
+.activities-768 .overlap-group6 {
+  border-radius: 26px;
+  height: 20px;
+  position: relative;
+  width: 101px;
 }
 
-.contact-768 .trac-431 {
-  height: 17px;
-  margin-left: 0;
-  margin-top: 43px;
-  object-fit: cover;
-  width: 17px;
+.activities-768 .rectangle-2993 {
+  background-color: var(--corn);
+  border-radius: 26px;
+  cursor: pointer;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 101px;
 }
 
-.contact-768 .trac-433 {
-  height: 21px;
-  margin-left: 2.33px;
-  margin-top: 41px;
-  object-fit: cover;
-  width: 14px;
-}
-
-.contact-768 .ligne-container {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  margin-left: 13px;
-  min-height: 149px;
-  width: 1px;
-}
-
-.contact-768 .ligne-29 {
-  height: 31px;
-  object-fit: cover;
-  width: 1px;
-}
-
-.contact-768 .ligne-32 {
-  height: 31px;
-  margin-top: 26px;
-  object-fit: cover;
-  width: 1px;
-}
-
-.contact-768 .ligne-33 {
-  height: 31px;
-  margin-top: 30px;
-  object-fit: cover;
-  width: 1px;
-}
-
-.contact-768 .flex-col-3 {
-  align-self: flex-start;
-  gap: 2px;
-  margin-left: 7px;
-  min-height: 167px;
-  width: 247px;
-}
-
-.contact-768 .flex-row-4 {
-  align-items: flex-start;
-  display: flex;
-  gap: 81px;
-  height: 153px;
-  min-width: 247px;
-}
-
-.contact-768 .flex-col-4 {
-  align-self: flex-end;
-  min-height: 133px;
-  width: 111px;
-}
-
-.contact-768 .email {
-  letter-spacing: 1.50px;
-  line-height: 10px;
-  min-height: 13px;
+.activities-768 .osez-mauges {
+  left: 17px;
+  letter-spacing: 0;
+  line-height: 11px;
+  position: absolute;
+  top: 5px;
   white-space: nowrap;
 }
 
-.contact-768 .gitelenidgmailcom {
-  letter-spacing: 1.35px;
-  line-height: 9px;
-  margin-top: 4px;
-  min-height: 11px;
+.activities-768 .accueil-1 {
+  cursor: pointer;
+  left: 213px;
+  letter-spacing: 0.80px;
+  line-height: 8px;
+  position: absolute;
+  top: 2954px;
   white-space: nowrap;
 }
 
-.contact-768 .tlphone {
-  letter-spacing: 1.50px;
-  line-height: 10px;
-  margin-top: 26px;
-  min-height: 13px;
+.activities-768 .explorer-le-gte-1 {
+  cursor: pointer;
+  left: 213px;
+  letter-spacing: 0.80px;
+  line-height: 8px;
+  position: absolute;
+  top: 2972px;
   white-space: nowrap;
 }
 
-.contact-768 .phone {
-  letter-spacing: 1.50px;
-  line-height: 10px;
-  margin-top: 7px;
-  min-height: 13px;
+.activities-768 .galerie-1 {
+  cursor: pointer;
+  left: 213px;
+  letter-spacing: 0.80px;
+  line-height: 8px;
+  position: absolute;
+  top: 2991px;
   white-space: nowrap;
 }
 
-.contact-768 .nous-trouver {
-  letter-spacing: 1.50px;
-  line-height: 10px;
-  margin-top: 33px;
-  min-height: 13px;
+.activities-768 .tarifs-et-rservations-1 {
+  cursor: pointer;
+  left: 213px;
+  letter-spacing: 0.80px;
+  line-height: 8px;
+  position: absolute;
+  top: 3009px;
   white-space: nowrap;
 }
 
-.contact-768 .trac-2443 {
-  height: 73px;
-  object-fit: cover;
-  width: 54px;
-}
-
-.contact-768 .address {
-  letter-spacing: 1.35px;
-  line-height: 9px;
-  min-height: 11px;
-  white-space: nowrap;
-}
-
-.contact-768 .ligne-35 {
+.activities-768 .ligne-35 {
   height: 1px;
-  margin-left: 15.25px;
-  margin-top: 65px;
-  object-fit: cover;
+  left: 56px;
+  top: 2915px;
   width: 638px;
 }
 
-.contact-768 .flex-row-5 {
-  align-items: flex-end;
-  align-self: center;
-  display: flex;
-  margin-right: 8.8px;
-  min-width: 639px;
-}
-
-.contact-768 .groupe-1821 {
+.activities-768 .groupe-1821 {
   cursor: pointer;
   display: flex;
   height: 105px;
+  left: 45px;
   overflow: hidden;
+  position: absolute;
+  top: 2954px;
   width: 98px;
 }
 
-.contact-768 .groupe-1820 {
+.activities-768 .groupe-1820 {
   display: flex;
   flex: 1;
   margin-bottom: 0;
@@ -2002,7 +2359,7 @@
   width: 97.61px;
 }
 
-.contact-768 .groupe-1819 {
+.activities-768 .groupe-1819 {
   align-items: center;
   display: flex;
   flex: 1;
@@ -2012,7 +2369,7 @@
   width: 97.61px;
 }
 
-.contact-768 .flex-row-6 {
+.activities-768 .flex-row-1 {
   align-items: flex-start;
   display: flex;
   height: 67px;
@@ -2020,7 +2377,7 @@
   min-width: 67px;
 }
 
-.contact-768 .groupe-1386 {
+.activities-768 .groupe-1386 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2030,14 +2387,14 @@
   width: 1px;
 }
 
-.contact-768 .overlap-group-1 {
+.activities-768 .overlap-group-1 {
   height: 64px;
   margin-left: 2px;
   margin-top: 0.68px;
   width: 19px;
 }
 
-.contact-768 .groupe-1221 {
+.activities-768 .groupe-1221 {
   background-image: url(../img/groupe-1219-6-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2049,7 +2406,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1224 {
+.activities-768 .groupe-1224 {
   background-image: url(../img/groupe-1222-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2061,7 +2418,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1227 {
+.activities-768 .groupe-1227 {
   background-image: url(../img/groupe-1225-6-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2073,7 +2430,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1230 {
+.activities-768 .groupe-1230 {
   background-image: url(../img/groupe-1228-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2085,7 +2442,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1233 {
+.activities-768 .groupe-1233 {
   background-image: url(../img/groupe-1231-7-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2097,7 +2454,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1236 {
+.activities-768 .groupe-1236 {
   background-image: url(../img/groupe-1234-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2109,7 +2466,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1239 {
+.activities-768 .groupe-1239 {
   background-image: url(../img/groupe-1237-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2121,7 +2478,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1242 {
+.activities-768 .groupe-1242 {
   background-image: url(../img/groupe-1240-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2133,7 +2490,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1245 {
+.activities-768 .groupe-1245 {
   background-image: url(../img/groupe-1243-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2145,7 +2502,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1248 {
+.activities-768 .groupe-1248 {
   background-image: url(../img/groupe-1246-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2157,7 +2514,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1251 {
+.activities-768 .groupe-1251 {
   background-image: url(../img/groupe-1249-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2169,7 +2526,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1254 {
+.activities-768 .groupe-1254 {
   background-image: url(../img/groupe-1252-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2181,7 +2538,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1257 {
+.activities-768 .groupe-1257 {
   background-image: url(../img/groupe-1255-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2193,7 +2550,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1260 {
+.activities-768 .groupe-1260 {
   background-image: url(../img/groupe-1258-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2205,7 +2562,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1263 {
+.activities-768 .groupe-1263 {
   background-image: url(../img/groupe-7796-10@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2217,7 +2574,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1266 {
+.activities-768 .groupe-1266 {
   background-image: url(../img/groupe-1306-10@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2229,7 +2586,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1269 {
+.activities-768 .groupe-1269 {
   background-image: url(../img/groupe-10080@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2241,7 +2598,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1272 {
+.activities-768 .groupe-1272 {
   background-image: url(../img/groupe-1375-3@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2253,7 +2610,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1275 {
+.activities-768 .groupe-1275 {
   background-image: url(../img/groupe-1273-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2265,7 +2622,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1278 {
+.activities-768 .groupe-1278 {
   background-image: url(../img/groupe-10071@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2277,7 +2634,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1281 {
+.activities-768 .groupe-1281 {
   background-image: url(../img/groupe-1279-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2289,7 +2646,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1284 {
+.activities-768 .groupe-1284 {
   background-image: url(../img/groupe-1306-10@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2301,7 +2658,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1287 {
+.activities-768 .groupe-1287 {
   background-image: url(../img/groupe-4599-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2313,7 +2670,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1290 {
+.activities-768 .groupe-1290 {
   background-image: url(../img/groupe-1288-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2325,7 +2682,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1293 {
+.activities-768 .groupe-1293 {
   background-image: url(../img/groupe-178-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2337,7 +2694,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1296 {
+.activities-768 .groupe-1296 {
   background-image: url(../img/groupe-10200@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2349,7 +2706,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1299 {
+.activities-768 .groupe-1299 {
   background-image: url(../img/groupe-10200@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2361,7 +2718,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1302 {
+.activities-768 .groupe-1302 {
   background-image: url(../img/groupe-10344@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2373,7 +2730,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1305 {
+.activities-768 .groupe-1305 {
   background-image: url(../img/groupe-100-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2385,7 +2742,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1308 {
+.activities-768 .groupe-1308 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2397,7 +2754,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1311 {
+.activities-768 .groupe-1311 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2409,7 +2766,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1314 {
+.activities-768 .groupe-1314 {
   background-image: url(../img/groupe-10344@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2421,7 +2778,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1317 {
+.activities-768 .groupe-1317 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2433,7 +2790,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1320 {
+.activities-768 .groupe-1320 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2445,7 +2802,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1323 {
+.activities-768 .groupe-1323 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2457,7 +2814,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1326 {
+.activities-768 .groupe-1326 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2469,7 +2826,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1329 {
+.activities-768 .groupe-1329 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2481,7 +2838,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1332 {
+.activities-768 .groupe-1332 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2493,7 +2850,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1335 {
+.activities-768 .groupe-1335 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2505,7 +2862,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1338 {
+.activities-768 .groupe-1338 {
   background-image: url(../img/groupe-100-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2517,7 +2874,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1341 {
+.activities-768 .groupe-1341 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2529,7 +2886,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1344 {
+.activities-768 .groupe-1344 {
   background-image: url(../img/groupe-10113@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2541,7 +2898,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1347 {
+.activities-768 .groupe-1347 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2553,7 +2910,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1350 {
+.activities-768 .groupe-1350 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2565,7 +2922,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1353 {
+.activities-768 .groupe-1353 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2577,7 +2934,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1356 {
+.activities-768 .groupe-1356 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2589,7 +2946,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1359 {
+.activities-768 .groupe-1359 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2601,7 +2958,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1362 {
+.activities-768 .groupe-1362 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2613,7 +2970,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1365 {
+.activities-768 .groupe-1365 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2625,7 +2982,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1368 {
+.activities-768 .groupe-1368 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2637,7 +2994,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1371 {
+.activities-768 .groupe-1371 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2649,7 +3006,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1374 {
+.activities-768 .groupe-1374 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2661,8 +3018,8 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1377 {
-  background-image: url(../img/groupe-10146@1x.png);
+.activities-768 .groupe-1377 {
+  background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 1px;
@@ -2673,7 +3030,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1380 {
+.activities-768 .groupe-1380 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2685,7 +3042,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1383 {
+.activities-768 .groupe-1383 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2697,7 +3054,7 @@
   width: 1px;
 }
 
-.contact-768 .trac-277 {
+.activities-768 .trac-277 {
   height: 55px;
   left: 11px;
   object-fit: cover;
@@ -2706,7 +3063,7 @@
   width: 9px;
 }
 
-.contact-768 .groupe-1389 {
+.activities-768 .groupe-1389 {
   background-image: url(../img/groupe-1387-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2718,7 +3075,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1392 {
+.activities-768 .groupe-1392 {
   background-image: url(../img/groupe-1390-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2730,7 +3087,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1395 {
+.activities-768 .groupe-1395 {
   background-image: url(../img/groupe-10086@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2742,7 +3099,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1398 {
+.activities-768 .groupe-1398 {
   background-image: url(../img/groupe-10089@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2754,7 +3111,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1401 {
+.activities-768 .groupe-1401 {
   background-image: url(../img/groupe-10077@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2766,7 +3123,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1404 {
+.activities-768 .groupe-1404 {
   background-image: url(../img/groupe-10344@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2778,7 +3135,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1407 {
+.activities-768 .groupe-1407 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2790,7 +3147,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1410 {
+.activities-768 .groupe-1410 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2802,7 +3159,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1413 {
+.activities-768 .groupe-1413 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2814,7 +3171,7 @@
   width: 1px;
 }
 
-.contact-768 .trac-288 {
+.activities-768 .trac-288 {
   height: 64px;
   left: 0;
   object-fit: cover;
@@ -2823,7 +3180,7 @@
   width: 12px;
 }
 
-.contact-768 .overlap-group3 {
+.activities-768 .overlap-group3 {
   align-items: flex-start;
   align-self: center;
   background-image: url(../img/trac--429-7-1x-png@1x.png);
@@ -2835,21 +3192,22 @@
   min-width: 7px;
 }
 
-.contact-768 .trac-430 {
+.activities-768 .trac-430 {
   height: 16px;
   object-fit: cover;
   width: 7px;
 }
 
-.contact-768 .trac-427 {
+.activities-768 .trac-427 {
   height: 66px;
   margin-left: 2px;
   object-fit: cover;
   width: 12px;
 }
 
-.contact-768 .flex-col-5 {
+.activities-768 .flex-col {
   align-self: flex-end;
+  flex-direction: column;
   gap: 2px;
   margin-bottom: 2.34px;
   margin-left: 3px;
@@ -2857,20 +3215,20 @@
   width: 5px;
 }
 
-.contact-768 .trac-352 {
+.activities-768 .trac-352 {
   height: 4px;
   margin-left: 0.88px;
   object-fit: cover;
   width: 3px;
 }
 
-.contact-768 .overlap-group2-1 {
+.activities-768 .overlap-group1-1 {
   height: 34px;
   position: relative;
   width: 5px;
 }
 
-.contact-768 .groupe-1416 {
+.activities-768 .groupe-1416 {
   background-image: url(../img/groupe-1414-11-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2882,7 +3240,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1419 {
+.activities-768 .groupe-1419 {
   background-image: url(../img/groupe-1417-11-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2894,7 +3252,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1422 {
+.activities-768 .groupe-1422 {
   background-image: url(../img/groupe-1420-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2906,7 +3264,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1425 {
+.activities-768 .groupe-1425 {
   background-image: url(../img/groupe-1423-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2918,7 +3276,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1428 {
+.activities-768 .groupe-1428 {
   background-image: url(../img/groupe-7523-10@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2930,7 +3288,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1431 {
+.activities-768 .groupe-1431 {
   background-image: url(../img/groupe-1294-11@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2942,7 +3300,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1437 {
+.activities-768 .groupe-1437 {
   background-image: url(../img/groupe-10074@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2954,7 +3312,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1440 {
+.activities-768 .groupe-1440 {
   background-image: url(../img/groupe-10083@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2966,7 +3324,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1443 {
+.activities-768 .groupe-1443 {
   background-image: url(../img/trac--1330-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2978,7 +3336,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1446 {
+.activities-768 .groupe-1446 {
   background-image: url(../img/groupe-1282-6@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -2990,7 +3348,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1449 {
+.activities-768 .groupe-1449 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3002,7 +3360,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1452 {
+.activities-768 .groupe-1452 {
   background-image: url(../img/groupe-10008@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3014,7 +3372,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1455 {
+.activities-768 .groupe-1455 {
   background-image: url(../img/groupe-10332@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3026,7 +3384,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1458 {
+.activities-768 .groupe-1458 {
   background-image: url(../img/groupe-10077@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3038,7 +3396,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1464 {
+.activities-768 .groupe-1464 {
   background-image: url(../img/groupe-10008@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3050,7 +3408,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1467 {
+.activities-768 .groupe-1467 {
   background-image: url(../img/groupe-1807-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3062,7 +3420,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1470 {
+.activities-768 .groupe-1470 {
   background-image: url(../img/groupe-10107@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3074,7 +3432,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1476 {
+.activities-768 .groupe-1476 {
   background-image: url(../img/groupe-10089@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3086,7 +3444,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1479 {
+.activities-768 .groupe-1479 {
   background-image: url(../img/groupe-10107@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3098,7 +3456,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1482 {
+.activities-768 .groupe-1482 {
   background-image: url(../img/groupe-10299@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3110,7 +3468,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1485 {
+.activities-768 .groupe-1485 {
   background-image: url(../img/groupe-10113@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3122,7 +3480,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1488 {
+.activities-768 .groupe-1488 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3134,7 +3492,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1491 {
+.activities-768 .groupe-1491 {
   background-image: url(../img/groupe-10089@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3146,7 +3504,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1494 {
+.activities-768 .groupe-1494 {
   background-image: url(../img/groupe-100-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3158,7 +3516,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1497 {
+.activities-768 .groupe-1497 {
   background-image: url(../img/groupe-10344@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3170,7 +3528,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1500 {
+.activities-768 .groupe-1500 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3182,7 +3540,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1503 {
+.activities-768 .groupe-1503 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3194,7 +3552,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1506 {
+.activities-768 .groupe-1506 {
   background-image: url(../img/groupe-10101@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3206,7 +3564,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1512 {
+.activities-768 .groupe-1512 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3218,7 +3576,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1518 {
+.activities-768 .groupe-1518 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3230,7 +3588,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1521 {
+.activities-768 .groupe-1521 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3242,7 +3600,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1524 {
+.activities-768 .groupe-1524 {
   background-image: url(../img/groupe-10113@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3254,7 +3612,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1527 {
+.activities-768 .groupe-1527 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3266,7 +3624,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1530 {
+.activities-768 .groupe-1530 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3278,7 +3636,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1533 {
+.activities-768 .groupe-1533 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3290,19 +3648,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1539 {
-  background-image: url(../img/groupe-10146@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 1px;
-  opacity: 0.28;
-  position: absolute;
-  top: 14px;
-  width: 1px;
-}
-
-.contact-768 .groupe-1542 {
+.activities-768 .groupe-1542 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3314,7 +3660,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1545 {
+.activities-768 .groupe-1545 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3326,7 +3672,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1548 {
+.activities-768 .groupe-1548 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3338,7 +3684,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1551 {
+.activities-768 .groupe-1551 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3350,7 +3696,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1557 {
+.activities-768 .groupe-1557 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3362,7 +3708,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1563 {
+.activities-768 .groupe-1563 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3374,7 +3720,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1566 {
+.activities-768 .groupe-1566 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3386,7 +3732,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1578 {
+.activities-768 .groupe-1578 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3398,7 +3744,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1581 {
+.activities-768 .groupe-1581 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3410,7 +3756,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1584 {
+.activities-768 .groupe-1584 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3422,7 +3768,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1587 {
+.activities-768 .groupe-1587 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3434,7 +3780,7 @@
   width: 1px;
 }
 
-.contact-768 .trac-351 {
+.activities-768 .trac-351 {
   height: 34px;
   left: 1px;
   object-fit: cover;
@@ -3443,14 +3789,14 @@
   width: 3px;
 }
 
-.contact-768 .overlap-group1-1 {
+.activities-768 .overlap-group2-1 {
   align-self: flex-end;
   height: 43px;
   position: relative;
   width: 14px;
 }
 
-.contact-768 .groupe-1434 {
+.activities-768 .groupe-1434 {
   background-image: url(../img/groupe-1303-6@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3462,13 +3808,13 @@
   width: 1px;
 }
 
-.contact-768 .groupe-15-1 {
+.activities-768 .groupe-15-1 {
   background-image: url(../img/groupe-10146@1x.png);
   left: 1px;
   top: 16px;
 }
 
-.contact-768 .groupe-1515 {
+.activities-768 .groupe-1515 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3480,7 +3826,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1536 {
+.activities-768 .groupe-1536 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3492,7 +3838,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1569 {
+.activities-768 .groupe-1569 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3504,7 +3850,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1572 {
+.activities-768 .groupe-1572 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3516,7 +3862,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1575 {
+.activities-768 .groupe-1575 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3528,7 +3874,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1590 {
+.activities-768 .groupe-1590 {
   background-image: url(../img/groupe-1261-11@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3540,7 +3886,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1593 {
+.activities-768 .groupe-1593 {
   background-image: url(../img/groupe-1261-6@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3552,7 +3898,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1596 {
+.activities-768 .groupe-1596 {
   background-image: url(../img/groupe-4922@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3564,7 +3910,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1599 {
+.activities-768 .groupe-1599 {
   background-image: url(../img/groupe-10101@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3576,7 +3922,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1602 {
+.activities-768 .groupe-1602 {
   background-image: url(../img/groupe-1600-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3588,7 +3934,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1605 {
+.activities-768 .groupe-1605 {
   background-image: url(../img/groupe-1603-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3600,7 +3946,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1608 {
+.activities-768 .groupe-1608 {
   background-image: url(../img/groupe-1606-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3612,7 +3958,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1611 {
+.activities-768 .groupe-1611 {
   background-image: url(../img/groupe-1609-11-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3624,7 +3970,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1614 {
+.activities-768 .groupe-1614 {
   background-image: url(../img/groupe-1612-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3636,7 +3982,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1617 {
+.activities-768 .groupe-1617 {
   background-image: url(../img/groupe-1615-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3648,7 +3994,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1620 {
+.activities-768 .groupe-1620 {
   background-image: url(../img/groupe-1618-7@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3660,7 +4006,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1623 {
+.activities-768 .groupe-1623 {
   background-image: url(../img/groupe-1621-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3672,7 +4018,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1626 {
+.activities-768 .groupe-1626 {
   background-image: url(../img/groupe-1624-11@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3684,7 +4030,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1629 {
+.activities-768 .groupe-1629 {
   background-image: url(../img/groupe-1627-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3696,7 +4042,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1632 {
+.activities-768 .groupe-1632 {
   background-image: url(../img/groupe-4797-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3708,7 +4054,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1635 {
+.activities-768 .groupe-1635 {
   background-image: url(../img/groupe-415-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3720,7 +4066,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1638 {
+.activities-768 .groupe-1638 {
   background-image: url(../img/groupe-1636-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3732,7 +4078,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1641 {
+.activities-768 .groupe-1641 {
   background-image: url(../img/groupe-1639-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3744,7 +4090,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1644 {
+.activities-768 .groupe-1644 {
   background-image: url(../img/groupe-1393-6@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3756,7 +4102,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1647 {
+.activities-768 .groupe-1647 {
   background-image: url(../img/groupe-10050@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3768,7 +4114,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1650 {
+.activities-768 .groupe-1650 {
   background-image: url(../img/groupe-1384-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3780,7 +4126,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1653 {
+.activities-768 .groupe-1653 {
   background-image: url(../img/groupe-10068@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3792,7 +4138,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1656 {
+.activities-768 .groupe-1656 {
   background-image: url(../img/groupe-4383-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3804,7 +4150,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1659 {
+.activities-768 .groupe-1659 {
   background-image: url(../img/groupe-10086@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3816,7 +4162,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1662 {
+.activities-768 .groupe-1662 {
   background-image: url(../img/groupe-1525-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3828,7 +4174,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1665 {
+.activities-768 .groupe-1665 {
   background-image: url(../img/groupe-1381-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3840,7 +4186,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1668 {
+.activities-768 .groupe-1668 {
   background-image: url(../img/groupe-10002@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3852,7 +4198,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1671 {
+.activities-768 .groupe-1671 {
   background-image: url(../img/groupe-217-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3864,7 +4210,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1674 {
+.activities-768 .groupe-1674 {
   background-image: url(../img/groupe-4371-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3876,7 +4222,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1677 {
+.activities-768 .groupe-1677 {
   background-image: url(../img/groupe-1675-11@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3888,7 +4234,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1680 {
+.activities-768 .groupe-1680 {
   background-image: url(../img/groupe-4371-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3900,7 +4246,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1683 {
+.activities-768 .groupe-1683 {
   background-image: url(../img/groupe-10086@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3912,7 +4258,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1686 {
+.activities-768 .groupe-1686 {
   background-image: url(../img/groupe-4551-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3924,7 +4270,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1689 {
+.activities-768 .groupe-1689 {
   background-image: url(../img/groupe-1687-10-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3936,7 +4282,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1692 {
+.activities-768 .groupe-1692 {
   background-image: url(../img/groupe-250-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3948,7 +4294,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1695 {
+.activities-768 .groupe-1695 {
   background-image: url(../img/groupe-1306-10@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3960,7 +4306,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1698 {
+.activities-768 .groupe-1698 {
   background-image: url(../img/groupe-10011@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3972,7 +4318,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1701 {
+.activities-768 .groupe-1701 {
   background-image: url(../img/groupe-1396-6@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3984,7 +4330,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1704 {
+.activities-768 .groupe-1704 {
   background-image: url(../img/groupe-10101@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -3996,7 +4342,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1707 {
+.activities-768 .groupe-1707 {
   background-image: url(../img/groupe-10104@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4008,7 +4354,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1710 {
+.activities-768 .groupe-1710 {
   background-image: url(../img/groupe-10008@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4020,7 +4366,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1713 {
+.activities-768 .groupe-1713 {
   background-image: url(../img/groupe-10338@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4032,7 +4378,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1716 {
+.activities-768 .groupe-1716 {
   background-image: url(../img/groupe-10104@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4044,7 +4390,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1719 {
+.activities-768 .groupe-1719 {
   background-image: url(../img/groupe-100-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4056,7 +4402,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1722 {
+.activities-768 .groupe-1722 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4068,7 +4414,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1725 {
+.activities-768 .groupe-1725 {
   background-image: url(../img/groupe-100-1@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4080,7 +4426,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1728 {
+.activities-768 .groupe-1728 {
   background-image: url(../img/groupe-10113@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4092,7 +4438,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1731 {
+.activities-768 .groupe-1731 {
   background-image: url(../img/groupe-10089@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4104,7 +4450,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1734 {
+.activities-768 .groupe-1734 {
   background-image: url(../img/groupe-10200@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4116,7 +4462,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1737 {
+.activities-768 .groupe-1737 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4128,7 +4474,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1740 {
+.activities-768 .groupe-1740 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4140,7 +4486,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1743 {
+.activities-768 .groupe-1743 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4152,7 +4498,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1746 {
+.activities-768 .groupe-1746 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4164,7 +4510,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1749 {
+.activities-768 .groupe-1749 {
   background-image: url(../img/groupe-10089@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4176,7 +4522,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1752 {
+.activities-768 .groupe-1752 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4188,7 +4534,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1755 {
+.activities-768 .groupe-1755 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4200,7 +4546,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1758 {
+.activities-768 .groupe-1758 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4212,7 +4558,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1761 {
+.activities-768 .groupe-1761 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4224,7 +4570,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1764 {
+.activities-768 .groupe-1764 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4236,7 +4582,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1767 {
+.activities-768 .groupe-1767 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4248,7 +4594,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1770 {
+.activities-768 .groupe-1770 {
   background-image: url(../img/groupe-10134@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4260,7 +4606,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1773 {
+.activities-768 .groupe-1773 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4272,7 +4618,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1776 {
+.activities-768 .groupe-1776 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4284,7 +4630,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1779 {
+.activities-768 .groupe-1779 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4296,7 +4642,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1782 {
+.activities-768 .groupe-1782 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4308,7 +4654,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1785 {
+.activities-768 .groupe-1785 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4320,7 +4666,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1788 {
+.activities-768 .groupe-1788 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4332,7 +4678,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1791 {
+.activities-768 .groupe-1791 {
   background-image: url(../img/groupe-10014@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4344,7 +4690,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1794 {
+.activities-768 .groupe-1794 {
   background-image: url(../img/groupe-10122@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4356,7 +4702,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1797 {
+.activities-768 .groupe-1797 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4368,7 +4714,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1800 {
+.activities-768 .groupe-1800 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4380,7 +4726,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1803 {
+.activities-768 .groupe-1803 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4392,7 +4738,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1806 {
+.activities-768 .groupe-1806 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4404,7 +4750,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1809 {
+.activities-768 .groupe-1809 {
   background-image: url(../img/groupe-10128@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4416,7 +4762,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1812 {
+.activities-768 .groupe-1812 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4428,7 +4774,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1815 {
+.activities-768 .groupe-1815 {
   background-image: url(../img/groupe-10146@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4440,7 +4786,7 @@
   width: 1px;
 }
 
-.contact-768 .groupe-1818 {
+.activities-768 .groupe-1818 {
   background-image: url(../img/groupe-10116@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4452,7 +4798,7 @@
   width: 1px;
 }
 
-.contact-768 .trac-426 {
+.activities-768 .trac-426 {
   height: 43px;
   left: 1px;
   object-fit: cover;
@@ -4461,146 +4807,118 @@
   width: 13px;
 }
 
-.contact-768 .trac-428 {
+.activities-768 .trac-428 {
   height: 32px;
   margin-right: 0;
   object-fit: cover;
   width: 98px;
 }
 
-.contact-768 .ligne-58 {
-  align-self: flex-start;
-  height: 102px;
-  margin-left: 54px;
-  object-fit: cover;
-  width: 1px;
+.activities-768 .activits-et-tourisme-1 {
+  left: 213px;
+  letter-spacing: 0.80px;
+  line-height: 8px;
+  position: absolute;
+  top: 3029px;
+  white-space: nowrap;
 }
 
-.contact-768 .flex-col-6 {
-  align-self: center;
-  margin-bottom: 0.8px;
-  margin-left: 15px;
-  min-height: 103px;
-  width: 97px;
-}
-
-.contact-768 .accueil-1 {
+.activities-768 .place-1 {
   cursor: pointer;
+  left: 213px;
   letter-spacing: 0.80px;
   line-height: 8px;
-  min-height: 10px;
+  position: absolute;
+  top: 3047px;
   white-space: nowrap;
 }
 
-.contact-768 .link {
-  cursor: pointer;
-  letter-spacing: 0.80px;
-  line-height: 8px;
-  margin-top: 8px;
-  min-height: 10px;
+.activities-768 .gitelenidgmailcom {
+  left: 396px;
+  letter-spacing: 1.35px;
+  line-height: 9px;
+  position: absolute;
+  top: 2961px;
   white-space: nowrap;
 }
 
-.contact-768 .galerie-1 {
-  cursor: pointer;
-  letter-spacing: 0.80px;
-  line-height: 8px;
-  margin-top: 9px;
-  min-height: 10px;
-  white-space: nowrap;
-}
-
-.contact-768 .activits-et-tourisme-1 {
-  cursor: pointer;
-  letter-spacing: 0.80px;
-  line-height: 8px;
-  margin-top: 10px;
-  min-height: 10px;
-  white-space: nowrap;
-}
-
-.contact-768 .place-1 {
-  letter-spacing: 0.80px;
-  line-height: 8px;
-  margin-top: 8px;
-  min-height: 10px;
-  white-space: nowrap;
-}
-
-.contact-768 .trac-container-1 {
-  align-items: flex-start;
-  align-self: center;
-  display: flex;
-  flex-direction: column;
-  margin-left: 45px;
-  margin-top: 0.23px;
-  min-height: 97px;
-  width: 19px;
-}
-
-.contact-768 .trac-434 {
+.activities-768 .trac-434 {
   height: 17px;
-  margin-left: 0;
-  margin-top: 25px;
+  left: 355px;
   object-fit: cover;
+  position: absolute;
+  top: 2998px;
   width: 17px;
 }
 
-.contact-768 .trac-436 {
-  height: 21px;
-  margin-left: 2.33px;
-  margin-top: 19px;
+.activities-768 .trac-435 {
+  height: 15px;
+  left: 355px;
   object-fit: cover;
-  width: 14px;
+  position: absolute;
+  top: 2958px;
+  width: 19px;
 }
 
-.contact-768 .ligne-34 {
-  align-self: flex-start;
+.activities-768 .ligne-34 {
   height: 102px;
-  margin-left: 13px;
-  object-fit: cover;
+  left: 387px;
+  top: 2954px;
   width: 1px;
 }
 
-.contact-768 .flex-col-7 {
-  margin-bottom: 2.2px;
-  margin-left: 8px;
-  min-height: 95px;
-  width: 112px;
+.activities-768 .ligne-58 {
+  height: 102px;
+  left: 197px;
+  top: 2954px;
+  width: 1px;
 }
 
-.contact-768 .gitelenidgmailcom-1 {
+.activities-768 .phone {
+  left: 396px;
   letter-spacing: 1.35px;
   line-height: 9px;
-  min-height: 11px;
+  position: absolute;
+  top: 3003px;
   white-space: nowrap;
 }
 
-.contact-768 .phone-1 {
+.activities-768 .address {
+  left: 396px;
   letter-spacing: 1.35px;
   line-height: 9px;
-  margin-top: 30px;
-  min-height: 11px;
+  position: absolute;
+  top: 3034px;
   white-space: nowrap;
 }
 
-.contact-768 .address-1 {
-  letter-spacing: 1.35px;
-  line-height: 9px;
-  margin-top: 21px;
-  min-height: 22px;
-  white-space: nowrap;
+.activities-768 .trac-436 {
+  height: 21px;
+  left: 358px;
+  object-fit: cover;
+  position: absolute;
+  top: 3034px;
+  width: 14px;
 }
 
-.contact-768 .overlap-group6 {
+.activities-768 .groupe-4256 {
+  align-items: flex-end;
+  display: flex;
+  height: 11px;
+  left: 551px;
+  min-width: 133px;
+  position: absolute;
+  top: 3041px;
+}
+
+.activities-768 .overlap-group7 {
   height: 12px;
-  margin-bottom: 5.6px;
-  margin-left: 43px;
+  margin-bottom: -0.98px;
   position: relative;
   width: 133px;
 }
 
-.contact-768 .c-le-nid-tous-droits-rservs {
+.activities-768 .c-le-nid-tous-droits-rservs {
   left: 2px;
   letter-spacing: 1.05px;
   line-height: 7px;
@@ -4609,7 +4927,7 @@
   white-space: nowrap;
 }
 
-.contact-768 .ellipse-3 {
+.activities-768 .ellipse-3 {
   border: 1px solid;
   border-color: var(--black);
   border-radius: 5.27px;
@@ -4620,13 +4938,27 @@
   width: 11px;
 }
 
-.contact-768 .flex-col-8 {
+.activities-768 .composant-5-25 {
   align-items: flex-start;
+  cursor: pointer;
   display: flex;
   flex-direction: column;
+  gap: 3px;
+  left: 739px;
+  min-height: 9px;
+  position: absolute;
+  top: 15px;
+  width: 11px;
 }
 
-.contact-768 .groupe-1-6 {
+.activities-768 .rectangle-321 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 1px;
+  width: 11px;
+}
+
+.activities-768 .groupe-1-5 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4636,7 +4968,14 @@
   width: 1px;
 }
 
-.contact-768 .groupe-5-5 {
+.activities-768 .groupe-3638-6 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+}
+
+.activities-768 .groupe-5-5 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
   background-size: cover;
@@ -4647,7 +4986,7 @@
   width: 1px;
 }
 
-.contact-768 .overlap-group-2 {
+.activities-768 .overlap-group-2 {
   align-self: center;
   position: relative;
 }

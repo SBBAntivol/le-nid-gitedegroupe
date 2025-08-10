@@ -272,7 +272,7 @@
 .explorer-1440 .venez-dcompresser-d {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-xxxl);
   font-weight: 500;
   height: 256px;
   left: 55px;
@@ -2417,7 +2417,7 @@
 .explorer-1440 .salle-de-jeux {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xl);
   font-weight: 700;
   left: 65px;
   letter-spacing: 1.30px;
@@ -2430,7 +2430,7 @@
 .explorer-1440 .sanitaires {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xl);
   font-weight: 700;
   left: 65px;
   letter-spacing: 1.30px;
@@ -8657,7 +8657,7 @@
 .explorer-375-all-breakpoints .venez-dcompresser-d-2 {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-m);
+  font-size: var(--font-size-l);
   font-weight: 500;
   height: 284px;
   left: 162px;
@@ -9068,7 +9068,7 @@
 .explorer-375-all-breakpoints .salle-de-jeux-2 {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size-s);
   font-weight: 700;
   left: 38px;
   letter-spacing: 0.80px;
@@ -9146,7 +9146,7 @@
 .explorer-375-all-breakpoints .sanitaires-2 {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size-s);
   font-weight: 700;
   left: 38px;
   letter-spacing: 0.80px;
@@ -9489,7 +9489,7 @@
 .explorer-375-all-breakpoints .communs-4 {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xl);
   font-weight: 700;
   left: -18px;
   line-height: 13px;
@@ -13720,13 +13720,6 @@
   width: 11px;
 }
 
-.explorer-768 .rectangle-321-1 {
-  background-color: var(--black);
-  border-radius: 2px;
-  height: 1px;
-  width: 11px;
-}
-
 .explorer-768 .groupe-de-masques-2-1 {
   height: 313px;
   left: 423px;
@@ -14027,6 +14020,11 @@
   width: 1px;
 }
 
+.explorer-768 .groupe-1-5 {
+  left: 5px;
+  top: 22px;
+}
+
 .explorer-768 .groupe-16 {
   background-image: url(../img/groupe-10167@1x.png);
   background-position: 50% 50%;
@@ -14102,18 +14100,6 @@
   position: absolute;
   top: 0;
   width: 8px;
-}
-
-.explorer-768 .groupe-204-1 {
-  background-image: url(../img/groupe-10116@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1px;
-  left: 0;
-  opacity: 0.28;
-  position: absolute;
-  top: 7px;
-  width: 1px;
 }
 
 .explorer-768 .groupe-2-1 {
@@ -14745,7 +14731,7 @@
 .explorer-768 .salle-de-jeux-1 {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxs);
+  font-size: var(--font-size-xs);
   font-weight: 700;
   left: 35px;
   letter-spacing: 0.70px;
@@ -14822,7 +14808,7 @@
 .explorer-768 .sanitaires-1 {
   color: var(--black);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-xxs);
+  font-size: var(--font-size-xs);
   font-weight: 700;
   left: 35px;
   letter-spacing: 0.70px;
@@ -15703,7 +15689,7 @@
 .explorer-768 .lintrieur-1 {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-m);
+  font-size: var(--font-size-l);
   font-weight: 700;
   left: 24px;
   letter-spacing: 0;
@@ -15851,7 +15837,7 @@
 .explorer-768 .lextrieur-1 {
   color: var(--white);
   font-family: var(--font-family-josefin_sans);
-  font-size: var(--font-size-m);
+  font-size: var(--font-size-l);
   font-weight: 700;
   left: 24px;
   letter-spacing: 0;

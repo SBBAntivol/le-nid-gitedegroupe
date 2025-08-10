@@ -1,0 +1,5072 @@
+/* screen - activities-1440 */
+
+.activities-1440 {
+  background-color: var(--bianca);
+  height: 5806.5px;
+  position: relative;
+  width: 1440px;
+}
+
+.activities-1440 .groupe-603 {
+  cursor: pointer;
+  display: flex;
+  height: 81px;
+  left: 24px;
+  overflow: hidden;
+  position: absolute;
+  top: 27px;
+  width: 76px;
+}
+
+.activities-1440 .groupe-602 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-top: 0;
+  width: 75.53px;
+}
+
+.activities-1440 .groupe-601 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 5px;
+  overflow: hidden;
+  width: 75.53px;
+}
+
+.activities-1440 .flex-row {
+  height: 52px;
+  margin-right: 2.12px;
+  min-width: 52px;
+}
+
+.activities-1440 .groupe-168 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-top: 3.2px;
+  opacity: 0.28;
+  width: 1px;
+}
+
+.activities-1440 .overlap-group2 {
+  align-self: center;
+  height: 50px;
+  margin-left: 1px;
+  margin-top: 0.3px;
+  position: relative;
+  width: 15px;
+}
+
+.activities-1440 .groupe-3-2 {
+  background-image: url(../img/groupe-1-1-1x-png@1x.png);
+  height: 2px;
+  left: 8px;
+  top: 38px;
+}
+
+.activities-1440 .groupe-6 {
+  background-image: url(../img/groupe-4-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-9 {
+  background-image: url(../img/groupe-4868-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-12 {
+  background-image: url(../img/groupe-10-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-15 {
+  background-image: url(../img/groupe-13-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-18 {
+  background-image: url(../img/groupe-16-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-21 {
+  background-image: url(../img/groupe-19-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-24 {
+  background-image: url(../img/groupe-22-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-27 {
+  background-image: url(../img/groupe-13-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-30 {
+  background-image: url(../img/groupe-4845-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-33 {
+  background-image: url(../img/groupe-1306-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-3 {
+  background-image: url(../img/groupe-376-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-42 {
+  background-image: url(../img/groupe-4362-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-45 {
+  background-image: url(../img/groupe-10344@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-48 {
+  background-image: url(../img/groupe-10104@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-51 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-54 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-57 {
+  background-image: url(../img/groupe-10089@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-60 {
+  background-image: url(../img/groupe-10005@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-63 {
+  background-image: url(../img/groupe-10005@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-66 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-69 {
+  background-image: url(../img/groupe-10326@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-72 {
+  background-image: url(../img/groupe-7550-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-75 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-78 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-81 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-84 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-87 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-90 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-93 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-96 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-99 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-102 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-105 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-108 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-111 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-114 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-117 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-120 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-123 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-126 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-129 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-132 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-135 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-138 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-141 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-144 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-147 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-150 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-153 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-156 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-159 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-162 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-165 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.activities-1440 .trac-56 {
+  height: 43px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 7px;
+}
+
+.activities-1440 .groupe-171 {
+  background-image: url(../img/groupe-169-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-174 {
+  background-image: url(../img/groupe-1303-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-189 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.activities-1440 .groupe {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-195 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.activities-1440 .trac-67 {
+  height: 50px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.activities-1440 .overlap-group3 {
+  align-items: flex-start;
+  align-self: center;
+  background-image: url(../img/trac--208-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-left: 1px;
+  margin-top: 3.05px;
+  min-width: 6px;
+}
+
+.activities-1440 .trac-210 {
+  height: 13px;
+  object-fit: cover;
+  width: 6px;
+}
+
+.activities-1440 .trac-206 {
+  height: 51px;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 9px;
+}
+
+.activities-1440 .flex-col {
+  align-self: flex-end;
+  flex-direction: column;
+  gap: 2px;
+  margin-bottom: 2.04px;
+  margin-left: 2px;
+  min-height: 31px;
+  width: 4px;
+}
+
+.activities-1440 .trac-131 {
+  height: 3px;
+  margin-left: 0.68px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.activities-1440 .overlap-group {
+  height: 26px;
+  position: relative;
+  width: 4px;
+}
+
+.activities-1440 .groupe-198 {
+  background-image: url(../img/groupe-1438-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-201 {
+  background-image: url(../img/groupe-4776-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-204 {
+  background-image: url(../img/groupe-202-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-207 {
+  background-image: url(../img/groupe-205-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-210 {
+  background-image: url(../img/groupe-1282-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-219 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-231 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-237 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-246 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-258 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-270 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-279 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-282 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-285 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-306 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-309 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-321 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-3-1 {
+  background-image: url(../img/groupe-10167@1x.png);
+  height: 1px;
+  left: 1px;
+  top: 21px;
+}
+
+.activities-1440 .groupe-345 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-348 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-2 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.activities-1440 .trac-130 {
+  height: 26px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.activities-1440 .overlap-group1 {
+  align-self: flex-end;
+  height: 34px;
+  position: relative;
+  width: 11px;
+}
+
+.activities-1440 .groupe-216 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-318 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-4 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-351 {
+  background-image: url(../img/groupe-10167@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-372 {
+  background-image: url(../img/groupe-370-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-375 {
+  background-image: url(../img/groupe-10320@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-378 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-381 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-384 {
+  background-image: url(../img/groupe-382-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-387 {
+  background-image: url(../img/groupe-385-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-390 {
+  background-image: url(../img/groupe-388-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-393 {
+  background-image: url(../img/groupe-391-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-396 {
+  background-image: url(../img/groupe-394-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-399 {
+  background-image: url(../img/groupe-397-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-402 {
+  background-image: url(../img/groupe-400-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-405 {
+  background-image: url(../img/groupe-1273-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-408 {
+  background-image: url(../img/groupe-58-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-411 {
+  background-image: url(../img/groupe-7511-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-414 {
+  background-image: url(../img/groupe-1297-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-417 {
+  background-image: url(../img/groupe-10056@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-426 {
+  background-image: url(../img/groupe-10302@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-429 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-441 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-444 {
+  background-image: url(../img/groupe-10332@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-447 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-456 {
+  background-image: url(../img/groupe-10107@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-465 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-468 {
+  background-image: url(../img/groupe-250-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-474 {
+  background-image: url(../img/groupe-10116@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-477 {
+  background-image: url(../img/groupe-10326@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-480 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-486 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-489 {
+  background-image: url(../img/groupe-10113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-5 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-513 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-516 {
+  background-image: url(../img/groupe-10122@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-519 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-5-1 {
+  left: 2px;
+  top: 29px;
+}
+
+.activities-1440 .groupe-528 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-531 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-534 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-5-2 {
+  left: 4px;
+  top: 30px;
+}
+
+.activities-1440 .groupe-549 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-561 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-585 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-594 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-600 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.activities-1440 .trac-205 {
+  height: 33px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.activities-1440 .trac-207 {
+  height: 25px;
+  margin-right: 0;
+  object-fit: cover;
+  width: 76px;
+}
+
+.activities-1440 .x2-randonnes {
+  left: 794px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 1384px;
+  white-space: nowrap;
+}
+
+.activities-1440 .x8-logis-de-la-chabotterie-40-min {
+  left: 794px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 3942px;
+  white-space: nowrap;
+}
+
+.activities-1440 .x7-lautre-usine-25-min {
+  left: 794px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 3512px;
+  white-space: nowrap;
+}
+
+.activities-1440 .x1-le-puy-du-fou-30-min {
+  left: 794px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 948px;
+  white-space: nowrap;
+}
+
+.activities-1440 .x3-clisson-hellfest-25-min {
+  left: 794px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 1798px;
+  white-space: nowrap;
+}
+
+.activities-1440 .plusieurs-parcours-e {
+  left: 825px;
+  letter-spacing: 1.80px;
+  line-height: 18px;
+  position: absolute;
+  top: 1488px;
+  white-space: nowrap;
+}
+
+.activities-1440 .venez-jeter-un-il {
+  left: 826px;
+  letter-spacing: 1.80px;
+  line-height: 18px;
+  position: absolute;
+  top: 4056px;
+  white-space: nowrap;
+}
+
+.activities-1440 .il-y-en-a-pour-tous {
+  left: 826px;
+  letter-spacing: 1.80px;
+  line-height: 18px;
+  position: absolute;
+  top: 3640px;
+  white-space: nowrap;
+}
+
+.activities-1440 .vous-allez-en-prendr {
+  left: 825px;
+  letter-spacing: 1.80px;
+  line-height: 18px;
+  position: absolute;
+  top: 1078px;
+  white-space: nowrap;
+}
+
+.activities-1440 .une-pause-dans-cette {
+  left: 825px;
+  letter-spacing: 1.80px;
+  line-height: 18px;
+  position: absolute;
+  top: 1906px;
+  white-space: nowrap;
+}
+
+.activities-1440 .groupe-3637 {
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  left: 794px;
+  position: absolute;
+  top: 1636px;
+  width: 119px;
+}
+
+.activities-1440 .groupe-3638 {
+  align-items: flex-end;
+  background-color: var(--corn);
+  border-radius: 26px;
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  min-width: 119px;
+  padding: 7px 18.0px;
+}
+
+.activities-1440 .dcouvrir {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 20px;
+  min-width: 80px;
+  white-space: nowrap;
+}
+
+.activities-1440 .groupe-3641 {
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  left: 794px;
+  position: absolute;
+  top: 4191px;
+  width: 120px;
+}
+
+.activities-1440 .groupe-3638-1 {
+  background-color: var(--corn);
+  border-radius: 26px;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  min-width: 120px;
+  padding: 7px 18.0px;
+}
+
+.activities-1440 .groupe-3642 {
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  left: 794px;
+  position: absolute;
+  top: 3789px;
+  width: 120px;
+}
+
+.activities-1440 .groupe-3643 {
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  left: 794px;
+  position: absolute;
+  top: 1230px;
+  width: 119px;
+}
+
+.activities-1440 .groupe-3638-2 {
+  background-image: url(../img/trac--2172-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  min-width: 119.23px;
+  padding: 7.0px 18.4px;
+}
+
+.activities-1440 .groupe-3644 {
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  left: 794px;
+  position: absolute;
+  top: 2072px;
+  width: 119px;
+}
+
+.activities-1440 .groupe-3638-3 {
+  background-color: var(--corn);
+  border-radius: 26px;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  min-width: 119px;
+  padding: 7.0px 18.0px;
+}
+
+.activities-1440 .groupe-de-masques-3 {
+  height: 401px;
+  left: 76px;
+  top: 1331px;
+  width: 662px;
+}
+
+.activities-1440 .groupe-de-masques-6 {
+  height: 402px;
+  left: 77px;
+  top: 3894px;
+  width: 662px;
+}
+
+.activities-1440 .groupe-de-masques-7 {
+  height: 401px;
+  left: 77px;
+  top: 3466px;
+  width: 662px;
+}
+
+.activities-1440 .groupe-de-masques-8 {
+  height: 402px;
+  left: 76px;
+  top: 904px;
+  width: 662px;
+}
+
+.activities-1440 .groupe-de-masques-12 {
+  height: 684px;
+  left: 738px;
+  top: 128px;
+  width: 702px;
+}
+
+.activities-1440 .ligne-36 {
+  height: 64px;
+  left: 797px;
+  top: 1487px;
+  width: 3px;
+}
+
+.activities-1440 .ligne-39 {
+  height: 67px;
+  left: 798px;
+  top: 4051px;
+  width: 3px;
+}
+
+.activities-1440 .ligne-40 {
+  height: 64px;
+  left: 798px;
+  top: 3634px;
+  width: 3px;
+}
+
+.activities-1440 .ligne-41 {
+  height: 64px;
+  left: 797px;
+  top: 1076px;
+  width: 3px;
+}
+
+.activities-1440 .ligne-87 {
+  height: 167px;
+  left: 74px;
+  top: 465px;
+  width: 3px;
+}
+
+.activities-1440 .ligne-42 {
+  height: 116px;
+  left: 797px;
+  top: 1894px;
+  width: 3px;
+}
+
+.activities-1440 .trac-2442 {
+  height: 122px;
+  left: 506px;
+  object-fit: cover;
+  position: absolute;
+  top: 252px;
+  width: 149px;
+}
+
+.activities-1440 .groupe-de-masques-5 {
+  height: 401px;
+  left: 77px;
+  top: 4320px;
+  width: 662px;
+}
+
+.activities-1440 .groupe-de-masques-17 {
+  height: 401px;
+  left: 76px;
+  top: 1757px;
+  width: 662px;
+}
+
+.activities-1440 .x4-nantes-50-min {
+  left: 794px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 2224px;
+  white-space: nowrap;
+}
+
+.activities-1440 .embarquez-pour-le-vo {
+  left: 825px;
+  letter-spacing: 1.80px;
+  line-height: 18px;
+  position: absolute;
+  top: 2338px;
+  white-space: nowrap;
+}
+
+.activities-1440 .groupe-3645 {
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  left: 794px;
+  position: absolute;
+  top: 2514px;
+  width: 119px;
+}
+
+.activities-1440 .ligne-43 {
+  height: 116px;
+  left: 797px;
+  top: 2327px;
+  width: 3px;
+}
+
+.activities-1440 .groupe-de-masques-18 {
+  height: 402px;
+  left: 76px;
+  top: 2184px;
+  width: 662px;
+}
+
+.activities-1440 .x6-chteau-de-tiffauges-10-min {
+  left: 794px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 3084px;
+  white-space: nowrap;
+}
+
+.activities-1440 .situ-aux-confins-de {
+  left: 823px;
+  letter-spacing: 1.80px;
+  line-height: 18px;
+  position: absolute;
+  top: 3196px;
+  white-space: nowrap;
+}
+
+.activities-1440 .ligne-81 {
+  height: 91px;
+  left: 795px;
+  top: 3190px;
+  width: 3px;
+}
+
+.activities-1440 .groupe-de-masques-19 {
+  height: 401px;
+  left: 77px;
+  top: 3039px;
+  width: 662px;
+}
+
+.activities-1440 .x5-la-cte-vendenne-1h10 {
+  left: 794px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 2650px;
+  white-space: nowrap;
+}
+
+.activities-1440 .l-ile-de-noirmoutier {
+  left: 825px;
+  letter-spacing: 1.80px;
+  line-height: 18px;
+  position: absolute;
+  top: 2766px;
+  white-space: nowrap;
+}
+
+.activities-1440 .groupe-3646 {
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  left: 794px;
+  position: absolute;
+  top: 2942px;
+  width: 119px;
+}
+
+.activities-1440 .groupe-de-masques-11 {
+  height: 401px;
+  left: 76px;
+  top: 2611px;
+  width: 662px;
+}
+
+.activities-1440 .ligne-44 {
+  height: 116px;
+  left: 797px;
+  top: 2754px;
+  width: 3px;
+}
+
+.activities-1440 .groupe-7389 {
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  left: 794px;
+  position: absolute;
+  top: 3368px;
+  width: 120px;
+}
+
+.activities-1440 .title {
+  left: 76px;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  top: 366px;
+  white-space: nowrap;
+}
+
+.activities-1440 .notre-gte-est-idal {
+  height: 201px;
+  left: 91px;
+  letter-spacing: 1.80px;
+  line-height: 18px;
+  position: absolute;
+  top: 465px;
+  width: 636px;
+}
+
+.activities-1440 .groupe-10425 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  left: 308px;
+  min-height: 20px;
+  position: absolute;
+  top: 30px;
+  width: 1018px;
+}
+
+.activities-1440 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 17px;
+  margin-top: 1px;
+  min-width: 1018px;
+}
+
+.activities-1440 .accueil {
+  cursor: pointer;
+  letter-spacing: 1.95px;
+  line-height: 13px;
+  min-height: 15px;
+  min-width: 69px;
+  white-space: nowrap;
+}
+
+.activities-1440 .explorer-le-gte {
+  cursor: pointer;
+  letter-spacing: 1.95px;
+  line-height: 13px;
+  margin-left: 47px;
+  min-height: 17px;
+  min-width: 152px;
+  white-space: nowrap;
+}
+
+.activities-1440 .galerie {
+  cursor: pointer;
+  letter-spacing: 1.95px;
+  line-height: 13px;
+  margin-left: 50px;
+  min-height: 15px;
+  min-width: 69px;
+  white-space: nowrap;
+}
+
+.activities-1440 .tarifs-et-rservations {
+  cursor: pointer;
+  letter-spacing: 1.95px;
+  line-height: 13px;
+  margin-left: 46px;
+  min-height: 16px;
+  min-width: 207px;
+  white-space: nowrap;
+}
+
+.activities-1440 .activits-et-tourisme {
+  letter-spacing: 1.95px;
+  line-height: 13px;
+  margin-left: 53px;
+  min-height: 16px;
+  min-width: 197px;
+  white-space: nowrap;
+}
+
+.activities-1440 .place {
+  cursor: pointer;
+  letter-spacing: 1.95px;
+  line-height: 13px;
+  margin-left: 51px;
+  min-height: 15px;
+  min-width: 77px;
+  white-space: nowrap;
+}
+
+.activities-1440 .rectangle-413 {
+  background-color: var(--corn);
+  height: 1px;
+  margin-right: 124.0px;
+  width: 201px;
+}
+
+.activities-1440 .x10-lac-de-ribou-25-min {
+  left: 794px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 4800px;
+  white-space: nowrap;
+}
+
+.activities-1440 .profitez-des-nombreu {
+  left: 826px;
+  letter-spacing: 1.80px;
+  line-height: 18px;
+  position: absolute;
+  top: 4922px;
+  white-space: nowrap;
+}
+
+.activities-1440 .groupe-3639 {
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  left: 794px;
+  position: absolute;
+  top: 5055px;
+  width: 120px;
+}
+
+.activities-1440 .groupe-de-masques-4 {
+  height: 401px;
+  left: 77px;
+  top: 4748px;
+  width: 662px;
+}
+
+.activities-1440 .ligne-37 {
+  height: 64px;
+  left: 798px;
+  top: 4919px;
+  width: 3px;
+}
+
+.activities-1440 .x9-maison-de-la-rivire-30-min {
+  left: 794px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 4370px;
+  white-space: nowrap;
+}
+
+.activities-1440 .apro-embarqu-jeu {
+  left: 826px;
+  letter-spacing: 1.80px;
+  line-height: 18px;
+  position: absolute;
+  top: 4496px;
+  white-space: nowrap;
+}
+
+.activities-1440 .groupe-3640 {
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  left: 794px;
+  position: absolute;
+  top: 4642px;
+  width: 120px;
+}
+
+.activities-1440 .ligne-38 {
+  height: 88px;
+  left: 798px;
+  top: 4491px;
+  width: 3px;
+}
+
+.activities-1440 .et-bien-dautres-choses-dcouvrir {
+  left: 541px;
+  letter-spacing: 2.70px;
+  line-height: 18px;
+  position: absolute;
+  top: 5304px;
+  white-space: nowrap;
+}
+
+.activities-1440 .groupe-7400 {
+  align-items: flex-end;
+  background-color: var(--corn);
+  border-radius: 26px;
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  left: 541px;
+  min-width: 189px;
+  padding: 6.5px 25.0px;
+  position: absolute;
+  top: 5345px;
+}
+
+.activities-1440 .vende-tourisme {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 21px;
+  min-width: 136px;
+  white-space: nowrap;
+}
+
+.activities-1440 .groupe-7401 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 39px;
+  left: 749px;
+  min-width: 189px;
+  position: absolute;
+  top: 5345px;
+}
+
+.activities-1440 .overlap-group4 {
+  border-radius: 26px;
+  height: 39px;
+  position: relative;
+  width: 189px;
+}
+
+.activities-1440 .rectangle-2993 {
+  background-color: var(--corn);
+  border-radius: 26px;
+  cursor: pointer;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 189px;
+}
+
+.activities-1440 .osez-mauges {
+  left: 37px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.activities-1440 .accueil-1 {
+  cursor: pointer;
+  left: 400px;
+  letter-spacing: 1.60px;
+  line-height: 16px;
+  position: absolute;
+  top: 5539px;
+  white-space: nowrap;
+}
+
+.activities-1440 .explorer-le-gte-1 {
+  cursor: pointer;
+  left: 400px;
+  letter-spacing: 1.60px;
+  line-height: 16px;
+  position: absolute;
+  top: 5573px;
+  white-space: nowrap;
+}
+
+.activities-1440 .galerie-1 {
+  cursor: pointer;
+  left: 400px;
+  letter-spacing: 1.60px;
+  line-height: 16px;
+  position: absolute;
+  top: 5609px;
+  white-space: nowrap;
+}
+
+.activities-1440 .tarifs-et-rservations-1 {
+  cursor: pointer;
+  left: 400px;
+  letter-spacing: 1.60px;
+  line-height: 16px;
+  position: absolute;
+  top: 5643px;
+  white-space: nowrap;
+}
+
+.activities-1440 .ligne-35 {
+  height: 2px;
+  left: 104px;
+  top: 5465px;
+  width: 1196px;
+}
+
+.activities-1440 .groupe-1821 {
+  display: flex;
+  height: 196px;
+  left: 85px;
+  overflow: hidden;
+  position: absolute;
+  top: 5538px;
+  width: 183px;
+}
+
+.activities-1440 .groupe-1820 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-top: 0;
+  width: 182.98px;
+}
+
+.activities-1440 .groupe-1819 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 13px;
+  overflow: hidden;
+  padding: 0 0.0px;
+  width: 182.98px;
+}
+
+.activities-1440 .flex-row-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 124px;
+  margin-right: 5.14px;
+  min-width: 126px;
+}
+
+.activities-1440 .groupe-1386 {
+  align-self: flex-start;
+  background-image: url(../img/groupe-10011@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-top: 7.76px;
+  opacity: 0.28;
+  width: 1px;
+}
+
+.activities-1440 .overlap-group1-1 {
+  height: 121px;
+  margin-bottom: 0.36px;
+  margin-left: 5px;
+  position: relative;
+  width: 36px;
+}
+
+.activities-1440 .groupe-1221 {
+  background-image: url(../img/groupe-1219-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 20px;
+  opacity: 0.28;
+  position: absolute;
+  top: 92px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1224 {
+  background-image: url(../img/groupe-1222-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 88px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1227 {
+  background-image: url(../img/groupe-1225-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 92px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1230 {
+  background-image: url(../img/groupe-1228-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 108px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1233 {
+  background-image: url(../img/groupe-1231-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 23px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1236 {
+  background-image: url(../img/groupe-1234-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 20px;
+  opacity: 0.28;
+  position: absolute;
+  top: 87px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1239 {
+  background-image: url(../img/groupe-1237-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 95px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1242 {
+  background-image: url(../img/groupe-1240-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 23px;
+  opacity: 0.28;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1245 {
+  background-image: url(../img/groupe-1243-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 22px;
+  opacity: 0.28;
+  position: absolute;
+  top: 106px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1248 {
+  background-image: url(../img/groupe-1246-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 20px;
+  opacity: 0.28;
+  position: absolute;
+  top: 98px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1251 {
+  background-image: url(../img/groupe-1249-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 22px;
+  opacity: 0.28;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1254 {
+  background-image: url(../img/groupe-1252-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 22px;
+  opacity: 0.28;
+  position: absolute;
+  top: 90px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1257 {
+  background-image: url(../img/groupe-1255-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 89px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1260 {
+  background-image: url(../img/groupe-1258-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 102px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1263 {
+  background-image: url(../img/trac--250-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 72px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1266 {
+  background-image: url(../img/groupe-1264-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 93px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1269 {
+  background-image: url(../img/groupe-7433-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 101px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1272 {
+  background-image: url(../img/groupe-1270-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 20px;
+  opacity: 0.28;
+  position: absolute;
+  top: 88px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1275 {
+  background-image: url(../img/groupe-1273-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 23px;
+  opacity: 0.28;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1278 {
+  background-image: url(../img/groupe-1276-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 20px;
+  opacity: 0.28;
+  position: absolute;
+  top: 99px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1281 {
+  background-image: url(../img/groupe-1279-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 20px;
+  opacity: 0.28;
+  position: absolute;
+  top: 90px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1284 {
+  background-image: url(../img/groupe-4320-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 20px;
+  opacity: 0.28;
+  position: absolute;
+  top: 95px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1287 {
+  background-image: url(../img/groupe-1285-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 106px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1290 {
+  background-image: url(../img/groupe-1288-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 23px;
+  opacity: 0.28;
+  position: absolute;
+  top: 105px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1293 {
+  background-image: url(../img/groupe-1291-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 75px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1296 {
+  background-image: url(../img/groupe-1294-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 20px;
+  opacity: 0.28;
+  position: absolute;
+  top: 100px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1299 {
+  background-image: url(../img/trac--1385-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 22px;
+  opacity: 0.28;
+  position: absolute;
+  top: 110px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1302 {
+  background-image: url(../img/groupe-1300-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 23px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1305 {
+  background-image: url(../img/groupe-1303-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 23px;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1308 {
+  background-image: url(../img/groupe-1306-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 96px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1311 {
+  background-image: url(../img/groupe-1348-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 25px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1314 {
+  background-image: url(../img/groupe-1312-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 104px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1317 {
+  background-image: url(../img/groupe-1441-9@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 20px;
+  opacity: 0.28;
+  position: absolute;
+  top: 82px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1320 {
+  background-image: url(../img/groupe-1318-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 33px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1323 {
+  background-image: url(../img/groupe-4377-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 22px;
+  opacity: 0.28;
+  position: absolute;
+  top: 103px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1326 {
+  background-image: url(../img/groupe-1291-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 105px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1329 {
+  background-image: url(../img/groupe-1327-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 23px;
+  opacity: 0.28;
+  position: absolute;
+  top: 94px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1332 {
+  background-image: url(../img/groupe-1330-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1335 {
+  background-image: url(../img/groupe-7793-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 24px;
+  opacity: 0.28;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1338 {
+  background-image: url(../img/groupe-1336-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 91px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1341 {
+  background-image: url(../img/groupe-1468-9@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 23px;
+  opacity: 0.28;
+  position: absolute;
+  top: 59px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1344 {
+  background-image: url(../img/groupe-424-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 22px;
+  opacity: 0.28;
+  position: absolute;
+  top: 106px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1347 {
+  background-image: url(../img/groupe-4548-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 20px;
+  opacity: 0.28;
+  position: absolute;
+  top: 103px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1350 {
+  background-image: url(../img/groupe-10260@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 28px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1353 {
+  background-image: url(../img/groupe-34-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 20px;
+  opacity: 0.28;
+  position: absolute;
+  top: 106px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1356 {
+  background-image: url(../img/groupe-1381-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 24px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1359 {
+  background-image: url(../img/groupe-4548-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  opacity: 0.28;
+  position: absolute;
+  top: 98px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1362 {
+  background-image: url(../img/groupe-4416-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 33px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1365 {
+  background-image: url(../img/groupe-1804-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 20px;
+  opacity: 0.28;
+  position: absolute;
+  top: 88px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1368 {
+  background-image: url(../img/groupe-1366-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 22px;
+  opacity: 0.28;
+  position: absolute;
+  top: 92px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1371 {
+  background-image: url(../img/groupe-1294-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 34px;
+  opacity: 0.28;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1374 {
+  background-image: url(../img/groupe-7427-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 33px;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1377 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 23px;
+  opacity: 0.28;
+  position: absolute;
+  top: 109px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1380 {
+  background-image: url(../img/groupe-1297-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 22px;
+  opacity: 0.28;
+  position: absolute;
+  top: 100px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1383 {
+  background-image: url(../img/groupe-178-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 24px;
+  opacity: 0.28;
+  position: absolute;
+  top: 74px;
+  width: 1px;
+}
+
+.activities-1440 .trac-277 {
+  height: 103px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 17px;
+}
+
+.activities-1440 .groupe-1389 {
+  background-image: url(../img/groupe-1387-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1392 {
+  background-image: url(../img/groupe-1390-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1395 {
+  background-image: url(../img/groupe-1393-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1398 {
+  background-image: url(../img/groupe-1396-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1401 {
+  background-image: url(../img/groupe-1399-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1404 {
+  background-image: url(../img/groupe-4344-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1407 {
+  background-image: url(../img/groupe-4635-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1410 {
+  background-image: url(../img/groupe-7682-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1413 {
+  background-image: url(../img/groupe-4548-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.activities-1440 .trac-288 {
+  height: 121px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.activities-1440 .overlap-group3-1 {
+  align-items: flex-start;
+  align-self: center;
+  background-image: url(../img/trac--429-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-left: 2px;
+  margin-top: 8.8px;
+  min-width: 14px;
+}
+
+.activities-1440 .trac-430 {
+  height: 30px;
+  object-fit: cover;
+  width: 14px;
+}
+
+.activities-1440 .trac-427 {
+  align-self: flex-start;
+  height: 123px;
+  margin-left: 3px;
+  object-fit: cover;
+  width: 23px;
+}
+
+.activities-1440 .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 3.52px;
+  margin-left: 5px;
+  min-height: 75px;
+  width: 9px;
+}
+
+.activities-1440 .trac-352 {
+  height: 7px;
+  margin-left: 1.64px;
+  object-fit: cover;
+  width: 6px;
+}
+
+.activities-1440 .group-container {
+  height: 64px;
+  position: relative;
+  width: 9px;
+}
+
+.activities-1440 .overlap-group-1 {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.activities-1440 .groupe-1416 {
+  background-image: url(../img/groupe-1414-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1419 {
+  background-image: url(../img/groupe-1417-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1422 {
+  background-image: url(../img/groupe-1420-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1425 {
+  background-image: url(../img/groupe-1423-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1428 {
+  background-image: url(../img/groupe-1426-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1431 {
+  background-image: url(../img/groupe-1429-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1437 {
+  background-image: url(../img/groupe-1435-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1440 {
+  background-image: url(../img/groupe-1438-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1443 {
+  background-image: url(../img/groupe-1441-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1446 {
+  background-image: url(../img/groupe-1444-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1452 {
+  background-image: url(../img/groupe-4743-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1455 {
+  background-image: url(../img/groupe-1453-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1458 {
+  background-image: url(../img/groupe-4797-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1464 {
+  background-image: url(../img/groupe-7847-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1467 {
+  background-image: url(../img/groupe-1465-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1470 {
+  background-image: url(../img/groupe-1468-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1476 {
+  background-image: url(../img/groupe-1507-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1479 {
+  background-image: url(../img/groupe-1477-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1482 {
+  background-image: url(../img/groupe-1480-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1485 {
+  background-image: url(../img/groupe-1789-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1491 {
+  background-image: url(../img/groupe-4527-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1494 {
+  background-image: url(../img/groupe-4815-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1497 {
+  background-image: url(../img/groupe-7634-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1500 {
+  background-image: url(../img/groupe-10035@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1503 {
+  background-image: url(../img/groupe-10059@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1506 {
+  background-image: url(../img/groupe-1249-10-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1512 {
+  background-image: url(../img/groupe-1297-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1518 {
+  background-image: url(../img/groupe-10338@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1521 {
+  background-image: url(../img/groupe-1303-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1524 {
+  background-image: url(../img/groupe-1381-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1530 {
+  background-image: url(../img/groupe-10086@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1533 {
+  background-image: url(../img/groupe-10005@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1539 {
+  background-image: url(../img/groupe-1303-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1542 {
+  background-image: url(../img/groupe-1807-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1545 {
+  background-image: url(../img/groupe-10107@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1548 {
+  background-image: url(../img/groupe-178-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1551 {
+  background-image: url(../img/groupe-10089@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1557 {
+  background-image: url(../img/groupe-4593-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1563 {
+  background-image: url(../img/groupe-250-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  opacity: 0.28;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1566 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1578 {
+  background-image: url(../img/groupe-10134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1581 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1584 {
+  background-image: url(../img/groupe-10101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1587 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.activities-1440 .trac-351 {
+  height: 64px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.activities-1440 .groupe-1449 {
+  background-image: url(../img/groupe-8419-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1488 {
+  background-image: url(../img/groupe-1513-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1527 {
+  background-image: url(../img/groupe-10332@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.activities-1440 .group-container-1 {
+  height: 80px;
+  margin-left: 2px;
+  position: relative;
+  width: 26px;
+}
+
+.activities-1440 .groupe-1434 {
+  background-image: url(../img/groupe-1432-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.activities-1440 .overlap-group2-1 {
+  height: 80px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.activities-1440 .groupe-1515 {
+  background-image: url(../img/groupe-10056@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1536 {
+  background-image: url(../img/groupe-10308@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1572 {
+  background-image: url(../img/groupe-100-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1575 {
+  background-image: url(../img/groupe-10128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1590 {
+  background-image: url(../img/groupe-1588-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 74px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1593 {
+  background-image: url(../img/groupe-1591-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 69px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1596 {
+  background-image: url(../img/groupe-1594-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 76px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1599 {
+  background-image: url(../img/groupe-220-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 79px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1602 {
+  background-image: url(../img/groupe-1600-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 60px;
+  width: 2px;
+}
+
+.activities-1440 .groupe-1605 {
+  background-image: url(../img/groupe-1603-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 58px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1608 {
+  background-image: url(../img/groupe-1606-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 61px;
+  width: 2px;
+}
+
+.activities-1440 .groupe-1611 {
+  background-image: url(../img/groupe-1609-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 72px;
+  width: 2px;
+}
+
+.activities-1440 .groupe-1614 {
+  background-image: url(../img/groupe-1612-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1617 {
+  background-image: url(../img/groupe-1615-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 57px;
+  width: 2px;
+}
+
+.activities-1440 .groupe-1620 {
+  background-image: url(../img/groupe-1618-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 63px;
+  width: 2px;
+}
+
+.activities-1440 .groupe-1623 {
+  background-image: url(../img/groupe-1621-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1626 {
+  background-image: url(../img/groupe-1624-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 66px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1629 {
+  background-image: url(../img/groupe-1627-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 71px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1632 {
+  background-image: url(../img/groupe-1630-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 65px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1635 {
+  background-image: url(../img/groupe-1633-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1638 {
+  background-image: url(../img/groupe-1636-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 60px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1641 {
+  background-image: url(../img/groupe-1639-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 59px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1644 {
+  background-image: url(../img/groupe-1642-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 68px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1647 {
+  background-image: url(../img/groupe-1645-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1650 {
+  background-image: url(../img/groupe-1648-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 69px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1653 {
+  background-image: url(../img/groupe-1651-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 61px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1656 {
+  background-image: url(../img/groupe-1654-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1659 {
+  background-image: url(../img/groupe-1657-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 58px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1662 {
+  background-image: url(../img/groupe-7874-8@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 71px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1665 {
+  background-image: url(../img/groupe-1663-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1668 {
+  background-image: url(../img/groupe-1666-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 66px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1671 {
+  background-image: url(../img/groupe-1669-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 72px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1674 {
+  background-image: url(../img/groupe-1672-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 59px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1677 {
+  background-image: url(../img/groupe-1675-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 63px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1680 {
+  background-image: url(../img/groupe-1678-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 70px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1683 {
+  background-image: url(../img/groupe-4764-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 69px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1686 {
+  background-image: url(../img/groupe-1684-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 71px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1689 {
+  background-image: url(../img/groupe-1687-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 71px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1692 {
+  background-image: url(../img/trac--254-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 71px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1695 {
+  background-image: url(../img/groupe-1693-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1698 {
+  background-image: url(../img/groupe-10233@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1701 {
+  background-image: url(../img/groupe-4737-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1704 {
+  background-image: url(../img/groupe-4761-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 74px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1707 {
+  background-image: url(../img/groupe-1705-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1710 {
+  background-image: url(../img/groupe-4794-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1713 {
+  background-image: url(../img/groupe-1711-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 64px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1716 {
+  background-image: url(../img/trac--408-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1719 {
+  background-image: url(../img/trac--325-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 70px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1722 {
+  background-image: url(../img/groupe-4536-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1725 {
+  background-image: url(../img/groupe-1723-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1728 {
+  background-image: url(../img/groupe-1447-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 68px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1731 {
+  background-image: url(../img/groupe-7763-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 65px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1734 {
+  background-image: url(../img/groupe-1732-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  opacity: 0.28;
+  position: absolute;
+  top: 65px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1737 {
+  background-image: url(../img/groupe-1789-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1740 {
+  background-image: url(../img/groupe-250-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 70px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1743 {
+  background-image: url(../img/groupe-4845-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 72px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1746 {
+  background-image: url(../img/groupe-10035@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  opacity: 0.28;
+  position: absolute;
+  top: 68px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1749 {
+  background-image: url(../img/groupe-7763-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 63px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1752 {
+  background-image: url(../img/groupe-1306-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1755 {
+  background-image: url(../img/groupe-10065@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  opacity: 0.28;
+  position: absolute;
+  top: 69px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1758 {
+  background-image: url(../img/groupe-1756-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1761 {
+  background-image: url(../img/groupe-4536-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 60px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1764 {
+  background-image: url(../img/groupe-4371-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 72px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1767 {
+  background-image: url(../img/groupe-1306-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  opacity: 0.28;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1770 {
+  background-image: url(../img/groupe-4539-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1773 {
+  background-image: url(../img/groupe-1381-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 71px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1776 {
+  background-image: url(../img/groupe-10056@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 68px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1779 {
+  background-image: url(../img/groupe-4806-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1782 {
+  background-image: url(../img/groupe-1297-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 71px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1785 {
+  background-image: url(../img/groupe-1552-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2px;
+  opacity: 0.28;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1788 {
+  background-image: url(../img/groupe-4824-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 65px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1791 {
+  background-image: url(../img/groupe-1807-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1794 {
+  background-image: url(../img/groupe-10332@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  opacity: 0.28;
+  position: absolute;
+  top: 58px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1797 {
+  background-image: url(../img/groupe-1384-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  opacity: 0.28;
+  position: absolute;
+  top: 73px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1800 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  opacity: 0.28;
+  position: absolute;
+  top: 61px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1803 {
+  background-image: url(../img/groupe-10086@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 14px;
+  opacity: 0.28;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1806 {
+  background-image: url(../img/groupe-10014@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  opacity: 0.28;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1809 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 73px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1812 {
+  background-image: url(../img/groupe-10008@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1815 {
+  background-image: url(../img/groupe-10077@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  opacity: 0.28;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.activities-1440 .groupe-1818 {
+  background-image: url(../img/groupe-1396-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  opacity: 0.28;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.activities-1440 .trac-426 {
+  height: 80px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.activities-1440 .groupe-1569 {
+  background-image: url(../img/groupe-10200@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  opacity: 0.28;
+  position: absolute;
+  top: 45px;
+  width: 1px;
+}
+
+.activities-1440 .trac-428 {
+  height: 60px;
+  margin-right: 0;
+  object-fit: cover;
+  width: 183px;
+}
+
+.activities-1440 .activits-et-tourisme-1 {
+  left: 400px;
+  letter-spacing: 1.60px;
+  line-height: 16px;
+  position: absolute;
+  top: 5678px;
+  white-space: nowrap;
+}
+
+.activities-1440 .place-1 {
+  cursor: pointer;
+  left: 400px;
+  letter-spacing: 1.60px;
+  line-height: 16px;
+  position: absolute;
+  top: 5713px;
+  white-space: nowrap;
+}
+
+.activities-1440 .gitelenidgmailcom {
+  left: 743px;
+  letter-spacing: 2.70px;
+  line-height: 18px;
+  position: absolute;
+  top: 5552px;
+  white-space: nowrap;
+}
+
+.activities-1440 .trac-434 {
+  height: 32px;
+  left: 666px;
+  object-fit: cover;
+  position: absolute;
+  top: 5621px;
+  width: 32px;
+}
+
+.activities-1440 .trac-435 {
+  height: 29px;
+  left: 666px;
+  object-fit: cover;
+  position: absolute;
+  top: 5546px;
+  width: 36px;
+}
+
+.activities-1440 .ligne-34 {
+  height: 192px;
+  left: 726px;
+  top: 5538px;
+  width: 2px;
+}
+
+.activities-1440 .ligne-58 {
+  height: 192px;
+  left: 369px;
+  top: 5538px;
+  width: 2px;
+}
+
+.activities-1440 .phone {
+  left: 743px;
+  letter-spacing: 2.55px;
+  line-height: 17px;
+  position: absolute;
+  top: 5630px;
+  white-space: nowrap;
+}
+
+.activities-1440 .address {
+  left: 743px;
+  letter-spacing: 2.55px;
+  line-height: 17px;
+  position: absolute;
+  top: 5688px;
+  white-space: nowrap;
+}
+
+.activities-1440 .trac-436 {
+  height: 39px;
+  left: 671px;
+  object-fit: cover;
+  position: absolute;
+  top: 5688px;
+  width: 27px;
+}
+
+.activities-1440 .groupe-4256 {
+  align-items: flex-end;
+  display: flex;
+  height: 20px;
+  left: 1034px;
+  min-width: 265px;
+  position: absolute;
+  top: 5702px;
+}
+
+.activities-1440 .overlap-group6 {
+  height: 20px;
+  margin-bottom: -0.59px;
+  position: relative;
+  width: 265px;
+}
+
+.activities-1440 .c-le-nid-tous-droits-rservs {
+  left: 4px;
+  letter-spacing: 2.10px;
+  line-height: 14px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.activities-1440 .ellipse-3 {
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 9.88px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.activities-1440 .composant-5-19 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  left: 1385px;
+  min-height: 15px;
+  position: absolute;
+  top: 28px;
+  width: 18px;
+}
+
+.activities-1440 .rectangle-3215 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 1px;
+  width: 18px;
+}
+
+.activities-1440 .rectangle-3216 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 1px;
+  margin-left: 0.26px;
+  margin-top: 6px;
+  width: 17px;
+}
+
+.activities-1440 .rectangle-3217 {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 1px;
+  margin-left: 0.26px;
+  margin-top: 5px;
+  width: 17px;
+}
+
+.activities-1440 .groupe-3-3 {
+  background-position: 50% 50%;
+  background-size: cover;
+  opacity: 0.28;
+  position: absolute;
+  width: 1px;
+}
+
+.activities-1440 .groupe-3638-4 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+}
+
+.activities-1440 .groupe-5-3 {
+  background-image: url(../img/groupe-10146@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  opacity: 0.28;
+  position: absolute;
+  width: 1px;
+}
